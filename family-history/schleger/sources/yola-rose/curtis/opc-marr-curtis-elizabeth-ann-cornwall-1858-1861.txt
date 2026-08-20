@@ -1,0 +1,11 @@
+Cornwall OPC marriages
+URL: https://www.cornwall-opc-database.org/search-database/marriages/index.php?year_from=1858&year_to=1861&parish=&forename1=&surname1=Barratt&t=marriages&bf=Search
+Retrieved 2026-08-19
+
+ROWS (6):
+ |  | Groom | Bride | Witness 1 | Witness 2 | 
+Year | Parish Circuit Or Chapel | Forename | Surname | Forename | Surname | Forename | Surname | Forename | Surname | 
+1859 | Royal Cornwall Gazette | Francis | BARRATT, Esq. | Anna Michell | BENNETTS |  |  |  |  | more
+1859 | Budock | Francis | BARRATT, jn. | Anna Michell | BENNETTS | Jane C | BENNETTS | John P | BENNETTS | more
+1861 | Charlestown | John | BARRATT | Jane | BENNETTS | William | Bennett | James | Bohemia | more
+1861 | Calstock | Alexander | BARRATT | Mary | BALL | William | Jackman | Mary | Sharland? | more

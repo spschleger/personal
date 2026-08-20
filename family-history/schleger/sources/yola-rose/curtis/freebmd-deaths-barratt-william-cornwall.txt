@@ -1,0 +1,121 @@
+FreeBMD search: {'surname': 'Barratt', 'given': 'William', 'type_': 'Deaths', 'countyid': 'CON,59,61', 'start': 1837, 'end': 1900}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Deaths  Jun1845
+BARRATT
+ William 
+Bodmin 
+9
+25
+Deaths  Dec1845
+BARRATT
+ William 
+Redruth 
+9
+153
+Deaths  Dec1852
+Barratt
+ William 
+Tavistock 
+5b
+245
+BARRATT
+ William 
+Tavistock 
+5b
+246
+Deaths  Dec1857
+Barratt
+ William 
+St Austell 
+5c
+99
+Deaths  Jun1860
+BARRATT
+ William 
+St Austell 
+5c
+97
+Deaths  Sep1862
+Barratt
+ William 
+St Germans 
+5c
+25
+Deaths  Mar1868
+BARRATT
+ William 
+80 
+Redruth 
+5c
+174
+Deaths  Jun1869
+BARRATT
+ William 
+0 
+Redruth 
+5c
+185
+Deaths  Dec1874
+BARRATT
+ William John 
+21 
+Penzance 
+5c
+218
+Deaths  Dec1882
+Barratt
+ William 
+84 
+Redruth 
+5c
+134
+Deaths  Jun1884
+Barratt
+ William Charles 
+0 
+St Austell 
+5c
+79
+Deaths  Jun1887
+Barratt
+ William John 
+0 
+Redruth 
+5c
+154
+Deaths  Mar1888
+Barratt
+ William 
+65 
+St. Austell 
+5c
+79
+Deaths  Mar1913
+Barratt
+ William H 
+62 
+St.Austell 
+5c
+127
+Deaths  Sep1914
+BARRATT
+ William 
+85 
+Truro 
+5c
+142
+Deaths 1991
+BARRATT
+ WILLIAM THOMAS 
+22JA1919 
+HOLSWORTHY 
+21
+1439

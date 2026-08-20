@@ -1,0 +1,46 @@
+FreeCEN2 search: last_name=Barratt chapman=CON record_type=1841
+URL: https://www.freecen.org.uk/search_queries
+Retrieved 2026-08-19
+
+HITS (41):
+/search_records/66263d30f493fd445697d8e5/elizabeth-barratt-1841-cornwall-talland-1776- :: Elizabeth BARRATT | Cornwall |  | 1776 | 1841 | Cornwall | Talland
+/search_records/59029335e9379091b1803a3d/rose-barratt-1841-cornwall-powder-1776- :: Rose BARRATT | Out of County | - | 1776 | 1841 | Cornwall | St Austell
+/search_records/590291c7e9379091b17abf38/maria-barratt-1841-cornwall-penwith-1781- :: Maria BARRATT | Cornwall | - | 1781 | 1841 | Cornwall | Penwith
+/search_records/5902908be9379091b175e8ea/hugh-barratt-1841-cornwall-kerrier-1783- :: Hugh BARRATT | Cornwall | - | 1783 | 1841 | Cornwall | Kerrier
+/search_records/5902908be9379091b175e8ec/mary-barratt-1841-cornwall-kerrier-1791- :: Mary BARRATT | Cornwall | - | 1791 | 1841 | Cornwall | Kerrier
+/search_records/5902908be9379091b175ea26/wm-barratt-1841-cornwall-kerrier-1796- :: Wm BARRATT | Cornwall | - | 1796 | 1841 | Cornwall | Kerrier
+/search_records/590293bce9379091b182370f/mary-barratt-1841-cornwall-powder-1796- :: Mary BARRATT | Cornwall | - | 1796 | 1841 | Cornwall | Truro
+/search_records/5902933ae9379091b1804d6c/francis-barratt-1841-cornwall-powder-1801- :: Francis BARRATT | Cornwall | - | 1801 | 1841 | Cornwall | St Austell
+/search_records/5902908be9379091b175ea29/jane-barratt-1841-cornwall-kerrier-1801- :: Jane BARRATT | Cornwall | - | 1801 | 1841 | Cornwall | Kerrier
+/search_records/5902933ae9379091b1804d6e/elizabeth-barratt-1841-cornwall-powder-1806- :: Elizabeth BARRATT | Cornwall | - | 1806 | 1841 | Cornwall | St Austell
+/search_records/590290d4e9379091b177020d/jane-barratt-1841-cornwall-kerrier-1806- :: Jane BARRATT | Cornwall | - | 1806 | 1841 | Cornwall | Kerrier
+/search_records/66263d2af493fd445697d727/ann-barratt-1841-cornwall-talland-1811- :: Ann BARRATT | Cornwall |  | 1811 | 1841 | Cornwall | Talland
+/search_records/66263d30f493fd445697d8e7/william-barratt-1841-cornwall-talland-1811- :: William BARRATT | Cornwall |  | 1811 | 1841 | Cornwall | Talland
+/search_records/59029340e9379091b18069fa/susana-barratt-1841-cornwall-powder-1811- :: Susana BARRATT | Cornwall | - | 1811 | 1841 | Cornwall | St Austell
+/search_records/59029335e9379091b1803a35/mary-barratt-1841-cornwall-powder-1811- :: Mary BARRATT | Cornwall | - | 1811 | 1841 | Cornwall | St Austell
+/search_records/66263d30f493fd445697d8e9/elizabeth-barratt-1841-cornwall-talland-1816- :: Elizabeth BARRATT | Cornwall |  | 1816 | 1841 | Cornwall | Talland
+/search_records/590293bce9379091b1823711/john-barratt-1841-cornwall-powder-1821- :: John BARRATT | Cornwall | - | 1821 | 1841 | Cornwall | Truro
+/search_records/59029014e9379091b1741e78/william-barratt-1841-cornwall-east-1821- :: William BARRATT | Cornwall | - | 1821 | 1841 | Cornwall | Saltash
+/search_records/5902908be9379091b175e8ee/mary-barratt-1841-cornwall-kerrier-1821- :: Mary BARRATT | Cornwall | - | 1821 | 1841 | Cornwall | Kerrier
+/search_records/59029343e9379091b1807406/john-barratt-1841-cornwall-powder-1821- :: John BARRATT | Cornwall | - | 1821 | 1841 | Cornwall | St Austell
+/search_records/59029343e9379091b1807408/mary-ann-barratt-1841-cornwall-powder-1821- :: Mary Ann BARRATT | Cornwall | - | 1821 | 1841 | Cornwall | St Austell
+/search_records/5902908be9379091b175ea2b/jane-barratt-1841-cornwall-kerrier-1826- :: Jane BARRATT | Cornwall | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/590293bce9379091b1823713/william-barratt-1841-cornwall-powder-1826- :: William BARRATT | Cornwall | - | 1826 | 1841 | Cornwall | Truro
+/search_records/590293bce9379091b1823715/elizabeth-barratt-1841-cornwall-powder-1826- :: Elizabeth BARRATT | Cornwall | - | 1826 | 1841 | Cornwall | Truro
+/search_records/5902933ae9379091b1804d70/emily-barratt-1841-cornwall-powder-1829- :: Emily BARRATT | Cornwall | - | 1829 | 1841 | Cornwall | St Austell
+/search_records/590293bce9379091b1823717/harriot-barratt-1841-cornwall-powder-1829- :: Harriot BARRATT | Cornwall | - | 1829 | 1841 | Cornwall | Truro
+/search_records/5902908be9379091b175ea2d/annis-barratt-1841-cornwall-kerrier-1830- :: Annis BARRATT | Cornwall | - | 1830 | 1841 | Cornwall | Kerrier
+/search_records/59029335e9379091b1803a39/john-barratt-1841-cornwall-powder-1830- :: John BARRATT | Cornwall | - | 1830 | 1841 | Cornwall | St Austell
+/search_records/5902908be9379091b175e8f0/catherine-barratt-1841-cornwall-kerrier-1831- :: Catherine BARRATT | Cornwall | - | 1831 | 1841 | Cornwall | Kerrier
+/search_records/5902908be9379091b175ea2f/wm-barratt-1841-cornwall-kerrier-1831- :: Wm BARRATT | Cornwall | - | 1831 | 1841 | Cornwall | Kerrier
+/search_records/590293bce9379091b1823719/paul-barratt-1841-cornwall-powder-1831- :: Paul BARRATT | Cornwall | - | 1831 | 1841 | Cornwall | Truro
+/search_records/590290d4e9379091b177020f/richard-barratt-1841-cornwall-kerrier-1832- :: Richard BARRATT | Cornwall | - | 1832 | 1841 | Cornwall | Kerrier
+/search_records/5902933ae9379091b1804d72/francis-barratt-1841-cornwall-powder-1832- :: Francis BARRATT | Cornwall | - | 1832 | 1841 | Cornwall | St Austell
+/search_records/5902908be9379091b175e8f2/james-barratt-1841-cornwall-kerrier-1833- :: James BARRATT | Cornwall | - | 1833 | 1841 | Cornwall | Kerrier
+/search_records/5902908be9379091b175ea32/richd-barratt-1841-cornwall-kerrier-1834- :: Richd BARRATT | Cornwall | - | 1834 | 1841 | Cornwall | Kerrier
+/search_records/59029335e9379091b1803a3b/william-barratt-1841-cornwall-powder-1834- :: William BARRATT | Cornwall | - | 1834 | 1841 | Cornwall | St Austell
+/search_records/590293bce9379091b182371b/james-barratt-1841-cornwall-powder-1836- :: James BARRATT | Cornwall | - | 1836 | 1841 | Cornwall | Truro
+/search_records/5902908be9379091b175ea35/saml-barratt-1841-cornwall-kerrier-1836- :: Saml BARRATT | Cornwall | - | 1836 | 1841 | Cornwall | Kerrier
+/search_records/5902908be9379091b175ea3a/mary-barratt-1841-cornwall-kerrier-1838- :: Mary BARRATT | Cornwall | - | 1838 | 1841 | Cornwall | Kerrier
+/search_records/5902908be9379091b175ea38/john-barratt-1841-cornwall-kerrier-1838- :: John BARRATT | Cornwall | - | 1838 | 1841 | Cornwall | Kerrier
+/search_records/59029343e9379091b180740c/john-barratt-1841-cornwall-powder-1841- :: John BARRATT | Cornwall | - | 1841 | 1841 | Cornwall | St Austell

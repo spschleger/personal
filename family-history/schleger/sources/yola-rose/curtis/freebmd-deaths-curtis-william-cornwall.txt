@@ -1,0 +1,828 @@
+FreeBMD search: {'surname': 'Curtis', 'given': 'William', 'type_': 'Deaths', 'countyid': 'CON,59,61', 'start': 1837, 'end': 1890}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Deaths  Jun1840
+Curtis
+ William 
+Redruth 
+9
+144
+Deaths  Sep1840
+Curtis
+ William 
+Truro 
+9
+168
+Deaths  Jun1847
+Curtis
+ William 
+Truro 
+9
+197
+Deaths  Dec1847
+Curtis
+ William 
+St Austell 
+9
+4
+Deaths  Mar1848
+CURTIS
+ William 
+Penzance 
+9
+167
+Deaths  Jun1848
+Curtis
+ William 
+St Austell 
+9
+11
+Deaths  Dec1848
+Curtis
+ William 
+Liskeard 
+9
+112
+Deaths  Jun1851
+Curtis
+ William James 
+Falmouth 
+9
+66
+Deaths  Sep1851
+Curtis
+ William 
+Helston 
+9
+79
+Deaths  Jun1852
+CURTIS
+ William Brown 
+Stratton 
+5c
+3
+Deaths  Dec1852
+Curtis
+ William 
+Penzance 
+5c
+195
+Deaths  Sep1854
+Curtis
+ William 
+Redruth 
+5c
+143
+Deaths  Mar1855
+Curtis
+ William 
+Helston 
+5c
+211
+Deaths  Mar1857
+Curtis
+ William 
+St Austell 
+5c
+108
+Deaths  Sep1857
+Curtis
+ William 
+Camelford 
+5c
+9
+Curtis
+ William 
+Camelford 
+5c
+11
+Deaths  Jun1861
+Curtis
+ William 
+Truro 
+5c
+100
+Deaths  Dec1863
+CURTIS
+ William James 
+Helston 
+5c
+163
+Deaths  Jun1864
+Curtis
+ William 
+Redruth 
+5c
+197
+Deaths  Dec1865
+Curtis
+ William 
+St Columb 
+5c
+77
+Deaths  Mar1869
+CURTIS
+ William 
+29 
+St. Austell 
+5c
+105
+Deaths  Sep1869
+Curtis
+ William 
+3 
+Helston 
+5c
+146
+Deaths  Dec1869
+CURTIS
+ William John 
+1 
+Falmouth 
+5c
+143
+Deaths  Sep1870
+Curtis
+ William 
+10 
+St. Columb 
+5c
+73
+Curtis
+ William James E G 
+0 
+Liskeard 
+5c
+58
+Deaths  Mar1872
+CURTIS
+ William 
+17 
+Truro 
+5c
+104
+Deaths  Mar1873
+Curtis
+ William Charles A 
+22 
+St. Austell 
+5c
+99
+Curtis
+ William Henry 
+1 
+Redruth 
+5c
+201
+Deaths  Sep1873
+Curtis
+ William 
+58 
+St. Austell 
+5c
+71
+Deaths  Sep1874
+CURTIS
+ William Henry 
+0 
+Liskeard 
+5c
+45
+Deaths  Jun1876
+CURTIS
+ William 
+12 
+Liskeard 
+5c
+58
+Deaths  Dec1877
+Curtis
+ William 
+32 
+Redruth 
+5c
+154
+Curtis
+ William 
+13 
+Redruth 
+5c
+174
+Deaths  Jun1878
+CURTIS
+ William 
+1 
+Redruth 
+5c
+175
+CURTIS
+ William 
+1 
+Redruth 
+5c
+176
+CURTIS
+ William 
+0 
+Truro 
+5c
+101
+Deaths  Sep1878
+CURTIS
+ William 
+71 
+St Columb 
+5c
+64
+Deaths  Mar1879
+Curtis
+ William 
+66 
+Redruth 
+5c
+205
+Deaths  Mar1880
+Curtis
+ William Thomas 
+0 
+Liskeard 
+5c
+51
+Deaths  Mar1883
+CURTIS
+ William George 
+12 
+Falmouth 
+5c
+141
+Deaths  Dec1883
+CURTIS
+ William 
+52 
+Redruth 
+5c
+149
+Deaths  Mar1885
+CURTIS
+ William 
+77 
+Liskeard 
+5c
+57
+Deaths  Jun1885
+Curtis
+ William 
+? 
+Liskeard 
+5c
+54
+Deaths  Mar1886
+Curtis
+ William 
+1 
+Liskeard 
+5c
+56
+Deaths  Sep1887
+CURTIS
+ William 
+78 
+Liskeard 
+5c
+41
+Deaths  Jun1888
+Curtis
+ William 
+15 
+Truro 
+5c
+91
+Deaths  Dec1890
+Curtis
+ William 
+43 
+Redruth 
+5c
+181
+Deaths  Jun1891
+Curtis
+ William 
+38 
+Holsworthy 
+5b
+389
+Deaths  Mar1892
+Curtis
+ William John 
+0 
+St. Columb 
+5c
+85
+Deaths  Dec1893
+Curtis
+ William Henry 
+10 
+Falmouth 
+5c
+144
+Deaths  Mar1894
+Curtis
+ William George 
+2 
+St. Germans 
+5c
+37
+Deaths  Mar1896
+Curtis
+ William 
+57 
+Holsworthy 
+5b
+357
+Deaths  Jun1896
+Curtis
+ William John 
+6 
+St. Austell 
+5c
+76
+Deaths  Mar1897
+Curtis
+ William Charles 
+0 
+Penzance 
+5c
+195
+Deaths  Dec1898
+Curtis
+ William 
+81 
+Helston 
+5c
+126
+Deaths  Dec1900
+Curtis
+ William Henry 
+33 
+Camelford 
+5c
+10
+Deaths  Dec1902
+Curtis
+ William 
+64 
+Truro 
+5c
+88
+Deaths  Jun1903
+Curtis
+ William James 
+0 
+St. Germans 
+5c
+26
+Deaths  Dec1903
+Curtis
+ William 
+82 
+Liskeard 
+5c
+35
+Deaths  Dec1904
+CURTIS
+ William James 
+6 
+Liskeard 
+5c
+39
+Deaths  Mar1907
+CURTIS
+ William 
+80 
+Tavistock 
+5b
+308
+Deaths  Sep1907
+Curtis
+ William 
+70 
+Bodmin 
+5c
+43
+Curtis
+ William 
+70 
+Bodmin 
+5c
+45
+Deaths  Mar1908
+CURTIS
+ William 
+8 
+Redruth 
+5c
+163
+Deaths  Mar1910
+Curtis
+ William 
+81 
+Redruth 
+5c
+159
+Deaths  Mar1911
+Curtis
+ William 
+93 
+St. Germans 
+5c
+31
+Curtis
+ William 
+62 
+Redruth 
+5c
+147
+Deaths  Dec1913
+Curtis
+ William 
+69 
+Liskeard 
+5c
+66
+Deaths  Jun1918
+CURTIS
+ William 
+68 
+St.Columb 
+5c
+106
+Deaths  Sep1918
+Curtis
+ William J 
+48 
+Redruth 
+5c
+226
+Deaths  Dec1918
+Curtis
+ William J 
+6 
+Camelford 
+5c
+24
+Deaths  Mar1919
+Curtis
+ William H 
+67 
+Liskeard 
+5c
+92
+Deaths  Sep1919
+Curtis
+ William H 
+47 
+Falmouth 
+5c
+146
+Deaths  Dec1919
+Curtis
+ William C 
+18 
+Redruth 
+5c
+215
+Deaths  Mar1923
+CURTIS
+ William 
+81 
+St. Columb 
+5c
+109
+CURTIS
+ William J 
+57 
+St. Germans 
+5c
+54
+Deaths  Sep1926
+Curtis
+ William 
+73 
+Penzance 
+5c
+218
+Curtis
+ William J 
+68 
+Penzance 
+5c
+233
+Deaths  Jun1927
+Curtis
+ William 
+77 
+Liskeard 
+5c
+64
+Deaths  Mar1928
+Curtis
+ William A F 
+7 
+Helston 
+5c
+202
+Deaths  Sep1934
+Curtis
+ William 
+76 
+Bodmin 
+5c
+72
+Curtis
+ William H 
+69 
+Liskeard 
+5c
+53
+Deaths  Jun1937
+Curtis
+ William 
+70 
+St Austell 
+5c
+107
+Deaths  Mar1938
+CURTIS
+ William 
+59 
+Liskeard 
+5c
+47
+Deaths  Dec1938
+CURTIS
+ William H 
+73 
+St.Germans 
+5c
+27
+CURTIS
+ William J 
+74 
+Penzance 
+5c
+214
+Deaths  Dec1941
+Curtis
+ William 
+63 
+St.Austell 
+5c
+208
+Deaths  Sep1942
+Curtis
+ William A 
+58 
+Penzance 
+5c
+228
+Curtis
+ William C 
+75 
+Bodmin 
+5c
+57
+Deaths  Dec1945
+Curtis
+ William 
+75 
+Redruth 
+5c
+180
+Curtis
+ William H 
+85 
+Tavistock 
+5b
+431
+Deaths  Jun1947
+Curtis
+ William G 
+48 
+Redruth 
+7a
+141
+Deaths  Mar1949
+Curtis
+ William J 
+39 
+Falmouth 
+2a
+30
+Deaths  Dec1952
+CURTIS
+ William 
+78 
+Kerrier 
+7a
+54
+Deaths  Dec1955
+CURTIS
+ William S 
+50 
+Redruth 
+7a
+123
+Deaths  Dec1956
+Curtis
+ William S 
+66 
+Truro 
+7a
+205
+Deaths  Dec1957
+CURTIS
+ William 
+78 
+St.Austell 
+7a
+183
+Deaths  Mar1958
+CURTIS
+ William B 
+0 
+Bodmin 
+7a
+2
+Deaths  Jun1958
+CURTIS
+ William H 
+73 
+Tavistock 
+7a
+732
+Deaths  Dec1958
+CURTIS
+ William K 
+77 
+Penzance 
+7a
+96
+Deaths  Jun1959
+CURTIS
+ William H 
+54 
+St.Germans 
+7a
+179
+Deaths  Dec1960
+CURTIS
+ William 
+82 
+Liskeard 
+7a
+74
+Deaths  Dec1963
+CURTIS
+ WILLIAM F 
+64 
+PEN_ANCE 
+7A
+88
+Deaths  Mar1964
+CURTIS
+ WILLIAM J 
+72 
+BODMIN 
+7A
+25
+CURTIS
+ WILLIAM T 
+82 
+STRATTON 
+7A
+231
+Deaths  Jun1966
+CURTIS
+ WILLIAM E 
+73 
+BODMIN 
+7A
+6
+Deaths  Mar1968
+CURTIS
+ WILLIAM E 
+80 
+PENZANCE 
+7A
+147
+Deaths  Sep1972
+CURTIS
+ William John 
+4Au1902 
+St.Austell 
+7a
+433
+Deaths  Dec1974
+CURTIS
+ WILLIAM HUBERT 
+26FE1888 
+KERRIER 
+21
+231
+Deaths  Mar1977
+Curtis
+ William Edward 
+25DE1906 
+Stratton 
+21
+591
+Deaths  Sep1978
+CURTIS
+ WILLIAM JAMES 
+13NO1909 
+TRURO 
+21
+658
+Deaths  Dec1978
+CURTIS
+ WILLIAM HENRY 
+5MY1904 
+TRURO 
+21
+678
+Deaths  Sep1983
+CURTIS
+ WILLIAM JOHN 
+27AU1914 
+CAMELFORD 
+21
+117
+Deaths 1985
+CURTIS
+ WILLIAM ARTHUR 
+10MR1900 
+KERRIER 
+21
+236
+Deaths 1986
+CURTIS
+ WILLIAM FRANCIS 
+4OC1908 
+TRURO 
+21
+663
+Deaths 1988
+CURTIS
+ WILLIAM HENRY 
+19MR1914 
+LAUNCESTON 
+21
+223
+CURTIS
+ WILLIAM JOHN 
+22AP1911 
+PENZANCE 
+21
+318
+Deaths 1990
+CURTIS
+ WILLIAM JOHN 
+11OC1909 
+TRURO 
+21
+617
+Deaths 1992
+CURTIS
+ WILLIAM CHARLES 
+13JY1903 
+TRURO 
+21
+646
+Deaths 1994
+CURTIS
+ WILLIAM STANLEY P 
+3AU1924 
+PENZANCE 
+3651
+59
+Deaths 1995
+CURTIS
+ WILLIAM 
+30AU1919 
+BODMIN 
+3541
+287
+Deaths 1997
+CURTIS
+ WILLIAM HARRY 
+20FE1929 
+BODMIN 
+3541
+267

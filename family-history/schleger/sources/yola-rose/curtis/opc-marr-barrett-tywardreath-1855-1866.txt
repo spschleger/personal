@@ -1,0 +1,8 @@
+Cornwall OPC database marriages search
+URL: https://www.cornwall-opc-database.org/search-database/marriages/index.php?year_from=1850&year_to=1866&parish=Tywardreath&forename1=&surname1=Barrett&t=marriages&bf=Search
+Retrieved 2026-08-19
+
+ROWS (3):
+ |  | Groom | Bride | Witness 1 | Witness 2 | 
+Year | Parish Circuit Or Chapel | Forename | Surname | Forename | Surname | Forename | Surname | Forename | Surname |  >> /search-database/marriages/index.php?order=yearD&amp;surname1=Barrett&amp;year_from=1850&amp;year_to=1866&amp;parish=Tywardreath&amp;bf=Search&amp;limit=50
+1856 | Tywardreath | William Thomas | BARRETT | Mary Ann | BARRON | Mary Ann | JENKIN | James | FORREST | more >> /search-database/more-info/?t=marriages&amp;id=953514

@@ -1,0 +1,59 @@
+# Victorian BDM historical index — extracts pulled 18 Aug 2026 via my.rio.bdm.vic.gov.au (efamily search API)
+# Format: Event Year RegNo Given FAMILY | father & mother MAIDEN | spouse/age | place
+## Jacklin marriages Vic 1940-66
+M 1952 8334 Desmond Jno JACKLIN = WARD, Margt Eliz
+## Ward × Spunner
+M 1919 9907 Chas Wm WARD = SPUNNER, Maud Frances
+B 1920 8812 Wm Charles WARD | Charles William & Maud Frances SPUNNER | BAIRNSDALE
+B 1921 18239 George Victor WARD | Chas Wm & Maud Frances SPUNNER | BAIRNSDALE
+B 1923 9233 Mary Fran(ces) WARD | Chas Wm & Maud Fran SPUNNER | BAIRNSDALE
+(Margaret Elizabeth b. c.1927 — Vic birth index online only to ~1926; not visible)
+D 1962 22527 Charles William WARD | William & Cathrine CUNNINGHAM | age 67 | Bairnsdale
+D 1963 23299 George Victor WARD | Charles William & Maud Frances SPUNNER | age 42 | Bairnsdale
+D 1988 12303 Maud Frances WARD | SPUNNER William Charles & Mary Ann Agnes CORKHILL | age 92 | Lakes Entrance
+## Charles William Ward's parents
+M 1895 5984 Wm WARD = CUNNINGHAM, Cath
+B 1895 20047 Chas Wm WARD | Wm & Kathleen CUNNINGHAM | CUNNINGHAME (= Lakes Entrance)
+B 1896 19170 Kathleen Annie WARD | Wm & Kathleen CUNNINGHAM | CUNNINGHAME
+B 1901 10499 K(ath)leen Mary WARD | Wm & Kleen CUNNINGHAM | CUNNINGHAME
+B 1904 17388 Ellen WARD | Wm & Kleen CUNNINGHAM | CUNNINGHAME
+D 1953 16064 William WARD | Unknown & Annie BURNS | age 85 | BAIRNSDALE   (candidate for C.W.'s father — UNPROVEN)
+## Spunner
+M 1888 5446 William Henry SPUNNER = CORKHILL, Mary Ann Agnes
+B 1889 13423 Wm Armitage SPUNNER | Wm Hy & Mary Ann Agnes CORKILL | HOTHAM WEST
+B 1890 33625 Victor Ramsey SPUNNER | Wm Hy & Mary Ann Agnes CORKHILL | HOTHAM WEST
+B 1893 14037 George Re(v)ington SPUNNER | William Henry & Mary Ann CORKHILL | KENSINGTON
+B 1895 30338 Maud Frances "SPUMER" [sic] | Wm Hy & Mary Ann Agnes CORKHILL | KENSINGTON HILL
+D 1903 6166 Mary Ann Agnes SPUNNER | Corkill Robt & Mary Ann DWYER | age 39 | Kensington Hill
+D 1926 12353 William Henry SPUNNER | William & Elizabeth ARMITAGE | age 61 | ARMADALE (Windsor)
+D 1907 4327 Wm SPUNNER | Wm & Mary DELAINE | age 77 | Creswick   (W.H.'s father)
+D 1916 5519 Elizth SPUNNER | Armitage Jno & Ann REVINGTON | age 82 | Creswick   (W.H.'s mother)
+## Other Jacklin in Vic (unrelated?)
+B 1914 27942 Norman Eric Armstrong JACKLIN | Abraham Jno Elliott & Ellen Mabel BRODIN | BAIRNSDALE
+
+# ---- Added 18 Aug 2026 (second pass: Ward/Cunningham origins) ----
+## William Ward (C.W.'s father) — b. Eddington nr Dunolly, parents Henry Ward & Anne Byrns/Burns
+M 1855 2918 Henry WARD = BYRNS, Anne   (Victoria)
+B 1857 9436 Mary WARD | Henry & Anne BYRNES | PRAHRAN
+B 1861 23229 Joseph WARD | Henry & Anne CAVANNAGH | MARYBOROUGH
+B 1865 15082 Elizabeth WARD | Henry & Ann CAVINHER | EDDINGTON
+B 1867 14671 William WARD | Henry & Anne BURNS | EDDINGTON          <-- William, later of Lake Tyers/Bairnsdale
+B 1873 9051 Henry WARD | Henry & Anne KAVANAGH | EDDINGTON
+D 1887 9953 Annie Josephine WARD | parents unknown | spouse Henry Ward | age 53 | EDDINGTON
+D 1953 16064 William WARD | Unknown & Annie BURNS | age 85 | BAIRNSDALE  (obit: b. Dunolly, d. 18 Jan 1953 Picnic Point)
+(mother's maiden name recorded variously Byrnes/Burns and Cavannagh/Kavanagh — same couple Henry & Anne, Maryborough→Eddington; unresolved which is maiden)
+(no Henry Ward death found at Eddington/Dunolly 1867–1930)
+## Cunningham of Swan Reach / Bruthen (Catherine's probable parents — Thomas Cunningham & Margaret Murphy)
+B 1872 197 Andrew Arthur CUNNINGHAM | Thomas Henry & Margaret MURPHY | LUCKNOW
+B 1875 20721 Sarah Ann CUNNINGHAM | Thomas & Margaret MURPHY | BAIRNSDALE
+B 1877 12778 William CUNNINGHAM | Thomas & Margaret MURPHY | BAIRNSDALE
+B 1880 20019 Robert James CUNNINGHAM | Thos Hy & Margt MURPHY | BAIRNSDALE
+B 1885 8127 George Arthur CUNNINGHAM | Thomas & Margaret MURPHY | BRUTHEN
+B 1888 9209 Stephen Frederic CUNNINGHAM | Thomas & Margaret MURPHY | BRUTHEN
+D 1936 19046 Margaret CUNNINGHAM | MURPHY Andrew & unknown | age 97 | BRUTHEN
+D 1946 19844 Thomas CUNNINGHAM | Thomas & Margaret | age 82 | BAIRNSDALE
+D 1951 17794 Andrew Arthur CUNNINGHAM | Thomas & Margaret MURPHY | age 81 | BAIRNSDALE
+D 1960 20073 George Ernest CUNNINGHAM | Thomas & Margaret MURPHY | age 76 | BAIRNSDALE
+D 1970 20989 Robert James CUNNINGHAM | Thomas & Margaret MURPHY | age 90 | Preston
+(Thomas Cunningham senr d. Apr 1915 Swan Reach — funeral notice only; no Vic index death entry found under that name/year)
+(NO Vic birth or death found for Catherine Ward née Cunningham — b. c.1867–72 probably NSW/around the 1867 move; d. before 1953, place unknown)

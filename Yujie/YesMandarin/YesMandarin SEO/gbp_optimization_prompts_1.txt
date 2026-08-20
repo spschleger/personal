@@ -1,0 +1,50 @@
+7 PROMPTS FOR OPTIMIZING GOOGLE BUSINESS PROFILE (GBP) WITH CLAUDE COWORK
+===========================================================================
+
+Source: @bloggersarvesh on X (Twitter)
+Result: 78 Extra Leads within 30 days using these prompts
+
+===========================================================================
+
+PROMPT 1: Understanding Business and Competitors
+-------------------------------------------------
+"Open Chrome, visit my site {{MY_WEBSITE_URL}} and Google business profile and extract my business name, address, services, cities served and key selling points, then open these competitors {{COMP1}}, {{COMP2}}, {{COMP3}} and extract their services, target locations, strengths and trust signals, compare me vs them."
+
+
+PROMPT 2: Ranking Factors Pattern Recognition
+----------------------------------------------
+"Using the data already collected from the top 3 competitors, do NOT give suggestions or fixes. Only identify patterns across them: common primary and secondary categories, typical review count ranges, photo upload frequency, and keyword usage patterns in business names and descriptions. Output similarities only. No advice, no conclusions, no next steps."
+
+
+PROMPT 3: Identifying Outliers and Dominant Ranking Signals
+-----------------------------------------------------------
+"Using the same competitor dataset, identify clear outliers without giving recommendations: which businesses rank high with fewer reviews, which rank despite weak branding, and which ranking factors appear most dominant for this keyword - proximity, review authority, category relevance, keyword usage, or profile activity/freshness. Output observations only. No advice, no fixes."
+
+
+PROMPT 4: Isolating Exact Ranking Levers
+-----------------------------------------
+"Based ONLY on the observed top-ranking competitors, list the top 7 ranking levers Google appears to reward for this keyword. Rank them by impact on map rankings (highest to lowest). For each lever, cite which competitors demonstrate it and how. Do not give generic SEO advice or recommendations. Output strictly as a table with columns: Lever, Evidence from competitors, Why it matters for this keyword."
+
+
+PROMPT 5: Analyzing Competitor GBP Posts and Building a Posting Plan
+---------------------------------------------------------------------
+"Open Chrome and review the Google Business Profile posts of these competitors: {{COMP1}}, {{COMP2}}, {{COMP3}}. Analyze their post types, posting frequency, content themes, offers, CTAs, media usage, and timing. Identify what patterns correlate with strong map rankings and engagement. Based on this analysis, create a clear, non-generic posting plan for my GBP that specifies post types, frequency, themes, and CTA style. Avoid vague advice. Make the plan directly actionable."
+
+
+PROMPT 6: Analyzing Competitor Photos and Building a Photo Upload Strategy
+--------------------------------------------------------------------------
+"Open Chrome and analyze the Google Business Profile photos of these competitors: {{COMP1}}, {{COMP2}}, {{COMP3}}. Review photo volume, upload frequency, photo types (job-site, team, exterior, interior, before/after, branded graphics), geo-relevance, and recency. Identify patterns among the highest-ranking profiles. Based on this analysis, create a clear, non-generic photo upload plan for my GBP specifying photo types, weekly upload cadence, and priorities. Avoid vague advice. Make the plan directly actionable."
+
+
+PROMPT 7: Analyzing Competitor Reviews and Keyword Signals
+----------------------------------------------------------
+"Open Chrome and analyze the Google Business Profile reviews of these competitors: {{COMP1}}, {{COMP2}}, {{COMP3}}. Identify review volume, velocity, recency, star distribution, reviewer language, and recurring keywords related to services, locations, problems, and outcomes. Note how keywords appear organically in reviews and owner replies. Based on this analysis, create a clear, non-generic review acquisition and response framework that specifies keyword themes to reinforce, review pacing targets, and reply patterns. Avoid vague advice. Make it directly actionable."
+
+
+===========================================================================
+NOTES:
+- Replace {{MY_WEBSITE_URL}} with your actual website URL
+- Replace {{COMP1}}, {{COMP2}}, {{COMP3}} with your competitor URLs
+- These prompts are designed to be used sequentially with Claude Cowork
+- Focus is on data-driven analysis rather than generic SEO advice
+===========================================================================

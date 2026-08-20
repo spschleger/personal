@@ -1,0 +1,2590 @@
+FreeBMD births-holmes-spilsby: {'surname': 'Holmes', 'type_': 'Births', 'districtid': '265', 'start': 1855, 'end': 1890}
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Sep1837
+HOLMES
+ Anna Marina 
+Spilsby 
+14
+406
+Holmes
+ Charles 
+Spilsby 
+14
+407
+HOLMES
+ David 
+Spilsby 
+14
+409
+HOLMES
+ Female 
+Spilsby 
+14
+406
+Births  Dec1837
+HOLMES
+ Daniel 
+Spilsby 
+14
+432
+HOLMES
+ David 
+Spilsby 
+14
+430
+HOLMES
+ Henry 
+Spilsby 
+14
+422
+Births  Mar1838
+HOLMES
+ Frances 
+Spilsby 
+14
+514
+HOLMES
+ Jane 
+Spilsby 
+14
+523
+HOLMES
+ Susanna 
+Spilsby 
+14
+507
+Births  Jun1838
+HOLMES
+ Ellen 
+Spilsby 
+14
+529
+HOLMES
+ Rebecca 
+Spilsby 
+14
+527
+HOLMES
+ Rebecca 
+Spilsby 
+25
+527
+HOLMES
+ Male 
+Spilsby 
+14
+533
+Births  Sep1838
+HOLMES
+ David 
+Spilsby 
+14
+505
+HOLMES
+ Hotchen 
+Spilsby 
+14
+494
+HOLMES
+ Mary Ann 
+Spilsby 
+14
+498
+Births  Dec1838
+HOLMES
+ Mark 
+Spilsby 
+14
+517
+Births  Jun1839
+Holmes
+ Ann Tuxforth 
+Spilsby 
+14
+523
+Births  Dec1839
+Holmes
+ Sabina 
+Spilsby 
+14
+551
+Births  Mar1840
+Holmes
+ Eliza 
+Spilsby 
+14
+564
+Holmes
+ George 
+Spilsby 
+14
+549
+Holmes
+ Lucy 
+Spilsby 
+14
+549
+Holmes
+ Robert 
+Spilsby 
+14
+546
+Births  Jun1840
+Holmes
+ Matilda 
+Spilsby 
+14
+530
+Births  Sep1840
+Holmes
+ Charles 
+Spilsby 
+14
+516
+Holmes
+ Emma Ellen 
+Spilsby 
+14
+515
+Holmes
+ George 
+Spilsby 
+14
+511
+Births  Dec1840
+Holmes
+ Henry 
+Spilsby 
+14
+537
+Births  Mar1841
+HOLMES
+ George 
+Spilsby 
+14
+565
+Births  Sep1841
+Holmes
+ Frances 
+Spilsby 
+14
+526
+Holmes
+ Frederic 
+Spilsby 
+14
+534
+Holmes
+ Frederic 
+Spilsby 
+25
+534
+Births  Dec1841
+Holmes
+ George 
+Spilsby 
+14
+541
+Holmes
+ Martha Ann 
+Spilsby 
+14
+540
+Births  Mar1842
+Holmes
+ Eliza 
+Spilsby 
+14
+558
+Holmes
+ Jesse 
+Spilsby 
+14
+554
+Holmes
+ John 
+Spilsby 
+14
+570
+Births  Jun1842
+Holmes
+ Croft 
+Spilsby 
+14
+555
+Births  Sep1842
+Holmes
+ John 
+Spilsby 
+14
+550
+Holmes
+ John 
+Spilsby 
+14
+557
+Births  Dec1842
+HOLMES
+ John 
+Spilsby 
+14
+537
+Holmes
+ John 
+Spilsby 
+14
+539
+Births  Mar1843
+Holmes
+ Betsey 
+Spilsby 
+14
+583
+Births  Jun1843
+Holmes
+ Ann 
+Spilsby 
+14
+553
+HOLMES
+ Ann 
+Spilsby 
+14
+555
+HOLMES
+ Joseph 
+Spilsby 
+14
+547
+Births  Sep1843
+Holmes
+ Ellen 
+Spilsby 
+14
+557
+HOLMES
+ Mary Ann 
+Spilsby 
+14
+547
+Births  Dec1843
+Holmes
+ Eliza 
+Spilsby 
+14
+548
+Holmes
+ Jonathan 
+Spilsby 
+14
+566
+Holmes
+ Maria 
+Spilsby 
+14
+555
+Holmes
+ Parker 
+Spilsby 
+14
+549
+Births  Mar1844
+Holmes
+ John 
+Spilsby 
+14
+567
+HOLMES
+ William 
+Spilsby 
+14
+376
+Holmes
+ William 
+Spilsby 
+14
+576
+Births  Jun1844
+Holmes
+ Hannah 
+Spilsby 
+14
+592
+Births  Sep1844
+HOLMES
+ Martha Raithby 
+Spilsby 
+14
+530
+Holmes
+ Martha Raithley 
+Spilsby 
+14
+530
+Births  Dec1844
+HOLMES
+ George 
+Spilsby 
+14
+536
+Births  Mar1845
+HOLMES
+ David 
+Spilsby 
+14
+607
+Holmes
+ Robert 
+Spilsby 
+14
+606
+Births  Jun1845
+Holmes
+ Eliza 
+Spilsby 
+14
+581
+Holmes
+ Hannah 
+Spilsby 
+14
+580
+HOLMES
+ James 
+Spilsby 
+14
+567
+HOLMES
+ Joseph 
+Spilsby 
+14
+579
+Births  Sep1845
+Holmes
+ Langhorne 
+Spilsby 
+14
+543
+Holmes
+ Mary 
+Spilsby 
+14
+544
+Births  Mar1846
+HOLMES
+ George 
+Spilsby 
+14
+581
+Holmes
+ William 
+Spilsby 
+14
+563
+Births  Sep1846
+Holmes
+ Charles 
+Spilsby 
+14
+550
+Holmes
+ William 
+Spilsby 
+14
+564
+Births  Dec1846
+Holmes
+ Charlotte 
+Spilsby 
+14
+580
+Holmes
+ Emma 
+Spilsby 
+14
+593
+Births  Mar1847
+Holmes
+ Elizabeth 
+Spilsby 
+14
+601
+Births  Jun1847
+Holmes
+ Edward 
+Spilsby 
+14
+558
+Holmes
+ Joel 
+Spilsby 
+14
+565
+Holmes
+ Sarah 
+Spilsby 
+14
+557
+Births  Sep1847
+HOLMES
+ George 
+Spilsby 
+14
+547
+HOLMES
+ John 
+Spilsby 
+14
+555
+Births  Mar1848
+HOLMES
+ Eliza Jane 
+Spilsby 
+14
+590
+HOLMES
+ Richard 
+Spilsby 
+14
+592
+Births  Jun1848
+HOLMES
+ Mary Ann 
+Spilsby 
+14
+623
+HOLMES
+ Robert 
+Spilsby 
+14
+617
+Births  Sep1848
+Holmes
+ Emma 
+Spilsby 
+14
+59
+Births  Dec1848
+Holmes
+ John Freeman 
+Spilsby 
+14
+562
+Births  Mar1849
+HOLMES
+ Charles 
+Spilsby 
+14
+630
+HOLMES
+ Sarah Jane 
+Spilsby 
+14
+634
+HOLMES
+ Stephen 
+Spilsby 
+14
+630
+Births  Jun1849
+HOLMES
+ Sarah Ann 
+Spilsby 
+14
+630
+Births  Sep1849
+HOLMES
+ Elizabeth Emma 
+Spilsby 
+14
+590
+Holmes
+ John Henry 
+Spilsby 
+14
+580
+Births  Dec1849
+HOLMES
+ Ellen 
+Spilsby 
+14
+550
+HOLMES
+ George 
+Spilsby 
+14
+561
+Births  Mar1850
+Holmes
+ Smith 
+Spilsby 
+14
+610
+Births  Sep1850
+Holmes
+ John 
+Spilsby 
+14
+618
+Holmes
+ John George 
+Spilsby 
+14
+623
+Births  Dec1850
+Holmes
+ Emma 
+Spilsby 
+14
+603
+Holmes
+ Thomas Henry 
+Spilsby 
+14
+608
+Births  Jun1851
+HOLMES
+ Anne 
+Spilsby 
+14
+622
+Births  Sep1851
+Holmes
+ Susan 
+Spilsby 
+14
+601
+Births  Dec1851
+HOLMES
+ Emma 
+Spilsby 
+14
+589
+HOLMES
+ Harriett 
+Spilsby 
+14
+595
+HOLMES
+ Joseph 
+Spilsby 
+14
+599
+Births  Mar1852
+HOLMES
+ William 
+Spilsby 
+7a
+513
+Births  Jun1852
+Holmes
+ Thomas 
+Spilsby 
+7a
+477
+Births  Sep1852
+Holmes
+ Henry 
+Spilsby 
+7a
+483
+Births  Dec1852
+Holmes
+ Eliza 
+Spilsby 
+7a
+475
+HOLMES
+ Marinda 
+Spilsby 
+7a
+480
+Births  Mar1853
+Holmes
+ Francis 
+Spilsby 
+7a
+522
+Holmes
+ Mary Jane 
+Spilsby 
+7a
+515
+Births  Jun1853
+Holmes
+ John William 
+Spilsby 
+7a
+506
+Births  Sep1853
+HOLMES
+ Male 
+Spilsby 
+7a
+472
+Births  Dec1853
+HOLMES
+ Mary Elizabeth 
+Spilsby 
+7a
+455
+Births  Mar1854
+Holmes
+ Henry 
+Spilsby 
+7a
+480
+Births  Jun1854
+Holmes
+ John 
+Spilsby 
+7a
+519
+Births  Sep1854
+Holmes
+ Elizabeth Ann 
+Spilsby 
+7a
+483
+Holmes
+ John 
+Spilsby 
+7a
+467
+Holmes
+ John 
+Spilsby 
+7a
+479
+Holmes
+ William Henry 
+Spilsby 
+7a
+469
+Births  Dec1854
+Holmes
+ William 
+Spilsby 
+7a
+472
+Births  Mar1855
+Holmes
+ Frederic Thomas 
+Spilsby 
+7a
+498
+Births  Sep1855
+Holmes
+ George 
+Spilsby 
+7a
+503
+Births  Dec1855
+Holmes
+ Robert Frederick 
+Spilsby 
+7a
+479
+Births  Jun1856
+HOLMES
+ Annie 
+Spilsby 
+7a
+536
+HOLMES
+ Francis 
+Spilsby 
+7a
+516
+HOLMES
+ George 
+Spilsby 
+7a
+520
+Births  Sep1856
+Holmes
+ Sophia 
+Spilsby 
+7a
+477
+Births  Dec1856
+Holmes
+ George 
+Spilsby 
+7a
+484
+Holmes
+ Mary Jane 
+Spilsby 
+7a
+502
+Holmes
+ Sarah 
+Spilsby 
+7a
+504
+Holmes
+ Sarah Elizabeth 
+Spilsby 
+7a
+503
+Births  Mar1857
+Holmes
+ Alice 
+Spilsby 
+7a
+510
+Births  Jun1857
+Holmes
+ Joseph 
+Spilsby 
+7a
+517
+Births  Sep1857
+Holmes
+ Ann 
+Spilsby 
+7a
+483
+Births  Dec1857
+Holmes
+ Elizabeth 
+Spilsby 
+7a
+484
+Holmes
+ Henry 
+Spilsby 
+7a
+493
+Holmes
+ William 
+Spilsby 
+7a
+480
+Births  Mar1858
+Holmes
+ Joseph 
+Spilsby 
+7a
+492
+Holmes
+ Lizzy 
+Spilsby 
+7a
+510
+Holmes
+ Male 
+Spilsby 
+7a
+508
+Holmes
+ Male 
+Spilsby 
+7a
+518
+Births  Jun1858
+Holmes
+ George 
+Spilsby 
+7a
+475
+Births  Dec1858
+HOLMES
+ Emma 
+Spilsby 
+7a
+478
+Births  Mar1859
+HOLMES
+ Ann 
+Spilsby 
+7a
+520
+HOLMES
+ Fanny Margaret 
+Spilsby 
+7a
+528
+Births  Jun1859
+Holmes
+ George Thomas 
+Spilsby 
+7a
+494
+Holmes
+ Harry 
+Spilsby 
+7a
+509
+Holmes
+ Sarah Ann 
+Spilsby 
+7a
+494
+Births  Dec1859
+Holmes
+ John Henry Whitworth 
+Spilsby 
+7a
+507
+HOLMES
+ Susan Ann 
+Spilsby 
+7a
+487
+Holmes
+ Susan Ann 
+Spilsby 
+7a
+489
+Births  Mar1860
+Holmes
+ George 
+Spilsby 
+7a
+542
+Births  Jun1860
+HOLMES
+ Charles Harry 
+Spilsby 
+7a
+522
+Births  Sep1860
+HOLMES
+ Edwin 
+Spilsby 
+7a
+496
+Births  Sep1861
+HOLMES
+ Elizabeth Greenwood 
+Spilsby 
+7a
+514
+HOLMES
+ John 
+Spilsby 
+7a
+519
+HOLMES
+ Lizzy Harriet 
+Spilsby 
+7a
+510
+Births  Dec1861
+HOLMES
+ Ellen 
+Spilsby 
+7a
+481
+HOLMES
+ Fred 
+Spilsby 
+7a
+503
+HOLMES
+ Tom Jakes 
+Spilsby 
+7a
+481
+Births  Mar1862
+HOLMES
+ William David Robinson 
+Spilsby 
+7a
+515
+Births  Sep1862
+HOLMES
+ Lucy 
+Spilsby 
+7a
+495
+Births  Dec1862
+HOLMES
+ Mary Ann 
+Spilsby 
+7a
+488
+HOLMES
+ Richard 
+Spilsby 
+7a
+497
+Births  Mar1863
+HOLMES
+ Herbert William 
+Spilsby 
+7a
+538
+Births  Dec1863
+HOLMES
+ Anne 
+Spilsby 
+7a
+513
+Births  Mar1864
+HOLMES
+ John 
+Spilsby 
+7a
+543
+HOLMES
+ Kate 
+Spilsby 
+7a
+543
+Births  Sep1864
+HOLMES
+ Eliza Ann 
+Spilsby 
+7a
+518
+HOLMES
+ Mary Jane 
+Spilsby 
+7a
+521
+HOLMES
+ Rebecca 
+Spilsby 
+7a
+504
+Births  Dec1864
+HOLMES
+ George Sherriff 
+Spilsby 
+7a
+500
+Births  Mar1865
+HOLMES
+ Annie 
+Spilsby 
+7a
+531
+Births  Mar1866
+HOLMES
+ Susan J 
+Spilsby 
+7a
+527
+Births  Jun1866
+HOLMES
+ Emma 
+Spilsby 
+7a
+532
+Births  Sep1867
+HOLMES
+ Harry Edwin 
+Spilsby 
+7a
+503
+Births  Dec1867
+Holmes
+ Mary Salome 
+Spilsby 
+7a
+510
+Holmes
+ Stephen 
+Spilsby 
+7a
+493
+Births  Jun1868
+HOLMES
+ Katy 
+Spilsby 
+7a
+565
+Births  Sep1868
+HOLMES
+ Thomas 
+Spilsby 
+7a
+560
+HOLMES
+ Female 
+Spilsby 
+7a
+551
+Births  Dec1868
+HOLMES
+ Mark Meanwell 
+Spilsby 
+7a
+526
+HOLMES
+ Susanna 
+Spilsby 
+7a
+537
+Births  Jun1869
+Holmes
+ Andrew James 
+Spilsby 
+7a
+515
+HOLMES
+ Andrews James 
+Spilsby 
+7a
+515
+HOLMES
+ John Thomas 
+Spilsby 
+7a
+525
+Holmes
+ Mary Ann 
+Spilsby 
+7a
+537
+Births  Sep1869
+HOLMES
+ Ellen 
+Spilsby 
+7a
+548
+Births  Dec1869
+Holmes
+ Mary Jane 
+Spilsby 
+7a
+536
+Births  Mar1870
+HOLMES
+ Henry Jonathan 
+Spilsby 
+7a
+573
+HOLMES
+ Minnie 
+Spilsby 
+7a
+568
+Births  Sep1870
+HOLMES
+ George 
+Spilsby 
+7a
+538
+HOLMES
+ William 
+Spilsby 
+7a
+537
+Births  Dec1870
+HOLMES
+ John Thomas 
+Spilsby 
+7a
+514
+HOLMES
+ Walter 
+Spilsby 
+7a
+515
+Births  Mar1871
+Holmes
+ Charles 
+Spilsby 
+7a
+564
+Births  Jun1871
+HOLMES
+ Lucy Kate 
+Spilsby 
+7a
+559
+Holmes
+ Samuel Lilley 
+Spilsby 
+7a
+541
+Births  Sep1871
+Holmes
+ Mary 
+Spilsby 
+7a
+522
+Births  Dec1871
+Holmes
+ Annie 
+Spilsby 
+7a
+547
+HOLMES
+ William Henry 
+Spilsby 
+7a
+542
+Births  Mar1872
+Holmes
+ Harry 
+Spilsby 
+7a
+561
+Holmes
+ Louisa 
+Spilsby 
+7a
+581
+Holmes
+ Margaret Matilda 
+Spilsby 
+7a
+562
+Holmes
+ Mark 
+Spilsby 
+7a
+575
+Holmes
+ Minnie 
+Spilsby 
+7a
+575
+Births  Jun1872
+HOLMES
+ Lucy 
+Spilsby 
+7a
+552
+Births  Sep1872
+Holmes
+ Agnes Myrella 
+Spilsby 
+7a
+574
+Births  Mar1873
+Holmes
+ Harry 
+Spilsby 
+7a
+561
+Holmes
+ John William 
+Spilsby 
+7a
+569
+Births  Jun1873
+Holmes
+ David 
+Spilsby 
+7a
+559
+Holmes
+ John Rhoades 
+Spilsby 
+7a
+553
+Births  Sep1873
+Holmes
+ Eliza 
+Spilsby 
+7a
+575
+HOLMES
+ John Henry 
+Spilsby 
+7a
+578
+HOLMES
+ Mary Hannah 
+Spilsby 
+7a
+554
+Births  Dec1873
+HOLMES
+ Charlotte 
+Spilsby 
+7a
+566
+Births  Sep1874
+HOLMES
+ Ellen Gertrude 
+Spilsby 
+7a
+568
+HOLMES
+ Harry 
+Spilsby 
+7a
+551
+Births  Dec1874
+Holmes
+ Jane 
+Spilsby 
+7a
+570
+HOLMES
+ Jane 
+Spilsby 
+7a
+571
+HOLMES
+ Sarah Beesby 
+Spilsby 
+7a
+560
+Births  Mar1875
+Holmes
+ Annie Elizabeth 
+Spilsby 
+7a
+560
+Holmes
+ Charlotte 
+Spilsby 
+7a
+570
+Births  Jun1875
+HOLMES
+ Lizzie 
+Spilsby 
+7a
+546
+Births  Sep1875
+Holmes
+ David 
+Spilsby 
+7a
+538
+Holmes
+ Lucy 
+Spilsby 
+7a
+543
+Births  Dec1875
+Holmes
+ Charles 
+Spilsby 
+7a
+563
+Holmes
+ Charles 
+Spilsby 
+7a
+565
+Births  Mar1876
+HOLMES
+ Alice Maud 
+Spilsby 
+7a
+636
+Holmes
+ Charlotte Anne 
+Spilsby 
+7a
+643
+HOLMES
+ Charlotte Annie 
+Spilsby 
+7a
+643
+HOLMES
+ Maria 
+Spilsby 
+7a
+633
+HOLMES
+ Sarah Margaret 
+Spilsby 
+7a
+643
+Births  Dec1876
+HOLMES
+ Alice 
+Spilsby 
+7a
+563
+HOLMES
+ John Henry 
+Spilsby 
+7a
+573
+Births  Mar1877
+HOLMES
+ Frederick Hurdman 
+Spilsby 
+7a
+634
+Births  Jun1877
+HOLMES
+ Elizabeth 
+Spilsby 
+7a
+618
+HOLMES
+ William 
+Spilsby 
+7a
+620
+Births  Dec1877
+Holmes
+ Emma 
+Spilsby 
+7a
+618
+HOLMES
+ Fred 
+Spilsby 
+7a
+600
+HOLMES
+ Louisa Elizabeth 
+Spilsby 
+7a
+621
+Births  Jun1878
+HOLMES
+ Arthur 
+Spilsby 
+7a
+623
+HOLMES
+ Edwin 
+Spilsby 
+7a
+626
+Births  Sep1878
+HOLMES
+ Clara 
+Spilsby 
+7a
+591
+Births  Dec1878
+Holmes
+ Emma 
+Spilsby 
+7a
+594
+Holmes
+ Tom 
+Spilsby 
+7a
+596
+Births  Jun1879
+HOLMES
+ George Edwin 
+Spilsby 
+7a
+599
+Births  Dec1879
+HOLMES
+ George Henry 
+Spilsby 
+7a
+587
+HOLMES
+ Jane 
+Spilsby 
+7a
+577
+HOLMES
+ Martha 
+Spilsby 
+7a
+577
+Births  Sep1880
+Holmes
+ George 
+Spilsby 
+7a
+577
+Holmes
+ Herbert 
+Spilsby 
+7a
+597
+Holmes
+ John George 
+Spilsby 
+7a
+585
+Births  Dec1880
+HOLMES
+ Bart 
+Spilsby 
+7a
+563
+HOLMES
+ George 
+Spilsby 
+7a
+561
+Births  Mar1881
+HOLMES
+ Arthur Wright 
+Spilsby 
+7a
+592
+Births  Jun1881
+HOLMES
+ Arthur 
+Spilsby 
+7a
+607
+Births  Sep1881
+Holmes
+ Harry 
+Spilsby 
+7a
+575
+Holmes
+ Mary Anna 
+Spilsby 
+7a
+567
+Holmes
+ William Edwin 
+Spilsby 
+7a
+570
+Births  Dec1881
+HOLMES
+ David 
+Spilsby 
+7a
+569
+HOLMES
+ Lily 
+Spilsby 
+7a
+559
+HOLMES
+ Willie 
+Spilsby 
+7a
+556
+Births  Mar1882
+HOLMES
+ Harriet 
+Spilsby 
+7a
+583
+HOLMES
+ Lizzie 
+Spilsby 
+7a
+587
+Births  Jun1882
+HOLMES
+ Ada 
+Spilsby 
+7a
+591
+Births  Dec1882
+Holmes
+ Frank 
+Spilsby 
+7a
+581
+Holmes
+ George 
+Spilsby 
+7a
+577
+Births  Mar1883
+HOLMES
+ Henry 
+Spilsby 
+7a
+612
+HOLMES
+ John 
+Spilsby 
+7a
+612
+HOLMES
+ Mary Louise 
+Spilsby 
+7a
+611
+Births  Jun1883
+HOLMES
+ Nellie 
+Spilsby 
+7a
+599
+Births  Dec1883
+HOLMES
+ Alice Louisa 
+Spilsby 
+7a
+559
+HOLMES
+ Amy 
+Spilsby 
+7a
+550
+HOLMES
+ Ernest Albert 
+Spilsby 
+7a
+573
+HOLMES
+ Joseph Henry 
+Spilsby 
+7a
+563
+HOLMES
+ Lizzie 
+Spilsby 
+7a
+549
+HOLMES
+ Tom 
+Spilsby 
+7a
+565
+HOLMES
+ William Thomas P 
+Spilsby 
+7a
+566
+Births  Jun1884
+Holmes
+ Harry 
+Spilsby 
+7a
+586
+Births  Sep1884
+HOLMES
+ Glen 
+Spilsby 
+7a
+591
+Births  Mar1885
+Holmes
+ William David 
+Spilsby 
+7a
+603
+Births  Jun1885
+Holmes
+ George Willey 
+Spilsby 
+7a
+578
+Holmes
+ Maud 
+Spilsby 
+7a
+587
+Holmes
+ Nellie 
+Spilsby 
+7a
+588
+Births  Sep1885
+HOLMES
+ Elizabeth 
+Spilsby 
+7a
+559
+HOLMES
+ Florie Eliza 
+Spilsby 
+7a
+556
+HOLMES
+ Maud 
+Spilsby 
+7a
+567
+HOLMES
+ Rebecca 
+Spilsby 
+7a
+560
+Births  Dec1885
+HOLMES
+ Olive 
+Spilsby 
+7a
+575
+HOLMES
+ Walter 
+Spilsby 
+7a
+583
+HOLMES
+ Walter 
+Spilsby 
+7a
+579
+Births  Mar1886
+HOLMES
+ Edith 
+Spilsby 
+7a
+579
+Holmes
+ John George 
+Spilsby 
+7a
+585
+Births  Jun1886
+Holmes
+ Florie 
+Spilsby 
+7a
+620
+Holmes
+ Rose Hindley 
+Spilsby 
+7a
+610
+Births  Sep1886
+Holmes
+ Eveline Ireson 
+Spilsby 
+7a
+569
+HOLMES
+ Eveline [PF]reson 
+Spilsby 
+7a
+569
+Holmes
+ Nellie Jane 
+Spilsby 
+7a
+582
+HOLMES
+ Nellie Jane 
+Spilsby 
+7a
+583
+Births  Mar1887
+Holmes
+ Ethel 
+Spilsby 
+7a
+558
+Holmes
+ James 
+Spilsby 
+7a
+561
+Holmes
+ Lillie 
+Spilsby 
+7a
+558
+Holmes
+ Lilly 
+Spilsby 
+7a
+563
+Births  Sep1887
+HOLMES
+ Harry James 
+Spilsby 
+7a
+569
+Births  Mar1888
+HOLMES
+ Dorothy 
+Spilsby 
+7a
+561
+Births  Jun1888
+HOLMES
+ Herbert 
+Spilsby 
+7a
+599
+Births  Sep1888
+HOLMES
+ Percy Herbert 
+Spilsby 
+7a
+523
+Births  Dec1888
+HOLMES
+ Adah 
+Spilsby 
+7a
+552
+Births  Jun1889
+HOLMES
+ Charles George J 
+Spilsby 
+7a
+577
+Births  Dec1889
+Holmes
+ Alice 
+Spilsby 
+7a
+569
+HOLMES
+ Susan 
+Spilsby 
+7a
+560
+Holmes
+ Susan 
+Spilsby 
+7a
+569
+Holmes
+ William 
+Spilsby 
+7a
+585
+Births  Sep1890
+HOLMES
+ Alice 
+Spilsby 
+7a
+537
+HOLMES
+ Thomas 
+Spilsby 
+7a
+539
+Births  Dec1890
+Holmes
+ Florence Clarey 
+Spilsby 
+7a
+504
+Holmes
+ Frank 
+Spilsby 
+7a
+503
+Holmes
+ Willie 
+Spilsby 
+7a
+509
+Births  Mar1891
+HOLMES
+ Frank 
+Spilsby 
+7a
+562
+HOLMES
+ John Thomas 
+Spilsby 
+7a
+567
+Births  Sep1891
+HOLMES
+ Ralph 
+Spilsby 
+7a
+548
+Births  Mar1892
+Holmes
+ Rose Ann 
+Spilsby 
+7a
+543
+Births  Jun1892
+HOLMES
+ Florence 
+Spilsby 
+7a
+588
+HOLMES
+ George 
+Spilsby 
+7a
+582
+Births  Sep1892
+HOLMES
+ Ada 
+Spilsby 
+7a
+579
+HOLMES
+ Robert Henry 
+Spilsby 
+7a
+577
+Births  Sep1893
+Holmes
+ Grace May 
+Spilsby 
+7a
+568
+HOLMES
+ Grace May 
+Spilsby 
+7a
+68
+HOLMES
+ Mary 
+Spilsby 
+7a
+582
+Births  Dec1893
+Holmes
+ George 
+Spilsby 
+7a
+552
+Births  Dec1894
+Holmes
+ Fred 
+Spilsby 
+7a
+576
+Births  Dec1895
+Holmes
+ Ada Frances 
+Spilsby 
+7a
+546
+Holmes
+ George William 
+Spilsby 
+7a
+562
+Births  Mar1896
+Holmes
+ Frances Ethel 
+Spilsby 
+7a
+565
+Births  Mar1897
+Holmes
+ Ida 
+Spilsby 
+7a
+599
+Births  Dec1897
+Holmes
+ Charles 
+Spilsby 
+7a
+571
+Births  Jun1898
+Holmes
+ Ernest 
+Spilsby 
+7a
+591
+Births  Sep1899
+Holmes
+ Daisy 
+Spilsby 
+7a
+555
+Holmes
+ Elizabeth 
+Spilsby 
+7a
+565
+Births  Dec1899
+HOLMES
+ Nellie 
+Spilsby 
+7a
+565
+Births  Mar1900
+Holmes
+ Fanny 
+Spilsby 
+7a
+573
+Births  Dec1901
+HOLMES
+ Charles Thomas 
+Spilsby 
+7a
+543
+Births  Mar1902
+Holmes
+ Olive Margaret 
+Spilsby 
+7a
+559
+Births  Jun1902
+HOLMES
+ Ida Olive 
+Spilsby 
+7a
+572
+HOLMES
+ Mary 
+Spilsby 
+7a
+572
+Births  Sep1902
+Holmes
+ Lily 
+Spilsby 
+7a
+581
+Births  Dec1902
+Holmes
+ Isabel Mary 
+Spilsby 
+7a
+555
+Births  Jun1903
+Holmes
+ Elsie May 
+Spilsby 
+7a
+570
+Holmes
+ Ernest George 
+Spilsby 
+7a
+572
+Births  Mar1904
+Holmes
+ Bertha Freda 
+Spilsby 
+7a
+568
+Births  Dec1904
+Holmes
+ Joseph 
+Spilsby 
+7a
+539
+Births  Jun1905
+Holmes
+ Cyril 
+Spilsby 
+7a
+569
+Holmes
+ John Freeman 
+Spilsby 
+7a
+569
+Births  Sep1905
+Holmes
+ Nellie 
+Spilsby 
+7a
+539
+Births  Jun1906
+Holmes
+ Dorothy Mabel 
+Spilsby 
+7a
+568
+Births  Dec1906
+Holmes
+ Elsie Elizabeth 
+Spilsby 
+7a
+548
+Holmes
+ John William 
+Spilsby 
+7a
+532
+Holmes
+ Stanley 
+Spilsby 
+7a
+545
+Births  Jun1907
+HOLMES
+ Arthur Norman 
+Spilsby 
+7a
+574
+Births  Jun1908
+Holmes
+ Benjamin 
+Spilsby 
+7a
+566
+Holmes
+ James Edgar 
+Spilsby 
+7a
+555
+Holmes
+ John Thomas C 
+Spilsby 
+7a
+561
+Births  Sep1908
+Holmes
+ George Thomas 
+Spilsby 
+7a
+560
+Births  Dec1908
+Holmes
+ Stanley Reginald 
+Spilsby 
+7a
+515
+Births  Mar1909
+Holmes
+ Walter 
+Spilsby 
+7a
+517
+Births  Sep1909
+HOLMES
+ Edith 
+Spilsby 
+7a
+538
+HOLMES
+ Ethel Frances D 
+Spilsby 
+7a
+539
+Births  Dec1909
+HOLMES
+ Alice Louisa 
+Spilsby 
+7a
+509
+HOLMES
+ Victor Speed 
+Spilsby 
+7a
+519
+Births  Mar1910
+HOLMES
+ Lloyd George 
+Spilsby 
+7a
+530
+Births  Jun1910
+HOLMES
+ Mark Archer 
+Spilsby 
+7a
+555
+HOLMES
+ Norah 
+Spilsby 
+7a
+553
+Births  Dec1910
+HOLMES
+ Maggie 
+Spilsby 
+7a
+510
+Births  Mar1911
+Holmes
+ Harold 
+Spilsby 
+7a
+517
+Holmes
+ May 
+Spilsby 
+7a
+532
+Births  Jun1911
+Holmes
+ Grace K 
+Spilsby 
+7a
+541
+Births  Dec1911
+Holmes
+ Morris 
+Gray 
+Spilsby 
+7a
+982
+Holmes
+ Robert 
+Speed 
+Spilsby 
+7a
+993
+Births  Sep1912
+Holmes
+ Kathleen B 
+Archer 
+Spilsby 
+7a
+991
+Births  Jun1913
+Holmes
+ Muriel M 
+Tempest 
+Spilsby 
+7a
+1060
+Births  Dec1913
+Holmes
+ Mary 
+Newton 
+Spilsby 
+7a
+1001
+Births  Dec1914
+HOLMES
+ Fred 
+Speed 
+Spilsby 
+7a
+958
+Births  Mar1915
+Holmes
+ Phyllis I 
+Tempest 
+Spilsby 
+7a
+1000
+Births  Jun1915
+Holmes
+ Kathleen 
+Newton 
+Spilsby 
+7a
+994
+Births  Jun1916
+Holmes
+ Cyril D 
+Tempest 
+Spilsby 
+7a
+982
+Births  Mar1917
+Holmes
+ John R 
+Newton 
+Spilsby 
+7a
+359
+Births  Sep1917
+Holmes
+ David M 
+Bevan 
+Spilsby 
+7a
+774
+Births  Mar1919
+Holmes
+ Charles V 
+Newton 
+Spilsby 
+7a
+709
+Holmes
+ Hilda G 
+Whiles 
+Spilsby 
+7a
+714
+Holmes
+ William R 
+Tempest 
+Spilsby 
+7a
+690
+Births  Jun1919
+Holmes
+ Marion J 
+Bevan 
+Spilsby 
+7a
+698
+Births  Dec1920
+Holmes
+ Peter N 
+Newton 
+Spilsby 
+7a
+1010
+Births  Mar1921
+Holmes
+ Horace L 
+Tempest 
+Spilsby 
+7a
+985
+Births  Mar1923
+Holmes
+ Benjamin R 
+Newton 
+Spilsby 
+7a
+955
+Births  Dec1926
+Holmes
+ Eileen 
+Barber 
+Spilsby 
+7a
+836
+Births  Mar1931
+Holmes
+ John S 
+Billamy 
+Spilsby 
+7a
+833
+Births  Jun1931
+Holmes
+ Phyllis A 
+Storr 
+Spilsby 
+7a
+812
+Births  Jun1932
+Holmes
+ Roland E 
+Billamy 
+Spilsby 
+7a
+869
+Births  Dec1932
+Holmes
+ George D 
+Wilyman 
+Spilsby 
+7a
+738
+Births  Dec1933
+HOLMES
+ Eric G 
+Storr 
+Spilsby 
+7a
+646
+HOLMES
+ Michael C 
+Holmes 
+Spilsby 
+7a
+656
+Births  Mar1935
+Holmes
+ John T 
+Bontoft 
+Spilsby 
+7a
+747
+Births  Dec1935
+Holmes
+ Avis M 
+Siggs 
+Spilsby 
+7a
+744
+Births  Sep1936
+HOLMES
+ Frank G 
+Bontoft 
+Spilsby 
+7a
+762
+Births  Mar1938
+Holmes
+ David J 
+Bontoft 
+Spilsby 
+7a
+782
+Births  Jun1938
+Holmes
+ John N 
+Thornhill 
+Spilsby 
+7a
+813
+Births  Sep1942
+Holmes
+ George F A 
+Wilkinson 
+Spilsby 
+7a
+959
+Births  Dec1944
+Holmes
+ Christina J 
+Dimmock 
+Spilsby 
+7a
+968
+Births  Sep1945
+Holmes
+ Dian G 
+Atherton 
+Spilsby 
+7a
+919
+Births  Jun1946
+Holmes
+ Richard M 
+Wilkinson 
+Spilsby 
+7a
+1003
+Births  Jun1947
+Holmes
+ Linda 
+Tonsley 
+Spilsby 
+3b
+740
+Births  Sep1947
+HOLMES
+ Robert C J 
+Nerrits Van Den Ende 
+Spilsby 
+3b
+725
+Births  Dec1947
+Holmes
+ Doreen A 
+Goodley 
+Spilsby 
+3b
+628
+Births  Jun1948
+Holmes
+ Susan 
+White 
+Spilsby 
+3b
+688
+Births  Dec1948
+Holmes
+ Peter R F 
+Gerrets van der 
+Spilsby 
+3b
+614
+Holmes
+ Peter R F 
+Gerrets van der 
+Spilsby 
+3b
+614
+Births  Mar1949
+Holmes
+ Florence M 
+Wilkinson 
+Spilsby 
+3b
+630
+Births  Mar1950
+Holmes
+ Paul W A 
+Gerrets Van der Ende 
+Spilsby 
+3b
+622
+Births  Sep1950
+HOLMES
+ Wendy 
+TONSLEY 
+Spilsby 
+3b
+624
+Births  Mar1951
+HOLMES
+ Janet M 
+TURNER 
+Spilsby 
+3b
+628
+Births  Jun1951
+HOLMES
+ Robert G 
+BARR 
+Spilsby 
+3b
+644
+Births  Sep1952
+HOLMES
+ Benjamin J 
+GERRITS VAN DER ENDE 
+Spilsby 
+3b
+601
+Holmes
+ Patricia L 
+Barr 
+Spilsby 
+3b
+607
+Births  Mar1954
+HOLMES
+ Lynda M 
+DONNELLY 
+Spilsby 
+3b
+631
+Births  Dec1955
+HOLMES
+ David M 
+DONNELLY 
+Spilsby 
+3b
+554
+Births  Sep1956
+Holmes
+ Tarne K 
+Barr 
+Spilsby 
+3b
+601
+Births  Dec1956
+Holmes
+ Charles H 
+Rittgerott 
+Spilsby 
+3b
+569
+Births  Dec1957
+HOLMES
+ Christopher J 
+DONNELLY 
+Spilsby 
+3b
+610
+HOLMES
+ John N 
+RITTGEROTT 
+Spilsby 
+3b
+606
+Births  Mar1959
+HOLMES
+ Nichola H 
+BARR 
+Spilsby 
+3b
+644
+Births  Mar1960
+HOLMES
+ Andrew V 
+RITTGEROTT 
+Spilsby 
+3b
+709
+Births  Dec1960
+HOLMES
+ Patricia A 
+HICKEY 
+Spilsby 
+3b
+662
+Births  Mar1961
+HOLMES
+ Antony J 
+RITTGEROTT 
+Spilsby 
+3b
+726
+Births  Sep1961
+HOLMES
+ Peter S 
+CHAPILL 
+Spilsby 
+3b
+671
+Births  Mar1962
+HOLMES
+ Paul A 
+HICKEY 
+Spilsby 
+3b
+778
+Births  Jun1962
+HOLMES
+ David S 
+YOUNG 
+Spilsby 
+3b
+736
+Births  Dec1962
+HOLMES
+ Denise 
+BOURNE 
+Spilsby 
+3b
+689
+Births  Dec1965
+HOLMES
+ JOHN R 
+BOURNE 
+SPILSBY 
+3B
+714
+Births  Sep1966
+HOLMES
+ SARAH ELIZABETH 
+DICKENS 
+Spilsby 
+3b
+733
+Births  Jun1968
+HOLMES
+ GRAHAM ROBERT 
+HOLMES 
+SPILSBY 
+3B
+714
+HOLMES
+ NICHOLAS ROBERT 
+ELLERBY 
+SPILSBY 
+3B
+717
+Births  Mar1970
+HOLMES
+ Christopher Jason 
+ELLERBY 
+Spilsby 
+3b
+1713
+Births  Mar1971
+HOLMES
+ Selena 
+HOLMES 
+Spilsby 
+3b
+1807
+Births  Sep1971
+HOLMES
+ Ian Robert 
+HICKEY 
+Spilsby 
+3b
+1750
+Births  Jun1975
+HOLMES
+ Malcolm David 
+ELLERBY 
+Spilsby 
+7
+2294
+Births  Mar1976
+HOLMES
+ NEIL RAYMOND 
+MOODY 
+SPILSBY 
+7
+2249
+Births  Jun1978
+HOLMES
+ KATRINA MICHELLE 
+ELLERBY 
+SPILSBY 
+7
+2069

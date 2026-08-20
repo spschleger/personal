@@ -1,0 +1,15 @@
+# nested repos — independent, own remotes
+max-personal/
+finances/weekly-budget/
+Yujie/YesMandarin/mandarin-trial-booker/
+Yujie/YesMandarin/content-pipeline/
+
+# noise
+node_modules/
+.DS_Store
+.obsidian/workspace*
+*.log
+.env
+.env.*
+__pycache__/
+.venv/

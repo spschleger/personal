@@ -1,0 +1,14 @@
+Parameter,Units,Reference,2024-12-08 (pre-TRT)
+Lab,,,Laverty (SQA-V Gold automated)
+On TRT?,,,No
+Days abstinence,days,2-7,3
+Volume,mL,>1.5,2.0
+Viscosity,,Normal,Increased
+Liquefaction,,Normal,Induced
+Non-specific agglutination,%,<10,<10
+Concentration,x10^6/mL,15-250,136
+Total motility,%,>40,62
+Rapid/progressive motility,%,>32,60
+Immotile,%,,38
+Total motile count (calc = vol x conc x motility),x10^6,>20 desirable,168.6
+Normal forms (morphology),%,>4,3

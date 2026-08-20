@@ -1,0 +1,5 @@
+ASSI index rows: 71440
+Last name JACKSON: 3
+  | Last name=JACKSON | Date=1892/05/12 | Year=1892 | Page=74 | Reference=49 | QSA Ref=JUS/S5 | Item ID=ITM950008 | Digital Image ID=DR85580 | Mfilm No=Z4292 | Series ID=S6226
+  | Last name=JACKSON | Ship=Poynesia | Year=1895 | Page=63 | Reference=301 | QSA Ref=PRI1/6 | Item ID=ITM2946 | Digital Image ID=DR91936 | Mfilm No=not filmed | Series ID=S10835
+  | Last name=JACKSON | Notes=or MENENA | Locality=Guadalcanar | Ship=Sybil | Date=1905/06/08 | Year=1905 | Page=498 | QSA Ref=IPI12/1 | Item ID=ITM18876 | Digital Image ID=DR24436 | Mfilm No=Z332 | Series ID=S13202

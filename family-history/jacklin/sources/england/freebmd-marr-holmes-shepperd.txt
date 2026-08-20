@@ -1,0 +1,20 @@
+FreeBMD marr-holmes-shepperd: {'surname': 'Holmes', 's_surname': 'Shepperd', 'type_': 'Marriages', 'start': 1837, 'end': 1875}
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Sep1867
+HOLMES
+ Thomas Fillingham 
+Nottingham 
+7b
+311
+Marriages  Sep1910
+Holmes
+ Prudence D 
+Bradford 
+9b
+188

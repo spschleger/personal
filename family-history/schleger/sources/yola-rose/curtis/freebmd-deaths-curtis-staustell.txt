@@ -1,0 +1,915 @@
+FreeBMD search: {'surname': 'Curtis', 'type_': 'Deaths', 'districtid': '118', 'start': 1855, 'end': 1866}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Deaths  Dec1838
+CURTIS
+ James 
+St Austell 
+9
+3
+Deaths  Dec1839
+Curtis
+ Mary 
+St Austell 
+9
+5
+Deaths  Jun1840
+Curtis
+ Mary Ann 
+St Austell 
+9
+4
+Deaths  Jun1841
+Curtis
+ Grace 
+St. Austell 
+9
+9
+Curtis
+ Gurde 
+St Austell 
+9
+6
+Deaths  Jun1843
+CURTIS
+ Thomas 
+St Austell 
+9
+13
+Deaths  Jun1844
+CURTIS
+ James 
+St Austell 
+9
+1
+Deaths  Jun1845
+CURTIS
+ James 
+St Austel 
+9
+1
+Deaths  Dec1847
+Curtis
+ William 
+St Austell 
+9
+4
+Deaths  Jun1848
+Curtis
+ William 
+St Austell 
+9
+11
+Deaths  Mar1850
+CURTIS
+ Louisa 
+St Austell 
+9
+1
+Deaths  Jun1852
+CURTIS
+ Elizabeth 
+St Austell 
+5c
+99
+Deaths  Jun1853
+CURTIS
+ Laura Augusta 
+St Austell 
+5c
+101
+Deaths  Jun1854
+Curtis
+ Thomas 
+St Austell 
+5c
+87
+Deaths  Mar1855
+Curtis
+ Harriet 
+St Austell 
+5c
+127
+Curtis
+ John 
+St Austell 
+5c
+128
+Curtis
+ Lavinia 
+St Austell 
+5c
+124
+Deaths  Dec1856
+Curtis
+ Joseph 
+St Austell 
+5c
+95
+Deaths  Mar1857
+Curtis
+ William 
+St Austell 
+5c
+108
+Deaths  Jun1857
+Curtis
+ Caroline 
+St Austell 
+5c
+101
+Deaths  Dec1857
+Curtis
+ James 
+St Austell 
+5c
+97
+Deaths  Dec1858
+Curtis
+ John 
+St Austell 
+5c
+111
+Deaths  Mar1859
+Curtis
+ Anna Maria 
+St Austell 
+5c
+113
+Deaths  Jun1859
+CURTIS
+ Frederick 
+St Austell 
+5c
+59
+Curtis
+ Frederick 
+St. Austell 
+5c
+89
+Deaths  Dec1862
+CURTIS
+ John 
+St Austell 
+5c
+10[03]
+CURTIS
+ John 
+St Austell 
+5c
+103
+CURTIS
+ John 
+St Austell 
+5c
+105
+Deaths  Dec1863
+Curtis
+ John 
+St.Austell 
+5c
+104
+Deaths  Mar1864
+CURTIS
+ Elizabeth 
+St Austell 
+5c
+118
+Deaths  Dec1864
+Curtis
+ John 
+St Austell 
+5c
+97
+Deaths  Dec1865
+Curtis
+ Fred Johns 
+St Austell 
+5c
+87
+Deaths  Dec1866
+Curtis
+ Mary 
+45 
+St.Austell 
+5c
+80
+Deaths  Sep1867
+Curtis
+ Amelia 
+12 
+St. Austell 
+5c
+81
+Deaths  Dec1867
+CURTIS
+ Joseph Nettle 
+0 
+St. Austell 
+5c
+85
+Deaths  Jun1868
+Curtis
+ Mary 
+70 
+St. Austell 
+5c
+83
+Deaths  Mar1869
+CURTIS
+ William 
+29 
+St. Austell 
+5c
+105
+Deaths  Jun1869
+CURTIS
+ Dorcas 
+89 
+St. Austell 
+5c
+108
+Deaths  Mar1872
+CURTIS
+ Grace 
+80 
+St. Austell 
+5c
+96
+CURTIS
+ Morley 
+0 
+St. Austell 
+5c
+96
+Deaths  Mar1873
+Curtis
+ Caroline 
+49 
+St. Austell 
+5c
+104
+Curtis
+ William Charles A 
+22 
+St. Austell 
+5c
+99
+Deaths  Sep1873
+Curtis
+ William 
+58 
+St. Austell 
+5c
+71
+Deaths  Mar1876
+CURTIS
+ John Henry 
+0 
+St. Austell 
+5c
+103
+Deaths  Jun1876
+CURTIS
+ Peter 
+55 
+St. Austell 
+5c
+91
+Deaths  Mar1877
+CURTIS
+ Frederick Herbert 
+33 
+St Austell 
+5c
+83
+Deaths  Sep1877
+CURTIS
+ Hannah Rebecca 
+0 
+St Austell 
+5c
+68
+Deaths  Dec1877
+CURTIS
+ Elizabeth 
+11 
+St Austell 
+5c
+81
+Curtis
+ Elizabeth 
+11 
+St. Austell 
+5c
+84
+CURTIS
+ Mary Anna 
+4 
+St Austell 
+5c
+83
+CURTIS
+ Richard John 
+1 
+St Austell 
+5c
+84
+CURTIS
+ Female 
+0 
+St Austell 
+5c
+91
+Deaths  Mar1881
+CURTIS
+ Samuel Richard 
+80 
+St. Austell 
+5c
+100
+Deaths  Jun1882
+CURTIS
+ Elizabeth 
+93 
+St. Austell 
+5c
+76
+Deaths  Mar1883
+CURTIS
+ Mary 
+78 
+St. Austell 
+5c
+87
+Deaths  Mar1886
+Curtis
+ Martha 
+0 
+St Austell 
+5c
+105
+Curtis
+ Mary 
+42 
+St Austell 
+5c
+103
+Deaths  Sep1890
+Curtis
+ John 
+76 
+St. Austell 
+5c
+65
+Deaths  Dec1893
+Curtis
+ Susannah 
+73 
+St. Austell 
+5c
+91
+Deaths  Dec1894
+Curtis
+ James 
+48 
+St. Austell 
+5c
+74
+Deaths  Mar1895
+Curtis
+ Cordelia 
+64 
+St. Austell 
+5c
+95
+Deaths  Jun1896
+Curtis
+ William John 
+6 
+St. Austell 
+5c
+76
+Deaths  Mar1902
+Curtis
+ Cyril Arthur 
+0 
+St. Austell 
+5c
+80
+Curtis
+ Willie 
+0 
+St. Austell 
+5c
+82
+Deaths  Dec1902
+Curtis
+ Eugenia 
+0 
+St. Austell 
+5c
+70
+Deaths  Jun1904
+CURTIS
+ Melville 
+0 
+St. Austell 
+5c
+65
+Deaths  Sep1905
+Curtis
+ Mary Ann 
+62 
+St Austell 
+5c
+62
+Deaths  Sep1906
+Curtis
+ John 
+61 
+St Austell 
+5c
+65
+Deaths  Mar1907
+CURTIS
+ John 
+65 
+St. Austell 
+5c
+77
+Deaths  Jun1911
+CURTIS
+ Ann 
+69 
+St.Austell 
+5c
+75
+Deaths  Sep1911
+Curtis
+ Richard G 
+0 
+St. Austell 
+5c
+119
+Deaths  Jun1917
+Curtis
+ Jane 
+66 
+St.Austell 
+5c
+121
+Deaths  Jun1921
+Curtis
+ Alice L 
+44 
+St.Austell 
+5c
+130
+Deaths  Jun1922
+Curtis
+ John 
+73 
+St.Austell 
+5c
+132
+Deaths  Sep1922
+Curtis
+ Anne 
+69 
+St.Austell 
+5c
+120
+Deaths  Dec1922
+Curtis
+ Kathleen G N 
+0 
+St.Austell 
+5c
+117
+Deaths  Dec1923
+Curtis
+ Mary E 
+76 
+St. Austell 
+5c
+115
+Deaths  Jun1924
+Curtis
+ John 
+48 
+St.Austell 
+5c
+117
+Deaths  Jun1927
+Curtis
+ Tabitha 
+79 
+St Austell 
+5c
+115
+Deaths  Jun1929
+Curtis
+ Edith C 
+74 
+St. Austell 
+5c
+122
+Deaths  Mar1936
+Curtis
+ Annie M 
+90 
+St.Austell 
+5c
+139
+Deaths  Dec1936
+Curtis
+ Hilary N 
+22 
+St.Austell 
+5c
+96
+Deaths  Jun1937
+Curtis
+ Lilian M 
+44 
+St Austell 
+5c
+94
+Curtis
+ William 
+70 
+St Austell 
+5c
+107
+Deaths  Mar1938
+CURTIS
+ Louisa G 
+69 
+St. Austell 
+5c
+86
+Deaths  Jun1938
+CURTIS
+ Bernard J 
+36 
+St Austell 
+5c
+116
+Deaths  Mar1939
+Curtis
+ John J 
+88 
+St Austell 
+5c
+122
+Deaths  Dec1941
+Curtis
+ William 
+63 
+St.Austell 
+5c
+208
+Deaths  Jun1942
+Curtis
+ Bertha 
+63 
+St.Austell 
+5c
+190
+Curtis
+ Frederick R 
+42 
+St.Austell 
+5c
+208
+Curtis
+ Thomas 
+77 
+St.Austell 
+5c
+178
+Deaths  Sep1946
+Curtis
+ Ethelbert M 
+80 
+St.Austell 
+7a
+151
+Deaths  Mar1947
+Curtis
+ Lilian M 
+51 
+St.Austell 
+7a
+265
+Deaths  Mar1948
+Curtis
+ Myrtle M 
+42 
+St.Austell 
+7a
+168
+Deaths  Sep1949
+Curtis
+ Mary A 
+79 
+St.Austell 
+7a
+152
+Deaths  Mar1950
+Curtis
+ Eliza L 
+78 
+St. Austell 
+7a
+186
+Deaths  Mar1951
+CURTIS
+ John 
+78 
+St.Austell 
+7a
+278
+Deaths  Mar1952
+CURTIS
+ Florence L 
+48 
+St.Austell 
+7a
+175
+Deaths  Dec1952
+CURTIS
+ Alfred C 
+77 
+St.Austell 
+7a
+149
+Deaths  Sep1953
+CURTIS
+ Muriel E 
+86 
+St.Austell 
+7a
+148
+Deaths  Sep1954
+Curtis
+ Frederick 
+68 
+St.Austell 
+7a
+132
+Deaths  Mar1956
+CURTIS
+ Margaret 
+66 
+St.Austell 
+7a
+226
+Deaths  Dec1957
+CURTIS
+ William 
+78 
+St.Austell 
+7a
+183
+Deaths  Jun1959
+CURTIS
+ Alfred 
+78 
+St.Austell 
+7a
+172
+Deaths  Jun1960
+CURTIS
+ Clara J 
+84 
+St.Austell 
+7a
+163
+Deaths  Dec1961
+CURTIS
+ Thomas C 
+63 
+St Austell 
+7a
+159
+Deaths  Dec1964
+CURTIS
+ JOHN 
+88 
+ST.AUSTELL 
+7A
+186
+Deaths  Mar1965
+CURTIS
+ CAROLINE 
+89 
+ST.AUSTELL 
+7A
+217
+Deaths  Jun1967
+Curtis
+ Ethelene B 
+70 
+St.Austell 
+7a
+163
+Deaths  Dec1968
+CURTIS
+ ETHELBERT 
+73 
+ST.AUSTELL 
+7A
+156
+Deaths  Mar1971
+CURTIS
+ Agnes Jane 
+14Fe1887 
+St.Austell 
+7a
+479
+Deaths  Sep1972
+CURTIS
+ William John 
+4Au1902 
+St.Austell 
+7a
+433
+Deaths  Jun1973
+CURTIS
+ THEODORA 
+3OC1883 
+ST.AUSTELL 
+7A
+409
+Deaths  Sep1973
+CURTIS
+ ETHEL 
+1DE1887 
+ST.AUSTELL 
+7A
+465
+Deaths  Mar1974
+Curtis
+ Ellen Jane 
+26FE1891 
+St.Austell 
+7a
+535
+Deaths  Jun1974
+CURTIS
+ Rhoda Grose 
+10SE1898 
+St Austell 
+21
+448
+Deaths  Mar1976
+CURTIS
+ ALICE MAUD M 
+22NO1886 
+ST AUSTELL 
+21
+589
+Deaths  Mar1977
+CURTIS
+ HILDA MAY 
+29JY1909 
+ST AUSTELL 
+21
+533
+Deaths  Jun1978
+CURTIS
+ ELIZABETH MARION 
+12AP1892 
+ST AUSTELL 
+21
+476
+Deaths  Sep1979
+CURTIS
+ WINIFRED IRIS 
+6DE1913 
+ST AUSTELL 
+21
+463
+Deaths  Mar1981
+CURTIS
+ GEORGE EWART 
+14AP1904 
+ST AUSTELL 
+21
+524
+Deaths  Dec1982
+CURTIS
+ BELINDA LOVEDAY 
+24MY1931 
+ST AUSTELL 
+21
+444
+Deaths  Mar1983
+CURTIS
+ AUDREY ANNIE 
+12MR1909 
+ST AUSTELL 
+21
+540
+Deaths  Jun1983
+CURTIS
+ HAROLD JOHN 
+22AU1903 
+ST AUSTELL 
+21
+362
+Deaths 1984
+CURTIS
+ BARBARA ELLEN 
+14AP1915 
+ST AUSTELL 
+21
+421
+CURTIS
+ MARJORIE FLORENCE 
+26NO1912 
+ST AUSTELL 
+21
+463
+Deaths 1986
+CURTIS
+ KATHLEEN 
+13JE1912 
+ST AUSTELL 
+21
+471
+Deaths 1987
+CURTIS
+ RHODA MAUDE 
+8SE1905 
+ST AUSTELL 
+21
+357
+Deaths 1992
+CURTIS
+ EDWARD HENRY 
+11OC1912 
+ST AUSTELL 
+21
+347
+CURTIS
+ ERMYNTRUDE ROSE 
+20DE1896 
+ST AUSTELL 
+21
+387
+Deaths 1993
+CURTIS
+ GEOFFREY TREMONS 
+29MY1915 
+ST AUSTELL 
+3671
+10
+Deaths 1994
+CURTIS
+ IVY KATHLEEN 
+13JE1908 
+ST AUSTELL 
+3673
+126
+CURTIS
+ MARION ELAINE 
+6JY1947 
+ST AUSTELL 
+3673
+252
+CURTIS
+ RONALD EDGAR 
+28MR1920 
+ST AUSTELL 
+3672
+247
+CURTIS
+ WALTER LESLIE 
+22JA1908 
+ST AUSTELL 
+3673
+55
+Deaths 1996
+CURTIS
+ LEONARD FRANCIS 
+27MR1914 
+ST AUSTELL 
+3671C
+135
+Deaths 1997
+CURTIS
+ PEARL ANNIE 
+15FE1925 
+ST AUSTELL 
+3671C
+80

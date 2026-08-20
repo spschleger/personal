@@ -1,0 +1,161 @@
+FreeBMD search: {'surname': 'Barratt', 'type_': 'Marriages', 'districtid': '118', 'start': 1850, 'end': 1865}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Jun1851
+Barratt
+ Methusalah 
+Austell St 
+9
+34
+Marriages  Dec1851
+Barratt
+ John Brenton 
+St Austell 
+9
+7
+Marriages  Sep1854
+Barratt
+ John 
+St Austell 
+5c
+239
+Marriages  Jun1856
+BARRATT
+ Emily 
+St Austell 
+5c
+212
+Marriages  Dec1859
+Barratt
+ Elizabeth Ann 
+St Austell 
+5c
+260
+Marriages  Mar1861
+Barratt
+ John 
+St Austell 
+5c
+189
+Marriages  Jun1864
+Barratt
+ William 
+St Austell 
+5c
+217
+Marriages  Sep1864
+Barratt
+ Susan Hodges 
+St Austell 
+5c
+201
+Marriages  Sep1866
+BARRATT
+ James 
+St. Austell 
+5c
+199
+Marriages  Jun1868
+BARRATT
+ Elizabeth 
+St Austell 
+5c
+205
+Marriages  Sep1869
+Barratt
+ William 
+St.Austell 
+5c
+173
+Marriages  Jun1871
+BARRATT
+ John 
+St. Austell 
+5c
+206
+Marriages  Sep1871
+Barratt
+ Sarah 
+St. Austell 
+5c
+166
+Marriages  Mar1877
+Barratt
+ Jacob 
+St. Austell 
+5c
+164
+Marriages  Sep1880
+BARRATT
+ James William H 
+St. Austell 
+5c
+141
+Marriages  Mar1882
+BARRATT
+ Mary Jane 
+St Austell 
+5c
+167
+Marriages  Mar1916
+Barratt
+ George 
+__ach 
+St.Austell 
+5c
+190
+Marriages  Sep1922
+BARRATT
+ William F 
+Sleep 
+St Austell 
+5c
+208
+Marriages  Dec1944
+BARRATT
+ Cecil A 
+Soloman 
+St.Austell 
+5c
+184
+Marriages  Sep1948
+Barratt
+ Thomas 
+Terrill 
+St.Austell 
+7a
+397
+Marriages  Jun1965
+BARRATT
+ Wendy H 
+Paull 
+St.Austell 
+7a
+337
+Marriages  Mar1980
+BARRATT
+ GRAHAM C 
+HICKS 
+ST AUSTELL 
+21
+327
+BARRATT
+ GRAHAM C 
+SMITH 
+ST AUSTELL 
+21
+327
+Marriages 1993
+BARRATT
+ SUZANNE J 
+Belcher 
+ST AUSTELL 
+21
+573

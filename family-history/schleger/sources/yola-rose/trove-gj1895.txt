@@ -1,0 +1,179 @@
+--- '"George Johnston" inquest' limits={'decade': ['189'], 'year': ['1895']} total=3 shown=3
+  [198447943] Tuesday 23 April 1895 | Evening Journal (Adelaide, SA : 1869 - 1912) | VICTORIA. Melbourne, April 22.
+        , when on a visit to a married sister at Yinnar, she became engaged to a young man named George Johnston //  expired in less than ten minutes. Dr. Trumpy, at the inquest, deposed that the deceased would soon have
+  [54468543] Tuesday 23 April 1895 | South Australian Register (Adelaide, SA : 18 | VICTORIA. Melbourne, April 22.
+         expired in less than ten minutes. Dr. Trumpy, at the inquest, deposed that the deceased would soon have // , when on a visit to a married sister at Yinnar, she became engaged to ft young man named George Johnston
+  [161820558] Saturday 27 April 1895 | Adelaide Observer (SA : 1843 - 1904) | INTERCOLONIAL. VICTORIA. Melbourne, April 21.
+         took poison and expired in less than ton minutes. Dr. Trumpy, at the inquest, deposed that the deceased //  George Johnston, and under a promise of marriage the alleged acquaintanceship became unduly intimate. Six
+--- '"Johnston" Childers death inquest' limits={'decade': ['189'], 'year': ['1895']} total=120 shown=2
+  [216435617] Monday 21 January 1895 | The Bundaberg Mail and Burnett Advertiser (Q | LOCAL AND GENERAL.
+         tram-way is progressing, and has now reached Nixon’s at the south of Childers. Good Hope and Knockroe //  fourteen days ago, leaves behind him a wife and child. Saturday next, will afford the residents of North
+  [21636993] Saturday 19 October 1895 | The Queenslander (Brisbane, Qld. : 1866 - 19 | EXPORTS.
+         first European females In the district. He has been fairly successful. Samuel Johnston, born County //  ; was sawyer for 8. Johnston two years, then went farming for ten years ; established in 1880 a
+--- '"Fernhill" "Apple Tree Creek"' limits=None total=22 shown=22
+  [292957500] Saturday 6 June 1914 | The Colonist (Maryborough, Qld. : 1884 - 195 | CATTLE.
+        . Geo. Reid, I Apple Tree Creek, 2. Bull, one year and tinder two.; first prize, £1 : second, Ids // , by Andrew's Boy out of Milkmaid 26th. Geo. Reid, Apple Tree Creek, 2. Fawn. AV. S. Conochie, highly
+  [20713687] Saturday 17 February 1894 | The Queenslander (Brisbane, Qld. : 1866 - 19 | WIDE BAY AND BURNETT DISTRICTS.
+         Creek, is inadequate for their requirements, and last week purchased a further area from the same //  Company, it is stated, have found the land purchased from Mr. George Johnston, Fernhill Farm, Apple-tree
+  [3574077] Friday 9 February 1894 | The Brisbane Courier (Qld. : 1864 - 1933) | SUGAR INDUSTRY. SUGAR WORKS GUARANTEE ACT. THE FIR
+        , havo found the land purchased from Mr George Johnston, Fernhill Farm, Apple-tree Creek, is inadequate
+  [232363925] Saturday 10 July 1909 | Commonwealth of Australia Gazette (National  | QUEENSLAND. CONVEYANCE OF MAILS, 1910, 1911, and 1
+         week. 11a. Alternative.— (a) Childers and Childers, via Apple-tree Creek and North Isis, Central Mill // , and Fernhill, twice a week. 192. Dalby and Jumma, via Jubilee Sanatorium, Went-worth, Cahill
+  [232445035] Saturday 13 July 1912 | Commonwealth of Australia Gazette (National  | QUEENSLAND. CONVEYANCE OF MAILS, 1913, 1914, AND 1
+         Isis Central Mill Post Office, viâ Masters’, Woods’, Wegert’s, Apple Tree Creek Post Office, Kling’s //  week. 98. Maytown and Frome, viâ Palmerville and Fernhill, once a week. 98a. Alternative.—Maytown and
+  [232465564] Tuesday 10 August 1915 | Commonwealth of Australia Gazette (National  | QUEENSLAND. CONVEYANCE OF MAILS, 1916, 1917, AND 1
+        , Masters', Woods', Wegerts'. Apple-tree Creek Post Office, King's, Frost's, Wilson's, Campbell's, Kelly //  same way, twice a week. 98. Maytown and Prome, via Palmerville and Fernhill, onee a week. 98a
+  [232182906] Thursday 14 July 1921 | Commonwealth of Australia Gazette (National  | TENDERS INVITED FOR CONVEYANCE OF MAILS (INCLUDING
+        , C.S.R. Co.'s Mill, Masters', Bertheau's, Woods', Wegert's. Apple-tree Creek Post Office, Touhy // 's selection, vid Upper Coomera and Wonga Wallen, thence vid Sherwood to Fernhill (S. F. Walker's), returning
+  [232456643] Saturday 15 February 1913 | Commonwealth of Australia Gazette (National  | CONTRACTS FOR THE CONVEYANCE OF MAILS IN THE STATE
+         Post Office, via Masters', Woods'. Wcgert's, Apple Tree Creek Post Office, Kling's, Frost's, Wilson
+  [232467859] Tuesday 15 February 1916 | Commonwealth of Australia Gazette (National  | CONTRACTS FOR THE CONVEYANCE OF MAILS IN THE STATE
+         Isis Central ] Mill Post Office via Masters', Woods', Wegerts', Apple - tree Creek Post ] Office, King //  day Laura and Fernhill, vid Shepherd's Creek, Holder's, Maytown, and Palmerville Blackall and Mount
+  [232536464] Thursday 7 July 1927 | Commonwealth of Australia Gazette (National  | TENDERS INVITED FOR CONVEYANCE OF MAILS (INCLUDING
+         week. 190. Tungamul and Little Beach, via Hitchcock's, Eglalla, Fernhill, and Sandhills, twice a week // 's, Woods's, Wegert'a, Apple-tree Creek Post Office, Touhy's, Campbell's, Kelly's, and Meadmore's, and back
+  [232352630] Saturday 8 December 1906 | Commonwealth of Australia Gazette (National  | CONVEYANCE OF MAILS IN QUEENSLAND.
+        's notice of discontinuance by the PostmasterGeneral  (a) Childers and Childers, via Apple tree Creek and //  Fishergate (Chas ton's), via Hitchcock's, Elgalla, and Fernhill Dalby and Jumma, via Jubilee Sanatorium
+  [232473984] Tuesday 5 August 1924 | Commonwealth of Australia Gazette (National  | TENDERS INVITED FOE CONVEYANCE OF MAILS (INCLUDING
+        's, Bertheau's, Woods's, Wegert's, Apple-tree Creek Post Office, T^ouhy's, Campbell's, Kelly's, and Meadxnore // , three times a week. 190. Tungamul and Sandfiills (Hiron's), via Hitchcock's, Elgalla, and Fernhill
+  [232528240] Friday 10 February 1928 | Commonwealth of Australia Gazette (National  | QUEENSLAND. CONVEYANCE OF MAILS. Schedule of Mail 
+         Upper Coomera and Wonga Wallen, thence via Sherwood to Fernhill (S. F. Walker's); returning via main // , Masters's, Bertheau's, Woods's, Wegert's, Apple-tree Creek Post Office, Touhy's, Camp bell's, Kelly's, and
+  [232518915] Monday 14 March 1927 | Commonwealth of Australia Gazette (National  | CONVEYANCE OF MAILS IN QUEENSLAND. ACCEPTANCE OF T
+         and Wonga Wallen, thence via Sherwood to Fernhill (S. F. Walker's); returning via main Government road // , Masters's, Bertheau's, Woods's, Wegert's, Apple-tree Creek Post Office, Touhy's, Camp bell's, Kelly's, and
+  [232591960] Tuesday 25 March 1930 | Commonwealth of Australia Gazette (National  | CONVEYANCE OF MAILS. Schedule of Mail Contractors 
+         Mill, Masters's, Bertheau's, Woods's, Wegert's, Apple-tree Creek Post Office, Touhy's, Campbell
+  [146970577] Wednesday 14 March 1894 | Maryborough Chronicle, Wide Bay and Burnett  | Advertising
+        . ' Fernhill,' Queen street. Free railway passes to the i.x.l. PIANO and FURNISHING SHuW ROOMS, All Country //  3 Apple Tree Creek Roads ? 47 0 7 Wegert's Road... 1 10 2 Doolbl Roads ... 89 17 9 ffenrile*A Road
+  [232755481] Tuesday 8 August 1944 | Commonwealth of Australia Gazette (National  | REFERENDUM 1944. CONSTITUTION ALTERATION (POST-WAR
+        , Elsmore, Fernhill, Gilgai, INVERELL, Kangaroo Camp, Old Mill, Ross Hill, Stannifer, Swan Vale Birriwa
+  [232657398] Monday 22 February 1937 | Commonwealth of Australia Gazette (National  | REFERENDUMS 1937: CONSTITUTION ALTERATION (AVIATIO
+        , Elsmore, Fernhill, Gilgai, INVERELL, Kangaroo Camp, Stannifer, Swan Vale Birriwa, Blue Springs, Craboon
+  [232894358] Monday 16 September 1946 | Commonwealth of Australia Gazette (National  | SENATE ELECTIONS, GENERAL ELECTIONS FOR THE HOUSE 
+         END, Sally's Flat, Tambaroora, Triamble Brodie's Plains, Elsmore, Fernhill, Gilgai, INVERELL, Kangaroo
+  [232661497] Monday 11 October 1937 | Commonwealth of Australia Gazette (National  | SENATE ELECTIONS AND GENERAL ELECTIONS FOR THE HOU
+         END, Sally's Flat, Tambaroora, Triamble Brodie's Plains, Elsmore, Fernhill, Gilgai, INVERELL, Kangaroo
+  [183599723] Tuesday 31 July 1917 | The Inverell Times (NSW : 1899 - 1907, 1909  | Advertising
+         Creeks, quite 2000 acres being suitable for any class of agriculture. p LOT 3 MT PLEASANT— Having an area //  many pad docks. Magnificent country, well . and permanently watered by Bob Boy, Jessies, and Apple Tree
+  [11731383] Saturday 20 January 1934 | The Argus (Melbourne, Vic. : 1848 - 1957) | Advertising
+        
+--- '"Fernhill Farm" Childers' limits=None total=307 shown=40
+  [166427934] Friday 8 October 1915 | Southern Cross (Adelaide, SA : 1889 - 1954) | THE CHILDREN St. Vincents Juvenile Club COLLECTING
+         pass. We have to go in to Petersburg. There are two other child ren going up for it from our school //  NOVEMBER 27. Prizes awarded for the Six largest am ounts collected for the Fete. Fernhill Farm, September
+  [206725927] Saturday 11 September 1937 | The Age (Melbourne, Vic. : 1854 - 1954) | ENTRIES IN "THE AGE" IDEAL CHILD PHOTOGRAPHIC COMP
+        ENTRIES IN "THE AGE" IDEAL CHILD PHOTOGRAPHIC COMPETITION   (Above) Peter Bruce Pritchard, 23 //  years 10 months. Burlington Studios.   (Right) Beverley Olive Slede, Fernhill Poultry Farm, Cheltenham
+  [166331695] Saturday 6 February 1926 | Observer (Adelaide, SA : 1905 - 1931) | OBITUARY. Mrs. S. J. Dridan.
+         Money." Edward J. Cosey. There died at Fernhill Farm, Minvalara, on January 26, at the age of 44 years //  was born in Mechlenberg, Ger many, on April 17, 1840, and came to Australia when a child. In her early
+  [291452658] Saturday 11 May 1912 | Queenslander News Budget (Brisbane, Qld. : 1 | COUNTRY NEWS. ARAMAC, May 3.
+         water along the jetty promptly for the supply of skipping. CHILDERS, May 0. The committee of the //  cheese factory is now 1200 gallons per day. Fernhill farm, the property of Mr. F. Sterling, changed hands
+  [148894798] Wednesday 23 March 1904 | Geelong Advertiser (Vic. : 1859 - 1929) | TOWN TALK.
+         fire of the portion of the Ocean Child Hotel, on which the liquor selling busi-ness was carried on, Mr //  on his pro-perty known as "Fernhill Farm," Maude, will be prosecuted. Mr. A. H. Wills, of the Railway
+  [70484604] Saturday 29 August 1874 | Australian Town and Country Journal (Sydney, | The Sires of the Season.
+        , and at their head stands the grand old Kelpie, son of Weatherbit and Child of the Mist, by St. Francis // , and others ; and he is too well known to need further comment, than that ho is at Fernhill stud farm
+  [220157278] Wednesday 26 June 1974 | Government Gazette of the State of New South | REGISTRATION OF STOCK BRANDS ACT, 1921.
+        , "Felspar", R.M.B.. Clarence town Road, via Maitland Odd William Laurance, "Fernhill Farm". Bellangry Road //  Childs Stephen Paul, 75 Annangrove Road, Kenthurst El ward Richard John, "Stone henge Farm", Lot 1, Mayo
+  [255663876] Friday 9 February 1934 | Ouyen Mail (Vic. : 1915 - 1941) | Advertising
+         suitable for child!en. 3 Spring Carts. * Jinkers. Ihiggy. large slock of new and secondhand Harness for //  and price on rail consigned to Cheltenham. H. C. SIEDE. Fernhill Poultry Farm. Bay Rd. Cheltenham. S
+  [256322098] Saturday 1 August 1891 | The Narracan Shire Advocate (Vic. : 1889 - 1 | Advertising
+         tallowing places :— Mechanics' Institute, Tarragon The Po t Office, Childem The Poet Office, AI lam bee // , Fernhill Farm, Bkarracan Park, THORPDALE. All Ordeia Punctually Attended to. • idera may also be left at Mr
+  [278146085] Saturday 13 August 1938 | The Sun News-Pictorial (Melbourne, Vic. : 19 | Advertising
+         H-itchm*. Id/ 100. Fernhill Poultry Farm, Bay Road, Cheltenham. Phone 707. CHUCKS Irom reliable //  (or sick child, in Y. .is O. odices. Reward. Find r return, H. Chambers, Id Darlington Grove, Coburg
+  [224442135] Saturday 18 November 1939 | Weekly Times (Melbourne, Vic. : 1869 - 1954) | Advertising
+         customers. Cash before despatch. We send anywhere. FERNHILL POULTRY FARM, Bay Road, Cheltenham. S22. Phone // 'gienic; any child can f A clean 2000 per hour. \ jl "BONSER" MASH MIXERS, for / \ wet or dry or wet mash
+  [205311161] Wednesday 12 February 1947 | The Age (Melbourne, Vic. : 1854 - 1954) | Advertising
+         '£4 50, £7 10/ per 100. Australorps,- unsexed. 14/ doz.. £2 12/fi 50. £5 per 100. FERNHILL POULTRY // ' FARM, Bay-road, CHELTENHAM. Phone 707. ' A :A.A. — All Classes of Poultry .Wanted fx . .for Export
+  [225981567] Saturday 23 March 1940 | Weekly Times (Melbourne, Vic. : 1869 - 1954) | Advertising
+         child can I J clean 2000 per hour. 1 I "BONSER" MASH MIXERS, I 1 for wet or dry mash, does an l i // ,10.' 50. 15/ doz. Black Orpingtons. £3,10/ per loo. 37-6 SO, 10/ doz. FERNHILL FOULTRY FARM, Bay Road
+  [73525193] Saturday 17 September 1932 | Frankston and Somerville Standard (Vic. : 19 | Advertising
+        /; 112, 14/; £5 per.1000. FERNHILL POULTRY FARM BAY ROAD, CHELTENHAM PHONE: CHELT. 707. SITUATIONS WANTED // " Mechanics' Institute, Frankston. Sat urday, 17th September, 1932. In aid of Orthopaedic Section of Child-ren
+  [224439029] Saturday 9 December 1939 | Weekly Times (Melbourne, Vic. : 1869 - 1954) | Advertising
+        , the 1 I I??IG,INAL" a11 tnetal, cleans f I ,dries hi one operation. \ I hygienic; any child can / I fc //  from satisfied customers. Cash before despatch. We send . anywhere. FERNHILL POULTRY FARM Bay Road
+  [68736834] Tuesday 27 September 1898 | Warragul Guardian (Warragul, Vic. : 1895 - 1 | Advertising
+        . GEu. PENDER, Fernhill Farm, Warroagul. STUD CARDS, dc. ON'T send to Town for your Printing. Support // , etc., can be obtained from J. Lebatt, Groom, Traralgoh South. STANDING THIS. SEASON, "Fernhill Farm
+  [68737659] Friday 9 December 1898 | Warragul Guardian (Warragul, Vic. : 1895 - 1 | Advertising
+        . PENDER, Fernhill Farm, Warragul. Stud Notices. TO STAND THIS SEASON AT - TRARALGON, -The Thoroughbred // . Traralgon, 19/958. STANDING THIS SEASON, AT ' Fernhill Farm," WARRAGUL, - DANDY, Junior. -The best son
+  [225429330] Saturday 19 November 1938 | Weekly Times (Melbourne, Vic. : 1869 - 1954) | Advertising
+        'metal, so slmpte. a infill I child can handle 11 easily and it is ' " . . . I Bhsnlultly sale and // . Cash before despatch. We send anywhere. _ . FERNHILL POULTRY FARM (H. C. Slede, Proprietor), Bay Road
+  [225562644] Wednesday 23 September 1942 | Weekly Times (Melbourne, Vic. : 1869 - 1954) | Advertising
+        . 11/ doz. FERNHILL POULTRY FARM. Bay Road. Cheltenham. Phone 707. DUCKS. — Giant Mus., K.C.t 4 and // /6. FERNHILL POULTRY FARM, Bay Rd.. Chelten-ham. Phone 707. f tOUNTRY CLIENTS.— YOUR LAST CHANCE. V. WOODMAN
+  [53897428] Monday 24 February 1919 | Morning Bulletin (Rockhampton, Qld. : 1878 - | Advertising
+         Tub, Stool, Hanging Pat--, Store. Child's Pine Commode. Pine Chest, Sofa. Deck Chair, Carpenter // SALES BY AUCTION. FERNHILL DAIRY FARM FERNHILL JWURY FARM Situated on the main Sandhills.] oad onlv
+  [73525133] Saturday 10 September 1932 | Frankston and Somerville Standard (Vic. : 19 | Advertising
+         FARM BAY ROAD, CHELTENHAM . PHONE: CHELT. 707. LOST AND FOUND LOST on Olivera HIll, pair of white kid //  per 100, £87/ 10/ per 1000. Csutom Hatching, 56 eggs. 9/; .112, 14/: £5 per 1000. FERNHILL POULTRY
+  [75000265] Friday 26 June 1936 | Frankston and Somerville Standard (Vic. : 19 | Advertising
+        . Australorp pullets £7/15/ per 100: Custom hatching, 55 eggs 6/; 110 eggs 11/, £4/10/ per. 1000. Fernhill //  Poultry, Farm, Bay rd., Cheltenham. Phone 707. i FIREWOOD, 2ft.. gum 10/, 1ft. 12/, 2ft. oak 12/ ton
+  [224441363] Saturday 21 October 1939 | Weekly Times (Melbourne, Vic. : 1869 - 1954) | Advertising
+         anvwhere. FERNHILL POULTRY FARM. Bay Road. Cheltenham. S.22. Phone 707. /POLE'S lor Quality. Your last //  "ORIGINAL" all metal, cleans and dries \ a in one operation. Simple, hygienic; any child can clean 2000 per
+  [130944734] Saturday 4 January 1908 | The Bega Budget (NSW : 1905 - 1920) | Advertising
+        »nd nccurate iha» «? -child uu?. it ? measure yon ritflil im-.m-j'* lime. Von i dp ian ndif jso'Mdv //  Sale. For Lease ay Auction. 'Fernhill' Farm, Bemboka, containing «5«S0 Acres, For a Term of '?- years
+  [224442919] Saturday 16 September 1939 | Weekly Times (Melbourne, Vic. : 1869 - 1954) | Advertising
+        . Cash before despatch. We send anywhere. FERNHILL POULTRY FARM Bav Road. Cheltenham. Phone 707 //  Gleaners, ine xne a original All Metal. You really can't # 'afford to be without one. Any child ft I can
+  [225982504] Saturday 9 March 1940 | Weekly Times (Melbourne, Vic. : 1869 - 1954) | Advertising
+         per 100, £2 10/ 50, 15/ doz. Black Orpingtons. £3/10/ per 100. 35 &lt; 1 50, 10/ doz. FERNHILL POULTRY //  FARM. Bay Road, Cheltenham. Phone 705. SILVER DORKINGS. I jtlsh to Inform the many people who hav» j
+  [121989557] Saturday 13 November 1920 | Queensland Times (Ipswich, Qld. : 1909 - 195 | Advertising
+         application to J. HAYES, 3rarsall. To Stand the Season at Fernhill Farm, and Travel* Rosewood, Tallegalia // , child's cot.nod bedding, Duchess, Wash stand'and, were, ..tables, dresser, safes, couch
+  [121986736] Saturday 30 October 1920 | Queensland Times (Ipswich, Qld. : 1909 - 195 | Advertising
+         for. Full Pedigree on' application to J. HAYES,. - Braesall, To Stand tle Season at Fernhill Farm, and //  that such TRANSFEIR may be granted to me. I am married, having a husband and one child. I have not held
+  [279923346] Saturday 12 December 1953 | The Sun News-Pictorial (Melbourne, Vic. : 19 | Advertising
+        . WANTED Good Seaside House or Flat with Refrigeration, for Grazier, wife, one child, two weeks front Jan 9 // , Dry. Fernhill Poultry Farm, Boy-rd, XF1707 HONEY, choice Yellow Box GO lbs oO/ 30 lbs, 28/. Freight
+  [53898723] Friday 14 February 1919 | Morning Bulletin (Rockhampton, Qld. : 1878 - | Advertising
+        , Austrian chairs, cane, and seagrass chairs, wick r cradle, child's chair, pictures, carpets, linoleums // 'S. HEMPENBTALL BROS.. LTD., The Auctioneers, Rockhampton. FERNHILL DAIRY FARM FERNHILL J5AIRY FARM Situated on
+  [73524829] Saturday 6 August 1932 | Frankston and Somerville Standard (Vic. : 19 | Advertising
+         Pri day, 508 Melbourne road,?Frankston. STRAYED from Mooroodue, child's ; pony",small black mare // .. CHICK FEED 14/ cwt. Fernhill Poultry Farm, Bay road, Cheltenham. Phone 707 Chelt. HOUSES & LAND WANTED
+  [53899421] Saturday 22 February 1919 | Morning Bulletin (Rockhampton, Qld. : 1878 - | Advertising
+        . FERNHILL DAIRY FARM FERNHILL MIRY FARM Situated on the main Sandhills-road, only 4i miles from Tunsamul // , Jugs and Basins, Wash Bench, Small Tub, Stool, Hanging Safe, Stove, Child's Pine Commode, Pine Chest
+  [73276523] Friday 27 September 1935 | Frankston and Somerville Standard (Vic. : 19 | Advertising
+         oak kitchen tables, 1 tall boy, child's chair, kitchen utensils, lawn mower, coir matting, roler OlIns // /, males 15/ each. Fernhill Poultry Farm, Bay rd., Cheltenham. Phone 707. DOORS, windows, timber, gas
+  [73276124] Friday 16 August 1935 | Frankston and Somerville Standard (Vic. : 19 | Advertising
+        / each. Fernhill Poultry Farm, Bay rd., Cheltenham. Phone. 707. DOUBLE-SIEATED buggy, pole and shafts //  tender to be marked "Tender for............. due ......." FOR SALE CHILD'S pony, sound and quiet, £5. F
+  [224437967] Saturday 28 October 1939 | Weekly Times (Melbourne, Vic. : 1869 - 1954) | Advertising
+        , hygienic; any child can clean 2000 per hour. / "BONSER" MASII MIXERS, for wet or dry mash, does an //  testimonials from satisfied -customers. Cash before despatch. We send anywhere. FERNHILL POULTRY FARM, Bay Road
+  [68736953] Friday 7 October 1898 | Warragul Guardian (Warragul, Vic. : 1895 - 1 | Advertising
+         Farm. GEO. PENDED, Fernhill Farm, Warragul. 8TUD CARDS, c. D ON'T-send to Town for your Printing //  a child can drive him. No mares will be served on Sundays. Every care taken of mares, but no
+  [68737265] Friday 4 November 1898 | Warragul Guardian (Warragul, Vic. : 1895 - 1 | Advertising
+        - STANDING. THIS SEASON, . " Fernhil. Farm,' WARRAGUL, -- DANDY, Junior. -The best son standing of.the Grand //  delay to the Farm. n GEO. PENDER, Fernhill Farm, Warragul. n STUD CARDS, do. D ON'T send to Town for
+  [68737775] Tuesday 20 December 1898 | Warragul Guardian (Warragul, Vic. : 1895 - 1 | Advertising
+        , a good mover, and so quiet that a child can drive him. No mares will be served on Sundays. Every // . Traralgon, 9/9/98. STANDING THIS SEASON, "Fernhill Farm," WARRAGUL, - DANDY, Junior. -The best son standing
+  [68737809] Friday 23 December 1898 | Warragul Guardian (Warragul, Vic. : 1895 - 1 | Advertising
+        , a good mover, and so quiet that a child can drive him. No mares will be served on Sundays. Every // . Traralgon,. 919198. •- . -STANDING "THIS SEASON, AT "Fernhill Farm;" WARRAGUL, - DANDY, :Junior. -' The best
+  [68737059] Tuesday 18 October 1898 | Warragul Guardian (Warragul, Vic. : 1895 - 1 | Advertising
+        . GEO. PENDER, Fernhill Farm, W\areaul. JUe CARDS, doc DON'T send to Town ob yaour Printing' Support // . H is very stylish, a good mowr, a Ind so q'ie.t:that a child can drive hil. N'. niursa will be
+--- '"George Johnston" Childers' limits=None total=4209 shown=3
+  [146969050] Friday 25 May 1894 | Maryborough Chronicle, Wide Bay and Burnett  | THE ISIS SCRUB. POLICE COURT, CHILDERS. Wednesday 
+        . against George Johnston. Mr. Brettingbam appeared for tbs oomplsluant Company. After tbe evidenoe of tbe
+  [21182422] Tuesday 11 October 1927 | The Brisbane Courier (Qld. : 1864 - 1933) | SOCIAL.
+         staying at Selwyn Private Hotel. Mr. and Mrs. Len. Holmes and child, accompanied by their mother, Mrs. J
+  [201058279] Friday 14 February 1913 | The Week (Brisbane, Qld. : 1876 - 1934) | ADELAIDE TRAGEDY. ADELAIDE, February 11.
+         .murdered the child, and afterawards committed suicide. Johnston. - for manv years, had been employed at the //  'Adelaide,• yesterday: - Fred-' cnek George. ' Johnston, 29,.—" coach • .trimmer, of . Prospect road, it is
+--- '"George Johnstone" Childers' limits=None total=4204 shown=5
+  [146969050] Friday 25 May 1894 | Maryborough Chronicle, Wide Bay and Burnett  | THE ISIS SCRUB. POLICE COURT, CHILDERS. Wednesday 
+        . against George Johnston. Mr. Brettingbam appeared for tbs oomplsluant Company. After tbe evidenoe of tbe
+  [287478483] Tuesday 7 February 1933 | The Isis Recorder (Childers, Qld. : 1931 - 1 | Personal
+        Personal Miss McGowan (Maryborough) is at present on a visit to Childers as the guest of the Foley //  sons, Norman, Bert and Robert. Mr. John George Johnstone, second son ox xne late ivir. ana ivirs. Aj
+  [151359890] Thursday 22 February 1940 | Maryborough Chronicle, Wide Bay and Burnett  | OBITUARY MRS. HARRIET A. HUGHES
+        . Childers. Children by the late Mrs. Hughes' first marriage were Messrs. William John and George Vincent //  Maryborough to Tinana. The late Mrs. Hughes was married twice. Her first husband, the late Mr. George
+  [287617188] Friday 23 February 1940 | The Isis Recorder (Childers, Qld. : 1931 - 1 | APPLE TREE CREEK PIONEER Death of Mrs. H. A. Hughe
+        . William John and George Vincent Johnstone (Maryborough), Frederick Jason ("Toby") Johnstone (Colosseum // , the late Mr. George Johnstone, was a road contractor end she and her husband were among the first
+  [292995079] Saturday 8 July 1916 | The Colonist (Maryborough, Qld. : 1884 - 195 | Family Notices
+        , . eldest, , son of. Harriett Ann Jqhn.s.ione, Maryborough, and "the" late George Johnstone, -and 'beloved //  Khandal-lah Farm. Childers, .. and youngest son', of the Hate' J. E.. Noakes, of Maryborough, age.d 3
+--- '"Johnston" Isis Scrub selection' limits={'decade': ['188'], 'year': ['1884']} total=87 shown=11
+  [23975105] Saturday 20 September 1884 | The Queenslander (Brisbane, Qld. : 1866 - 19 | Official Notifications. (From last Saturday's Gove
+        . Murray, M. Stenner, P. Thciss, and J. Truss; Tool burnt South—P. M'Koy and S. Thompson, rice A. Johnston //  of Nerang, Coomcra, and Tiaro. Forfeited Selections.—John Frederick Hinsch, ISI acre.", Gympie
+  [3437349] Saturday 20 December 1884 | The Brisbane Courier (Qld. : 1864 - 1933) | The Brisbane Courier. SATURDAY, DECEMBER 20, 1884.
+         was stated in answer to a question that the bl inch to the Isis Scrub would bo cloven and a half miles //  su laut on the t iblc the hnal leport of the Select Committee appointed to lnquiio into maltcis
+  [292521501] Saturday 4 October 1884 | The Colonist (Maryborough, Qld. : 1884 - 195 | GENERAL NEWS.
+        -fertilisation and careful selection. The Maryborough Customs returns for the past month and quarter show a // . The steamer Victoria grounded on the ToAvnsville bar in mid-channel Avhile leaving for the Johnstone
+  [292522224] Saturday 18 October 1884 | The Colonist (Maryborough, Qld. : 1884 - 195 | GENERAL NEWS.
+        . They comprise Avorks of all descriptions, and certainly reflect credit on the committee ivho selected //  gone by the Avhole of the Urangan scrub Avill be under sugar. The usual monthly meeting of the
+  [292522735] Saturday 22 November 1884 | The Colonist (Maryborough, Qld. : 1884 - 195 | GENERAL NEWS.
+        , Tiaro, Upper Mary, Townsville, Gympie and Isis. It may not be out of place to remark that the floating // ,000, extension of the Maryborough wharf branch railway ; £20,000, Isis branch railway ; £100,000, to complete
+  [3433316] Thursday 21 August 1884 | The Brisbane Courier (Qld. : 1864 - 1933) | OPENING OF THE EXHIBITION.
+         as in previous years. There was only one exhibit from the Rosewood Scrub, and that came too late for //  selections, and the lime-light on the fountain will afford a pleasing spectacle for those who visit the
+  [3426929] Tuesday 12 February 1884 | The Brisbane Courier (Qld. : 1864 - 1933) | Classified Advertising
+         64 9.10  5302 117 11 17210 618 I 0 821 8 21 G cc V- 11 10 all other  11 127 15 111 ISIS  "0 ? at 3 21 //  purchaser W A B WEIGALL RANGE SCRUB LAND JOHN CAMERON is us for PRIVATE S VL1 Pot lion 176" Pm lib of Maleny
+  [174674965] Saturday 1 November 1884 | The Telegraph (Brisbane, Qld. : 1872 - 1947) | Advertising
+         £13 ISi. ? . . 18-CARAT GOLDr ' ! Koyless, fine 'movement, £28 to £50. ? ? ' . . :; fi ??. ;???. I //  OF SELECTION No. 3,852, BRISBANE. IT having Ijecn ascertained fliat 'the above selection was
+  [178022113] Wednesday 27 February 1884 | Gympie Times and Mary River Mining Gazette ( | Advertising
+        «*. rhls llonurtlead .Selection is allowed to be the cium of the \VM#t« Han. About lifttcn acrta U tccurely //  itwxA in with tulxUtiliil Piling r'rnct ; at»f|, ?« it i« Scrub 1ajj-1, i« Kuiuble for Agricultural or
+  [174673705] Monday 22 December 1884 | The Telegraph (Brisbane, Qld. : 1872 - 1947) | Advertising
+         Qneen«tn»J- , , ? I- : rho Oldest Established Firm and U*0 Largost Stock to select from in tho Colon // . , . ? . ? ? ? ? ? . ?..??? '? ? : Scrub BRUSHES, from Gd: each. Eleotro-plated CRUETS, from 5s. each.-. ? Rookingbam TEAPOTS, from is. 6d
+  [174672889] Thursday 11 December 1884 | The Telegraph (Brisbane, Qld. : 1872 - 1947) | Advertising
+         plication of the fine properties of well-selected ooooa, Mr. Bpps has provided our braakfatl tables with a // , Kelvin Grove ; very easy terms. J. S. Johnston, Central Chambers. ? -TtTANTED to SELL a good Scrub PAD

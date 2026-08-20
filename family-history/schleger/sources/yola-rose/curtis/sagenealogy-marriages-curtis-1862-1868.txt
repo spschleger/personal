@@ -1,0 +1,29 @@
+GenealogySA (SAGHS) online database search
+Query: {'surname': 'Curtis', 'year': '1865', 'acc': '3', 'coll': 'marriage'}
+URL: https://www.genealogysa.org.au/index.php?option=com_gsa&view=gsa&layout=essearch&Itemid=193&collection_id=marriage&page_no=1&sort_by=&sort_direction=asc&Surname=Curtis&GivenName=&year_from=1865&accuracy=3&ShipName=
+Retrieved 2026-08-19
+
+ROWS (23):
+Groom Surname | Groom Given Names | Bride Surname | Bride Given Names | District | Book/Page | Marriage Year | Action
+CURTIS | John | (members only) | Hannah Maria | Clare | 52/230 | 1862 | View Details
+(members only) | George | CURTIS | Emily Elizabeth | Adelaide | 49/147 | 1862 | View Details
+CURTIS | Henry | (members only) | Mary Hutson | Adelaide | 49/39 | 1862 | View Details
+CURTIS | Thomas | (members only) | Margaret | Talunga | 49/26 | 1862 | View Details
+(members only) | Thomas Shaw | CURTIS | Georgiana Mary | Barossa | 55/84 | 1863 | View Details
+(members only) | William | CURTIS | Emma | Barossa | 53/117 | 1863 | View Details
+(members only) | Frederick Gervis | CURTIS | Rachel | Talunga | 60/373 | 1864 | View Details
+(members only) | Henry | CURTIS | Harriett | Adelaide | 59/177 | 1864 | View Details
+(members only) | William Henry | CURTIS | Rebecca | Highercombe | 59/54 | 1864 | View Details
+(members only) | Michael | CURTIS | Martha Elizabeth | Adelaide | 60/277 | 1864 | View Details
+(members only) | Henry | CURTIS | Harriett | Adelaide | 59/338 | 1864 | View Details
+CURTIS | Henry | (members only) | Eliza | Adelaide | 62/99 | 1865 | View Details
+(members only) | John | CURTIS | Mary | Barossa | 62/360 | 1865 | View Details
+CURTIS | George Massy | (members only) | Martha | Kapunda | 61/321 | 1865 | View Details
+(members only) | William | CURTIS | Mary Jane | Clare | 69/321 | 1866 | View Details
+CURTIS | James | (members only) | Margaret | Adelaide | 68/42 | 1866 | View Details
+(members only) | Aubrey | CURTIS | Mary Ann | Hindmarsh | 73/58 | 1867 | View Details
+(members only) | Aaron | CURTIS | Lousia | Mount Barker | 70/54 | 1867 | View Details
+(members only) | Aubrey | CURTIS | Mary Ann | Hindmarsh | 73/206 | 1867 | View Details
+(members only) | Robert | CURTIS | Elizabeth | Adelaide | 74/287 | 1868 | View Details
+(members only) | Francis Michael Sturtin Marks | CURTIS | Elizabeth | Adelaide | 74/104 | 1868 | View Details
+(members only) | George | CURTIS | Annie Sally | Adelaide | 77/9 | 1868 | View Details

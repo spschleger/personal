@@ -1,0 +1,10 @@
+Cornwall OPC database burials search
+URL: https://www.cornwall-opc-database.org/search-database/burials/index.php?year_from=1830&year_to=1900&parish=Blazey%2C+St.&forename1=&surname1=Curtis&t=burials&bf=Search
+Retrieved 2026-08-19
+
+ROWS (5):
+ |  | Name | 
+Year | Parish Circuit Or Chapel | Forename | Surname |  >> /search-database/burials/index.php?order=yearD&amp;surname1=Curtis&amp;year_from=1830&amp;year_to=1900&amp;parish=Blazey%2C+St.&amp;bf=Search&amp;limit=50
+1848 | Blazey, St. | William | CURTIS | more >> /search-database/more-info/?t=burials&amp;id=5136813
+1882 | Blazey, St. | Elizabeth | CURTIS | more >> /search-database/more-info/?t=burials&amp;id=5138395
+1883 | Blazey, St. | Mary | CURTIS | more >> /search-database/more-info/?t=burials&amp;id=5138423

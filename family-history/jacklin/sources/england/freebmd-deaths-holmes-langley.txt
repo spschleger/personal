@@ -1,0 +1,38 @@
+FreeBMD search deaths-holmes-langley: {'surname': 'Holmes', 'given': 'Langley', 'type_': 'Deaths', 'start': 1837, 'end': 1900}
+Source: https://www.freebmd.org.uk/cgi/search.pl
+
+NO RESULTS / ERROR
+
+FreeBMD - Search
+Advertisement
+Advertisement
+Sorry, we found no matches.
+Search for
+Type:
+Deaths
+Surname:
+Holmes
+First name(s):
+Langley
+Start date:
+Dec 1837
+End date:
+Dec 1900
+Has our search engine found the record you are seeking?
+Click 
+here
+ to learn what to do now.
+Don't understand the results? Can't find the record you are looking for?
+Perhaps our 
+Results Help
+ could have the answer.
+Do you have information about an entry other researchers might be interested in (e.g. the other spouse of a marriage)? Please consider leaving a 
+Postem
+.
+If FreeBMD has been of help in your search you may wish to consider making a 
+donation
+.
+FreeBMD hasn't yet transcribed the whole index - see 
+here
+ for which years have been transcribed.
+Since we haven't yet transcribed the whole index we need more p

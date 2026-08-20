@@ -1,0 +1,50 @@
+
+## johnstone-deaths.jsonl  total=791  hits=6
+  D 14/04/1923 John Johnstone | Fredrick Jason Johnstone / Rose Jackson | dob   [C1214/1923]
+  D 18/01/1928 Henry Albert Curtis Johnstone | George Johnstone / Harriet Ann Curtis | dob   [C677/1928]
+  D 22/10/1964 Carey Everard Johnstone | John Vivian Haines / Jacqueline Dawn Fryer | dob   [B69235/1964]
+  D 25/10/1969 Frederick Jason Johnstone | George Johnstone / Harriett Ann Curtis | dob   [C6787/1969]
+  D 29/11/1969 Richard Johnstone Paul | Gilbert Johnstone Paul / Charlotte Scott | dob   [B10972/1969]
+  D 25/06/1986 Desmond Watson Johnstone | Watson Johnstone / Marina Humphreys | dob 1925  [4879/1986]
+
+## johnston-deaths.jsonl  total=2329  hits=9
+  D 02/08/1889 Jane Johnston | Gilbert White / Jane Rutherford | dob   [C3243/1889]
+  D 16/11/1911 Charles Johnston Cory | Gilbert Cory / Jeannette Rens | dob   [C1775/1911]
+  D 28/05/1936 Mary Elizabeth Shaw Johnston | Alan Desmond Whitbred / Margaret Hilda Shaw | dob   [C2188/1936]
+  D 19/08/1961 David Terrence Johnston | Desmond Stanley / Delle-Mae Francis Rew | dob   [B46645/1961]
+  D 26/09/1962 John Gilbert Johnston | Thomas / Emma Matilda Roach | dob   [C4163/1962]
+  D 18/06/1964 Alan Desmond Whitbred Johnston | James Barret / Annie Ethel Beatrice Tooth | dob   [B66246/1964]
+  D 30/10/1970 Gerald Desmond Johnston | Alvin James Johnston / Eileen Lillian Finneran | dob   [C7202/1970]
+  D 16/01/1978 William John Johnston | Henry Albert Johnston / Ruby Dorothy Adam | dob   [C430/1978]
+  D 24/08/1994 Desmond Johnston | George Arthur Johnston / Eileen Monika Griffin | dob 1925  [8714/1994]
+
+## johnstone-marriages.jsonl  total=565  hits=8
+  M 23/11/1886 Gilbert Johnstone = Annie Dixon  [C498/1886]
+  M 26/07/1905 Gilbert Johnstone Farleigh = Janet Taylor  [C237/1905]
+  M 21/08/1919 Frederick Jason Johnstone = Rose Jackson  [C2254/1919]
+  M 27/09/1924 Henry Albert Curtis Johnstone = Elsie Daisy Strehlau  [C2427/1924]
+  M 14/12/1935 Florence Emily Johnstone = Gilbert Lloyd Manuel  [C4992/1935]
+  M 20/11/1943 Jacqueline Johnstone = Lawrence Aubrey Josefski  [C3965/1943]
+  M 26/06/1948 Mafalda Johnstone = Edward Lewis Bartlem  [C1382/1948]
+  M 21/04/1951 Desmond Robert Johnstone = Thelma Catherine West  [C2389/1951]
+
+## johnston-marriages.jsonl  total=1645  hits=7
+  M 30/09/1910 Isabella Johnston Ritchie = Gilbert Jackson Stewart  [B9331/1910]
+  M 30/01/1932 John Gilbert Johnston = Frances Erica Hodgson  [C814/1932]
+  M 29/07/1935 Alan Desmond Whitbred Johnston = Margaret Hilda Shaw  [C2715/1935]
+  M 04/01/1939 Mona Johnston = Desmond Patrick Eagers  [C656/1939]
+  M 22/08/1942 Henry Albert Johnston = Ruby Dorothy Adams  [C3432/1942]
+  M 22/10/1949 Marion Isabell Johnston = Gilbert Roy Wickham  [B24377/1949]
+  M 26/10/1950 Maureen Therese Johnston = Desmond James Murphy  [C5094/1950]
+
+## johnstone-births.jsonl  total=481  hits=2
+  B 29/12/1919 John Johnstone | Frederick Jason Johnstone / Rose Jackson  [C13851/1919]
+  B 10/11/1923 Jacquiline Johnstone | Frederick Jason Johnstone / Rose Jackson  [C12503/1923]
+
+## johnston-births.jsonl  total=1536  hits=6
+  B 28/12/1892 Frederick Jason Johnston | George Johnston / Harriet Ann Curtis  [C12224/1893]
+  B 25/08/1895 Henry Albert Curtis Johnston | George Johnston / Harriett Ann Curtis  [C8499/1895]
+  B 11/06/1899 Alan Desmond Whitbred Johnston | James Barret Johnston / Anne Ethel Beatrice Tooth  [C753/1899]
+  B 06/09/1906 Desmond Earnest Johnston |  / Annie Johnston  [C5226/1906]
+  B 20/06/1906 John Gilbert Johnston | Thomas Johnston / Emma Matilda Roach  [B12655/1906]
+  B 10/12/1920 Henry Albert Johnston | Albert Johnston / Ada Hooper  [C11885/1920]

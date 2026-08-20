@@ -1,0 +1,16 @@
+GenealogySA (SAGHS) online database search
+Query: {'surname': 'Curtis', 'given': 'Thomas', 'coll': 'bisa'}
+URL: https://www.genealogysa.org.au/index.php?option=com_gsa&view=gsa&layout=essearch&Itemid=193&collection_id=bisa&page_no=1&sort_by=&sort_direction=asc&Surname=Curtis&GivenName=Thomas&year_from=&accuracy=&ShipName=
+Retrieved 2026-08-19
+
+ROWS (10):
+Surname | Given Names | Event Year | Action
+CURTIS | Thomas Ogden | 1831 | View Details
+CURTIS | Thomas | 1833 | View Details
+CURTIS | Thomas | 1841 | View Details
+CURTIS | Thomas | 1840 | View Details
+CURTIS | Thomas John | 1866 | View Details
+CURTIS | Thomas | 1864 | View Details
+CURTIS | Thomas William | 1852 | View Details
+CURTIS | Thomas | 1840 | View Details
+CURTIS | Thomas | 1866 | View Details

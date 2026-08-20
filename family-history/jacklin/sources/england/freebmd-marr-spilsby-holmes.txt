@@ -1,0 +1,1832 @@
+FreeBMD marr-spilsby-holmes: {'surname': 'Holmes', 'type_': 'Marriages', 'districtid': '265', 'start': 1855, 'end': 1870}
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Dec1837
+HOLMES
+ Charles 
+Spilsby 
+14
+867
+Marriages  Mar1838
+HOLMES
+ John 
+Spilsby 
+14
+631
+Marriages  Dec1838
+HOLMES
+ Eliza 
+Spilsby 
+14
+907
+Marriages  Mar1839
+Holmes
+ William 
+Spilsby 
+14
+717
+Holmes
+ Betsey 
+Spilsby 
+14
+727
+Marriages  Mar1840
+HOLMES
+ Sarah 
+Spilsby 
+14
+745
+Marriages  Sep1840
+HOLMES
+ Elizabeth 
+Spilsby 
+14
+749
+Marriages  Dec1840
+HOLMES
+ James 
+Spilsby 
+14
+967
+Marriages  Sep1842
+HOLMES
+ Robert 
+Spilsby 
+14
+763
+Marriages  Jun1843
+HOLMES
+ John 
+Spilsby 
+14
+1109
+Marriages  Sep1844
+HOLMES
+ Susannah 
+Spilsby 
+14
+793
+Marriages  Dec1845
+HOLMES
+ Eliza 
+Spilsby 
+14
+961
+HOLMES
+ John 
+Spilsby 
+14
+977
+HOLMES
+ Mary Anne 
+Spilsby 
+14
+1007
+Marriages  Jun1847
+Holmes
+ James 
+Spilsby 
+14
+1097
+Marriages  Sep1847
+HOLMES
+ Henry 
+Spilsby 
+14
+795
+Marriages  Dec1848
+HOLMES
+ John 
+Spilsby 
+14
+1049
+HOLMES
+ Thomas 
+Spilsby 
+14
+1049
+Marriages  Sep1849
+Holmes
+ Mary 
+Spilsby 
+14
+777
+Marriages  Mar1851
+Holmes
+ Ann 
+Spilsby 
+14
+795
+Marriages  Jun1851
+Holmes
+ Henrietta 
+Spilsby 
+14
+1075
+Holmes
+ Lucy 
+Spilsby 
+14
+1117
+Marriages  Dec1851
+Holmes
+ Harriet 
+Spilsby 
+14
+943
+Holmes
+ Mary 
+Spilsby 
+14
+961
+Marriages  Mar1852
+Holmes
+ Lucy 
+Spilsby 
+7a
+741
+Marriages  Jun1852
+Holmes
+ William 
+Spilsby 
+7a
+1057
+Marriages  Sep1852
+Holmes
+ Mary 
+Spilsby 
+7a
+855
+Marriages  Dec1852
+HOLMES
+ Elizabeth 
+Spilsby 
+7a
+1011
+HOLMES
+ Joseph 
+Spilsby 
+7a
+1041
+Marriages  Jun1853
+Holmes
+ John 
+Spilsby 
+7a
+1040
+Marriages  Sep1853
+HOLMES
+ Henry John 
+Spilsby 
+7a
+855
+Marriages  Jun1854
+HOLMES
+ Betsey 
+Spilsby 
+7a
+1069
+HOLMES
+ Charles 
+Spilsby 
+7a
+1085
+HOLMES
+ Harriett 
+Spilsby 
+7a
+1075
+HOLMES
+ John 
+Spilsby 
+7a
+1086
+Marriages  Jun1855
+HOLMES
+ Martha 
+Spilsby 
+7a
+1027
+Marriages  Sep1855
+Holmes
+ Edward 
+Spilsby 
+7a
+783
+Marriages  Dec1855
+Holmes
+ Elizabeth 
+Spilsby 
+7a
+1060a
+HOLMES
+ Elizabeth 
+Spilsby 
+7a
+1066a
+Marriages  Dec1856
+Holmes
+ Ann 
+Spilsby 
+7a
+1085
+Marriages  Mar1857
+Holmes
+ Rebecca 
+Spilsby 
+7a
+710
+Holmes
+ Rebecca 
+Spilsby 
+7a
+716
+Marriages  Jun1857
+Holmes
+ George 
+Spilsby 
+7a
+1085
+Marriages  Sep1857
+Holmes
+ Bennet 
+Spilsby 
+7a
+837
+Marriages  Dec1857
+Holmes
+ Elizabeth 
+Spilsby 
+7a
+1023
+Marriages  Mar1858
+HOLMES
+ Dorothy 
+Spilsby 
+7a
+713
+HOLMES
+ George 
+Spilsby 
+7a
+729
+Marriages  Jun1858
+Holmes
+ Thomas 
+Spilsby 
+7a
+971
+Marriages  Jun1859
+Holmes
+ Isaac 
+Spilsby 
+7a
+1069
+Marriages  Mar1860
+Holmes
+ Edward 
+Spilsby 
+7a
+759
+Marriages  Mar1861
+Holmes
+ Emma 
+Spilsby 
+7a
+653
+Marriages  Jun1861
+HOLMES
+ Eliza 
+Spilsby 
+7a
+933
+Marriages  Dec1861
+Holmes
+ Mary Ann 
+Spilsby 
+7a
+1100
+HOLMES
+ Mary Ann 
+Spilsby 
+7a
+1108
+Marriages  Mar1862
+Holmes
+ Thomas 
+Spilsby 
+7a
+717
+Marriages  Dec1862
+Holmes
+ Mary 
+Spilsby 
+7a
+1093
+Marriages  Sep1863
+Holmes
+ Jeptha 
+Spilsby 
+7a
+824
+Marriages  Mar1864
+Holmes
+ George 
+Spilsby 
+7a
+747
+Marriages  Dec1864
+Holmes
+ John 
+Spilsby 
+7a
+1087
+Marriages  Jun1865
+Holmes
+ Ann 
+Spilsby 
+7a
+1103
+Holmes
+ James 
+Spilsby 
+7a
+1141
+Holmes
+ Thomas Croft 
+Spilsby 
+7
+1063
+Holmes
+ Thomas Croft 
+Spilsby 
+7a
+1063
+Marriages  Dec1865
+Holmes
+ Ann 
+Spilsby 
+7a
+1097
+Marriages  Mar1867
+HOLMES
+ George 
+Spilsby 
+7a
+677
+Marriages  Jun1867
+HOLMES
+ George 
+Spilsby 
+7a
+1127
+HOLMES
+ Susanna 
+Spilsby 
+7a
+1128
+Marriages  Sep1867
+HOLMES
+ Hannah 
+Spilsby 
+7a
+903
+Marriages  Mar1868
+HOLMES
+ Fanny 
+Spilsby 
+7a
+797
+HOLMES
+ Langley 
+Spilsby 
+7a
+797
+HOLMES
+ Thomas 
+Spilsby 
+7a
+785
+Marriages  Jun1868
+Holmes
+ George 
+Spilsby 
+7a
+1125
+Marriages  Dec1868
+HOLMES
+ William 
+Spilsby 
+7a
+1103
+Marriages  Jun1869
+HOLMES
+ Elizabeth 
+Spilsby 
+7a
+1057
+Marriages  Sep1869
+HOLMES
+ John 
+Spilsby 
+7a
+827
+Marriages  Dec1869
+Holmes
+ Charles 
+Spilsby 
+7a
+1180
+Marriages  Mar1870
+HOLMES
+ John 
+Spilsby 
+7a
+677
+Marriages  Jun1870
+Holmes
+ Emma 
+Spilsby 
+7a
+1146
+Marriages  Dec1871
+Holmes
+ Henry John 
+Spilsby 
+7a
+1213
+Marriages  Jun1872
+HOLMES
+ Ellen 
+Spilsby 
+7a
+1191
+HOLMES
+ Wright 
+Spilsby 
+7a
+1167
+Marriages  Sep1872
+HOLMES
+ John Freeman 
+Spilsby 
+7a
+839
+Marriages  Dec1872
+Holmes
+ Eliza 
+Spilsby 
+7a
+1239
+Marriages  Sep1873
+Holmes
+ Annie 
+Spilsby 
+7a
+951
+Holmes
+ Mary 
+Spilsby 
+7a
+953
+Holmes
+ Stephen 
+Spilsby 
+7a
+973
+Marriages  Dec1873
+Holmes
+ Harriet 
+Spilsby 
+7a
+1223
+Marriages  Jun1874
+Holmes
+ Alice 
+Spilsby 
+7a
+1252
+Marriages  Jun1875
+HOLMES
+ Eliza Jane 
+Spilsby 
+7a
+1200a
+Marriages  Dec1875
+HOLMES
+ Elizabeth Ann 
+Spilsby 
+7a
+1173
+Marriages  Mar1878
+HOLMES
+ Henry 
+Spilsby 
+7a
+719
+Marriages  Jun1878
+HOLMES
+ Lizzie 
+Spilsby 
+7a
+1095
+Marriages  Mar1880
+Holmes
+ Sarah 
+Spilsby 
+7a
+735
+Marriages  Jun1880
+Holmes
+ William 
+Spilsby 
+7a
+976
+Marriages  Dec1880
+Holmes
+ William 
+Spilsby 
+7a
+1085
+Marriages  Sep1881
+Holmes
+ Annie 
+Spilsby 
+7a
+841
+Marriages  Jun1882
+HOLMES
+ John George 
+Spilsby 
+7a
+1137
+Marriages  Dec1884
+HOLMES
+ Susan Garret 
+Spilsby 
+7a
+1105
+Marriages  Mar1885
+Holmes
+ Matthew 
+Spilsby 
+7a
+711
+Marriages  Jun1885
+Holmes
+ Lavinia 
+Spilsby 
+7a
+1160
+Marriages  Sep1885
+Holmes
+ Joseph 
+Spilsby 
+7a
+871
+Marriages  Sep1886
+Holmes
+ Lizzie Harriet 
+Spilsby 
+7a
+877
+Marriages  Dec1886
+Holmes
+ Eliza Ann 
+Spilsby 
+7a
+1086
+Marriages  Sep1887
+HOLMES
+ Alfred 
+Spilsby 
+7a
+843
+Marriages  Jun1888
+Holmes
+ Ann 
+Spilsby 
+7a
+1083
+Holmes
+ Eliza 
+Spilsby 
+7a
+1107
+Holmes
+ Mary Ann 
+Spilsby 
+7a
+1109
+Holmes
+ Sarah Garrett 
+Spilsby 
+7a
+1125
+Holmes
+ Susan Elizabeth 
+Spilsby 
+7a
+1069
+Marriages  Sep1888
+HOLMES
+ Hannah Maria 
+Spilsby 
+7a
+945
+Marriages  Sep1889
+HOLMES
+ Alice Ann 
+Spilsby 
+7a
+945
+HOLMES
+ William 
+Spilsby 
+7a
+947
+Marriages  Mar1890
+Holmes
+ George 
+Spilsby 
+7a
+665
+Marriages  Jun1890
+HOLMES
+ Annie 
+Spilsby 
+7a
+1223
+Marriages  Sep1890
+HOLMES
+ Alice 
+Spilsby 
+7a
+951
+HOLMES
+ Kate 
+Spilsby 
+7a
+969
+Marriages  Dec1890
+Holmes
+ David 
+Spilsby 
+7a
+1091
+Marriages  Sep1891
+HOLMES
+ Samuel 
+Spilsby 
+7a
+1027
+Marriages  Mar1893
+Holmes
+ Elizabeth 
+Spilsby 
+7a
+763
+Holmes
+ Ellen 
+Spilsby 
+7a
+741
+Marriages  Sep1893
+Holmes
+ Minnie 
+Spilsby 
+7a
+1019
+Holmes
+ Sarah Jane 
+Spilsby 
+7a
+1037
+Marriages  Dec1893
+Holmes
+ Ernest 
+Spilsby 
+7a
+1099
+Holmes
+ Lucy 
+Spilsby 
+7a
+1075
+Marriages  Mar1894
+Holmes
+ William 
+Spilsby 
+7a
+873
+Marriages  Jun1894
+Holmes
+ Joseph Harvey 
+Spilsby 
+7a
+1111
+Marriages  Dec1896
+Holmes
+ John 
+Spilsby 
+7a
+1251
+Holmes
+ Minnie 
+Spilsby 
+7a
+1207
+Marriages  Mar1897
+Holmes
+ Maria 
+Spilsby 
+7a
+743
+Marriages  Dec1897
+HOLMES
+ Frances 
+Spilsby 
+7a
+1246
+Marriages  Jun1898
+Holmes
+ Sarah Bealby 
+Spilsby 
+7a
+1361
+Marriages  Sep1898
+Holmes
+ Emma 
+Spilsby 
+7a
+1143
+Marriages  Dec1898
+Holmes
+ Alice Maud 
+Spilsby 
+7a
+1209
+Marriages  Mar1899
+Holmes
+ Arthur 
+Spilsby 
+7a
+791
+Marriages  Dec1900
+Holmes
+ Clara 
+Spilsby 
+7a
+1314
+Marriages  Mar1901
+HOLMES
+ Arthur 
+Spilsby 
+7a
+743
+Marriages  Jun1901
+HOLMES
+ Sarah 
+Spilsby 
+7a
+1477
+Marriages  Sep1901
+HOLMES
+ Frances Anne 
+Spilsby 
+7a
+1260
+Holmes
+ Mary Hannah 
+Spilsby 
+7a
+1243
+Marriages  Dec1901
+HOLMES
+ Fred Freeman 
+Spilsby 
+7a
+1247
+HOLMES
+ George Edward 
+Spilsby 
+7a
+1209
+Marriages  Mar1902
+Holmes
+ John William 
+Spilsby 
+7a
+981
+Marriages  Dec1902
+Holmes
+ Annie Mabel 
+Spilsby 
+7a
+1279
+Marriages  Jun1903
+Holmes
+ Thomas William 
+Spilsby 
+7a
+1455
+Marriages  Jun1905
+Holmes
+ Flora Eliza 
+Spilsby 
+7a
+1433
+Holmes
+ Florence Eliza 
+Spilsby 
+7a
+1433
+Holmes
+ Mary Hannah 
+Spilsby 
+7a
+1481
+Marriages  Dec1905
+HOLMES
+ George 
+Spilsby 
+7a
+1316
+Marriages  Jun1906
+HOLMES
+ John George 
+Spilsby 
+7a
+1393
+Marriages  Dec1906
+HOLMES
+ Joseph 
+Spilsby 
+7a
+1279
+Marriages  Mar1908
+HOLMES
+ James Albert 
+Spilsby 
+7a
+843
+Marriages  Jun1909
+HOLMES
+ William David 
+Spilsby 
+7a
+1379
+Marriages  Mar1910
+HOLMES
+ Amy 
+Spilsby 
+7a
+1132a
+Marriages  Jun1911
+Holmes
+ Alice 
+Spilsby 
+7a
+1485
+Holmes
+ Rebecca 
+Spilsby 
+7a
+1515
+Marriages  Dec1911
+Holmes
+ Betsy 
+Spilsby 
+7a
+1296
+Holmes
+ George 
+Spilsby 
+7a
+1303
+Marriages  Mar1912
+Holmes
+ Olive 
+Redford 
+Spilsby 
+7a
+807
+Marriages  Sep1912
+Holmes
+ George C 
+Thorpe 
+Spilsby 
+7a
+1349
+Marriages  Jun1913
+Holmes
+ Louisa E 
+Hemsworth 
+Spilsby 
+7a
+1183
+Holmes
+ Margaret M 
+Horry 
+Spilsby 
+7a
+1247
+Marriages  Dec1914
+HOLMES
+ Elizabeth M 
+Coupland 
+Spilsby 
+7a
+1343
+Marriages  Mar1915
+Holmes
+ John T 
+Blakey 
+Spilsby 
+7a
+933
+Marriages  Jun1915
+Holmes
+ Mary 
+Young 
+Spilsby 
+7a
+1690
+Marriages  Dec1915
+Holmes
+ Robert H 
+Rymer 
+Spilsby 
+7a
+1759
+Marriages  Dec1916
+Holmes
+ Ada F 
+Scotney 
+Spilsby 
+7a
+1189
+Marriages  Mar1919
+Holmes
+ Nellie 
+Maltby 
+Spilsby 
+7a
+1024
+Marriages  Jun1919
+Holmes
+ Samuel W B 
+C[au]tt 
+Spilsby 
+7a
+1654
+Marriages  Sep1919
+Holmes
+ Rose A 
+Blakey 
+Spilsby 
+7a
+1597
+Marriages  Mar1920
+Holmes
+ Elizabeth 
+Roper 
+Spilsby 
+7a
+1128
+Marriages  Sep1920
+Holmes
+ William 
+Sheffield 
+Spilsby 
+7a
+1656
+Marriages  Mar1922
+Holmes
+ Daisy 
+Hanes 
+Spilsby 
+7a
+972
+Marriages  Dec1922
+HOLMES
+ Thomas 
+Barber 
+Spilsby 
+7a
+1329
+Marriages  Sep1923
+Holmes
+ Lizzie 
+Gilbert 
+Spilsby 
+7a
+1505
+Marriages  Sep1924
+Holmes
+ Florence 
+Jacques 
+Spilsby 
+7a
+1453
+Holmes
+ Ida O 
+Turner 
+Spilsby 
+7a
+1468
+Marriages  Jun1925
+Holmes
+ Fanny 
+Allis 
+Spilsby 
+7a
+1501
+Holmes
+ Ida 
+Brown 
+Spilsby 
+7a
+1495
+Marriages  Sep1925
+Holmes
+ Lily 
+Grooby 
+Spilsby 
+7a
+1457
+Marriages  Dec1927
+Holmes
+ Elsie E 
+Kirkby 
+Spilsby 
+7a
+1458
+Marriages  Sep1929
+Holmes
+ Robert H 
+Storr 
+Spilsby 
+7a
+1662
+Marriages  Dec1929
+Holmes
+ George 
+Calvert 
+Spilsby 
+7a
+1610
+Marriages  Mar1930
+Holmes
+ May 
+Elliott 
+Spilsby 
+7a
+931
+Marriages  Dec1930
+Holmes
+ Annie 
+Blood 
+Spilsby 
+7a
+1377
+Marriages  Dec1931
+Holmes
+ Mary 
+Pykett 
+Spilsby 
+7a
+1439
+Holmes
+ Stanley R 
+Atherton 
+Spilsby 
+7a
+1465
+Marriages  Jun1933
+Holmes
+ Grace K 
+Lewis 
+Spilsby 
+7a
+1565
+Marriages  Sep1933
+Holmes
+ Doris 
+Hare 
+Spilsby 
+7a
+1571
+Holmes
+ Louisa A 
+Beaumont 
+Spilsby 
+7a
+1595
+Marriages  Dec1933
+Holmes
+ Elsie M 
+Anderson 
+Spilsby 
+7a
+1455
+Marriages  Mar1934
+Holmes
+ Joseph 
+Bontoft 
+Spilsby 
+7a
+1043
+Marriages  Sep1934
+Holmes
+ Edith 
+Coleman 
+Spilsby 
+7a
+1707
+Marriages  Sep1935
+Holmes
+ Phyllis I 
+Blackburn 
+Spilsby 
+7a
+1691
+Marriages  Dec1937
+Holmes
+ John W 
+Thornhill 
+Spilsby 
+7a
+1483
+Marriages  Jun1938
+Holmes
+ Walter 
+Fixter 
+Spilsby 
+7a
+1747
+Marriages  Dec1938
+Holmes
+ Violet 
+Applewhite 
+Spilsby 
+7a
+1557
+Marriages  Jun1939
+Holmes
+ Edna 
+North 
+Spilsby 
+7a
+1721
+Marriages  Sep1939
+Holmes
+ Renee 
+Bramhall 
+Spilsby 
+7a
+2185
+Marriages  Mar1943
+Holmes
+ Kenneth L G 
+Dimmock 
+Spilsby 
+7a
+1162
+Marriages  Mar1944
+HOLMES
+ Doris 
+Leggett 
+Spilsby 
+7a
+1173
+HOLMES
+ Eva M 
+Baker 
+Spilsby 
+7a
+1171
+Marriages  Dec1944
+HOLMES
+ John C 
+White 
+Spilsby 
+7a
+1403
+Marriages  Sep1945
+Holmes
+ Joseph 
+Irving 
+Spilsby 
+7a
+2006
+Marriages  Mar1946
+Holmes
+ Jack 
+Tonsley 
+Spilsby 
+7a
+1351
+Marriages  Sep1947
+Holmes
+ Hubert 
+Taylor 
+Spilsby 
+3b
+1309
+Marriages  Sep1948
+Holmes
+ Francis G 
+Barr 
+Spilsby 
+3b
+1237
+Marriages  Mar1949
+Holmes
+ John 
+Parker 
+Spilsby 
+3b
+983
+Marriages  Jun1949
+Holmes
+ Nancy M 
+Morris 
+Spilsby 
+3b
+1185
+Marriages  Sep1949
+Holmes
+ Raymond A 
+Bugg 
+Spilsby 
+3b
+1227
+Marriages  Jun1950
+Holmes
+ Charles V 
+Shortt 
+Spilsby 
+3b
+991
+Marriages  Jun1951
+HOLMES
+ Rose 
+BUCKBERRY 
+Spilsby 
+3b
+880
+Marriages  Dec1951
+HOLMES
+ Eileen 
+ELLIS 
+Spilsby 
+3b
+915
+Marriages  Sep1952
+HOLMES
+ Phyllis A 
+YOUNG 
+Spilsby 
+3b
+1117
+Marriages  Dec1952
+HOLMES
+ David 
+DONNELLY 
+Spilsby 
+3b
+903
+Marriages  Dec1953
+HOLMES
+ Muriel M 
+DALES 
+Spilsby 
+3b
+865
+Marriages  Jun1954
+Holmes
+ Madge W 
+Wilkinson 
+Spilsby 
+3b
+959
+Marriages  Dec1954
+HOLMES
+ Royston J 
+EWILES 
+Spilsby 
+3b
+947
+Marriages  Jun1956
+Holmes
+ John R 
+Rittgerott 
+Spilsby 
+3b
+868
+Marriages  Dec1956
+HOLMES
+ John B 
+WALKER 
+Spilsby 
+3b
+853
+Marriages  Mar1957
+HOLMES
+ Winifred A 
+IREMONGER 
+Spilsby 
+3b
+1237
+Marriages  Sep1958
+HOLMES
+ Maurice 
+RAYNOR 
+Spilsby 
+3b
+1213
+Marriages  Dec1958
+HOLMES
+ Peter N 
+BRAHAM 
+Spilsby 
+3b
+839
+Marriages  Mar1959
+HOLMES
+ Dennis A 
+WILKINSON 
+Spilsby 
+3b
+1221
+Marriages  Sep1959
+HOLMES
+ Jean 
+MYERS 
+Spilsby 
+3b
+1140
+Marriages  Sep1960
+HOLMES
+ Stanley R 
+YOUNG 
+Spilsby 
+3b
+1184
+Marriages  Sep1961
+HOLMES
+ Harold 
+BOND 
+Spilsby 
+3b
+1284
+Marriages  Dec1961
+HOLMES
+ William H 
+ADSHEAD 
+Spilsby 
+3b
+889
+Marriages  Mar1962
+HOLMES
+ Frank G 
+GOOD 
+Spilsby 
+3b
+1244
+Marriages  Sep1962
+HOLMES
+ George W 
+SCARGILL 
+Spilsby 
+3b
+1184
+Marriages  Dec1962
+HOLMES
+ Frederick J 
+COOPER 
+Spilsby 
+3b
+863
+Marriages  Mar1963
+HOLMES
+ KATHLEEN 
+HUNDLEBY 
+SPILSBY 
+3B
+1215
+Marriages  Mar1964
+HOLMES
+ ROBERT W 
+FEATHERSTONE 
+SPILSBY 
+3B
+1182
+Marriages  Jun1964
+HOLMES
+ CAROLE 
+WILKINSON 
+SPILSBY 
+3B
+857
+Marriages  Jun1965
+HOLMES
+ Christa H 
+Taylor 
+Spilsby 
+3b
+943
+Marriages  Sep1965
+Holmes
+ George F A 
+Parker 
+Spilsby 
+3b
+1229
+Marriages  Mar1966
+HOLMES
+ DAVID A 
+DICKENS 
+SPILSBY 
+3B
+1195
+Marriages  Jun1966
+HOLMES
+ DIAN G 
+HATCHER 
+SPILSBY 
+3B
+958
+HOLMES
+ JOHN R 
+MACKINDER 
+SPILSBY 
+3B
+971
+Marriages  Dec1966
+HOLMES
+ RONALD W 
+BROOKS 
+SPILSBY 
+3B
+1081
+Marriages  Sep1967
+HOLMES
+ LINDA 
+STONES 
+SPILSBY 
+3B
+1368
+Marriages  Dec1967
+HOLMES
+ ROBERT C J 
+ELLERBY 
+SPILSBY 
+3B
+1000
+Marriages  Mar1968
+HOLMES
+ HARRY 
+BOULTER 
+SPILSBY 
+3B
+1365
+HOLMES
+ JOHN C 
+BLAND 
+SPILSBY 
+3B
+1366
+Marriages  Sep1968
+HOLMES
+ CHRISTINA J 
+PENTON 
+SPILSBY 
+3B
+1439
+HOLMES
+ JOHN N 
+TAYLOR 
+SPILSBY 
+3B
+1482
+Marriages  Sep1969
+HOLMES
+ Dimans E 
+NICHOLSON 
+Spilsby 
+3b
+1459
+Marriages  Jun1970
+HOLMES
+ Donald E 
+CHAMBERS 
+Spilsby 
+3b
+1209
+HOLMES
+ Florence M 
+FARMER 
+Spilsby 
+3b
+1197
+Marriages  Sep1970
+HOLMES
+ Gordon V 
+HANDSLEY 
+upilsby 
+3b
+1572
+HOLMES
+ Walter A 
+MERDY 
+Spilsby 
+3b
+1604
+Marriages  Dec1970
+HOLMES
+ Alan 
+ASHLEY 
+Spilsby 
+3b
+1098
+Marriages  Mar1971
+HOLMES
+ Wendy J 
+BROWN 
+Spilsby 
+3b
+871
+Marriages  Sep1971
+HOLMES
+ Penelope F 
+JOHNSON 
+Spilsby 
+3b
+816s
+HOLMES
+ Penelope F 
+JOHNSON 
+Spilsby 
+3b
+1528
+Marriages  Jun1972
+HOLMES
+ Doreen B 
+HUTTON 
+Spilsby 
+3b
+1311
+Marriages  Jun1973
+HOLMES
+ GORDON R 
+SMITH 
+SPILSBY 
+3B
+1224
+HOLMES
+ PATRICIA L 
+MURRAY 
+SPILSBY 
+3B
+1219
+HOLMES
+ RICHARD M 
+MADDISON 
+SPILSBY 
+3B
+1226
+Marriages  Dec1973
+HOLMES
+ JANET M 
+THORNLEY 
+SPILSBY 
+3B
+1067
+Marriages  Sep1974
+HOLMES
+ PETER R F 
+WALKER 
+SPILSBY 
+7
+2475
+Marriages  Dec1974
+HOLMES
+ FREDERICK 
+BENBOW 
+SPILSBY 
+7
+1697
+Marriages  Jun1975
+HOLMES
+ SUSAN K 
+HOOTON 
+SPILSBY 
+7
+1740
+Marriages  Sep1976
+HOLMES
+ TARNE K 
+ABBOTT 
+SPILSBY 
+7
+2280
+Marriages  Jun1977
+HOLMES
+ WILHELMINA S 
+NICHOLSON 
+SPILSBY 
+7
+1777
+Marriages  Dec1977
+HOLMES
+ NICHOLA H 
+RAWLINGS 
+SPILSBY 
+7
+1551
+Marriages  Mar1978
+Holmes
+ Yvonne 
+Whiting 
+Spilsby 
+7
+1494
+Marriages  Dec1978
+Holmes
+ Andrea T 
+Rushby 
+Spilsby 
+7
+1519
+Marriages  Dec1979
+HOLMES
+ PAULINE A 
+SIMPSON 
+SPILSBY 
+7
+1592
+Marriages  Jun1980
+HOLMES
+ GEORGE F A 
+SKERRITT 
+SPILSBY 
+7
+2069
+Marriages  Sep1981
+HOLMES
+ Martin A 
+ALFORD 
+Spilsby 
+7
+2315
+Marriages  Jun1982
+HOLMES
+ PATRICIA A 
+CLARKE 
+SPILSBY 
+7
+2060
+Marriages  Sep1983
+HOLMES
+ CAROLE G 
+LATHAM 
+SPILSBY 
+7
+2432
+Marriages 1984
+HOLMES
+ CAROLINE M T 
+JOYCE 
+SPILSBY 
+7
+2574
+HOLMES
+ CRAIG L 
+SMITH 
+SPILSBY 
+7
+2092
+Marriages 1985
+HOLMES
+ PETER P 
+BURR 
+SPILSBY 
+7
+1435
+Marriages 1986
+HOLMES
+ JOHN R 
+SIMPSON 
+SPILSBY 
+7
+12567
+Marriages 1987
+HOLMES
+ DENISE 
+CLARKE 
+SPILSBY 
+7
+1461
+HOLMES
+ DIANNE 
+WADSWORTH 
+SPILSBY 
+7
+2141
+Marriages 1988
+HOLMES
+ BARRY 
+HUDSON 
+SPILSBY 
+7
+2145
+Marriages 1989
+HOLMES
+ JOYCE D 
+GREEN 
+SPILSBY 
+7
+1051
+HOLMES
+ SARAH E 
+MARSHALL 
+SPILSBY 
+7
+2140
+HOLMES
+ TIMOTHY M 
+MALLENDER 
+SPILSBY 
+7
+2747
+HOLMES
+ TIMOTHY M 
+POTTER 
+SPILSBY 
+7
+2747
+HOLMES
+ WENDY L 
+PYNEGAR 
+SPILSBY 
+7
+1035
+Marriages 1990
+HOLMES
+ JOHN S A 
+GUNSON 
+SPILSBY 
+7
+2141
+HOLMES
+ SALLY J 
+SMITH 
+SPILSBY 
+7
+2090
+HOLMES
+ SALLY J 
+WINLORE-SMITH 
+SPILSBY 
+7
+2090
+Marriages 1994
+HOLMES
+ DAWN M 
+RADFORD 
+SPILSBY 
+626
+913
+Marriages 1995
+HOLMES
+ CHARLES H 
+LUMELIUS 
+SPILSBY 
+626
+840
+Marriages 1996
+HOLMES
+ DARRELL L 
+GOODWIN 
+SPILSBY 
+626
+1189
+HOLMES
+ DONNA M 
+WILEMAN 
+SPILSBY 
+626
+909
+HOLMES
+ IAN R 
+MAHONEY 
+SPILSBY 
+626
+1129

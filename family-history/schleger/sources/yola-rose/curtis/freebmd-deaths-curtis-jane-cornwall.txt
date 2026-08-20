@@ -1,0 +1,118 @@
+FreeBMD search: {'surname': 'Curtis', 'given': 'Jane', 'type_': 'Deaths', 'countyid': 'CON,59,61', 'start': 1837, 'end': 1890}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Deaths  Mar1852
+Curtis
+ Jane 
+Liskeard 
+5c
+43
+Deaths  Mar1859
+Curtis
+ Jane 
+Helston 
+5c
+175
+Deaths  Sep1859
+CURTIS
+ Jane 
+Penzance 
+5c
+190
+Deaths  Mar1864
+Curtis
+ Jane 
+Tavistock 
+5b
+310
+Deaths  Dec1871
+CURTIS
+ Jane 
+68 
+Tavistock 
+5b
+330
+Deaths  Sep1880
+CURTIS
+ Jane 
+52 
+Redruth 
+5c
+155
+Deaths  Sep1884
+Curtis
+ Jane 
+76 
+Penzance 
+5c
+165
+Deaths  Mar1886
+Curtis
+ Jane 
+73 
+Truro 
+5c
+124
+Deaths  Sep1890
+Curtis
+ Jane 
+72 
+Truro 
+5c
+78
+Deaths  Mar1895
+Curtis
+ Jane 
+83 
+Helston 
+5c
+164
+Deaths  Jun1898
+Curtis
+ Jane 
+55 
+St. Columb 
+5c
+53
+Deaths  Jun1915
+Curtis
+ Jane 
+72 
+Redruth 
+5c
+283
+Deaths  Jun1917
+Curtis
+ Jane 
+66 
+St.Austell 
+5c
+121
+Deaths  Dec1921
+Curtis
+ Jane H 
+63 
+Penzance 
+5c
+262
+Deaths  Mar1940
+Curtis
+ Jane E 
+85 
+Liskeard 
+5c
+172
+Deaths  Sep1943
+Curtis
+ Jane 
+81 
+Truro 
+5c
+133

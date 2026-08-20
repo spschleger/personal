@@ -1,0 +1,1521 @@
+FreeCEN2 search: last_name=Curtis first_name= chapman=CON record_type=1851
+URL: https://www.freecen.org.uk/search_queries
+Retrieved 2026-08-19
+
+HITS (428):
+/search_records/5a14347cf4040b9d6e21c629/elizth-curtis-1851-cornwall-padstow-1771- :: Elizth CURTIS | Cornwall | Padstow | 1771 | 1851 | Cornwall | Padstow
+/search_records/5a1438f1f4040b9d6e270210/mary-curtis-1851-cornwall-st-clement-1772- :: Mary CURTIS | Cornwall | Mullion | 1772 | 1851 | Cornwall | St Clement
+/search_records/5a1438f2f4040b9d6e27056d/margaret-curtis-1851-cornwall-st-clement-1777- :: Margaret CURTIS | Cornwall | Kenwyn | 1777 | 1851 | Cornwall | St Clement
+/search_records/5a143ba5f4040b9d6e2a8513/mary-curtis-1851-cornwall-st-keverne-1781- :: Mary CURTIS | Cornwall | Ruan Minor | 1781 | 1851 | Cornwall | St Keverne
+/search_records/5a14407af4040b9d6e30a0ad/honour-curtis-1851-cornwall-penzance-1781- :: Honour CURTIS | Cornwall | St Hilary | 1781 | 1851 | Cornwall | Marazion
+/search_records/5a1434b3f4040b9d6e21f537/jane-curtis-1851-cornwall-padstow-1781- :: Jane CURTIS | Cornwall | St Wenn | 1781 | 1851 | Cornwall | Padstow
+/search_records/68762889b18f7ca025f84aff/thomas-curtis-1851-cornwall-antony-st-jacob-1782- :: Thomas CURTIS | Cornwall | Botusfleming (or Blasfleming) | 1782 | 1851 | Cornwall | Union Workhouse
+/search_records/5a143384f4040b9d6e20a9b7/samuel-curtis-1851-cornwall-lanlivery-1782- :: Samuel CURTIS | Cornwall | St Wenn | 1782 | 1851 | Cornwall | Lanlivery
+/search_records/5a1434c4f4040b9d6e221554/william-curtis-1851-cornwall-padstow-1782- :: William CURTIS | Cornwall | St. Breock | 1782 | 1851 | Cornwall | Padstow
+/search_records/5a14407df4040b9d6e30a527/ann-curtis-1851-cornwall-penzance-1782- :: Ann CURTIS | Cornwall | St Hilary | 1782 | 1851 | Cornwall | Marazion
+/search_records/5a143ed7f4040b9d6e2e967e/margaret-curtis-1851-cornwall-camborne-1783- :: Margaret CURTIS | Cornwall | Phillack | 1783 | 1851 | Cornwall | Camborne
+/search_records/6a30e74d5d92161e89b06f51/william-curtis-1851-cornwall-kilkhampton-1783- :: William CURTIS | Cornwall | Launcells | 1783 | 1851 | Cornwall | Kilkhampton
+/search_records/6a804bd26c18338e478a22d9/margaret-curtis-1851-cornwall-phillack-1783- :: Margaret CURTIS | Cornwall | Phillack | 1783 | 1851 | Cornwall | Ventonleague
+/search_records/5a142e3bf4040b9d6e1a170d/william-curtis-1851-cornwall-kilkhampton-1783- :: William CURTIS | Cornwall | Launcells | 1783 | 1851 | Cornwall | Kilkhampton
+/search_records/6a804bd26c18338e478a22d7/john-curtis-1851-cornwall-phillack-1784- :: John CURTIS | Cornwall | Phillack | 1784 | 1851 | Cornwall | Ventonleague
+/search_records/5a1434c4f4040b9d6e221556/sally-curtis-1851-cornwall-padstow-1784- :: Sally CURTIS | Ireland | - | 1784 | 1851 | Cornwall | Padstow
+/search_records/5a1439d9f4040b9d6e2836f2/patience-curtis-1851-cornwall-falmouth-1784- :: Patience CURTIS | Cornwall | Flushing | 1784 | 1851 | Cornwall | Mylor
+/search_records/5a143ed7f4040b9d6e2e967c/john-curtis-1851-cornwall-camborne-1784- :: John CURTIS | Cornwall | Phillack | 1784 | 1851 | Cornwall | Camborne
+/search_records/5a142e3bf4040b9d6e1a170f/ann-curtis-1851-cornwall-kilkhampton-1785- :: Ann CURTIS | Cornwall | Poughill | 1785 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143ed6f4040b9d6e2e9517/william-curtis-1851-cornwall-camborne-1785- :: William CURTIS | Cornwall | St Erth | 1785 | 1851 | Cornwall | Camborne
+/search_records/5a14407af4040b9d6e309ef6/jinepher-curtis-1851-cornwall-penzance-1785- :: Jinepher CURTIS | Cornwall | St Hilary | 1785 | 1851 | Cornwall | Marazion
+/search_records/5a14407bf4040b9d6e30a145/christan-curtis-1851-cornwall-penzance-1785- :: Christan CURTIS | Cornwall | St Hilary | 1785 | 1851 | Cornwall | Marazion
+/search_records/6a30e74d5d92161e89b06f53/ann-curtis-1851-cornwall-kilkhampton-1785- :: Ann CURTIS | Cornwall | Poughill | 1785 | 1851 | Cornwall | Kilkhampton
+/search_records/6a804bcf6c18338e478a215e/william-curtis-1851-cornwall-phillack-1785- :: William CURTIS | Cornwall | St Erth | 1785 | 1851 | Cornwall | Ventonleague
+/search_records/5a142ec4f4040b9d6e1ac996/jane-curtis-1851-cornwall-boscastle-1786- :: Jane CURTIS | Devon | Devonport | 1786 | 1851 | Cornwall | Boscastle
+/search_records/5a1439e4f4040b9d6e284d60/william-curtis-1851-cornwall-falmouth-1786- :: William CURTIS | Cornwall | Gerrans | 1786 | 1851 | Cornwall | Mylor
+/search_records/5a143c85f4040b9d6e2b8fe2/alice-curtis-1851-cornwall-gwennap-1786- :: Alice CURTIS | Cornwall | Kenwyn | 1786 | 1851 | Cornwall | Gwennap
+/search_records/5a143ed6f4040b9d6e2e9519/mary-curtis-1851-cornwall-camborne-1786- :: Mary CURTIS | Cornwall | Phillack | 1786 | 1851 | Cornwall | Camborne
+/search_records/6a804bcf6c18338e478a2160/mary-curtis-1851-cornwall-phillack-1786- :: Mary CURTIS | Cornwall | Phillack | 1786 | 1851 | Cornwall | Ventonleague
+/search_records/5a142ec4f4040b9d6e1ac994/william-curtis-1851-cornwall-boscastle-1787- :: William CURTIS | Cornwall | Cardinham | 1787 | 1851 | Cornwall | Boscastle
+/search_records/5a14348af4040b9d6e21e24e/stephen-curtis-1851-cornwall-padstow-1787- :: Stephen CURTIS | Cornwall | St Wenn | 1787 | 1851 | Cornwall | Padstow
+/search_records/5a143924f4040b9d6e276759/grace-curtis-1851-cornwall-st-clement-1787- :: Grace CURTIS | Cornwall | Feock | 1787 | 1851 | Cornwall | St Clement
+/search_records/5a1434b3f4040b9d6e21f601/matthew-curtis-1851-cornwall-padstow-1789- :: Matthew CURTIS | Cornwall | St Wenn | 1789 | 1851 | Cornwall | Padstow
+/search_records/5a1439d9f4040b9d6e2835e1/robt-curtis-1851-cornwall-falmouth-1791- :: Robt. CURTIS | Cornwall | Flushing | 1791 | 1851 | Cornwall | Mylor
+/search_records/5a1437d3f4040b9d6e25a40b/william-curtis-1851-cornwall-probus-1792- :: William CURTIS | Cornwall | Perranzabuloe | 1792 | 1851 | Cornwall | Probus
+/search_records/5a1434b3f4040b9d6e21f603/maria-curtis-1851-cornwall-padstow-1793- :: Maria CURTIS | Cornwall | Luxulyan (or Luxillion) | 1793 | 1851 | Cornwall | Padstow
+/search_records/5a1435f1f4040b9d6e237566/john-curtis-1851-cornwall-st-austell-1793- :: John CURTIS | Cornwall | Breage | 1793 | 1851 | Cornwall | St Austell
+/search_records/5a14377df4040b9d6e25327b/wm-curtis-1851-cornwall-probus-1793- :: Wm. CURTIS | Cornwall | Creed | 1793 | 1851 | Cornwall | Probus
+/search_records/5a143bd6f4040b9d6e2ab1eb/francis-curtis-1851-cornwall-st-keverne-1793- :: Francis CURTIS | Cornwall | Breage | 1793 | 1851 | Cornwall | St Keverne
+/search_records/5a1436d3f4040b9d6e246cde/john-curtis-1851-cornwall-mevagissey-1795- :: John CURTIS | Cornwall | Grampound | 1795 | 1851 | Cornwall | Mevagissey
+/search_records/5a143490f4040b9d6e21ef58/ann-curtis-1851-cornwall-padstow-1795- :: Ann CURTIS | Cornwall | St Breock | 1795 | 1851 | Cornwall | Padstow
+/search_records/5a1435f1f4040b9d6e237568/grace-curtis-1851-cornwall-st-austell-1795- :: Grace CURTIS | Cornwall | Ruan Minor | 1795 | 1851 | Cornwall | St Austell
+/search_records/5a142e42f4040b9d6e1a2344/john-curtis-1851-cornwall-kilkhampton-1795- :: John CURTIS | Cornwall | Stratton | 1795 | 1851 | Cornwall | Kilkhampton
+/search_records/6a30e719755f9fc84376663a/john-curtis-1851-cornwall-poughill-1795- :: John CURTIS | Cornwall | Stratton | 1795 | 1851 | Cornwall | Poughill
+/search_records/5a143294f4040b9d6e1f7477/john-curtis-1851-cornwall-looe-1798- :: John CURTIS | Cornwall | Lansallos | 1798 | 1851 | Cornwall | Looe
+/search_records/5a14376ef4040b9d6e25173e/mary-curtis-1851-cornwall-probus-1798- :: Mary CURTIS | Cornwall | Ladock | 1798 | 1851 | Cornwall | Probus
+/search_records/6a804bd36c18338e478a22f9/ann-curtis-1851-cornwall-phillack-1799- :: Ann CURTIS | Cornwall | Phillack | 1799 | 1851 | Cornwall | Ventonleague
+/search_records/5a142e42f4040b9d6e1a2346/mary-curtis-1851-cornwall-kilkhampton-1799- :: Mary CURTIS | Cornwall | Stratton | 1799 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143ed7f4040b9d6e2e969e/ann-curtis-1851-cornwall-camborne-1799- :: Ann CURTIS | Cornwall | Phillack | 1799 | 1851 | Cornwall | Camborne
+/search_records/6a30e719755f9fc84376663c/mary-curtis-1851-cornwall-poughill-1799- :: Mary CURTIS | Cornwall | Stratton | 1799 | 1851 | Cornwall | Poughill
+/search_records/5a14348ff4040b9d6e21ed2a/mary-curtis-1851-cornwall-padstow-1800- :: Mary CURTIS | Cornwall | St Wenn | 1800 | 1851 | Cornwall | Padstow
+/search_records/5a143a53f4040b9d6e28dd90/john-curtis-1851-cornwall-falmouth-1800- :: John CURTIS | Cornwall | Constantine | 1800 | 1851 | Cornwall | Mylor
+/search_records/5a1439f1f4040b9d6e2864a7/loveday-curtis-1851-cornwall-falmouth-1800- :: Loveday CURTIS | Cornwall | Penryn | 1800 | 1851 | Cornwall | Mylor
+/search_records/5a143346f4040b9d6e20488e/mary-curtis-1851-cornwall-lanlivery-1800- :: Mary CURTIS | Cornwall | Lanhydrock | 1800 | 1851 | Cornwall | Lanlivery
+/search_records/5a1439daf4040b9d6e283755/thomas-curtis-1851-cornwall-falmouth-1801- :: Thomas CURTIS | Cornwall | Flushing | 1801 | 1851 | Cornwall | Mylor
+/search_records/5a14407df4040b9d6e30a66b/james-curtis-1851-cornwall-penzance-1801- :: James CURTIS | Cornwall | Grade | 1801 | 1851 | Cornwall | Marazion
+/search_records/5a1435ecf4040b9d6e236bd1/william-curtis-1851-cornwall-st-austell-1801- :: William CURTIS | Cornwall | Liskeard | 1801 | 1851 | Cornwall | St Austell
+/search_records/5a1436d3f4040b9d6e246b4f/mary-curtis-1851-cornwall-mevagissey-1801- :: Mary CURTIS | Cornwall | Grampound | 1801 | 1851 | Cornwall | Mevagissey
+/search_records/5a1439daf4040b9d6e283757/betsy-curtis-1851-cornwall-falmouth-1801- :: Betsy CURTIS | Cornwall | St Austell (or St Austle) | 1801 | 1851 | Cornwall | Mylor
+/search_records/5a143a3ef4040b9d6e28b57e/edward-curtis-1851-cornwall-falmouth-1802- :: Edward CURTIS | Cornwall | Penryn | 1802 | 1851 | Cornwall | Mylor
+/search_records/5a143293f4040b9d6e1f732f/catherine-curtis-1851-cornwall-looe-1802- :: Catherine CURTIS | Cornwall | Talland | 1802 | 1851 | Cornwall | Looe
+/search_records/5a1434d4f4040b9d6e223674/john-curtis-1851-cornwall-padstow-1802- :: John CURTIS | Cornwall | St. Wenn | 1802 | 1851 | Cornwall | Padstow
+/search_records/5a143ed0f4040b9d6e2e86e8/elizabeth-curtis-1851-cornwall-camborne-1802- :: Elizabeth CURTIS | Cornwall | St Austell (or St Austle) | 1802 | 1851 | Cornwall | Camborne
+/search_records/6a804b906c18338e478a1211/elizabeth-curtis-1851-cornwall-phillack-1802- :: Elizabeth CURTIS | Cornwall | St Austell (or St Austle) | 1802 | 1851 | Cornwall | Bodriggy
+/search_records/5a143294f4040b9d6e1f7479/jane-curtis-1851-cornwall-looe-1803- :: Jane CURTIS | Cornwall | Lansallos | 1803 | 1851 | Cornwall | Looe
+/search_records/5a143294f4040b9d6e1f74c5/thomas-curtis-1851-cornwall-looe-1803- :: Thomas CURTIS | Cornwall | Lansallos | 1803 | 1851 | Cornwall | Looe
+/search_records/5a143628f4040b9d6e23b075/samuel-curtis-1851-cornwall-st-austell-1803- :: Samuel CURTIS | Cornwall | St Dennis | 1803 | 1851 | Cornwall | St Austell
+/search_records/5a1436d1f4040b9d6e2468f0/mary-curtis-1851-cornwall-mevagissey-1803- :: Mary CURTIS | Cornwall | Grampound | 1803 | 1851 | Cornwall | Mevagissey
+/search_records/5a143ed0f4040b9d6e2e86e6/james-curtis-1851-cornwall-camborne-1803- :: James CURTIS | Cornwall | Marazion | 1803 | 1851 | Cornwall | Camborne
+/search_records/5a14407af4040b9d6e30a08a/john-curtis-1851-cornwall-penzance-1803- :: John CURTIS | Cornwall | St Hilary | 1803 | 1851 | Cornwall | Marazion
+/search_records/6a804b906c18338e478a120f/james-curtis-1851-cornwall-phillack-1803- :: James CURTIS | Cornwall | Marazion | 1803 | 1851 | Cornwall | Bodriggy
+/search_records/5a14407bf4040b9d6e30a23e/christian-curtis-1851-cornwall-penzance-1804- :: Christian CURTIS | Cornwall | Germoe | 1804 | 1851 | Cornwall | Marazion
+/search_records/5a14407cf4040b9d6e30a3fd/grace-curtis-1851-cornwall-penzance-1804- :: Grace CURTIS | Cornwall | St Hilary | 1804 | 1851 | Cornwall | Marazion
+/search_records/5a143c92f4040b9d6e2ba8d4/kitty-curtis-1851-cornwall-gwennap-1805- :: Kitty CURTIS | Cornwall | Kenwyn | 1805 | 1851 | Cornwall | Gwennap
+/search_records/5a143c7df4040b9d6e2b7ea9/mark-curtis-1851-cornwall-gwennap-1805- :: Mark CURTIS | Cornwall | Gwennap | 1805 | 1851 | Cornwall | Gwennap
+/search_records/5a143d78f4040b9d6e2cc8b8/james-curtis-1851-cornwall-redruth-1805- :: James CURTIS | Cornwall | St Agnes | 1805 | 1851 | Cornwall | Redruth
+/search_records/5a1440e7f4040b9d6e313cf9/mary-l-curtis-1851-cornwall-penzance-1805- :: Mary L. CURTIS | Cornwall | Penzance | 1805 | 1851 | Cornwall | Marazion
+/search_records/5a143ed7f4040b9d6e2e969c/henry-curtis-1851-cornwall-camborne-1806- :: Henry CURTIS | Cornwall | Phillack | 1806 | 1851 | Cornwall | Camborne
+/search_records/6876285bb18f7ca172ec2a18/edmund-curtis-1851-cornwall-saltash-1806- :: Edmund CURTIS | Cornwall | Saltash | 1806 | 1851 | Cornwall | Saltash
+/search_records/5a1434b4f4040b9d6e21f738/ann-curtis-1851-cornwall-padstow-1806- :: Ann CURTIS | Cornwall | St Minver | 1806 | 1851 | Cornwall | Padstow
+/search_records/6a804bd26c18338e478a22f7/henry-curtis-1851-cornwall-phillack-1806- :: Henry CURTIS | Cornwall | Phillack | 1806 | 1851 | Cornwall | Ventonleague
+/search_records/5a1437d3f4040b9d6e25a40d/anna-curtis-1851-cornwall-probus-1806- :: Anna CURTIS | Cornwall | St Agnes | 1806 | 1851 | Cornwall | Probus
+/search_records/5a1438f4f4040b9d6e2708a9/james-curtis-1851-cornwall-st-clement-1806- :: James CURTIS | Cornwall | Kenwyn | 1806 | 1851 | Cornwall | St Clement
+/search_records/5a14407af4040b9d6e30a08c/jane-curtis-1851-cornwall-penzance-1807- :: Jane CURTIS | Cornwall | St Hilary | 1807 | 1851 | Cornwall | Marazion
+/search_records/5a14407bf4040b9d6e30a147/charles-curtis-1851-cornwall-penzance-1807- :: Charles CURTIS | Cornwall | St Hilary | 1807 | 1851 | Cornwall | Marazion
+/search_records/5a143c85f4040b9d6e2b9024/christian-curtis-1851-cornwall-gwennap-1807- :: Christian CURTIS | Cornwall | Gwennap | 1807 | 1851 | Cornwall | Gwennap
+/search_records/5a143140f4040b9d6e1dcba7/caroline-curtis-1851-cornwall-callington-1807- :: Caroline CURTIS | Devon | Plympton | 1807 | 1851 | Cornwall | Callington
+/search_records/5a143293f4040b9d6e1f730f/james-curtis-1851-cornwall-looe-1807- :: James CURTIS | Cornwall | Lansallos | 1807 | 1851 | Cornwall | Looe
+/search_records/5a1438aef4040b9d6e26c11c/martha-curtis-1851-cornwall-st-clement-1807- :: Martha CURTIS | Cornwall | St Dennis | 1807 | 1851 | Cornwall | St Clement
+/search_records/5a1438f4f4040b9d6e2708ab/elizabeth-curtis-1851-cornwall-st-clement-1807- :: Elizabeth CURTIS | Cornwall | St Columb | 1807 | 1851 | Cornwall | St Clement
+/search_records/5a14407af4040b9d6e309fb3/charles-curtis-1851-cornwall-penzance-1807- :: Charles CURTIS | Cornwall | St Hilary | 1807 | 1851 | Cornwall | Marazion
+/search_records/5a1437baf4040b9d6e257797/mary-curtis-1851-cornwall-probus-1808- :: Mary CURTIS | Cornwall | Redruth | 1808 | 1851 | Cornwall | Probus
+/search_records/5a143298f4040b9d6e1f7d7d/william-curtis-1851-cornwall-looe-1808- :: William CURTIS | Cornwall | Polruan | 1808 | 1851 | Cornwall | Looe
+/search_records/5a1434d4f4040b9d6e223676/elizabeth-curtis-1851-cornwall-padstow-1808- :: Elizabeth CURTIS | Cornwall | St Stephen in Brannel (or St. Stephens) | 1808 | 1851 | Cornwall | Padstow
+/search_records/5a142e50f4040b9d6e1a3c06/maria-curtis-1851-cornwall-kilkhampton-1808- :: Maria CURTIS | Cornwall | Poundstock | 1808 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143d78f4040b9d6e2cc8ba/mary-ann-curtis-1851-cornwall-redruth-1808- :: Mary Ann CURTIS | Cornwall | Redruth | 1808 | 1851 | Cornwall | Redruth
+/search_records/5a14407df4040b9d6e30a66d/mary-curtis-1851-cornwall-penzance-1808- :: Mary CURTIS | Cornwall | Crowan | 1808 | 1851 | Cornwall | Marazion
+/search_records/6a30e7b9755f9fc843767f76/maria-curtis-1851-cornwall-marhamchurch-1808- :: Maria CURTIS | Cornwall | Poundstock | 1808 | 1851 | Cornwall | Marhamchurch
+/search_records/6a30e7b9755f9fc843767f74/john-curtis-1851-cornwall-marhamchurch-1809- :: John CURTIS | Cornwall | Launcells | 1809 | 1851 | Cornwall | Marhamchurch
+/search_records/5a142e50f4040b9d6e1a3c04/john-curtis-1851-cornwall-kilkhampton-1809- :: John CURTIS | Cornwall | Launcells | 1809 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143140f4040b9d6e1dcba5/james-curtis-1851-cornwall-callington-1809- :: James CURTIS | Cornwall | Gwennap (or Gwenap) | 1809 | 1851 | Cornwall | Callington
+/search_records/5a143293f4040b9d6e1f7311/mary-curtis-1851-cornwall-looe-1809- :: Mary CURTIS | Cornwall | Lansallos | 1809 | 1851 | Cornwall | Looe
+/search_records/5a1434b4f4040b9d6e21f736/william-curtis-1851-cornwall-padstow-1809- :: William CURTIS | Cornwall | St Wenn | 1809 | 1851 | Cornwall | Padstow
+/search_records/5a1437baf4040b9d6e257795/richard-curtis-1851-cornwall-probus-1809- :: Richard CURTIS | Cornwall | St. Wenn | 1809 | 1851 | Cornwall | Probus
+/search_records/5a1439ddf4040b9d6e283d5d/jenifer-curtis-1851-cornwall-falmouth-1809- :: Jenifer CURTIS | Cornwall | Mylor | 1809 | 1851 | Cornwall | Mylor
+/search_records/5a143c8af4040b9d6e2b98af/thomas-curtis-1851-cornwall-gwennap-1809- :: Thomas CURTIS | Cornwall | Wendron | 1809 | 1851 | Cornwall | Gwennap
+/search_records/5a144079f4040b9d6e309ed1/william-curtis-1851-cornwall-penzance-1809- :: William CURTIS | Cornwall | St Hilary | 1809 | 1851 | Cornwall | Marazion
+/search_records/5a143298f4040b9d6e1f7d7f/johanna-curtis-1851-cornwall-looe-1810- :: Johanna CURTIS | Cornwall | Polruan | 1810 | 1851 | Cornwall | Looe
+/search_records/5a143a53f4040b9d6e28dd92/grace-curtis-1851-cornwall-falmouth-1810- :: Grace CURTIS | Cornwall | Constantine | 1810 | 1851 | Cornwall | Mylor
+/search_records/5a1439ddf4040b9d6e283d5b/william-curtis-1851-cornwall-falmouth-1810- :: William CURTIS | Cornwall | Mylor | 1810 | 1851 | Cornwall | Mylor
+/search_records/5a14407af4040b9d6e309fb5/mary-curtis-1851-cornwall-penzance-1810- :: Mary CURTIS | Cornwall | St Hilary | 1810 | 1851 | Cornwall | Marazion
+/search_records/5a143294f4040b9d6e1f74c7/mary-curtis-1851-cornwall-looe-1810- :: Mary CURTIS | Cornwall | Lansallos | 1810 | 1851 | Cornwall | Looe
+/search_records/5a14407bf4040b9d6e30a149/jospeh-curtis-1851-cornwall-penzance-1811- :: Jospeh CURTIS | Cornwall | St Hilary | 1811 | 1851 | Cornwall | Marazion
+/search_records/5a14419df4040b9d6e322b50/william-curtis-1851-cornwall-scilly-islands-1811- :: William CURTIS | Cornwall | St Hilary (or St Hilliary) | 1811 | 1851 | Cornwall | St Buryan
+/search_records/5a143bd6f4040b9d6e2ab1ed/jane-curtis-1851-cornwall-st-keverne-1811- :: Jane CURTIS | Cornwall | Isles of Scilly St Agnes (or St Agnes, Scilly Is) | 1811 | 1851 | Cornwall | St Keverne
+/search_records/5a143ed7f4040b9d6e2e9680/william-curtis-1851-cornwall-camborne-1812- :: William CURTIS | Cornwall | Phillack | 1812 | 1851 | Cornwall | Camborne
+/search_records/5a1437b6f4040b9d6e256f07/richard-curtis-1851-cornwall-probus-1812- :: Richard CURTIS | Cornwall | Perranzabuloe | 1812 | 1851 | Cornwall | Probus
+/search_records/5a143c8af4040b9d6e2b98b1/ann-curtis-1851-cornwall-gwennap-1812- :: Ann CURTIS | Cornwall | Gwennap | 1812 | 1851 | Cornwall | Gwennap
+/search_records/6a804bd26c18338e478a22db/william-curtis-1851-cornwall-phillack-1812- :: William CURTIS | Cornwall | Phillack | 1812 | 1851 | Cornwall | Ventonleague
+/search_records/5a143293f4040b9d6e1f7346/jane-curtis-1851-cornwall-looe-1813- :: Jane CURTIS | Cornwall | Lansallos | 1813 | 1851 | Cornwall | Looe
+/search_records/5a1437b6f4040b9d6e256f09/sally-curtis-1851-cornwall-probus-1813- :: Sally CURTIS | Cornwall | Perranzabuloe | 1813 | 1851 | Cornwall | Probus
+/search_records/5a143c92f4040b9d6e2ba8d2/robert-curtis-1851-cornwall-gwennap-1813- :: Robert CURTIS | Cornwall | Kenwyn | 1813 | 1851 | Cornwall | Gwennap
+/search_records/5a143c9af4040b9d6e2bbaf9/john-curtis-1851-cornwall-gwennap-1813- :: John CURTIS | Cornwall | Mylor | 1813 | 1851 | Cornwall | Gwennap
+/search_records/5a144079f4040b9d6e309ed3/elizabeth-curtis-1851-cornwall-penzance-1813- :: Elizabeth CURTIS | Cornwall | St Hilary | 1813 | 1851 | Cornwall | Marazion
+/search_records/5a14407cf4040b9d6e30a3fb/charles-curtis-1851-cornwall-penzance-1813- :: Charles CURTIS | Cornwall | St Hilary | 1813 | 1851 | Cornwall | Marazion
+/search_records/5a1434b3f4040b9d6e21f612/george-curtis-1851-cornwall-padstow-1814- :: George CURTIS | Cornwall | St Wenn | 1814 | 1851 | Cornwall | Padstow
+/search_records/5a1436d3f4040b9d6e246c15/caroline-curtis-1851-cornwall-mevagissey-1814- :: Caroline CURTIS | Cornwall | Grampound | 1814 | 1851 | Cornwall | Mevagissey
+/search_records/5a1438f1f4040b9d6e270212/amelia-curtis-1851-cornwall-st-clement-1814- :: Amelia CURTIS | Cornwall | Mullion | 1814 | 1851 | Cornwall | St Clement
+/search_records/5a1434ccf4040b9d6e22260f/peter-curtis-1851-cornwall-padstow-1815- :: Peter CURTIS | Devon | Dartmoor | 1815 | 1851 | Cornwall | Padstow
+/search_records/5a14329df4040b9d6e1f8889/william-curtis-1851-cornwall-looe-1815- :: William CURTIS | Cornwall | St. Veep | 1815 | 1851 | Cornwall | Looe
+/search_records/5a143549f4040b9d6e22b63c/william-curtis-1851-cornwall-fowey-1815- :: William CURTIS | Cornwall | Telsa | 1815 | 1851 | Cornwall | Fowey
+/search_records/5a1435f1f4040b9d6e23756a/john-curtis-1851-cornwall-st-austell-1815- :: John CURTIS | Cornwall | Falmouth | 1815 | 1851 | Cornwall | St Austell
+/search_records/5a14407df4040b9d6e30a756/charlotte-curtis-1851-cornwall-penzance-1816- :: Charlotte CURTIS | Cornwall | St Hilary | 1816 | 1851 | Cornwall | Marazion
+/search_records/5a143294f4040b9d6e1f7456/charles-curtis-1851-cornwall-looe-1816- :: Charles CURTIS | Cornwall | Lansallos | 1816 | 1851 | Cornwall | Looe
+/search_records/5a143382f4040b9d6e20a56c/william-curtis-1851-cornwall-lanlivery-1816- :: William CURTIS | Cornwall | Bodmin (or Bodmin Boro) | 1816 | 1851 | Cornwall | Lanlivery
+/search_records/5a1434b3f4040b9d6e21f585/john-curtis-1851-cornwall-padstow-1816- :: John CURTIS | Cornwall | St Wenn | 1816 | 1851 | Cornwall | Padstow
+/search_records/5a1434b3f4040b9d6e21f587/ann-curtis-1851-cornwall-padstow-1816- :: Ann CURTIS | Cornwall | St Wenn | 1816 | 1851 | Cornwall | Padstow
+/search_records/5a143621f4040b9d6e23a259/william-curtis-1851-cornwall-st-austell-1816- :: William CURTIS | Cornwall | St Stephen in Brannel (or St. Stephens) | 1816 | 1851 | Cornwall | St Austell
+/search_records/5a143621f4040b9d6e23a25b/elizabeth-curtis-1851-cornwall-st-austell-1816- :: Elizabeth CURTIS | Cornwall | Gorran | 1816 | 1851 | Cornwall | St Austell
+/search_records/5a143d73f4040b9d6e2cbe1a/letitia-curtis-1851-cornwall-redruth-1816- :: Letitia CURTIS | Cornwall | Redruth | 1816 | 1851 | Cornwall | Redruth
+/search_records/5a143294f4040b9d6e1f7458/mary-curtis-1851-cornwall-looe-1816- :: Mary CURTIS | Cornwall | Lansallos | 1816 | 1851 | Cornwall | Looe
+/search_records/5a143549f4040b9d6e22b63e/jane-curtis-1851-cornwall-fowey-1817- :: Jane CURTIS | Born Overseas | Malta | 1817 | 1851 | Cornwall | Fowey
+/search_records/5a14329df4040b9d6e1f888b/mary-curtis-1851-cornwall-looe-1817- :: Mary CURTIS | Cornwall | Morval | 1817 | 1851 | Cornwall | Looe
+/search_records/5a1439d7f4040b9d6e2831d0/james-curtis-1851-cornwall-falmouth-1817- :: James CURTIS | Cornwall | Mylor | 1817 | 1851 | Cornwall | Mylor
+/search_records/5a1439e5f4040b9d6e284d8d/william-curtis-1851-cornwall-falmouth-1817- :: William CURTIS | Cornwall | Falmouth | 1817 | 1851 | Cornwall | Mylor
+/search_records/5a1439f1f4040b9d6e2864a5/cardelia-curtis-1851-cornwall-falmouth-1817- :: Cardelia CURTIS | Cornwall | Perranarworthal (or Perran) | 1817 | 1851 | Cornwall | Mylor
+/search_records/5a1438f2f4040b9d6e270571/henry-curtis-1851-cornwall-st-clement-1818- :: Henry CURTIS | Cornwall | Kenwyn | 1818 | 1851 | Cornwall | St Clement
+/search_records/5a143c85f4040b9d6e2b8fe4/ann-curtis-1851-cornwall-gwennap-1819- :: Ann CURTIS | Cornwall | Gwennap | 1819 | 1851 | Cornwall | Gwennap
+/search_records/5a14407bf4040b9d6e30a14b/ralph-curtis-1851-cornwall-penzance-1819- :: Ralph CURTIS | Cornwall | St Hilary | 1819 | 1851 | Cornwall | Marazion
+/search_records/68762815b18f7ca025f8324e/thomas-curtis-1851-cornwall-rame-1819- :: Thomas CURTIS | Dorset | Lewell | 1819 | 1851 | Cornwall | Cawsand
+/search_records/5a143c9af4040b9d6e2bbafb/lousia-curtis-1851-cornwall-gwennap-1820- :: Lousia CURTIS | Cornwall | Gwennap | 1820 | 1851 | Cornwall | Gwennap
+/search_records/68762816b18f7ca025f83250/catherine-curtis-1851-cornwall-rame-1820- :: Catherine CURTIS | Cornwall | Cawsand | 1820 | 1851 | Cornwall | Cawsand
+/search_records/5a143ecaf4040b9d6e2e7a42/martha-curtis-1851-cornwall-camborne-1821- :: Martha CURTIS | Cornwall | Truro | 1821 | 1851 | Cornwall | Camborne
+/search_records/5a142e42f4040b9d6e1a23c4/john-curtis-1851-cornwall-kilkhampton-1821- :: John CURTIS | Devon | Clawton | 1821 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143382f4040b9d6e20a56e/rebecca-curtis-1851-cornwall-lanlivery-1821- :: Rebecca CURTIS | Devon | Moretonhampstead (or Moreton Hamstead) | 1821 | 1851 | Cornwall | Lanlivery
+/search_records/5a1434ccf4040b9d6e222611/mary-curtis-1851-cornwall-padstow-1821- :: Mary CURTIS | Cornwall | Newlyn | 1821 | 1851 | Cornwall | Padstow
+/search_records/5a1435ecf4040b9d6e236bd3/mary-curtis-1851-cornwall-st-austell-1821- :: Mary CURTIS | Cornwall | St Blazey | 1821 | 1851 | Cornwall | St Austell
+/search_records/5a1438f2f4040b9d6e270573/emma-curtis-1851-cornwall-st-clement-1821- :: Emma CURTIS | Cornwall | Kenwyn | 1821 | 1851 | Cornwall | St Clement
+/search_records/5a1439e4f4040b9d6e284d64/henry-curtis-1851-cornwall-falmouth-1821- :: Henry CURTIS | Cornwall | Falmouth | 1821 | 1851 | Cornwall | Mylor
+/search_records/5a1439e5f4040b9d6e284d8f/amelia-curtis-1851-cornwall-falmouth-1821- :: Amelia CURTIS | Cornwall | St Keverne | 1821 | 1851 | Cornwall | Mylor
+/search_records/5a14407af4040b9d6e309f1c/josiah-curtis-1851-cornwall-penzance-1821- :: Josiah CURTIS | Cornwall | St Hilary | 1821 | 1851 | Cornwall | Marazion
+/search_records/6a30e720755f9fc8437666ba/john-curtis-1851-cornwall-poughill-1821- :: John CURTIS | Devon | Clawton | 1821 | 1851 | Cornwall | Poughill
+/search_records/6a804b476c18338e478a01c9/martha-curtis-1851-cornwall-phillack-1821- :: Martha CURTIS | Cornwall | Truro | 1821 | 1851 | Cornwall | Hayle Foundry
+/search_records/5a143c7df4040b9d6e2b7eab/maria-curtis-1851-cornwall-gwennap-1822- :: Maria CURTIS | Cornwall | Kenwyn | 1822 | 1851 | Cornwall | Gwennap
+/search_records/5a1439d7f4040b9d6e2831d2/phillipa-curtis-1851-cornwall-falmouth-1822- :: Phillipa CURTIS | Kent | Gillingham | 1822 | 1851 | Cornwall | Mylor
+/search_records/5a1439fbf4040b9d6e28797e/mary-a-curtis-1851-cornwall-falmouth-1822- :: Mary A CURTIS | Warwickshire | Birmingham | 1822 | 1851 | Cornwall | Mylor
+/search_records/5a1439fcf4040b9d6e287bdf/james-curtis-1851-cornwall-falmouth-1822- :: James CURTIS | Somerset | Norton St Philip (or St Phillips) | 1822 | 1851 | Cornwall | Mylor
+/search_records/5a143924f4040b9d6e27675b/elizabeth-curtis-1851-cornwall-st-clement-1822- :: Elizabeth CURTIS | Cornwall | Feock | 1822 | 1851 | Cornwall | St Clement
+/search_records/5a14361af4040b9d6e2395f2/peter-curtis-1851-cornwall-st-austell-1823- :: Peter CURTIS | Cornwall | Mevagissey | 1823 | 1851 | Cornwall | St Austell
+/search_records/5a1436d3f4040b9d6e246c13/william-curtis-1851-cornwall-mevagissey-1823- :: William CURTIS | Cornwall | Grampound | 1823 | 1851 | Cornwall | Mevagissey
+/search_records/5a1439d9f4040b9d6e2836f4/robart-curtis-1851-cornwall-falmouth-1823- :: Robart CURTIS | Cornwall | Flushing | 1823 | 1851 | Cornwall | Mylor
+/search_records/5a14407bf4040b9d6e30a14d/caroline-curtis-1851-cornwall-penzance-1823- :: Caroline CURTIS | Cornwall | St Hilary | 1823 | 1851 | Cornwall | Marazion
+/search_records/5a142ebaf4040b9d6e1ab49a/john-curtis-1851-cornwall-boscastle-1823- :: John CURTIS | Devon | Hartland | 1823 | 1851 | Cornwall | Boscastle
+/search_records/5a142ebaf4040b9d6e1ab49c/harriet-curtis-1851-cornwall-boscastle-1823- :: Harriet CURTIS | Cornwall | Tintagel | 1823 | 1851 | Cornwall | Boscastle
+/search_records/5a143139f4040b9d6e1dbd94/maria-curtis-1851-cornwall-callington-1823- :: Maria CURTIS | Devon | Plympton | 1823 | 1851 | Cornwall | Callington
+/search_records/5a143139f4040b9d6e1dbd92/emanuel-curtis-1851-cornwall-callington-1823- :: Emanuel CURTIS | Cornwall | St Enoder | 1823 | 1851 | Cornwall | Callington
+/search_records/5a142e42f4040b9d6e1a23c6/martha-curtis-1851-cornwall-kilkhampton-1824- :: Martha CURTIS | Cornwall | Week St Mary | 1824 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143294f4040b9d6e1f747f/elizabeth-curtis-1851-cornwall-looe-1824- :: Elizabeth CURTIS | Cornwall | Talland | 1824 | 1851 | Cornwall | Looe
+/search_records/5a143294f4040b9d6e1f747d/john-curtis-1851-cornwall-looe-1824- :: John CURTIS | Cornwall | Lansallos | 1824 | 1851 | Cornwall | Looe
+/search_records/5a1434b3f4040b9d6e21f614/mary-curtis-1851-cornwall-padstow-1824- :: Mary CURTIS | Cornwall | St Ervan | 1824 | 1851 | Cornwall | Padstow
+/search_records/5a143c99f4040b9d6e2bb757/thomas-curtis-1851-cornwall-gwennap-1824- :: Thomas CURTIS | Cornwall | Gwennap | 1824 | 1851 | Cornwall | Gwennap
+/search_records/5a143c9cf4040b9d6e2bbe8b/caroline-curtis-1851-cornwall-gwennap-1824- :: Caroline CURTIS | Cornwall | Gwennap | 1824 | 1851 | Cornwall | Gwennap
+/search_records/6a30e720755f9fc8437666bc/martha-curtis-1851-cornwall-poughill-1824- :: Martha CURTIS | Cornwall | Week St Mary | 1824 | 1851 | Cornwall | Poughill
+/search_records/5a1435f1f4040b9d6e23756e/william-curtis-1851-cornwall-st-austell-1825- :: William CURTIS | Cornwall | St Hilary (or St. Hillary) | 1825 | 1851 | Cornwall | St Austell
+/search_records/5a14361af4040b9d6e2395f4/caroline-curtis-1851-cornwall-st-austell-1825- :: Caroline CURTIS | Cornwall | St. Austell | 1825 | 1851 | Cornwall | St Austell
+/search_records/5a143ecaf4040b9d6e2e7a44/grace-curtis-1851-cornwall-camborne-1825- :: Grace CURTIS | Cornwall | Truro | 1825 | 1851 | Cornwall | Camborne
+/search_records/6a804b476c18338e478a01cb/grace-curtis-1851-cornwall-phillack-1825- :: Grace CURTIS | Cornwall | Truro | 1825 | 1851 | Cornwall | Hayle Foundry
+/search_records/5a14313bf4040b9d6e1dc0fd/william-curtis-1851-cornwall-callington-1826- :: William CURTIS | Cornwall | St Hilary (or St Hillery) | 1826 | 1851 | Cornwall | Callington
+/search_records/5a1438f2f4040b9d6e27056f/josiah-curtis-1851-cornwall-st-clement-1826- :: Josiah CURTIS | Cornwall | Kenwyn | 1826 | 1851 | Cornwall | St Clement
+/search_records/5a143628f4040b9d6e23b077/jane-curtis-1851-cornwall-st-austell-1827- :: Jane CURTIS | Cornwall | Roche | 1827 | 1851 | Cornwall | St Austell
+/search_records/5a14407af4040b9d6e309f1e/mary-ann-curtis-1851-cornwall-penzance-1827- :: Mary Ann CURTIS | Cornwall | Crowan | 1827 | 1851 | Cornwall | Marazion
+/search_records/5a143c99f4040b9d6e2bb759/avis-curtis-1851-cornwall-gwennap-1827- :: Avis CURTIS | Cornwall | Gwennap | 1827 | 1851 | Cornwall | Gwennap
+/search_records/5a1436d3f4040b9d6e246b51/elizabeth-curtis-1851-cornwall-mevagissey-1828- :: Elizabeth CURTIS | Cornwall | Grampound | 1828 | 1851 | Cornwall | Mevagissey
+/search_records/5a143ed6f4040b9d6e2e951b/william-curtis-1851-cornwall-camborne-1828- :: William CURTIS | Cornwall | Phillack | 1828 | 1851 | Cornwall | Camborne
+/search_records/5a14407bf4040b9d6e30a240/william-curtis-1851-cornwall-penzance-1828- :: William CURTIS | Cornwall | St Erth | 1828 | 1851 | Cornwall | Marazion
+/search_records/5a1440f3f4040b9d6e315421/caroline-curtis-1851-cornwall-penzance-1828- :: Caroline CURTIS | Cornwall | Breage | 1828 | 1851 | Cornwall | Marazion
+/search_records/6a804bcf6c18338e478a2162/william-curtis-1851-cornwall-phillack-1828- :: William CURTIS | Cornwall | Phillack | 1828 | 1851 | Cornwall | Ventonleague
+/search_records/5a143293f4040b9d6e1f7313/mary-curtis-1851-cornwall-looe-1828- :: Mary CURTIS | Cornwall | Lansallos | 1828 | 1851 | Cornwall | Looe
+/search_records/5a143293f4040b9d6e1f7331/henry-curtis-1851-cornwall-looe-1828- :: Henry CURTIS | Cornwall | Lansallos | 1828 | 1851 | Cornwall | Looe
+/search_records/5a143294f4040b9d6e1f74c9/mary-ann-curtis-1851-cornwall-looe-1829- :: Mary Ann CURTIS | Cornwall | Lansallos | 1829 | 1851 | Cornwall | Looe
+/search_records/5a143147f4040b9d6e1dda09/joseph-curtis-1851-cornwall-callington-1829- :: Joseph CURTIS | Cornwall | St Wenn | 1829 | 1851 | Cornwall | Callington
+/search_records/5a14347ff4040b9d6e21cc99/mathew-curtis-1851-cornwall-padstow-1829- :: Mathew CURTIS | Cornwall | St Merryn | 1829 | 1851 | Cornwall | Padstow
+/search_records/5a1438f4f4040b9d6e2708ad/thomas-curtis-1851-cornwall-st-clement-1829- :: Thomas CURTIS | Cornwall | Kenwyn | 1829 | 1851 | Cornwall | St Clement
+/search_records/5a143a3ef4040b9d6e28b580/edward-j-curtis-1851-cornwall-falmouth-1829- :: Edward J. CURTIS | Middlesex | St Georges | 1829 | 1851 | Cornwall | Mylor
+/search_records/5a143a57f4040b9d6e28e4a5/mary-curtis-1851-cornwall-falmouth-1829- :: Mary CURTIS | Cornwall | Constantine | 1829 | 1851 | Cornwall | Mylor
+/search_records/5a14407bf4040b9d6e30a242/saml-curtis-1851-cornwall-penzance-1829- :: Saml. CURTIS | Cornwall | Breage | 1829 | 1851 | Cornwall | Marazion
+/search_records/5a14407df4040b9d6e30a66f/ann-murrish-curtis-1851-cornwall-penzance-1829- :: Ann Murrish CURTIS | Cornwall | St Erth | 1829 | 1851 | Cornwall | Marazion
+/search_records/5a1440f7f4040b9d6e315c97/ann-curtis-1851-cornwall-penzance-1829- :: Ann CURTIS | Cornwall | St Austell | 1829 | 1851 | Cornwall | Marazion
+/search_records/5a142eb8f4040b9d6e1ab06b/thomas-curtis-1851-cornwall-boscastle-1830- :: Thomas CURTIS | Devon | Hartland | 1830 | 1851 | Cornwall | Boscastle
+/search_records/5a1435f1f4040b9d6e237570/eliza-curtis-1851-cornwall-st-austell-1830- :: Eliza CURTIS | Cornwall | St Austell | 1830 | 1851 | Cornwall | St Austell
+/search_records/5a1438c0f4040b9d6e26e683/philippa-curtis-1851-cornwall-st-clement-1830- :: Philippa CURTIS | Cornwall | Grampound | 1830 | 1851 | Cornwall | St Clement
+/search_records/5a143c85f4040b9d6e2b9026/elizabeth-curtis-1851-cornwall-gwennap-1830- :: Elizabeth CURTIS | Cornwall | Gwennap | 1830 | 1851 | Cornwall | Gwennap
+/search_records/5a143293f4040b9d6e1f7252/margaret-curtis-1851-cornwall-looe-1831- :: Margaret CURTIS | Cornwall | Lansallos | 1831 | 1851 | Cornwall | Looe
+/search_records/5a142e3bf4040b9d6e1a1711/william-curtis-1851-cornwall-kilkhampton-1831- :: William CURTIS | Devon | Ashwater | 1831 | 1851 | Cornwall | Kilkhampton
+/search_records/5a142eb3f4040b9d6e1aa6f2/charles-curtis-1851-cornwall-boscastle-1831- :: Charles CURTIS | Devon | Hartland | 1831 | 1851 | Cornwall | Boscastle
+/search_records/5a143293f4040b9d6e1f7315/james-curtis-1851-cornwall-looe-1831- :: James CURTIS | Cornwall | Lansallos | 1831 | 1851 | Cornwall | Looe
+/search_records/5a143486f4040b9d6e21da57/joseph-curtis-1851-cornwall-padstow-1831- :: Joseph CURTIS | Cornwall | Cardinham | 1831 | 1851 | Cornwall | Padstow
+/search_records/5a143a3ef4040b9d6e28b584/william-h-curtis-1851-cornwall-falmouth-1831- :: William H. CURTIS | Middlesex | St Georges | 1831 | 1851 | Cornwall | Mylor
+/search_records/6a30e74d5d92161e89b06f55/william-curtis-1851-cornwall-kilkhampton-1831- :: William CURTIS | Devon | Ashwater | 1831 | 1851 | Cornwall | Kilkhampton
+/search_records/5a142e50f4040b9d6e1a3c13/william-curtis-1851-cornwall-kilkhampton-1832- :: William CURTIS | Cornwall | Poundstock | 1832 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143298f4040b9d6e1f7d82/rebecca-curtis-1851-cornwall-looe-1832- :: Rebecca CURTIS | Cornwall | Polruan | 1832 | 1851 | Cornwall | Looe
+/search_records/5a14347cf4040b9d6e21c625/mary-ann-curtis-1851-cornwall-padstow-1832- :: Mary Ann CURTIS | Cornwall | Padstow | 1832 | 1851 | Cornwall | Padstow
+/search_records/5a143530f4040b9d6e2285a1/richard-curtis-1851-cornwall-fowey-1832- :: Richard CURTIS | Cornwall | Golant | 1832 | 1851 | Cornwall | Fowey
+/search_records/5a1436d3f4040b9d6e246ce2/john-curtis-1851-cornwall-mevagissey-1832- :: John CURTIS | Cornwall | Grampound | 1832 | 1851 | Cornwall | Mevagissey
+/search_records/5a143924f4040b9d6e27675d/charles-curtis-1851-cornwall-st-clement-1832- :: Charles CURTIS | Cornwall | Feock | 1832 | 1851 | Cornwall | St Clement
+/search_records/5a143290f4040b9d6e1f6d94/jane-curtis-1851-cornwall-looe-1832- :: Jane CURTIS | Cornwall | West Looe | 1832 | 1851 | Cornwall | Looe
+/search_records/5a143ed0f4040b9d6e2e86ea/john-curtis-1851-cornwall-camborne-1832- :: John CURTIS | Cornwall | Marazion | 1832 | 1851 | Cornwall | Camborne
+/search_records/5a14407df4040b9d6e30a673/james-murrish-curtis-1851-cornwall-penzance-1832- :: James Murrish CURTIS | Cornwall | St Erth | 1832 | 1851 | Cornwall | Marazion
+/search_records/6a30e7b9755f9fc843767f83/william-curtis-1851-cornwall-marhamchurch-1832- :: William CURTIS | Cornwall | Poundstock | 1832 | 1851 | Cornwall | Marhamchurch
+/search_records/6a804b906c18338e478a1213/john-curtis-1851-cornwall-phillack-1832- :: John CURTIS | Cornwall | Marazion | 1832 | 1851 | Cornwall | Bodriggy
+/search_records/5a143293f4040b9d6e1f7250/hugh-curtis-1851-cornwall-looe-1832- :: Hugh CURTIS | Cornwall | Lansallos | 1832 | 1851 | Cornwall | Looe
+/search_records/5a14407af4040b9d6e30a08e/john-curtis-1851-cornwall-penzance-1833- :: John CURTIS | Cornwall | St Hilary | 1833 | 1851 | Cornwall | Marazion
+/search_records/5a143293f4040b9d6e1f7317/elizabeth-curtis-1851-cornwall-looe-1833- :: Elizabeth CURTIS | Cornwall | Lansallos | 1833 | 1851 | Cornwall | Looe
+/search_records/5a143293f4040b9d6e1f7333/catherine-curtis-1851-cornwall-looe-1833- :: Catherine CURTIS | Cornwall | Lansallos | 1833 | 1851 | Cornwall | Looe
+/search_records/5a143294f4040b9d6e1f74cd/phillippa-curtis-1851-cornwall-looe-1833- :: Phillippa CURTIS | Cornwall | Lansallos | 1833 | 1851 | Cornwall | Looe
+/search_records/5a143298f4040b9d6e1f7d84/william-curtis-1851-cornwall-looe-1833- :: William CURTIS | Cornwall | Polruan | 1833 | 1851 | Cornwall | Looe
+/search_records/5a14348bf4040b9d6e21e3cd/frederick-curtis-1851-cornwall-padstow-1833- :: Frederick CURTIS | Cornwall | Cardinham | 1833 | 1851 | Cornwall | Padstow
+/search_records/5a1435f1f4040b9d6e237553/amelia-curtis-1851-cornwall-st-austell-1833- :: Amelia CURTIS | Cornwall | St Austell | 1833 | 1851 | Cornwall | St Austell
+/search_records/5a143628f4040b9d6e23b079/mary-ann-curtis-1851-cornwall-st-austell-1833- :: Mary Ann CURTIS | Cornwall | Roche | 1833 | 1851 | Cornwall | St Austell
+/search_records/5a1438c4f4040b9d6e26ee6a/aseneath-curtis-1851-cornwall-st-clement-1833- :: Aseneath CURTIS | London (City) | - | 1833 | 1851 | Cornwall | St Clement
+/search_records/5a143a03f4040b9d6e288bf1/elizabeth-curtis-1851-cornwall-falmouth-1833- :: Elizabeth CURTIS | Middlesex | London | 1833 | 1851 | Cornwall | Mylor
+/search_records/5a143c85f4040b9d6e2b9028/eliza-curtis-1851-cornwall-gwennap-1833- :: Eliza CURTIS | Cornwall | Kea | 1833 | 1851 | Cornwall | Gwennap
+/search_records/5a144079f4040b9d6e309ed5/charles-curtis-1851-cornwall-penzance-1833- :: Charles CURTIS | Cornwall | St Hilary | 1833 | 1851 | Cornwall | Marazion
+/search_records/5a14407bf4040b9d6e30a245/john-curtis-1851-cornwall-penzance-1834- :: John CURTIS | Cornwall | Germoe | 1834 | 1851 | Cornwall | Marazion
+/search_records/5a142e3bf4040b9d6e1a1713/harriett-curtis-1851-cornwall-kilkhampton-1834- :: Harriett CURTIS | Devon | Ashwater | 1834 | 1851 | Cornwall | Kilkhampton
+/search_records/5a142e42f4040b9d6e1a238b/prudence-curtis-1851-cornwall-kilkhampton-1834- :: Prudence CURTIS | Cornwall | Poughill | 1834 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143397f4040b9d6e20cbbb/elizabeth-curtis-1851-cornwall-lanlivery-1834- :: Elizabeth CURTIS | Cornwall | Roche | 1834 | 1851 | Cornwall | Lanlivery
+/search_records/5a143472f4040b9d6e21b26b/tabitha-curtis-1851-cornwall-padstow-1834- :: Tabitha CURTIS | Cornwall | St Wenn | 1834 | 1851 | Cornwall | Padstow
+/search_records/5a1435f6f4040b9d6e237ec1/louisa-curtis-1851-cornwall-st-austell-1834- :: Louisa CURTIS | Cornwall | St Austell | 1834 | 1851 | Cornwall | St Austell
+/search_records/5a1439daf4040b9d6e283759/elizabeth-curtis-1851-cornwall-falmouth-1834- :: Elizabeth CURTIS | Cornwall | Flushing | 1834 | 1851 | Cornwall | Mylor
+/search_records/5a143d78f4040b9d6e2cc8be/james-curtis-1851-cornwall-redruth-1834- :: James CURTIS | Cornwall | Kenwyn | 1834 | 1851 | Cornwall | Redruth
+/search_records/5a14407ef4040b9d6e30a874/bartholomew-curtis-1851-cornwall-penzance-1834- :: Bartholomew CURTIS | Cornwall | Crowan | 1834 | 1851 | Cornwall | Marazion
+/search_records/6a30e71c755f9fc843766681/prudence-curtis-1851-cornwall-poughill-1834- :: Prudence CURTIS | Cornwall | Poughill | 1834 | 1851 | Cornwall | Poughill
+/search_records/6a30e74d5d92161e89b06f57/harriett-curtis-1851-cornwall-kilkhampton-1834- :: Harriett CURTIS | Devon | Ashwater | 1834 | 1851 | Cornwall | Kilkhampton
+/search_records/687627d1b18f7ca172ec178c/john-curtis-1851-cornwall-st-stephens-by-saltash-1835- :: John CURTIS | Cornwall | Millbrook (or Milbrook) | 1835 | 1851 | Cornwall | St Stephens
+/search_records/5a143346f4040b9d6e204890/sarah-curtis-1851-cornwall-lanlivery-1835- :: Sarah CURTIS | Cornwall | St Winnow | 1835 | 1851 | Cornwall | Lanlivery
+/search_records/5a144079f4040b9d6e309ed7/isabella-curtis-1851-cornwall-penzance-1835- :: Isabella CURTIS | Cornwall | St Hilary | 1835 | 1851 | Cornwall | Marazion
+/search_records/5a143293f4040b9d6e1f7319/ann-curtis-1851-cornwall-looe-1835- :: Ann CURTIS | Cornwall | Lansallos | 1835 | 1851 | Cornwall | Looe
+/search_records/5a14339af4040b9d6e20d11d/thomas-curtis-1851-cornwall-lanlivery-1836- :: Thomas CURTIS | Cornwall | St Wenn | 1836 | 1851 | Cornwall | Lanlivery
+/search_records/5a1436d5f4040b9d6e247026/jane-curtis-1851-cornwall-mevagissey-1836- :: Jane CURTIS | Cornwall | Grampound | 1836 | 1851 | Cornwall | Mevagissey
+/search_records/5a1438f4f4040b9d6e2708af/cathrine-curtis-1851-cornwall-st-clement-1836- :: Cathrine CURTIS | Cornwall | Kenwyn | 1836 | 1851 | Cornwall | St Clement
+/search_records/5a1439daf4040b9d6e28375b/richard-curtis-1851-cornwall-falmouth-1836- :: Richard CURTIS | Cornwall | Flushing | 1836 | 1851 | Cornwall | Mylor
+/search_records/5a1439ddf4040b9d6e283d5f/elizabeth-curtis-1851-cornwall-falmouth-1836- :: Elizabeth CURTIS | Cornwall | Mylor | 1836 | 1851 | Cornwall | Mylor
+/search_records/5a143d65f4040b9d6e2ca2db/josepha-curtis-1851-cornwall-redruth-1836- :: Josepha CURTIS | Cornwall | Redruth | 1836 | 1851 | Cornwall | Redruth
+/search_records/5a14407cf4040b9d6e30a3ff/charles-curtis-1851-cornwall-penzance-1836- :: Charles CURTIS | Cornwall | St Hilary | 1836 | 1851 | Cornwall | Marazion
+/search_records/6a30e717755f9fc8437665e4/elizabeth-ann-curtis-1851-cornwall-poughill-1836- :: Elizabeth Ann CURTIS | Cornwall | Kilkhampton | 1836 | 1851 | Cornwall | Poughill
+/search_records/6a30e719755f9fc84376663e/thirza-curtis-1851-cornwall-poughill-1836- :: Thirza CURTIS | Cornwall | Poughill | 1836 | 1851 | Cornwall | Poughill
+/search_records/5a142e42f4040b9d6e1a22f0/elizabeth-ann-curtis-1851-cornwall-kilkhampton-1836- :: Elizabeth Ann CURTIS | Cornwall | Kilkhampton | 1836 | 1851 | Cornwall | Kilkhampton
+/search_records/5a142e42f4040b9d6e1a2348/thirza-curtis-1851-cornwall-kilkhampton-1836- :: Thirza CURTIS | Cornwall | Poughill | 1836 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143293f4040b9d6e1f724e/phillippa-curtis-1851-cornwall-looe-1836- :: Phillippa CURTIS | Cornwall | Lansallos | 1836 | 1851 | Cornwall | Looe
+/search_records/5a143293f4040b9d6e1f731b/susannah-curtis-1851-cornwall-looe-1837- :: Susannah CURTIS | Cornwall | Lansallos | 1837 | 1851 | Cornwall | Looe
+/search_records/5a143140f4040b9d6e1dcba9/james-curtis-1851-cornwall-callington-1837- :: James CURTIS | Devon | Plympton | 1837 | 1851 | Cornwall | Callington
+/search_records/5a143298f4040b9d6e1f7d86/henry-curtis-1851-cornwall-looe-1837- :: Henry CURTIS | Cornwall | Polruan | 1837 | 1851 | Cornwall | Looe
+/search_records/5a1435f1f4040b9d6e237573/james-curtis-1851-cornwall-st-austell-1837- :: James CURTIS | Cornwall | St Austell | 1837 | 1851 | Cornwall | St Austell
+/search_records/5a1439ddf4040b9d6e283d61/jane-curtis-1851-cornwall-falmouth-1837- :: Jane CURTIS | Cornwall | Mylor | 1837 | 1851 | Cornwall | Mylor
+/search_records/5a143c8af4040b9d6e2b98b3/eliza-curtis-1851-cornwall-gwennap-1837- :: Eliza CURTIS | Cornwall | Gwennap | 1837 | 1851 | Cornwall | Gwennap
+/search_records/5a14407af4040b9d6e309fb7/charles-curtis-1851-cornwall-penzance-1837- :: Charles CURTIS | Cornwall | St Hilary | 1837 | 1851 | Cornwall | Marazion
+/search_records/5a14407af4040b9d6e30a094/jane-curtis-1851-cornwall-penzance-1837- :: Jane CURTIS | Cornwall | St Hilary | 1837 | 1851 | Cornwall | Marazion
+/search_records/5a14407af4040b9d6e30a090/peter-harvey-curtis-1851-cornwall-penzance-1837- :: Peter Harvey CURTIS | Cornwall | St Hilary | 1837 | 1851 | Cornwall | Marazion
+/search_records/5a14407bf4040b9d6e30a247/thomas-curtis-1851-cornwall-penzance-1837- :: Thomas CURTIS | Cornwall | Marazion | 1837 | 1851 | Cornwall | Marazion
+/search_records/5a144079f4040b9d6e309ed9/elizabeth-curtis-1851-cornwall-penzance-1838- :: Elizabeth CURTIS | Cornwall | St Hilary | 1838 | 1851 | Cornwall | Marazion
+/search_records/5a143139f4040b9d6e1dbd97/william-curtis-1851-cornwall-callington-1838- :: William CURTIS | Devon | Plympton | 1838 | 1851 | Cornwall | Callington
+/search_records/5a143294f4040b9d6e1f74cf/james-curtis-1851-cornwall-looe-1838- :: James CURTIS | Cornwall | Lansallos | 1838 | 1851 | Cornwall | Looe
+/search_records/5a1437b6f4040b9d6e256f0b/joel-c-curtis-1851-cornwall-probus-1838- :: Joel C CURTIS | Cornwall | Perranzabuloe | 1838 | 1851 | Cornwall | Probus
+/search_records/5a143292f4040b9d6e1f7207/richard-curtis-1851-cornwall-looe-1838- :: Richard CURTIS | Cornwall | Lansallos | 1838 | 1851 | Cornwall | Looe
+/search_records/5a1434ccf4040b9d6e222613/william-curtis-1851-cornwall-padstow-1839- :: William CURTIS | Cornwall | Newlyn | 1839 | 1851 | Cornwall | Padstow
+/search_records/5a1434d0f4040b9d6e222ddd/john-curtis-1851-cornwall-padstow-1839- :: John CURTIS | Cornwall | Mitchell | 1839 | 1851 | Cornwall | Padstow
+/search_records/5a143549f4040b9d6e22b640/emmery-a-curtis-1851-cornwall-fowey-1839- :: Emmery A. CURTIS | Cornwall | St Blazey | 1839 | 1851 | Cornwall | Fowey
+/search_records/5a1437d3f4040b9d6e25a410/thomas-h-curtis-1851-cornwall-probus-1839- :: Thomas H. CURTIS | Cornwall | Perranzabuloe | 1839 | 1851 | Cornwall | Probus
+/search_records/5a143a09f4040b9d6e289818/dorothy-curtis-1851-cornwall-falmouth-1839- :: Dorothy CURTIS | Cornwall | Wendron | 1839 | 1851 | Cornwall | Mylor
+/search_records/5a143c8af4040b9d6e2b98b6/thomas-curtis-1851-cornwall-gwennap-1839- :: Thomas CURTIS | Cornwall | Gwennap | 1839 | 1851 | Cornwall | Gwennap
+/search_records/5a143d73f4040b9d6e2cbe1c/samuel-curtis-1851-cornwall-redruth-1839- :: Samuel CURTIS | Cornwall | Redruth | 1839 | 1851 | Cornwall | Redruth
+/search_records/5a14407bf4040b9d6e30a249/elizabeth-curtis-1851-cornwall-penzance-1839- :: Elizabeth CURTIS | Cornwall | Marazion | 1839 | 1851 | Cornwall | Marazion
+/search_records/5a14407cf4040b9d6e30a401/henry-curtis-1851-cornwall-penzance-1839- :: Henry CURTIS | Cornwall | St Hilary | 1839 | 1851 | Cornwall | Marazion
+/search_records/6a30e7b9755f9fc843767f79/samuel-curtis-1851-cornwall-marhamchurch-1839- :: Samuel CURTIS | Cornwall | Marhamchurch | 1839 | 1851 | Cornwall | Marhamchurch
+/search_records/5a142e50f4040b9d6e1a3c09/samuel-curtis-1851-cornwall-kilkhampton-1839- :: Samuel CURTIS | Cornwall | Marhamchurch | 1839 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143140f4040b9d6e1dcbab/caroline-curtis-1851-cornwall-callington-1839- :: Caroline CURTIS | Devon | Plympton | 1839 | 1851 | Cornwall | Callington
+/search_records/5a143293f4040b9d6e1f731d/william-curtis-1851-cornwall-looe-1839- :: William CURTIS | Cornwall | Lansallos | 1839 | 1851 | Cornwall | Looe
+/search_records/5a143298f4040b9d6e1f7d88/charles-curtis-1851-cornwall-looe-1839- :: Charles CURTIS | Cornwall | Polruan | 1839 | 1851 | Cornwall | Looe
+/search_records/5a1439e5f4040b9d6e284d91/ann-curtis-1851-cornwall-falmouth-1840- :: Ann CURTIS | Cornwall | Helston | 1840 | 1851 | Cornwall | Mylor
+/search_records/5a143140f4040b9d6e1dcbad/blanch-curtis-1851-cornwall-callington-1840- :: Blanch CURTIS | Devon | Plympton | 1840 | 1851 | Cornwall | Callington
+/search_records/5a143294f4040b9d6e1f74d1/thomas-curtis-1851-cornwall-looe-1840- :: Thomas CURTIS | Cornwall | Lansallos | 1840 | 1851 | Cornwall | Looe
+/search_records/5a1434b3f4040b9d6e21f589/jane-hawkey-curtis-1851-cornwall-padstow-1840- :: Jane Hawkey CURTIS | Cornwall | St Wenn | 1840 | 1851 | Cornwall | Padstow
+/search_records/5a143549f4040b9d6e22b644/thomas-curtis-1851-cornwall-fowey-1840- :: Thomas CURTIS | Cornwall | St Blazey | 1840 | 1851 | Cornwall | Fowey
+/search_records/5a1437b6f4040b9d6e256f0f/lavinia-curtis-1851-cornwall-probus-1840- :: Lavinia CURTIS | Cornwall | Perranzabuloe | 1840 | 1851 | Cornwall | Probus
+/search_records/5a1439daf4040b9d6e28375d/william-curtis-1851-cornwall-falmouth-1840- :: William CURTIS | Cornwall | Flushing | 1840 | 1851 | Cornwall | Mylor
+/search_records/5a1439ddf4040b9d6e283d63/louisa-curtis-1851-cornwall-falmouth-1840- :: Louisa CURTIS | Cornwall | Mylor | 1840 | 1851 | Cornwall | Mylor
+/search_records/5a143a53f4040b9d6e28dd96/elizabeth-curtis-1851-cornwall-falmouth-1840- :: Elizabeth CURTIS | Cornwall | Constantine | 1840 | 1851 | Cornwall | Mylor
+/search_records/5a143ed7f4040b9d6e2e96a0/elizabeth-curtis-1851-cornwall-camborne-1840- :: Elizabeth CURTIS | Cornwall | Phillack | 1840 | 1851 | Cornwall | Camborne
+/search_records/5a144079f4040b9d6e309edb/ann-curtis-1851-cornwall-penzance-1840- :: Ann CURTIS | Cornwall | St Hilary | 1840 | 1851 | Cornwall | Marazion
+/search_records/5a14407af4040b9d6e309fb9/william-curtis-1851-cornwall-penzance-1840- :: William CURTIS | Cornwall | St Hilary | 1840 | 1851 | Cornwall | Marazion
+/search_records/687627c8b18f7ca172ec151e/emma-curtis-1851-cornwall-st-stephens-by-saltash-1840- :: Emma CURTIS | Cornwall | Saltash | 1840 | 1851 | Cornwall | St Stephens
+/search_records/6a804bd36c18338e478a22fb/elizabeth-curtis-1851-cornwall-phillack-1840- :: Elizabeth CURTIS | Cornwall | Phillack | 1840 | 1851 | Cornwall | Ventonleague
+/search_records/6a30e76d5d92161e89b0759e/robert-curtis-1851-cornwall-kilkhampton-1841- :: Robert CURTIS | Cornwall | Kilkhampton | 1841 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143293f4040b9d6e1f731f/richard-curtis-1851-cornwall-looe-1841- :: Richard CURTIS | Cornwall | Lansallos | 1841 | 1851 | Cornwall | Looe
+/search_records/5a143294f4040b9d6e1f745a/john-s-curtis-1851-cornwall-looe-1841- :: John S CURTIS | Cornwall | Lansallos | 1841 | 1851 | Cornwall | Looe
+/search_records/5a14329df4040b9d6e1f888d/william-curtis-1851-cornwall-looe-1841- :: William CURTIS | Cornwall | St. Veep | 1841 | 1851 | Cornwall | Looe
+/search_records/5a143471f4040b9d6e21b012/william-curtis-1851-cornwall-padstow-1841- :: William CURTIS | Cornwall | St Wenn | 1841 | 1851 | Cornwall | Padstow
+/search_records/5a1434ccf4040b9d6e222615/emma-curtis-1851-cornwall-padstow-1841- :: Emma CURTIS | Cornwall | Newlyn | 1841 | 1851 | Cornwall | Padstow
+/search_records/5a143c7df4040b9d6e2b7eae/mark-curtis-1851-cornwall-gwennap-1841- :: Mark CURTIS | Cornwall | Gwennap | 1841 | 1851 | Cornwall | Gwennap
+/search_records/5a144079f4040b9d6e309edd/prescela-curtis-1851-cornwall-penzance-1841- :: Prescela CURTIS | Cornwall | St Hilary | 1841 | 1851 | Cornwall | Marazion
+/search_records/5a14407df4040b9d6e30a758/jane-curtis-1851-cornwall-penzance-1841- :: Jane CURTIS | Cornwall | St Hilary | 1841 | 1851 | Cornwall | Marazion
+/search_records/5a142e3ef4040b9d6e1a1cd7/robert-curtis-1851-cornwall-kilkhampton-1841- :: Robert CURTIS | Cornwall | Kilkhampton | 1841 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143294f4040b9d6e1f74d3/phillip-curtis-1851-cornwall-looe-1842- :: Phillip CURTIS | Cornwall | Lansallos | 1842 | 1851 | Cornwall | Looe
+/search_records/5a143298f4040b9d6e1f7d8a/joseph-curtis-1851-cornwall-looe-1842- :: Joseph CURTIS | Cornwall | Polruan | 1842 | 1851 | Cornwall | Looe
+/search_records/5a1434b3f4040b9d6e21f58d/betsy-curtis-1851-cornwall-padstow-1842- :: Betsy CURTIS | Cornwall | St Wenn | 1842 | 1851 | Cornwall | Padstow
+/search_records/5a1434c9f4040b9d6e221fa3/elizabeth-curtis-1851-cornwall-padstow-1842- :: Elizabeth CURTIS | Cornwall | Newlyn | 1842 | 1851 | Cornwall | Padstow
+/search_records/5a143621f4040b9d6e23a25d/emma-curtis-1851-cornwall-st-austell-1842- :: Emma CURTIS | Cornwall | St. Austell | 1842 | 1851 | Cornwall | St Austell
+/search_records/5a1437b6f4040b9d6e256f11/emily-curtis-1851-cornwall-probus-1842- :: Emily CURTIS | Cornwall | Perranzabuloe | 1842 | 1851 | Cornwall | Probus
+/search_records/5a1437d3f4040b9d6e25a414/elizabeth-curtis-1851-cornwall-probus-1842- :: Elizabeth CURTIS | Cornwall | Perranzabuloe | 1842 | 1851 | Cornwall | Probus
+/search_records/5a1439ddf4040b9d6e283d65/sarah-curtis-1851-cornwall-falmouth-1842- :: Sarah CURTIS | Cornwall | Mylor | 1842 | 1851 | Cornwall | Mylor
+/search_records/5a1439e5f4040b9d6e284d93/charles-curtis-1851-cornwall-falmouth-1842- :: Charles CURTIS | Cornwall | Helston | 1842 | 1851 | Cornwall | Mylor
+/search_records/5a143d73f4040b9d6e2cbe1e/louisa-curtis-1851-cornwall-redruth-1842- :: Louisa CURTIS | Cornwall | Redruth | 1842 | 1851 | Cornwall | Redruth
+/search_records/5a14407bf4040b9d6e30a24b/james-curtis-1851-cornwall-penzance-1842- :: James CURTIS | Cornwall | St Hilary | 1842 | 1851 | Cornwall | Marazion
+/search_records/687627b6b18f7ca025f81d03/george-curtis-1851-cornwall-maker-1842- :: George CURTIS | Scotland | - | 1842 | 1851 | Cornwall | Maker
+/search_records/5a143346f4040b9d6e204892/ann-curtis-1851-cornwall-lanlivery-1843- :: Ann CURTIS | Cornwall | St Winnow | 1843 | 1851 | Cornwall | Lanlivery
+/search_records/5a14407cf4040b9d6e30a403/caroline-curtis-1851-cornwall-penzance-1843- :: Caroline CURTIS | Cornwall | St Hilary | 1843 | 1851 | Cornwall | Marazion
+/search_records/5a142e50f4040b9d6e1a3c0b/mary-ann-curtis-1851-cornwall-kilkhampton-1843- :: Mary Ann CURTIS | Cornwall | Marhamchurch | 1843 | 1851 | Cornwall | Kilkhampton
+/search_records/6a30e7b9755f9fc843767f7b/mary-ann-curtis-1851-cornwall-marhamchurch-1843- :: Mary Ann CURTIS | Cornwall | Marhamchurch | 1843 | 1851 | Cornwall | Marhamchurch
+/search_records/5a142ebaf4040b9d6e1ab49e/mary-a-curtis-1851-cornwall-boscastle-1843- :: Mary A. CURTIS | Cornwall | Tintagel | 1843 | 1851 | Cornwall | Boscastle
+/search_records/5a1434ccf4040b9d6e222617/elizabeth-curtis-1851-cornwall-padstow-1843- :: Elizabeth CURTIS | Cornwall | Newlyn | 1843 | 1851 | Cornwall | Padstow
+/search_records/5a143c9cf4040b9d6e2bbe8d/william-curtis-1851-cornwall-gwennap-1843- :: William CURTIS | Cornwall | Gwennap | 1843 | 1851 | Cornwall | Gwennap
+/search_records/5a144079f4040b9d6e309edf/william-curtis-1851-cornwall-penzance-1843- :: William CURTIS | Cornwall | St Hilary | 1843 | 1851 | Cornwall | Marazion
+/search_records/5a143621f4040b9d6e23a25f/elizabeth-curtis-1851-cornwall-st-austell-1844- :: Elizabeth CURTIS | Cornwall | St. Austell | 1844 | 1851 | Cornwall | St Austell
+/search_records/5a1437b6f4040b9d6e256f13/carolina-curtis-1851-cornwall-probus-1844- :: Carolina CURTIS | Cornwall | Perranzabuloe | 1844 | 1851 | Cornwall | Probus
+/search_records/5a143c8af4040b9d6e2b98b8/john-curtis-1851-cornwall-gwennap-1844- :: John CURTIS | Cornwall | Gwennap | 1844 | 1851 | Cornwall | Gwennap
+/search_records/5a14407af4040b9d6e30a096/martha-curtis-1851-cornwall-penzance-1844- :: Martha CURTIS | Cornwall | St Hilary | 1844 | 1851 | Cornwall | Marazion
+/search_records/5a143293f4040b9d6e1f7321/john-curtis-1851-cornwall-looe-1844- :: John CURTIS | Cornwall | Lansallos | 1844 | 1851 | Cornwall | Looe
+/search_records/5a143294f4040b9d6e1f745e/mary-ann-curtis-1851-cornwall-looe-1844- :: Mary Ann CURTIS | Cornwall | Lansallos | 1844 | 1851 | Cornwall | Looe
+/search_records/5a143294f4040b9d6e1f74d5/william-curtis-1851-cornwall-looe-1844- :: William CURTIS | Cornwall | Lansallos | 1844 | 1851 | Cornwall | Looe
+/search_records/5a14329df4040b9d6e1f888f/charles-curtis-1851-cornwall-looe-1844- :: Charles CURTIS | Cornwall | St. Veep | 1844 | 1851 | Cornwall | Looe
+/search_records/5a143382f4040b9d6e20a570/frederick-h-curtis-1851-cornwall-lanlivery-1844- :: Frederick H. CURTIS | Cornwall | Bodmin (or Bodmin Boro) | 1844 | 1851 | Cornwall | Lanlivery
+/search_records/5a143384f4040b9d6e20a9bd/william-c-curtis-1851-cornwall-lanlivery-1844- :: William C. CURTIS | Cornwall | Bodmin (or Bodmin Boro) | 1844 | 1851 | Cornwall | Lanlivery
+/search_records/5a1434b3f4040b9d6e21f58f/ann-curtis-1851-cornwall-padstow-1844- :: Ann CURTIS | Cornwall | St Wenn | 1844 | 1851 | Cornwall | Padstow
+/search_records/5a14329df4040b9d6e1f8891/eliza-curtis-1851-cornwall-looe-1845- :: Eliza CURTIS | Cornwall | St. Veep | 1845 | 1851 | Cornwall | Looe
+/search_records/5a143298f4040b9d6e1f7d8c/hannah-pearn-curtis-1851-cornwall-looe-1845- :: Hannah Pearn CURTIS | Cornwall | Polruan | 1845 | 1851 | Cornwall | Looe
+/search_records/5a1434ccf4040b9d6e222619/peter-curtis-1851-cornwall-padstow-1845- :: Peter CURTIS | Cornwall | Newlyn | 1845 | 1851 | Cornwall | Padstow
+/search_records/5a1438f2f4040b9d6e270575/elizabeth-jane-curtis-1851-cornwall-st-clement-1845- :: Elizabeth Jane CURTIS | Cornwall | Kenwyn | 1845 | 1851 | Cornwall | St Clement
+/search_records/5a1439d7f4040b9d6e2831d4/james-w-curtis-1851-cornwall-falmouth-1845- :: James W. CURTIS | Cornwall | Mylor | 1845 | 1851 | Cornwall | Mylor
+/search_records/5a143c8af4040b9d6e2b98ba/elizabeth-curtis-1851-cornwall-gwennap-1845- :: Elizabeth CURTIS | Cornwall | Gwennap | 1845 | 1851 | Cornwall | Gwennap
+/search_records/5a143d73f4040b9d6e2cbe20/william-curtis-1851-cornwall-redruth-1845- :: William CURTIS | Cornwall | Redruth | 1845 | 1851 | Cornwall | Redruth
+/search_records/5a144079f4040b9d6e309ee1/mary-curtis-1851-cornwall-penzance-1845- :: Mary CURTIS | Cornwall | St Hilary | 1845 | 1851 | Cornwall | Marazion
+/search_records/6a30e720755f9fc8437666be/samuel-h-curtis-1851-cornwall-poughill-1846- :: Samuel H CURTIS | Devon | Clawton | 1846 | 1851 | Cornwall | Poughill
+/search_records/5a142ebaf4040b9d6e1ab4a2/thomas-curtis-1851-cornwall-boscastle-1846- :: Thomas CURTIS | Cornwall | Tintagel | 1846 | 1851 | Cornwall | Boscastle
+/search_records/5a143140f4040b9d6e1dcbaf/william-j-h-curtis-1851-cornwall-callington-1846- :: William J H CURTIS | Cornwall | Calstock | 1846 | 1851 | Cornwall | Callington
+/search_records/5a143294f4040b9d6e1f74d7/charles-h-curtis-1851-cornwall-looe-1846- :: Charles H CURTIS | Cornwall | Lansallos | 1846 | 1851 | Cornwall | Looe
+/search_records/5a1434b3f4040b9d6e21f591/hart-cock-curtis-1851-cornwall-padstow-1846- :: Hart Cock CURTIS | Cornwall | St Wenn | 1846 | 1851 | Cornwall | Padstow
+/search_records/5a1434ccf4040b9d6e22261b/mary-jane-curtis-1851-cornwall-padstow-1846- :: Mary Jane CURTIS | Cornwall | Newlyn | 1846 | 1851 | Cornwall | Padstow
+/search_records/5a14361af4040b9d6e2395f6/james-curtis-1851-cornwall-st-austell-1846- :: James CURTIS | Cornwall | St. Austell | 1846 | 1851 | Cornwall | St Austell
+/search_records/5a1437d3f4040b9d6e25a416/mary-curtis-1851-cornwall-probus-1846- :: Mary CURTIS | Cornwall | Perranzabuloe | 1846 | 1851 | Cornwall | Probus
+/search_records/5a1439daf4040b9d6e28375f/ann-curtis-1851-cornwall-falmouth-1846- :: Ann CURTIS | Cornwall | Flushing | 1846 | 1851 | Cornwall | Mylor
+/search_records/5a1439ddf4040b9d6e283d67/william-curtis-1851-cornwall-falmouth-1846- :: William CURTIS | Cornwall | Mylor | 1846 | 1851 | Cornwall | Mylor
+/search_records/5a143c92f4040b9d6e2ba8d6/mary-a-curtis-1851-cornwall-gwennap-1846- :: Mary A. CURTIS | Cornwall | Gwennap | 1846 | 1851 | Cornwall | Gwennap
+/search_records/5a14407bf4040b9d6e30a24d/george-curtis-1851-cornwall-penzance-1846- :: George CURTIS | Cornwall | St Hilary | 1846 | 1851 | Cornwall | Marazion
+/search_records/5a142e42f4040b9d6e1a23c8/samuel-h-curtis-1851-cornwall-kilkhampton-1846- :: Samuel H CURTIS | Devon | Clawton | 1846 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143621f4040b9d6e23a261/ellen-curtis-1851-cornwall-st-austell-1847- :: Ellen CURTIS | Cornwall | St. Austell | 1847 | 1851 | Cornwall | St Austell
+/search_records/5a142e50f4040b9d6e1a3c0f/thomas-curtis-1851-cornwall-kilkhampton-1847- :: Thomas CURTIS | Cornwall | Marhamchurch | 1847 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143293f4040b9d6e1f7323/samuel-curtis-1851-cornwall-looe-1847- :: Samuel CURTIS | Cornwall | Lansallos | 1847 | 1851 | Cornwall | Looe
+/search_records/5a143294f4040b9d6e1f747b/richard-curtis-1851-cornwall-looe-1847- :: Richard CURTIS | Cornwall | Lansallos | 1847 | 1851 | Cornwall | Looe
+/search_records/5a143294f4040b9d6e1f7481/charles-curtis-1851-cornwall-looe-1847- :: Charles CURTIS | Cornwall | Talland | 1847 | 1851 | Cornwall | Looe
+/search_records/5a143298f4040b9d6e1f7d90/corline-curtis-1851-cornwall-looe-1847- :: Corline CURTIS | Cornwall | Polruan | 1847 | 1851 | Cornwall | Looe
+/search_records/5a1434ccf4040b9d6e22261f/richard-curtis-1851-cornwall-padstow-1847- :: Richard CURTIS | Cornwall | Newlyn | 1847 | 1851 | Cornwall | Padstow
+/search_records/5a1437b6f4040b9d6e256f15/frederick-j-curtis-1851-cornwall-probus-1847- :: Frederick J CURTIS | Cornwall | Perranzabuloe | 1847 | 1851 | Cornwall | Probus
+/search_records/5a1437d3f4040b9d6e25a418/william-curtis-1851-cornwall-probus-1847- :: William CURTIS | Cornwall | Perranzabuloe | 1847 | 1851 | Cornwall | Probus
+/search_records/5a1439e4f4040b9d6e284d66/ann-curtis-1851-cornwall-falmouth-1847- :: Ann CURTIS | Cornwall | Falmouth | 1847 | 1851 | Cornwall | Mylor
+/search_records/5a1439e5f4040b9d6e284d95/nicholas-curtis-1851-cornwall-falmouth-1847- :: Nicholas CURTIS | Cornwall | Falmouth | 1847 | 1851 | Cornwall | Mylor
+/search_records/5a143c7df4040b9d6e2b7eb0/ann-maria-curtis-1851-cornwall-gwennap-1847- :: Ann Maria CURTIS | Cornwall | Gwennap | 1847 | 1851 | Cornwall | Gwennap
+/search_records/5a143c9cf4040b9d6e2bbe8f/caroline-e-c-curtis-1851-cornwall-gwennap-1847- :: Caroline E.C. CURTIS | Cornwall | Gwennap | 1847 | 1851 | Cornwall | Gwennap
+/search_records/5a144079f4040b9d6e309ee3/rachel-curtis-1851-cornwall-penzance-1847- :: Rachel CURTIS | Cornwall | St Hilary | 1847 | 1851 | Cornwall | Marazion
+/search_records/6a30e7b9755f9fc843767f7f/thomas-curtis-1851-cornwall-marhamchurch-1847- :: Thomas CURTIS | Cornwall | Marhamchurch | 1847 | 1851 | Cornwall | Marhamchurch
+/search_records/5a1434ccf4040b9d6e222621/louisa-curtis-1851-cornwall-padstow-1848- :: Louisa CURTIS | Cornwall | Newlyn | 1848 | 1851 | Cornwall | Padstow
+/search_records/5a1436d3f4040b9d6e246c17/elizabeth-jane-curtis-1851-cornwall-mevagissey-1848- :: Elizabeth Jane CURTIS | Cornwall | Grampound | 1848 | 1851 | Cornwall | Mevagissey
+/search_records/5a1438f2f4040b9d6e270579/mary-ann-curtis-1851-cornwall-st-clement-1848- :: Mary Ann CURTIS | Cornwall | Kenwyn | 1848 | 1851 | Cornwall | St Clement
+/search_records/5a143c8af4040b9d6e2b98bc/william-h-curtis-1851-cornwall-gwennap-1848- :: William H. CURTIS | Cornwall | Gwennap | 1848 | 1851 | Cornwall | Gwennap
+/search_records/5a143c92f4040b9d6e2ba8da/elizabeth-j-curtis-1851-cornwall-gwennap-1848- :: Elizabeth J. CURTIS | Cornwall | Gwennap | 1848 | 1851 | Cornwall | Gwennap
+/search_records/5a143c99f4040b9d6e2bb75b/william-curtis-1851-cornwall-gwennap-1848- :: William CURTIS | Cornwall | Gwennap | 1848 | 1851 | Cornwall | Gwennap
+/search_records/5a142ebaf4040b9d6e1ab4a4/hannah-curtis-1851-cornwall-boscastle-1848- :: Hannah CURTIS | Cornwall | Tintagel | 1848 | 1851 | Cornwall | Boscastle
+/search_records/5a14329df4040b9d6e1f8894/john-curtis-1851-cornwall-looe-1848- :: John CURTIS | Cornwall | St. Veep | 1848 | 1851 | Cornwall | Looe
+/search_records/5a1434b3f4040b9d6e21f595/sophiah-curtis-1851-cornwall-padstow-1848- :: Sophiah CURTIS | Cornwall | St Wenn | 1848 | 1851 | Cornwall | Padstow
+/search_records/5a14361af4040b9d6e2395f8/emma-curtis-1851-cornwall-st-austell-1848- :: Emma CURTIS | Cornwall | St. Austell | 1848 | 1851 | Cornwall | St Austell
+/search_records/5a143c7df4040b9d6e2b7eb5/thomas-curtis-1851-cornwall-gwennap-1849- :: Thomas CURTIS | Cornwall | Gwennap | 1849 | 1851 | Cornwall | Gwennap
+/search_records/5a144079f4040b9d6e309ee5/susan-curtis-1851-cornwall-penzance-1849- :: Susan CURTIS | Cornwall | St Hilary | 1849 | 1851 | Cornwall | Marazion
+/search_records/6a30e720755f9fc8437666c2/mary-j-curtis-1851-cornwall-poughill-1849- :: Mary J CURTIS | Cornwall | Stratton | 1849 | 1851 | Cornwall | Poughill
+/search_records/5a1439e5f4040b9d6e284d97/thomas-curtis-1851-cornwall-falmouth-1849- :: Thomas CURTIS | Cornwall | Falmouth | 1849 | 1851 | Cornwall | Mylor
+/search_records/5a142e42f4040b9d6e1a23cc/mary-j-curtis-1851-cornwall-kilkhampton-1849- :: Mary J CURTIS | Cornwall | Stratton | 1849 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143293f4040b9d6e1f7325/caroline-curtis-1851-cornwall-looe-1849- :: Caroline CURTIS | Cornwall | Lansallos | 1849 | 1851 | Cornwall | Looe
+/search_records/5a143294f4040b9d6e1f7462/hariot-ann-curtis-1851-cornwall-looe-1849- :: Hariot Ann CURTIS | Cornwall | Lansallos | 1849 | 1851 | Cornwall | Looe
+/search_records/5a143294f4040b9d6e1f7483/john-curtis-1851-cornwall-looe-1849- :: John CURTIS | Cornwall | Talland | 1849 | 1851 | Cornwall | Looe
+/search_records/5a143298f4040b9d6e1f7d92/richard-curtis-1851-cornwall-looe-1849- :: Richard CURTIS | Cornwall | Polruan | 1849 | 1851 | Cornwall | Looe
+/search_records/5a143382f4040b9d6e20a574/william-j-curtis-1851-cornwall-lanlivery-1849- :: William J. CURTIS | Cornwall | Bodmin (or Bodmin Boro) | 1849 | 1851 | Cornwall | Lanlivery
+/search_records/5a1434ccf4040b9d6e222623/amelia-ann-curtis-1851-cornwall-padstow-1849- :: Amelia Ann CURTIS | Cornwall | Newlyn | 1849 | 1851 | Cornwall | Padstow
+/search_records/5a1439d7f4040b9d6e2831d8/alfred-curtis-1851-cornwall-falmouth-1849- :: Alfred CURTIS | Cornwall | Mylor | 1849 | 1851 | Cornwall | Mylor
+/search_records/5a1439d7f4040b9d6e2831da/jessey-curtis-1851-cornwall-falmouth-1849- :: Jessey CURTIS | Cornwall | Mylor | 1849 | 1851 | Cornwall | Mylor
+/search_records/5a142e50f4040b9d6e1a3c11/edward-curtis-1851-cornwall-kilkhampton-1850- :: Edward CURTIS | Cornwall | Marhamchurch | 1850 | 1851 | Cornwall | Kilkhampton
+/search_records/5a142ebaf4040b9d6e1ab4a6/eliza-curtis-1851-cornwall-boscastle-1850- :: Eliza CURTIS | Cornwall | Tintagel | 1850 | 1851 | Cornwall | Boscastle
+/search_records/5a143294f4040b9d6e1f7466/susanna-curtis-1851-cornwall-looe-1850- :: Susanna CURTIS | Cornwall | Lansallos | 1850 | 1851 | Cornwall | Looe
+/search_records/5a1434b3f4040b9d6e21f597/john-james-curtis-1851-cornwall-padstow-1850- :: John James CURTIS | Cornwall | St Wenn | 1850 | 1851 | Cornwall | Padstow
+/search_records/5a1434b3f4040b9d6e21f616/margaret-curtis-1851-cornwall-padstow-1850- :: Margaret CURTIS | Cornwall | St Wenn | 1850 | 1851 | Cornwall | Padstow
+/search_records/5a14361af4040b9d6e2395fa/john-curtis-1851-cornwall-st-austell-1850- :: John CURTIS | Cornwall | St. Austell | 1850 | 1851 | Cornwall | St Austell
+/search_records/5a143628f4040b9d6e23b07d/charles-curtis-1851-cornwall-st-austell-1850- :: Charles CURTIS | Cornwall | Roche | 1850 | 1851 | Cornwall | St Austell
+/search_records/5a1437b6f4040b9d6e256f19/sarah-curtis-1851-cornwall-probus-1850- :: Sarah CURTIS | Cornwall | Perranzabuloe | 1850 | 1851 | Cornwall | Probus
+/search_records/5a1438f2f4040b9d6e27057d/louisa-curtis-1851-cornwall-st-clement-1850- :: Louisa CURTIS | Cornwall | Kenwyn | 1850 | 1851 | Cornwall | St Clement
+/search_records/5a1439d7f4040b9d6e2831dc/elizabeth-curtis-1851-cornwall-falmouth-1850- :: Elizabeth CURTIS | Cornwall | Mylor | 1850 | 1851 | Cornwall | Mylor
+/search_records/5a1439ddf4040b9d6e283d69/richard-curtis-1851-cornwall-falmouth-1850- :: Richard CURTIS | Cornwall | Mylor | 1850 | 1851 | Cornwall | Mylor
+/search_records/5a143c99f4040b9d6e2bb75d/thomas-curtis-1851-cornwall-gwennap-1850- :: Thomas CURTIS | Cornwall | Gwennap | 1850 | 1851 | Cornwall | Gwennap
+/search_records/6a30e7b9755f9fc843767f81/edward-curtis-1851-cornwall-marhamchurch-1850- :: Edward CURTIS | Cornwall | Marhamchurch | 1850 | 1851 | Cornwall | Marhamchurch
+/search_records/5a1436d3f4040b9d6e246b53/infant-not-named-curtis-1851-cornwall-mevagissey-1851- :: Infant Not Named CURTIS | Cornwall | Grampound | 1851 | 1851 | Cornwall | Mevagissey
+/search_records/5a1437b6f4040b9d6e256f1b/clara-curtis-1851-cornwall-probus-1851- :: Clara CURTIS | Cornwall | Perranzabuloe | 1851 | 1851 | Cornwall | Probus
+
+---- RAW TEXT ----
+
+Search Results | FreeCEN
+Records
+About
+Volunteer
+Member
+Help
+Advertisement
+Menu
+Can you help us improve support for our 1,000+ volunteers?
+ Close
+Our charity is run almost 100% by volunteers: we only have 2 full-time members of staff to support our 1,000+ volunteers who are based all around the world. Without them, we would not have the millions of records such as those you're currently seeking!
+Our dedicated community of volunteers:
+Coordinates access to images and the transcription projects.
+Has transcribed millions of records over almost 30 years.
+Manages communities of other volunteers.
+Develops the search engines and software behind all of our databases.
+Supports the background running of the organisation.
+Our volunteers do so much for family history, we're raising £5,000 in pledges in this year's Big Give Christmas Challenge to unlock the match funding, enabling us to improve their volunteering experience.
+Don't worry if you'd like to support us with a smaller amount: you can do so easily during the Christmas Challenge campaign later this year.
+More about pledging
+PLEDGE NOW
+Send any feedback to 
+feedback@freeukgenealogy.org.uk
+Search results
+Revise Search
+New Search
+About This Query
+Printable Format
+When you searched for:
+Last Name
+CURTIS
+Exact Match?
+Yes
+Census Year
+1851
+Census County
+Cornwall
+ We found 428  Results
+Listed by date. Select a heading to sort by that column; select again to reverse the order.
+            See individual details by selecting the View button.
+Detail
+Individual
+Birth County
+Birth Place
+Birth
+Census
+Census County
+Census District
+View 1
+            Elizth CURTIS 
+          Cornwall
+          Padstow
+          1771
+          1851
+          Cornwall
+          Padstow
+View 2
+            Mary CURTIS 
+          Cornwall
+          Mullion
+          1772
+          1851
+          Cornwall
+          St Clement
+View 3
+            Margaret CURTIS 
+          Cornwall
+          Kenwyn
+          1777
+          1851
+          Cornwall
+          St Clement
+View 4
+            Mary CURTIS 
+          Cornwall
+          Ruan Minor
+          1781
+          1851
+          Cornwall
+          St Keverne
+View 5
+            Honour CURTIS 
+          Cornwall
+          St Hilary
+          1781
+          1851
+          Cornwall
+          Marazion
+View 6
+            Jane CURTIS 
+          Cornwall
+          St Wenn
+          1781
+          1851
+          Cornwall
+          Padstow
+View 7
+            Thomas CURTIS 
+          Cornwall
+          Botusfleming (or Blasfleming)
+          1782
+          1851
+          Cornwall
+          Union Workhouse
+View 8
+            Samuel CURTIS 
+          Cornwall
+          St Wenn
+          1782
+          1851
+          Cornwall
+          Lanlivery
+View 9
+            William CURTIS 
+          Cornwall
+          St. Breock
+          1782
+          1851
+          Cornwall
+          Padstow
+View 10
+            Ann CURTIS 
+          Cornwall
+          St Hilary
+          1782
+          1851
+          Cornwall
+          Marazion
+View 11
+            Margaret CURTIS 
+          Cornwall
+          Phillack
+          1783
+          1851
+          Cornwall
+          Camborne
+View 12
+            William CURTIS 
+          Cornwall
+          Launcells
+          1783
+          1851
+          Cornwall
+          Kilkhampton
+View 13
+            Margaret CURTIS 
+          Cornwall
+          Phillack
+          1783
+          1851
+          Cornwall
+          Ventonleague
+View 14
+            William CURTIS 
+          Cornwall
+          Launcells
+          1783
+          1851
+          Cornwall
+          Kilkhampton
+View 15
+            John CURTIS 
+          Cornwall
+          Phillack
+          1784
+          1851
+          Cornwall
+          Ventonleague
+View 16
+            Sally CURTIS 
+          Ireland
+          -
+          1784
+          1851
+          Cornwall
+          Padstow
+View 17
+            Patience CURTIS 
+          Cornwall
+          Flushing
+          1784
+          1851
+          Cornwall
+          Mylor
+View 18
+            John CURTIS 
+          Cornwall
+          Phillack
+          1784
+          1851
+          Cornwall
+          Camborne
+View 19
+            Ann CURTIS 
+          Cornwall
+          Poughill
+          1785
+          1851
+          Cornwall
+          Kilkhampton
+View 20
+            William CURTIS 
+          Cornwall
+          St Erth
+          1785
+          1851
+          Cornwall
+          Camborne
+View 21
+            Jinepher CURTIS 
+          Cornwall
+          St Hilary
+          1785
+          1851
+          Cornwall
+          Marazion
+View 22
+            Christan CURTIS 
+          Cornwall
+          St Hilary
+          1785
+          1851
+          Cornwall
+          Marazion
+View 23
+            Ann CURTIS 
+          Cornwall
+          Poughill
+          1785
+          1851
+          Cornwall
+          Kilkhampton
+View 24
+            William CURTIS 
+          Cornwall
+          St Erth
+          1785
+          1851
+          Cornwall
+          Ventonleague
+View 25
+            Jane CURTIS 
+          Devon
+          Devonport
+          1786
+          1851
+          Cornwall
+          Boscastle
+View 26
+            William CURTIS 
+          Cornwall
+          Gerrans
+          1786
+          1851
+          Cornwall
+          Mylor
+View 27
+            Alice CURTIS 
+          Cornwall
+          Kenwyn
+          1786
+          1851
+          Cornwall
+          Gwennap
+View 28
+            Mary CURTIS 
+          Cornwall
+          Phillack
+          1786
+          1851
+          Cornwall
+          Camborne
+View 29
+            Mary CURTIS 
+          Cornwall
+          Phillack
+          1786
+          1851
+          Cornwall
+          Ventonleague
+View 30
+            William CURTIS 
+          Cornwall
+          Cardinham
+          1787
+          1851
+          Cornwall
+          Boscastle
+View 31
+            Stephen CURTIS 
+          Cornwall
+          St Wenn
+          1787
+          1851
+          Cornwall
+          Padstow
+View 32
+            Grace CURTIS 
+          Cornwall
+          Feock
+          1787
+          1851
+          Cornwall
+          St Clement
+View 33
+            Matthew CURTIS 
+          Cornwall
+          St Wenn
+          1789
+          1851
+          Cornwall
+          Padstow
+View 34
+            Robt. CURTIS 
+          Cornwall
+          Flushing
+          1791
+          1851
+          Cornwall
+          Mylor
+View 35
+            William CURTIS 
+          Cornwall
+          Perranzabuloe
+          1792
+          1851
+          Cornwall
+          Probus
+View 36
+            Maria CURTIS 
+          Cornwall
+          Luxulyan (or Luxillion)
+          1793
+          1851
+          Cornwall
+          Padstow
+View 37
+            John CURTIS 
+          Cornwall
+          Breage
+          1793
+          1851
+          Cornwall
+          St Austell
+View 38
+            Wm. CURTIS 
+          Cornwall
+          Creed
+          1793
+          1851
+          Cornwall
+          Probus
+View 39
+            Francis CURTIS 
+          Cornwall
+          Breage
+          1793
+          1851
+          Cornwall
+          St Keverne
+View 40
+            John CURTIS 
+          Cornwall
+          Grampound
+          1795
+          1851
+          Cornwall
+          Mevagissey
+View 41
+            Ann CURTIS 
+          Cornwall
+          St Breock
+          1795
+          1851
+          Cornwall
+          Padstow
+View 42
+            Grace CURTIS 
+          Cornwall
+          Ruan Minor
+          1795
+          1851
+          Cornwall
+          St Austell
+View 43
+            John CURTIS 
+          Cornwall
+          Stratton
+          1795
+          1851
+          Cornwall
+          Kilkhampton
+View 44
+            John CURTIS 
+          Cornwall
+          Stratton
+          1795
+          1851
+          Cornwall
+          Poughill
+View 45
+            John CURTIS 
+          Cornwall
+          Lansallos
+          1798
+          1851
+          Cornwall
+          Looe
+View 46
+            Mary CURTIS 
+          Cornwall
+          Ladock
+          1798
+          1851
+          Cornwall
+          Probus
+View 47
+            Ann CURTIS 
+          Cornwall
+          Phillack
+          1799
+          1851
+          Cornwall
+          Ventonleague
+View 48
+            Mary CURTIS 
+          Cornwall
+          Stratton
+          1799
+          1851
+          Cornwall
+          Kilkhampton
+View 49
+            Ann CURTIS 
+          Cornwall
+          Phillack
+          1799
+          1851
+          Cornwall
+          Camborne
+View 50
+            Mary CURTIS 
+          Cornwall
+          Stratton
+          1799
+          1851
+          Cornwall
+          Poughill
+View 51
+            Mary CURTIS 
+          Cornwall
+          St Wenn
+          1800
+          1851
+          Cornwall
+          Padstow
+View 52
+            John CURTIS 
+          Cornwall
+          Constantine
+          1800
+          1851
+          Cornwall
+          Mylor
+View 53
+            Loveday CURTIS 
+          Cornwall
+          Penryn
+          1800
+          1851
+          Cornwall
+          Mylor
+View 54
+            Mary CURTIS 
+          Cornwall
+          Lanhydrock
+          1800
+          1851
+          Cornwall
+          Lanlivery
+View 55
+            Thomas CURTIS 
+          Cornwall
+          Flushing
+          1801
+          1851
+          Cornwall
+          Mylor
+View 56
+            James CURTIS 
+          Cornwall
+          Grade
+          1801
+          1851
+          Cornwall
+          Marazion
+View 57
+            William CURTIS 
+          Cornwall
+          Liskeard
+          1801
+          1851
+          Cornwall
+          St Austell
+View 58
+            Mary CURTIS 
+          Cornwall
+          Grampound
+          1801
+          1851
+          Cornwall
+          Mevagissey
+View 59
+            Betsy CURTIS 
+          Cornwall
+          St Austell (or St Austle)
+          1801
+          1851
+          Cornwall
+          Mylor
+View 60
+            Edward CURTIS 
+          Cornwall
+          Penryn
+          1802
+          1851
+          Cornwall
+          Mylor
+View 61
+            Catherine CURTIS 
+          Cornwall
+          Talland
+          1802
+          1851
+          Cornwall
+          Looe
+View 62
+            John CURTIS 
+          Cornwall
+          St. Wenn
+          1802
+          1851
+          Cornwall
+          Padstow
+View 63
+            Elizabeth CURTIS 
+          Cornwall
+          St Austell (or St Austle)
+          1802
+          1851
+          Cornwall
+          Camborne
+View 64
+            Elizabeth CURTIS 
+          Cornwall
+          St Austell (or St Austle)
+          1802
+          1851
+          Cornwall
+          Bodriggy
+View 65
+            Jane CURTIS 
+          Cornwall
+          Lansallos
+          1803
+          1851
+          Cornwall
+          Looe
+View 66
+            Thomas CURTIS 
+          Cornwall
+          Lansallos
+          1803
+          1851
+          Cornwall
+          Looe
+View 67
+            Samuel CURTIS 
+          Cornwall
+          St Dennis
+          1803
+          1851
+          Cornwall
+          St Austell
+View 68
+            Mary CURTIS 
+          Cornwall
+          Grampound
+          1803
+          1851
+          Cornwall
+          Mevagissey
+View 69
+            James CURTIS 
+          Cornwall
+          Marazion
+          1803
+          1851
+          Cornwall
+          Camborne
+View 70
+            John CURTIS 
+          Cornwall
+          St Hilary
+          1803
+          1851
+          Cornwall
+          Marazion
+View 71
+            James CURTIS 
+          Cornwall
+          Marazion
+          1803
+          1851
+          Cornwall
+          Bodriggy
+View 72
+            Christian CURTIS 
+          Cornwall
+          Germoe
+          1804
+          1851
+          Cornwall
+          Marazion
+View 73
+            Grace CURTIS 
+          Cornwall
+          St Hilary
+          1804
+          1851
+          Cornwall
+          Marazion
+View 74
+            Kitty CURTIS 
+          Cornwall
+          Kenwyn
+          1805
+          1851
+          Cornwall
+          Gwennap
+View 75
+            Mark CURTIS 
+          Cornwall
+          Gwennap
+          1805
+          1851
+          Cornwall
+          Gwennap
+View 76
+            James CURTIS 
+          Cornwall
+          St Agnes
+          1805
+          1851
+          Cornwall
+          Redruth
+View 77
+            Mary L. CURTIS 
+          Cornwall
+          Penzance
+          1805
+          1851
+          Cornwall
+          Marazion
+View 78
+            Henry CURTIS 
+          Cornwall
+          Phillack
+          1806
+          1851
+          Cornwall
+          Camborne
+View 79
+            Edmund CURTIS 
+          Cornwall
+          Saltash
+          1806
+          1851
+          Cornwall
+          Saltash
+View 80
+            Ann CURTIS 
+          Cornwall
+          St Minver
+          1806
+          1851
+          Cornwall
+          Padstow
+View 81
+            Henry CURTIS 
+          Cornwall
+          Phillack
+          1806
+          1851
+          Cornwall
+          Ventonleague
+View 82
+            Anna CURTIS 
+          Cornwall
+          St Agnes
+          1806
+          1851
+          Cornwall
+          Probus
+View 83
+            James CURTIS 
+          Cornwall
+          Kenwyn
+          1806
+          1851
+          Cornwall
+          St Clement
+View 84
+            Jane CURTIS 
+          Cornwall
+          St Hilary
+          1807
+          1851
+          Cornwall
+          Marazion
+View 85
+            Charles CURTIS 
+          Cornwall
+          St Hilary
+          1807
+          1851
+          Cornwall
+          Marazion
+View 86
+            Christian CURTIS 
+          Cornwall
+          Gwennap
+          1807
+          1851
+          Cornwall
+          Gwennap
+View 87
+            Caroline CURTIS 
+          Devon
+          Plympton
+          1807
+          1851
+          Cornwall
+          Callington
+View 88
+            James CURTIS 
+          Cornwall
+          Lansallos
+          1807
+          1851
+          Cornwall
+          Looe
+View 89
+            Martha CURTIS 
+          Cornwall
+          St Dennis
+          1807
+          1851
+          Cornwall
+          St Clement
+View 90
+            Elizabeth CURTIS 
+          Cornwall
+          St Columb
+          1807
+          1851
+          Cornwall
+          St Clement
+View 91
+            Charles CURTIS 
+          Cornwall
+          St Hilary
+          1807
+          1851
+          Cornwall
+          Marazion
+View 92
+            Mary CURTIS 
+          Cornwall
+          Redruth
+          1808
+          1851
+          Cornwall
+          Probus
+View 93
+            William CURTIS 
+          Cornwall
+          Polruan
+          1808
+          1851
+          Cornwall
+          Looe
+View 94
+            Elizabeth CURTIS 
+          Cornwall
+          St Stephen in Brannel (or St. Stephens)
+          1808
+          1851
+          Cornwall
+          Padstow
+View 95
+            Maria CURTIS 
+          Cornwall
+          Poundstock
+          1808
+          1851
+          Cornwall
+          Kilkhampton
+View 96
+            Mary Ann CURTIS 
+          Cornwall
+          Redruth
+          1808
+          1851
+          Cornwall
+          Redruth
+View 97
+            Mary CURTIS 
+          Cornwall
+          Crowan
+          1808
+          1851
+          Cornwall
+          Marazion
+View 98
+            Maria CURTIS 
+          Cornwall
+          Poundstock
+          1808
+          1851
+          Cornwall
+          Marhamchurch
+View 99
+            John CURTIS 
+          Cornwall
+          Launcells
+          1809
+          1851
+          Cornwall
+          Marhamchurch
+View 100
+            John CURTIS 
+          Cornwall
+          Launcells
+          1809
+          1851
+          Cornwall
+          Kilkhampton
+View 101
+            James CURTIS 
+          Cornwall
+          Gwennap (or Gwenap)
+          1809
+          1851
+          Cornwall
+          Callington
+View 102
+            Mary CURTIS 
+          Cornwall
+          Lansallos
+          1809
+          1851
+          Cornwall
+          Looe
+View 103
+            William CURTIS 
+          Cornwall
+          St Wenn
+          1809
+          1851
+          Cornwall
+          Padstow
+View 104
+            Richard CURTIS 
+          Cornwall
+          St. Wenn
+          1809
+          1851
+          Cornwall
+          Probus
+View 105
+            Jenifer CURTIS 
+          Cornwall
+          Mylor
+          1809
+          1851
+          Cornwall
+          Mylor
+View 106
+            Thomas CURTIS 
+          Cornwall
+          Wendron
+          1809
+          1851
+          Cornwall
+          Gwennap
+View 107
+            William CURTIS 
+          Cornwall
+          St Hilary
+          1809
+          1851
+          Cornwall
+          Marazion
+View 108
+            Johanna CURTIS 
+          Cornwall
+          Polruan
+          1810
+          1851
+          Cornwall
+          Looe
+View 109
+            Grace CURTIS 
+          Cornwall
+          Constantine
+          1810
+          1851
+          Cornwall
+          Mylor
+View 110
+            William CURTIS 
+          Cornwall
+          Mylor
+          1810
+          1851
+          Cornwall
+          Mylor
+View 111
+            Mary CURTIS 
+          Cornwall
+          St Hilary
+          1810
+          1851
+          Cornwall
+          Marazion
+View 112
+            Mary CURTIS 
+          Cornwall
+          Lansallos
+          1810
+          1851
+          Cornwall
+          Looe
+View 113
+            Jospeh CURTIS 
+          Cornwall
+          St Hilary
+          1811
+          1851
+          Cornwall
+          Marazion
+View 114
+            William CURTIS 
+          Cornwall
+          St Hilary (or St Hilliary)
+          1811
+          1851
+          Cornwall
+          St Buryan
+View 115
+            Jane CURTIS 
+          Cornwall
+          Isles of Scilly St Agnes (or St Agnes, Scilly Is)
+          1811
+          1851
+          Cornwall
+          St Keverne
+View 116
+            William CURTIS 
+          Cornwall
+          Phillack
+          1812
+          1851
+          Cornwall
+          Camborne
+View 117
+            Richard CURTIS 
+          Cornwall
+          Perranzabuloe
+          1812
+          1851
+          Cornwall
+          Probus
+View 118
+            Ann CURTIS 
+          Cornwall
+          Gwennap
+          1812
+          1851
+          Cornwall
+          Gwennap
+View 119
+            William CURTIS 
+          Cornwall
+          Phillack
+          1812
+          1851
+          Cornwall
+          Ventonleague
+View 120
+            Jane CURTIS 
+          Cornwall
+          Lansallos
+          1813
+          1851
+          Cornwall
+          Looe
+View 121
+            Sally CURTIS 
+          Cornwall
+          Perranzabuloe
+          1813
+          1851
+          Cornwall
+          Probus
+View 122
+            Robert CURTIS 
+          Cornwall
+          Kenwyn
+          1813
+          1851
+          Cornwall
+          Gwennap
+View 123
+            John CURTIS 
+          Cornwall
+          Mylor
+          1813
+          1851
+          Cornwall
+          Gwennap
+View 124
+            Elizabeth CURTIS 
+          Cornwall
+          St Hilary
+          1813
+          1851
+          Cornwall
+          Marazion
+View 125
+            Charles CURTIS 
+          Cornwall
+          St Hilary
+          1813
+          1851
+          Cornwall
+          Marazion
+View 126
+            George CURTIS 
+          Cornwall
+          St Wenn
+          1814
+          1851
+          Cornwall
+          Padstow
+View 127
+            Caroline CURTIS 
+          Cornwall
+          Grampound
+          1814
+          1851
+          Cornwall
+          Mevagissey
+View 128
+            Amelia CURTIS 
+          Cornwall
+          Mullion
+          1814
+          1851
+          Cornwall
+          St Clement
+View 129
+            Peter CURTIS 
+          Devon
+          Dartmoor
+          1815
+          1851
+          Cornwall
+          Padstow
+View 130
+            William CURTIS 
+          Cornwall
+          St. Veep
+       

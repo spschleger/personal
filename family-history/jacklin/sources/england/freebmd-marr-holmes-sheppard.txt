@@ -1,0 +1,458 @@
+FreeBMD marr-holmes-sheppard: {'surname': 'Holmes', 's_surname': 'Sheppard', 'type_': 'Marriages', 'start': 1837, 'end': 1875}
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Jun1838
+HOLMES
+ Rayner 
+St. Martin 
+1
+156
+Marriages  Dec1842
+Holmes
+ Ann 
+Belper 
+19
+365
+Marriages  Dec1843
+Holmes
+ Mary Elizabeth 
+Hackney 
+3
+120
+Marriages  Sep1846
+Holmes
+ Henry 
+Guildford 
+4
+177
+Holmes
+ Jane 
+Portsea 
+7
+205
+Marriages  Jun1847
+Holmes
+ Margaret Ann 
+W. London 
+2
+229
+Marriages  Sep1849
+Holmes
+ Mary Ann 
+St. Geo. Han. Sq 
+1
+35
+Marriages  Jun1851
+Holmes
+ John 
+Pewsey 
+8
+691
+Marriages  Jun1853
+Holmes
+ James 
+Brighton 
+2b
+321
+Marriages  Jun1855
+HOLMES
+ Elizabeth 
+St Pancras 
+1b
+119
+Marriages  Mar1856
+Holmes
+ Michael 
+Ecclesall B 
+9c
+178
+Marriages  Jun1857
+Holmes
+ Elizabeth 
+St George Southwark 
+1d
+172
+Marriages  Jun1858
+Holmes
+ Thomas 
+Leeds 
+9b
+447
+Marriages  Dec1858
+Holmes
+ Mary Ann 
+Thakeham 
+2b
+475
+Marriages  Dec1859
+Holmes
+ Absalom 
+Honiton 
+5b
+79
+Marriages  Sep1863
+Holmes
+ John 
+Barrow 
+7a
+182
+Marriages  Dec1865
+Holmes
+ Robert 
+Tadcaster 
+9c
+1013
+Marriages  Sep1866
+HOLMES
+ Mary 
+Belper 
+7b
+645
+HOLMES
+ Sarah J 
+Pancras 
+1b
+120
+Marriages  Dec1866
+HOLMES
+ Lois 
+Pancras 
+1b
+317
+Marriages  Mar1870
+HOLMES
+ Eliza 
+Northampton 
+3b
+86
+HOLMES
+ Henry John 
+St Olave 
+1d
+202
+Marriages  Dec1871
+Holmes
+ Elizabeth 
+Woolwich 
+1d
+1350
+Marriages  Jun1874
+Holmes
+ Harry Scott 
+Chelsea 
+1a
+461
+Marriages  Dec1878
+HOLMES
+ Elizabeth 
+Croydon 
+2a
+338
+Marriages  Dec1880
+Holmes
+ Charles 
+Bosmere 
+4a
+1310
+Marriages  Jun1884
+Holmes
+ Thomas 
+Tadcaster 
+9c
+1013
+Marriages  Dec1887
+HOLMES
+ Emma 
+Bakewell 
+7b
+1195
+Marriages  Sep1890
+HOLMES
+ Kate Elizabeth 
+Leicester 
+7a
+300
+HOLMES
+ Lina Mary T 
+Islington 
+1b
+683
+Marriages  Jun1891
+Holmes
+ Jane 
+Hambledon 
+2a
+227
+Marriages  Mar1893
+Holmes
+ John 
+Newcastle L. 
+6b
+93
+Marriages  Dec1893
+Holmes
+ Leonard 
+Henley 
+3a
+1205
+Marriages  Mar1896
+Holmes
+ Alice Minnie M 
+Poplar 
+1c
+695
+Marriages  Mar1898
+HOLMES
+ Ellen 
+Woodbridge 
+4a
+1039
+Marriages  Jun1898
+Holmes
+ Sidney Herbert 
+Kettering 
+3b
+450
+Marriages  Dec1898
+Holmes
+ Mary Jane 
+Newbury 
+2c
+593
+Marriages  Jun1899
+Holmes
+ Edward Hinston 
+Pancras 
+1b
+22
+Marriages  Jun1900
+Holmes
+ Florence Maud M 
+Lincoln 
+7a
+1292
+Holmes
+ Mark 
+Pewsey 
+5a
+353
+Marriages  Jun1903
+Holmes
+ William 
+Wharfedale 
+9a
+327
+Marriages  Sep1903
+Holmes
+ Ellen 
+Nottingham 
+7b
+482
+Marriages  Jun1904
+Holmes
+ Elsie Edith H 
+Swindon 
+5a
+9
+Marriages  Mar1906
+HOLMES
+ Amy Louise 
+Pancras 
+1b
+48
+Marriages  Sep1907
+HOLMES
+ William James 
+Goole 
+9c
+1577
+Marriages  Mar1908
+HOLMES
+ Mary Ann 
+Swindon 
+5a
+47
+Marriages  Dec1909
+Holmes
+ Betsy 
+N. Bierley 
+9b
+403
+Marriages  Sep1910
+Holmes
+ George E 
+Nottingham 
+7b
+798
+Marriages  Mar1923
+Holmes
+ Reginald S 
+Sheppard 
+Belper 
+7b
+1049
+Marriages  Sep1923
+Holmes
+ Harold N 
+Sheppard 
+Birkenhead 
+8a
+1244
+Marriages  Jun1928
+Holmes
+ Charles H 
+Sheppard 
+Bristol 
+6a
+238
+Marriages  Sep1932
+Holmes
+ Alfred E 
+Sheppard 
+Stamford 
+7a
+1054
+Marriages  Jun1934
+Holmes
+ Edith A 
+Sheppard 
+Surrey N.E. 
+2a
+236
+Marriages  Jun1938
+Holmes
+ George G 
+Sheppard 
+Brighton 
+2b
+753
+Marriages  Dec1942
+Holmes
+ Dorothy 
+Sheppard 
+Middlesbro. 
+9d
+1176
+Marriages  Jun1945
+Holmes
+ Stanley W 
+Sheppard 
+Birmingham 
+6d
+959
+Marriages  Sep1946
+Holmes
+ Jack 
+Sheppard 
+Hatfield 
+4b
+110
+Marriages  Dec1946
+Holmes
+ Denis D 
+Sheppard 
+Pontypridd 
+8b
+1196
+Marriages  Mar1947
+Holmes
+ Peggy 
+Sheppard 
+Sheffield 
+2d
+162
+Marriages  Sep1950
+HOLMES
+ Edgar 
+SHEPPARD 
+Durham S.E. 
+1a
+1796
+Marriages  Sep1961
+HOLMES
+ Margaret G 
+SHEPPARD 
+Wirral 
+10a
+1900
+Marriages  Sep1962
+HOLMES
+ Maureen 
+SHEPPARD 
+Gloucester C. 
+7b
+1103
+Marriages  Mar1964
+HOLMES
+ GILLIAN N 
+SHEPPARD 
+BRISTOL 
+7B
+483
+HOLMES
+ POPPY 
+SHEPPARD 
+LEWES 
+5H
+783
+Marriages  Jun1964
+HOLMES
+ PETER A 
+SHEPPARD 
+HOLDERNESS 
+2A
+201
+Marriages  Jun1968
+HOLMES
+ RICHARD P 
+SHEPPARD 
+CARDIFF 
+8B
+211
+Marriages  Sep1970
+HOLMES
+ Colin P 
+SHEPPARD 
+Bournemouth 
+6b
+658
+Marriages  Dec1971
+HOLMES
+ Linda M 
+SHEPPARD 
+Chesterfield 
+3a
+196
+Marriages 1985
+HOLMES
+ GILLIAN 
+SHEPPARD 
+CHESTERFIELD 
+6
+253
+Marriages 1987
+HOLMES
+ HAROLD 
+SHEPPARD 
+SHEFFIELD 
+3
+856
+Marriages 1991
+HOLMES
+ DEBORAH J 
+SHEPPARD 
+SODBURY 
+22
+1035
+Marriages 1994
+HOLMES
+ ELIZABETH 
+SHEPPARD 
+POOLE 
+431
+319

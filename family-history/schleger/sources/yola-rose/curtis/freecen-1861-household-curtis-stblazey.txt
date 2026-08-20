@@ -1,0 +1,24 @@
+FreeCEN2 household page: https://www.freecen.org.uk/search_records/610bc84cf493fd23e3ec71df/thomas-curtis-1861-cornwall-st-blazey-1840-
+Retrieved 2026-08-19
+
+Census Year | 1861
+County | Cornwall (CON)
+Census District | St Austell
+Enumeration District | 16
+Civil Parish | St Blazey
+Ecclesiastical Parish | -
+Where Census Taken | St Blazey
+Piece | RG9_1546
+Ward | -
+Constituency | -
+Page | 13
+Dwelling Number | 1010
+Schedule | 74
+House Number | 
+House or Street Name | Biscovey
+Surname | Forenames | Relationship | Marital Status | Sex | Age | Occupation | Nationality | Birth County | Birth Place | Disability | Notes
+the person found in your search CURTIS | Thomas | Head | M | M | 21y | Tin Miner |  | Cornwall | St Blazey |  | 
+CURTIS | Elizabeth | Wife | M | F | 20y |  |  | Cornwall | Tywardreath |  | 
+CURTIS | Harriet | Dau | - | F | 1y |  |  | Cornwall | St Blazey |  | 
+
+---- LABELLED FIELDS ----

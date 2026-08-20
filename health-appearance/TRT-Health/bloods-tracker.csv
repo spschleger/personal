@@ -1,0 +1,69 @@
+Category,Analyte,Units,Reference Range,2017-08-31,2024-11-19,2025-02-10,2025-03-05,2025-05-01,2025-09-16 (TRT),2026-01-27 (TRT),2026-06-22 (TRT)
+Status,On TRT?,,,No,No,No,No,No,Yes,Yes,Yes
+Status,Lab,,,i-screen,Laverty,Laverty,Laverty,Laverty,QML,Laverty,Laverty
+Status,Age,,,32,39,40,40,40,40,41,41
+Hormones,Total Testosterone,nmol/L,8.3-29,19,16.5,17.4,20.1,16.9,47,42.3,40.1
+Hormones,Free Testosterone (calc),pmol/L,255-725,386,295.3,337,348.8,300.4,1183,1139.8,1034.0
+Hormones,SHBG,nmol/L,11-71,34,40,37,44,42,32,26,28
+Hormones,LH,IU/L,<7,4,6.1,3.6,,3.5,<1,<0.1,0.1
+Hormones,FSH,IU/L,<7,10,14,9,,11,1,<1,1
+Hormones,Oestradiol (E2),pmol/L,<150,136,100,77,105,140,217,191,207
+Hormones,Progesterone,nmol/L,0.9-3.9,,2,2,,2,3,2,2
+Hormones,Prolactin,mIU/L,40-450,11 ug/L,267,172,,324,258,260,169
+Hormones,DHEAS,umol/L,0.9-10,,7.8,6.8,,7.6,7.2,7.7,6.6
+Hormones,Cortisol (AM),nmol/L,145-619,,466,387,,534,430,480,398 (1153h)
+Growth,Growth Hormone,mIU/L,<3.1,,<1.0,<1.0,,<1.0,<0.2,,<1.0
+Growth,IGF-1,nmol/L,13-36,,18,20,,19,24,,21
+Thyroid,TSH,mIU/L,0.5-4.0,,1.4,1.6,,2.0,1.9,1.6,1.3
+Thyroid,Free T4,pmol/L,10-20,,17,14,,14,18,18,17
+Thyroid,Free T3,pmol/L,3.5-6.5,,5.9,5.9,,5.8,5.4,6.5,6.3
+Metabolic,Glucose (fasting),mmol/L,3.4-5.4,,5.1,5.2,4.6,4.9,4.9,4.8,5.1
+Metabolic,Insulin (fasting),mU/L,<10,,,,,,,8,
+Metabolic,HbA1c,%,4.0-6.0,,,,,,,,4.5
+Metabolic,HbA1c,mmol/mol,20-42,,,,,,,,26
+Lipids,Total Cholesterol,mmol/L,3.9-5.2,,4.3,4.2,4.4,3.7,4.5,4.4,3.9
+Lipids,Triglycerides,mmol/L,0.5-1.7,,1.1,0.8,0.8,1.1,0.9,1.0,0.8
+Lipids,HDL,mmol/L,1.0-2.0,,1.1,1.0,1.1,1.0,1.10,,1.1
+Lipids,LDL (calc),mmol/L,1.5-3.4,,2.7,2.8,2.9,2.2,2.99,,2.4
+Lipids,Non-HDL,mmol/L,<3.4,,3.2,3.2,3.3,2.7,3.40,,2.8
+Lipids,Chol/HDL ratio,,<5.0,,3.9,4.2,4.0,3.7,4.1,,3.5
+Lipids,ApoA1,g/L,>1.2 (men),,,,,,,,1.2
+Lipids,ApoB,g/L,<1.0,,,,,,,,0.7
+Lipids,ApoB/A1 ratio,,<0.9,,,,,,,,0.6
+Lipids,Lp(a),nmol/L,<100 (low risk),,,,,,,,<19
+Inflammation,hsCRP,mg/L,<1.0 low risk,,0.79,0.67,0.93,0.89,0.4,,0.73
+FBC,Haemoglobin,g/L,130-180,,157,152,156,154,169,169,177
+FBC,Haematocrit,L/L,0.40-0.54,,0.45,0.44,0.46,0.46,0.51,0.50,0.51
+FBC,Red Cell Count,x10^12/L,4.5-6.5,,5.2,5.2,5.3,5.2,5.8,5.6,5.9
+FBC,MCV,fL,79-99,,87,84,86,87,88,89,87
+FBC,RDW,%,10.0-17.0,,12.1,12.1,12.4,12.2,,13.3,12.4
+FBC,White Cell Count,x10^9/L,4.0-11.0,,6.0,6.2,5.7,6.1,7.6,7.7,6.3
+FBC,Platelets,x10^9/L,150-400,,284,258,296,270,304,286,305
+Iron,Serum Iron,umol/L,10-30,,26,13,,10,12,,31
+Iron,Transferrin,umol/L,27-46,,28,26,,25,46 (IBC),,27
+Iron,Transferrin Saturation,%,13-45,,47,26,,20,26,,59
+Iron,Ferritin,ug/L,30-300,,194,155,,142,68,,90
+Renal,Creatinine,umol/L,60-110,,100,95,100,110,109,107,98
+Renal,eGFR,mL/min/1.73,>59,,79,85,83,72,73,74,82
+Renal,Urea,mmol/L,2.5-8.0,,5.7,5.2,7.2,7.5,6.5,7.0,5.8
+Renal,Urate,mmol/L,0.20-0.42,,0.43,0.40,0.40,0.36,0.43,0.42,0.53
+Liver,ALT,U/L,<40,,27,32,46,28,24,31,34
+Liver,AST,U/L,<40,,22,21,26,26,22,23,45 (post-training)
+Liver,GGT,U/L,<50,,20,15,14,14,10,29,15
+Liver,ALP,U/L,35-110,,62,67,53,65,74,61,60
+Liver,Bilirubin,umol/L,<20,,17,7,11,8,10,19,17
+Chemistry,Albumin,g/L,38-50,,46,44,46,44,46,46,46
+Chemistry,Total Protein,g/L,60-80,,,,,,,,75
+Chemistry,Globulin,g/L,20-32,,,,,,,,29
+Chemistry,Sodium,mmol/L,135-145,,141,140,141,141,143,138,140
+Chemistry,Potassium,mmol/L,3.6-5.4,,4.0,4.1,4.6,4.2,4.2,3.9,4.6
+Chemistry,Chloride,mmol/L,95-110,,,,,,,,101
+Chemistry,Bicarbonate,mmol/L,22-32,,,,,,,,28
+Chemistry,Anion Gap,mmol/L,7-17,,,,,,,,16
+Chemistry,Corrected Calcium,mmol/L,2.10-2.60,,2.44,2.35,2.39,2.34,2.28,2.35,2.44
+Chemistry,Phosphate,mmol/L,0.75-1.50,,,,,,,,0.90
+Chemistry,Magnesium,mmol/L,0.70-1.10,,0.86,0.84,0.85,0.84,0.9,,0.83
+Endocrine,Aldosterone (upright),pmol/L,100-950,,,,,,,,250
+Endocrine,Renin (upright),mU/L,3-40,,,,,,,,20
+Endocrine,Aldosterone/Renin Ratio,,2-75,,,,,,,,13
+Prostate,PSA (total),ug/L,0.25-2.20,,,,,,,,1.2

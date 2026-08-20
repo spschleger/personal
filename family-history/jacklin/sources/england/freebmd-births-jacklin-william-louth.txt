@@ -1,0 +1,114 @@
+FreeBMD search births-jacklin-william-louth: {'surname': 'Jacklin', 'given': 'William', 'type_': 'Births', 'districtid': '937', 'start': 1837, 'end': 1900}
+Source: https://www.freebmd.org.uk/cgi/search.pl
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Dec1842
+Jacklin
+ William Pell 
+Louth 
+14
+467
+Births  Mar1847
+Jacklin
+ William 
+Louth 
+14
+539
+Births  Dec1848
+Jacklin
+ William 
+Louth 
+14
+493
+Births  Sep1850
+Jacklin
+ William 
+Louth 
+14
+531
+Births  Dec1853
+JACKLIN
+ William Towell 
+Louth 
+7a
+510
+Births  Dec1855
+Jacklin
+ William 
+Louth 
+7a
+528
+Births  Jun1858
+Jacklin
+ William Frederick 
+Louth 
+7a
+526
+Births  Mar1862
+JACKLIN
+ William 
+Louth 
+7a
+551
+Births  Sep1862
+JACKLIN
+ William 
+Louth 
+7a
+545
+Births  Dec1868
+JACKLIN
+ William Herbert 
+Louth 
+7a
+564
+Births  Mar1870
+JACKLIN
+ William 
+Louth 
+7a
+585
+Births  Jun1883
+JACKLIN
+ William 
+Louth 
+7a
+652
+Births  Jun1890
+Jacklin
+ William Herbert S 
+Louth 
+7a
+593
+Births  Mar1895
+Jacklin
+ William Drewery J 
+Louth 
+7a
+627
+Births  Dec1913
+Jacklin
+ William R 
+Dawson 
+Louth 
+7a
+1045
+Births  Sep1922
+Jacklin
+ William 
+Jackson 
+Louth 
+7a
+989
+Births  Jun1950
+Jacklin
+ William G H 
+Dowse 
+Louth 
+3b
+496

@@ -1,0 +1,10 @@
+Cornwall OPC database baptisms search
+URL: https://www.cornwall-opc-database.org/search-database/baptisms/index.php?year_from=1849&year_to=1866&parish=Par&forename1=&surname1=Curtis&t=baptisms&bf=Search
+Retrieved 2026-08-19
+
+ROWS (5):
+ |  | Name | Father | Mother | 
+Year | Parish Circuit Or Chapel | Forename | Surname | Forename | Forename | 
+1860 | Par | Harriet Ann | CURTIS | Thomas | Elizabeth Ann | more
+1863 | Par | Alfred | CURTIS |  | Ellen | more
+1864 | Par | Peter Hill | CURTIS |  | Ellen | more

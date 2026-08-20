@@ -1,0 +1,17 @@
+Cornwall OPC database baptisms search
+URL: https://www.cornwall-opc-database.org/search-database/baptisms/index.php?year_from=1825&year_to=1865&parish=Tywardreath&forename1=&surname1=Barrett&t=baptisms&bf=Search
+Retrieved 2026-08-19
+
+ROWS (12):
+ |  | Name | Father | Mother | 
+Year | Parish Circuit Or Chapel | Forename | Surname | Forename | Forename |  >> /search-database/baptisms/index.php?order=yearD&amp;surname1=Barrett&amp;year_from=1825&amp;year_to=1865&amp;parish=Tywardreath&amp;bf=Search&amp;limit=50
+1844 | Tywardreath | William | BARRETT | William | Harriet | more >> /search-database/more-info/?t=baptisms&amp;id=1551137
+1844 | Tywardreath | William | BARRETT | William | Harriet | more >> /search-database/more-info/?t=baptisms&amp;id=6783498
+1850 | Tywardreath | William Henry | BARRETT | William | Philippa | more >> /search-database/more-info/?t=baptisms&amp;id=1559990
+1850 | Tywardreath | Peter | BARRETT | William | Philippa | more >> /search-database/more-info/?t=baptisms&amp;id=1559991
+1850 | Tywardreath | William Henry | BARRETT | William | Philippa | more >> /search-database/more-info/?t=baptisms&amp;id=6783983
+1850 | Tywardreath | Peter | BARRETT | William | Philippa | more >> /search-database/more-info/?t=baptisms&amp;id=6783984
+1852 | Tywardreath | John | BARRETT | William | Philippa | more >> /search-database/more-info/?t=baptisms&amp;id=1560161
+1852 | Tywardreath | John | BARRETT | William | Philippa | more >> /search-database/more-info/?t=baptisms&amp;id=6784079
+1855 | Tywardreath | Tom | BARRETT | William | Philippa | more >> /search-database/more-info/?t=baptisms&amp;id=1560344
+1855 | Tywardreath | Tom | BARRETT | William | Philippa | more >> /search-database/more-info/?t=baptisms&amp;id=6784262

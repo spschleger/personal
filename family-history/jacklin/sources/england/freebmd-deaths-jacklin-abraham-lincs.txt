@@ -1,0 +1,37 @@
+FreeBMD search deaths-jacklin-abraham-lincs: {'surname': 'Jacklin', 'given': 'Abraham', 'type_': 'Deaths', 'countyid': 'LIN,6,33,49,50,52,102,103,154,175,176,225,226', 'start': 1837, 'end': 1920}
+Source: https://www.freebmd.org.uk/cgi/search.pl
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Deaths  Mar1871
+JACKLIN
+ Abraham 
+0 
+Caistor 
+7a
+426
+Deaths  Sep1876
+Jacklin
+ Abraham 
+29 
+Lincoln 
+7a
+351
+Deaths  Jun1903
+Jacklin
+ Abraham 
+72 
+Louth 
+7a
+337
+Deaths  Dec1951
+JACKLIN
+ Abraham 
+69 
+Grimsby 
+3b
+234

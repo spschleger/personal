@@ -1,0 +1,29 @@
+NAA RecordSearch (recordsearch.naa.gov.au) — free guest search, 19 Aug 2026 (pass 3)
+Item detail URL pattern: https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?Barcode={ItemID}
+Digitised page images: https://recordsearch.naa.gov.au/SearchNRetrieve/NAAMedia/ShowImage.aspx?B={ItemID}&S={page}&T=P&R=0
+
+--- WWI (B2455 = First AIF personnel dossiers, all digitised, free) ---
+B2455 / JACKLIN ABE        Item ID 7361151   15 pages  DOWNLOADED -> naa-B2455-JACKLIN-ABE-7361151-p01..15.jpg
+   "JACKLIN Abe : Service Number - 1286 : Place of Birth - Eton QLD : Place of Enlistment - Rockhampton QLD : Next of Kin - (Mother) JACKLIN Fanny" 1914-1920
+B2455 / WARD CHARLES WILLIAM  Item ID 8347361  25 pages DOWNLOADED -> naa-B2455-WARD-CHARLES-WILLIAM-8347361-p01..25.jpg
+   "WARD Charles William : Service Number - 2504 : Place of Birth - Cunningham VIC : Place of Enlistment - Sale VIC : Next of Kin - (Father) WARD William" 1914-1920
+
+--- Repatriation / other files (NOT digitised; paper, must be ordered or viewed in person) ---
+BP709/1 M27236   Item ID 32444744   "JACKLIN, Abraham [aka Abe] - Service Number - 1286"  1916-1963  (Brisbane; Repatriation Qld)
+B73 M55544       Item ID 21175077   "WARD, Charles William - Service Number - 2504"        1916-1986  (Melbourne; Repatriation Vic)
+
+--- WWII / other family members found in the same NAA sweep ---
+B884 Q215145  Item ID 4931687   JACKLIN GEORGE THOMAS, SN Q215145, dob 17 Jun 1886, b. MACKAY QLD, enl. MACKAY QLD, NOK JACKLIN SOPHIE, 1939-1948
+                                 (= Thomas George "George" Jacklin 1886-1965, Abe's eldest brother; wife Sophie Hansen)
+B883 QX44362 / A13860 QX44362  Item IDs 4838391-series / 31034640  JACKLIN GEORGE DOUGLAS, dob 31 Mar 1918, b. MACKAY QLD, enl. BRISBANE, NOK JACKLIN DAPHNE
+                                 (= "Doug" Jacklin 1918-2007, son of Thomas George)
+B884 V364966  Item ID 6642644   WARD CHARLES WILLIAM, SN V364966, dob 08 May 1895, b. LAKES ENTRANCE VIC, enl. BRUTHEN, NOK WARD MAUD, 1939-1948
+                                 (= the same C. W. Ward, WWII Volunteer Defence Corps; gives his exact DOB)
+B883 VX54353  Item ID 6113297   WARD WILLIAM CHARLES, SN VX54353, dob 14 Apr 1919, b. BAIRNSDALE VIC, enl. ROYAL PARK VIC, NOK WARD C
+                                 (= son William Charles Ward; note DOB 14 Apr 1919, not 1920)
+B2455 / JACKLIN JOHN  Item ID 7360194  "JACKLIN John : SN 1878 : POB Zilmere QLD : POE Brisbane QLD : NOK (Mother) JACKLIN Elizabeth"
+                                 (= son of William Jacklin & Elizabeth Hall, the Ipswich/Glenore Grove branch)
+BP709/1 M6344 PART 1  Item ID 32253320  "JACKLIN, John - Service Number - 1878, Q123361" 1942-1967 (repatriation file for the above)
+B2455 / JACKLIN ALBERT Item ID 7569093  "JACKLIN Albert: SN Q24858 : POB Charters Towers QLD : POE Brisbane QLD : NOK F JACKLIN William"
+
+Full keyword-search listings saved as naa-search-*.txt in this directory.

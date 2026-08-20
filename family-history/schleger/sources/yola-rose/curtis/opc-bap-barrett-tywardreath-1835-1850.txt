@@ -1,0 +1,13 @@
+Cornwall OPC database baptisms search
+URL: https://www.cornwall-opc-database.org/search-database/baptisms/index.php?year_from=1835&year_to=1850&parish=Tywardreath&forename1=&surname1=Barrett&t=baptisms&bf=Search
+Retrieved 2026-08-19
+
+ROWS (8):
+ |  | Name | Father | Mother | 
+Year | Parish Circuit Or Chapel | Forename | Surname | Forename | Forename | 
+1844 | Tywardreath | William | BARRETT | William | Harriet | more
+1844 | Tywardreath | William | BARRETT | William | Harriet | more
+1850 | Tywardreath | William Henry | BARRETT | William | Philippa | more
+1850 | Tywardreath | Peter | BARRETT | William | Philippa | more
+1850 | Tywardreath | William Henry | BARRETT | William | Philippa | more
+1850 | Tywardreath | Peter | BARRETT | William | Philippa | more

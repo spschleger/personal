@@ -1,0 +1,29 @@
+FreeBMD search: {'surname': 'Curtis', 'given': 'Thomas', 'type_': 'Marriages', 'districtid': '118', 'start': 1850, 'end': 1865}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Dec1859
+Curtis
+ Thomas 
+St Austell 
+5c
+260
+Marriages  Sep1903
+CURTIS
+ Thomas John 
+St.Austell 
+5c
+194
+Marriages  Jun1923
+Curtis
+ Thomas C A 
+Lory 
+St. Austell 
+5c
+209

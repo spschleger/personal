@@ -1,0 +1,21 @@
+Cornwall OPC database marriages search
+URL: https://www.cornwall-opc-database.org/search-database/marriages/index.php?year_from=1830&year_to=1845&parish=&forename1=William&surname1=Curtis&t=marriages&bf=Search
+Retrieved 2026-08-19
+
+ROWS (16):
+ |  | Groom | Bride | Witness 1 | Witness 2 | 
+Year | Parish Circuit Or Chapel | Forename | Surname | Forename | Surname | Forename | Surname | Forename | Surname |  >> /search-database/marriages/index.php?order=yearD&amp;surname1=Curtis&amp;forename1=William&amp;year_from=1830&amp;year_to=1845&amp;bf=Search&amp;limit=50
+1831 | Launcells | William | CURTIS | Betsey | BRIMACOMBE | Charles | LARKE | John | JOLL | more >> /search-database/more-info/?t=marriages&amp;id=1724570
+1831 | Launcells | William | CURTIS | Betsey | BRIMACOMBE | Charles | LARKE | John | JOLL? | more >> /search-database/more-info/?t=marriages&amp;id=2123261
+1833 | Ludgvan | William | CURTIS | Elizabeth | ELLIS | John | ELLIS | John | ELLIS, JUNR. | more >> /search-database/more-info/?t=marriages&amp;id=1730984
+1833 | Ludgvan | William | CURTIS | Elizabeth | ELLIS | John | ELLIS | John | ELLIS Junr | more >> /search-database/more-info/?t=marriages&amp;id=2084235
+1834 | Mylor | William | CURTIS | Jenefer | PORTER | James | PORTER | Mary | PADDY | more >> /search-database/more-info/?t=marriages&amp;id=1817577
+1834 | Mylor | William | CURTIS | Jenefer | PORTER | James | PORTER | Mary | PADDY | more >> /search-database/more-info/?t=marriages&amp;id=2128407
+1839 | Helston | William | CURTIS | Amelia | UREN | John | RASBITHY | Caroline | REPPER | more >> /search-database/more-info/?t=marriages&amp;id=2155672
+1841 | Austell, St. | William | CURTIS | Elizabeth | GOLEY | William | GOLEY | Hannah James | BLAMEY | more >> /search-database/more-info/?t=marriages&amp;id=1707028
+1841 | Austell, St. | William | CURTIS | Elizabeth | GOLEY | William | GOLEY | Hannah James | BLAMEY | more >> /search-database/more-info/?t=marriages&amp;id=1894489
+1843 | Bodmin | William | CURTIS | Rebecca | LARK | Ann Kitto | JOHNS | Elizabeth | OLIVER | more >> /search-database/more-info/?t=marriages&amp;id=1911795
+1843 | Lansallos | William Henry | CURTIS | Elizabeth | SWARTMAN | John | CURTIS | Robert | PEARNE | more >> /search-database/more-info/?t=marriages&amp;id=2066982
+1843 | Mewan, St. | William | CURTIS | Mary | BEST | Thomas | BEST | Grace | BEST | more >> /search-database/more-info/?t=marriages&amp;id=2114420
+1845 | Creed | William | CURTIS | Caroline | SMITH | Charles | BOULT | Mary | HUGH (mark) | more >> /search-database/more-info/?t=marriages&amp;id=1954044
+1845 | Minster | William | CURTIS | Mary Bray | BROWNE | Abel | BONE | John | HOSKIN | more >> /search-database/more-info/?t=marriages&amp;id=2117464

@@ -1,0 +1,8 @@
+GenealogySA (SAGHS) online database search
+Query: {'surname': 'Curtis', 'year': '1863', 'acc': '1', 'coll': 'shipping'}
+URL: https://www.genealogysa.org.au/index.php?option=com_gsa&view=gsa&layout=essearch&Itemid=193&collection_id=shipping&page_no=1&sort_by=&sort_direction=asc&Surname=Curtis&GivenName=&year_from=1863&accuracy=1&ShipName=
+Retrieved 2026-08-19
+
+ROWS (2):
+Surname | Given Names | Arrival Year | Action
+CURTIS | Hargrave | 1862 | View Details

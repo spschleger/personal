@@ -1,0 +1,90 @@
+FreeBMD search: {'surname': 'Britton', 'type_': 'Births', 'districtid': '118', 'start': 1837, 'end': 1880}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Jun1903
+Britton
+ Winnifred Davey 
+St. Austell 
+5c
+106
+Births  Sep1904
+BRITTON
+ Louie 
+St Austell 
+5c
+101
+Births  Dec1908
+Britton
+ Marion 
+St. Austell 
+5c
+93
+Births  Jun1916
+Britton
+ Denis J 
+Davey 
+St.Austell 
+5c
+171
+Births  Dec1918
+Britton
+ Mabel A 
+Daray 
+St Austell 
+5c
+135
+Births  Mar1944
+Britton
+ Stanford C 
+Harper 
+St. Austell 
+5c
+134
+Births  Sep1961
+BRITTON
+ Arthur J 
+SMALLRIDGE 
+St. Austell 
+7a
+193
+BRITTON
+ Elizabeth J 
+SPRINGALL 
+St. Austell 
+7a
+197
+Births  Jun1964
+BRITTON
+ CLARE L 
+SPRINGALL 
+ST.AUSTELL 
+7A
+233
+Births  Jun1982
+BRITTON
+ SHAUN JAMES 
+BRITTON 
+ST AUSTELL 
+21
+85
+Births  Dec1983
+BRITTON
+ DARREN JOHN 
+BRITTON 
+ST AUSTELL 
+21
+76
+Births 1994
+BRITTON
+ JOSEPH WILLIAM 
+TURNER 
+ST AUSTELL 
+3673
+179

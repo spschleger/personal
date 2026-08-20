@@ -1,0 +1,9 @@
+Cornwall OPC database baptisms search
+URL: https://www.cornwall-opc-database.org/search-database/baptisms/index.php?year_from=1836&year_to=1844&parish=&forename1=Thomas&surname1=Curtis&t=baptisms&bf=Search
+Retrieved 2026-08-19
+
+ROWS (4):
+ |  | Name | Father | Mother | 
+Year | Parish Circuit Or Chapel | Forename | Surname | Forename | Forename |  >> /search-database/baptisms/index.php?order=yearD&amp;surname1=Curtis&amp;forename1=Thomas&amp;year_from=1836&amp;year_to=1844&amp;bf=Search&amp;limit=50
+1836 | Marazion | Thomas | CURTIS | William | Christian | more >> /search-database/more-info/?t=baptisms&amp;id=7685213
+1841 | Perranuthnoe | Thomas | CURTIS | John | Mary | more >> /search-database/more-info/?t=baptisms&amp;id=7876221

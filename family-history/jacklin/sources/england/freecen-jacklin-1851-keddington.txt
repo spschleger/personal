@@ -1,0 +1,22 @@
+FreeCEN https://www.freecen.org.uk/search_records/693be0a6b18f7c8b9b005eea/abraham-jacklin-1851-lincolnshire-keddington-1830-
+
+Census Year | 1851
+County | Lincolnshire (LIN)
+Census District | Louth
+Enumeration District | 18
+Civil Parish | Keddington
+Ecclesiastical Parish | -
+Census Place | Keddington
+Piece | HO107_2111A
+Constituency | Lincoln Lindsey
+Page | 11
+Dwelling Number | 772
+Schedule | 31
+House Number | 
+House or Street Name | 
+Surname | Forenames | Relationship | Marital Status | Sex | Age | Occupation | Nationality | Birth County | Birth Place | Disability | Notes
+CLARK | William | Head | U | M | 47 | Farmer Occupying 130 Acre Employing 1 Labourer |  | Lincolnshire | Keddington |  | 
+HAND | Ann | Servant | U | F | 35 | Housekeeper |  | Lincolnshire | Toynton (or Tointon) |  | 
+HARRISON | Ann | Servant | U | F | 20 | House Servant |  | Lincolnshire | Elkington |  | 
+the person found in your search JACKLIN | Abraham | Servant | U | M | 21 | Agricultural Labourer |  | Lincolnshire | Keddington |  | 
+HEWITT | John | Servant | U | M | 19 | Agricultural Labourer |  | Lincolnshire | Frieston |  | 

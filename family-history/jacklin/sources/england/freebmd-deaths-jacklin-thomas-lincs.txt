@@ -1,0 +1,217 @@
+FreeBMD deaths-jacklin-thomas-lincs: {'surname': 'Jacklin', 'given': 'Thomas', 'type_': 'Deaths', 'countyid': 'LIN,6,33,49,50,52,102,103,154,175,176,225,226', 'start': 1860, 'end': 1890}
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Deaths  Sep1838
+Jacklin
+ Thomas 
+Horncastle 
+14
+234
+Deaths  Jun1851
+Jacklin
+ Thomas 
+Louth 
+14
+358
+Deaths  Dec1851
+Jacklin
+ Thomas 
+Louth 
+14
+[35]15
+Deaths  Mar1852
+JACKLIN
+ Thomas 
+Louth 
+7a
+354
+Deaths  Jun1856
+Jacklin
+ Thomas 
+Glanford Brigg 
+7a
+368
+Deaths  Dec1860
+Jacklin
+ Thomas 
+Boston 
+7a
+203
+Deaths  Jun1863
+Jacklin
+ Thomas 
+Louth 
+7a
+384
+Deaths  Sep1863
+Jacklin
+ Thomas 
+Caistor 
+7a
+399
+Deaths  Jun1869
+JACKLIN
+ Thomas 
+66 
+Louth 
+7a
+364
+Deaths  Mar1871
+JACKLIN
+ Thomas 
+67 
+Caistor 
+7a
+427
+Deaths  Dec1873
+JACKLIN
+ Thomas 
+87 
+Louth 
+7a
+361
+Deaths  Jun1881
+JACKLIN
+ Thomas 
+4 
+Boston 
+7a
+253
+Deaths  Jun1884
+Jacklin
+ Thomas 
+56 
+Louth 
+7a
+365
+Deaths  Mar1885
+Jacklin
+ Thomas 
+94 
+Glanford B. 
+7a
+468
+Deaths  Jun1888
+JACKLIN
+ Thomas 
+72 
+Thorne 
+9c
+424
+Deaths  Jun1889
+JACKLIN
+ Thomas 
+47 
+Louth 
+7a
+351
+Deaths  Mar1894
+Jacklin
+ Thomas 
+65 
+Glanford B. 
+7a
+469
+Deaths  Dec1898
+Jacklin
+ Thomas 
+0 
+Louth 
+7a
+357
+Deaths  Mar1899
+Jacklin
+ Thomas 
+83 
+Doncaster 
+9c
+466
+Deaths  Jun1905
+Jacklin
+ Thomas Loughton 
+71 
+Grimsby 
+7a
+367
+Deaths  Sep1907
+Jacklin
+ Thomas 
+53 
+Louth 
+7a
+292
+Deaths  Jun1911
+Jacklin
+ Thomas 
+86 
+Glanford B. 
+7a
+381
+Deaths  Dec1912
+Jacklin
+ Thomas 
+0 
+Glanford B. 
+7a
+767
+Deaths  Jun1921
+Jacklin
+ Thomas A 
+31 
+Grantham 
+7a
+474
+Deaths  Mar1938
+Jacklin
+ Thomas 
+72 
+Louth 
+7a
+710
+Deaths  Jun1946
+Jacklin
+ Thomas 
+68 
+Scunthorpe 
+7a
+682
+Deaths  Dec1949
+Jacklin
+ Thomas H 
+67 
+Lincoln 
+3b
+258
+Deaths  Dec1955
+Jacklin
+ Thomas J 
+68 
+Scunthorpe 
+3b
+329
+Deaths  Jun1965
+JACKLIN
+ THOMAS J 
+89 
+SCUNTHORPE 
+3B
+376
+Deaths  Dec1968
+JACKLIN
+ THOMAS H 
+85 
+SCUNTHORPE 
+3B
+432
+Deaths 1986
+JACKLIN
+ THOMAS GEORGE 
+24DE1909 
+LOUTH 
+7
+1796

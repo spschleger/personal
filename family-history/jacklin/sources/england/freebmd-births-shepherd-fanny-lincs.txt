@@ -1,0 +1,38 @@
+FreeBMD births-shepherd-fanny-lincs: {'surname': 'Shepherd', 'given': 'Fanny', 'type_': 'Births', 'countyid': 'LIN,6,33,49,50,52,102,103,154,175,176,225,226', 'start': 1837, 'end': 1845}
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Dec1846
+Shepherd
+ Fanny 
+Caistor 
+14
+314
+Births  Mar1865
+SHEPHERD
+ Fanny Maria 
+Grantham 
+7A
+439
+Births  Mar1867
+Shepherd
+ Fanny 
+Horncastle 
+7a
+520
+Births  Dec1867
+Shepherd
+ Fanny 
+Caistor 
+7a
+566
+Births  Mar1871
+Shepherd
+ Fanny 
+Caistor 
+7a
+642

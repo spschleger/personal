@@ -1,0 +1,10 @@
+
+
+===== search 'Johnstone'
+https://www.frasercoast.qld.gov.au/cemeteries-online?p_p_id=burialAdmin_WAR_cemeteries&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_burialAdmin_WAR_cemeteries_action=search&_burialAdmin_WAR_cemeteries_searchString=Johnstone&_burialAdmin_WAR_cemeteries_delta=200&_burialAdmin_WAR_cemeteries_advancedSearch=false&_burialAdmin_WAR_cemeteries_andOperator=true&_burialAdmin_WAR_cemeteries_orderByCol=lastName&_burialAdmin_WAR_cemeteries_orderByType=asc
+accessed 2026-08-19 HTTP 200 rows=0
+
+
+===== search 'Josefski'
+https://www.frasercoast.qld.gov.au/cemeteries-online?p_p_id=burialAdmin_WAR_cemeteries&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_burialAdmin_WAR_cemeteries_action=search&_burialAdmin_WAR_cemeteries_searchString=Josefski&_burialAdmin_WAR_cemeteries_delta=200&_burialAdmin_WAR_cemeteries_advancedSearch=false&_burialAdmin_WAR_cemeteries_andOperator=true&_burialAdmin_WAR_cemeteries_orderByCol=lastName&_burialAdmin_WAR_cemeteries_orderByType=asc
+accessed 2026-08-19 HTTP 200 rows=0

@@ -1,0 +1,20 @@
+FreeBMD marr-jacklin-abraham-lincs: {'surname': 'Jacklin', 'given': 'Abraham', 'type_': 'Marriages', 'countyid': 'LIN,6,33,49,50,52,102,103,154,175,176,225,226', 'start': 1837, 'end': 1900}
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Jun1856
+JACKLIN
+ Abraham 
+Louth 
+7a
+1083
+Marriages  Dec1880
+JACKLIN
+ Abraham 
+Louth 
+7a
+1161

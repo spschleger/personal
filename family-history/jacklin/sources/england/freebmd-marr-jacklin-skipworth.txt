@@ -1,0 +1,3 @@
+FreeBMD search marr-jacklin-skipworth: {'surname': 'Jacklin', 's_surname': 'Skipworth', 'type_': 'Marriages', 'start': 1837, 'end': 1900}
+Source: https://www.freebmd.org.uk/cgi/search.pl (free index, no login)
+

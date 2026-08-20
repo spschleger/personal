@@ -1,0 +1,17 @@
+FreeBMD search: {'surname': 'Normanton', 'type_': 'Deaths', 'countyid': 'CON,59,61', 'start': 1837, 'end': 1900}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Deaths 1995
+NORMANTON
+ MILDRED 
+1SE1909 
+PENZANCE 
+3651
+68

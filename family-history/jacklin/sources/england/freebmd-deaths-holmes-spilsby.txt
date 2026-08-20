@@ -1,0 +1,2110 @@
+FreeBMD deaths-holmes-spilsby: {'surname': 'Holmes', 'type_': 'Deaths', 'districtid': '265', 'start': 1856, 'end': 1868}
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Deaths  Sep1837
+Holmes
+ James 
+Spilsby 
+14
+303
+Deaths  Mar1838
+HOLMES
+ Ann 
+Spilsby 
+14
+364
+HOLMES
+ David 
+Spilsby 
+14
+353
+HOLMES
+ David 
+Spilsby 
+14
+363
+Deaths  Jun1838
+HOLMES
+ Male 
+Spilsby 
+14
+350
+Deaths  Dec1838
+Holmes
+ George 
+Spilsby 
+14
+315
+Holmes
+ William 
+Spilsby 
+14
+317
+Deaths  Mar1839
+HOLMES
+ Mark 
+Spilsby 
+14
+373
+Deaths  Sep1839
+Holmes
+ Sarah 
+Spilsby 
+14
+342
+Deaths  Mar1840
+HOLMES
+ Hannah 
+Spilsby 
+14
+464
+Holmes
+ Harriett 
+Spilsby 
+14
+464
+Deaths  Jun1840
+HOLMES
+ Jacob 
+Spilsby 
+14
+389
+Deaths  Mar1841
+HOLMES
+ Elizabeth 
+Spilsby 
+14
+434
+HOLMES
+ Robert 
+Spilsby 
+14
+447
+Deaths  Jun1841
+Holmes
+ Esther 
+Spilsby 
+14
+407
+Holmes
+ James 
+Spilsby 
+14
+411
+Deaths  Sep1841
+HOLMES
+ George 
+Spilsby 
+14
+355
+Deaths  Dec1842
+Holmes
+ Lucy 
+Spilsby 
+14
+349
+Deaths  Mar1843
+HOLMES
+ John 
+Spilsby 
+14
+391
+HOLMES
+ Sarah 
+Spilsby 
+14
+393
+HOLMES
+ William 
+Spilsby 
+14
+402
+Deaths  Jun1843
+HOLMES
+ Eli_on 
+Spilsby 
+14
+386
+HOLMES
+ Ellen 
+Spilsby 
+14
+385
+Deaths  Dec1843
+HOLMES
+ Ann 
+Spilsby 
+14
+370
+HOLMES
+ Susanna 
+Spilsby 
+14
+374
+Deaths  Mar1844
+HOLMES
+ Mark 
+Spilsby 
+14
+437
+Deaths  Mar1845
+HOLMES
+ David 
+Spilsby 
+14
+408
+HOLMES
+ George 
+Spilsby 
+14
+413
+HOLMES
+ William 
+Spilsby 
+14
+411
+Deaths  Jun1845
+HOLMES
+ Eliza Jane 
+Spilsby 
+14
+363
+HOLMES
+ Harriet 
+Spilsby 
+14
+364
+Deaths  Mar1846
+Holmes
+ William 
+Spilsby 
+14
+363
+Deaths  Dec1846
+HOLMES
+ Henry 
+Spilsby 
+14
+425
+HOLMES
+ Tabitha 
+Spilsby 
+14
+426
+Deaths  Mar1847
+Holmes
+ William 
+Spilsby 
+14
+489
+Deaths  Mar1848
+HOLMES
+ George 
+Spilsby 
+14
+496
+Deaths  Jun1848
+HOLMES
+ John 
+Spilsby 
+14
+44
+HOLMES
+ Sarah 
+Spilsby 
+14
+433
+Deaths  Sep1848
+HOLMES
+ Emma 
+Spilsby 
+14
+381
+Deaths  Sep1849
+Holmes
+ George 
+Spilsby 
+14
+419
+Deaths  Mar1850
+HOLMES
+ Harriet 
+Spilsby 
+14
+397
+Deaths  Dec1850
+HOLMES
+ John George 
+Spilsby 
+14
+372
+Deaths  Mar1851
+HOLMES
+ Ann 
+Spilsby 
+14
+418
+Deaths  Sep1851
+HOLMES
+ John 
+Spilsby 
+14
+349
+Deaths  Dec1851
+HOLMES
+ Thomas 
+Spilsby 
+14
+361
+Deaths  Mar1852
+HOLMES
+ John 
+Spilsby 
+7a
+331
+Holmes
+ Sarah 
+Spilsby 
+7a
+335
+Holmes
+ Sarah Jane 
+Spilsby 
+7a
+334
+Deaths  Sep1852
+Holmes
+ Ann 
+Spilsby 
+7a
+325
+Holmes
+ Edward 
+Spilsby 
+7a
+317
+HOLMES
+ John 
+Spilsby 
+7a
+330
+HOLMES
+ Joseph 
+Spilsby 
+7a
+317
+Deaths  Mar1853
+Holmes
+ John 
+Spilsby 
+7a
+360
+Deaths  Jun1853
+Holmes
+ John Henry 
+Spilsby 
+7a
+33[35]
+Holmes
+ John Henry 
+Spilsby 
+7a
+338
+Deaths  Sep1853
+Holmes
+ Male 
+Spilsby 
+7a
+237
+Holmes
+ Male 
+Spilsby 
+7a
+287
+Deaths  Jun1855
+Holmes
+ Mary 
+Spilsby 
+7a
+340
+Deaths  Mar1856
+Holmes
+ George 
+Spilsby 
+7a
+313
+Deaths  Dec1856
+HOLMES
+ Mary 
+Spilsby 
+7a
+301
+Deaths  Mar1858
+Holmes
+ Anne 
+Spilsby 
+7a
+417
+Holmes
+ Elizabeth 
+Spilsby 
+7a
+415
+Holmes
+ Male 
+Spilsby 
+7a
+416
+Deaths  Jun1858
+HOLMES
+ Elizabeth 
+Spilsby 
+7a
+344
+HOLMES
+ Frances 
+Spilsby 
+7a
+337
+Holmes
+ John 
+Spilsby 
+7a
+337
+Holmes
+ Joseph 
+Spilsby 
+7a
+344
+Holmes
+ Joseph 
+Spilsby 
+7a
+323
+Deaths  Sep1858
+Holmes
+ Bennett 
+Spilsby 
+7a
+328
+Holmes
+ George 
+Spilsby 
+7a
+315
+Holmes
+ Thomas 
+Spilsby 
+7a
+332
+Deaths  Mar1859
+Holmes
+ Henry 
+Spilsby 
+7A
+420
+Holmes
+ William 
+Spilsby 
+7A
+412
+Deaths  Mar1860
+Holmes
+ Elizabeth 
+Spilsby 
+7a
+363
+Deaths  Dec1860
+Holmes
+ Charles Harry 
+Spilsby 
+7a
+291
+Holmes
+ George Wingate 
+Spilsby 
+7a
+294
+Holmes
+ William 
+Spilsby 
+7a
+288
+Deaths  Jun1861
+HOLMES
+ John Henry Whitworth 
+Spilsby 
+7a
+342
+HOLMES
+ Mary Jane 
+Spilsby 
+7a
+344
+Deaths  Dec1861
+Holmes
+ Francis 
+Spilsby 
+7a
+309
+Deaths  Dec1862
+HOLMES
+ Edward 
+Spilsby 
+7a
+313
+Deaths  Mar1863
+Holmes
+ Ann 
+Spilsby 
+7a
+377
+Deaths  Dec1863
+HOLMES
+ George 
+Spilsby 
+7a
+345
+HOLMES
+ Susan Ann 
+Spilsby 
+7a
+345
+Deaths  Sep1864
+Holmes
+ Mary Jane 
+Spilsby 
+7a
+323
+Deaths  Mar1865
+Holmes
+ James 
+Spilsby 
+7a
+397
+HOLMES
+ Margaret 
+Spilsby 
+7a
+399
+Holmes
+ Sarah 
+Spilsby 
+7a
+407
+Deaths  Mar1866
+HOLMES
+ Ann 
+2 
+Spilsby 
+7a
+341
+Deaths  Mar1867
+HOLMES
+ Emma 
+0 
+Spilsby 
+7a
+381
+Deaths  Dec1867
+HOLMES
+ Charles 
+80 
+Spilsby 
+7a
+337
+Deaths  Jun1868
+Holmes
+ Ann 
+41 
+Spilsby 
+7a
+319
+Holmes
+ Annie Marina 
+30 
+Spilsby 
+7a
+319
+Holmes
+ William 
+67 
+Spilsby 
+7a
+320
+Deaths  Mar1869
+HOLMES
+ Elizabeth 
+55 
+Spilsby 
+7a
+352
+Deaths  Jun1869
+HOLMES
+ John 
+92 
+Spilsby 
+7a
+347
+HOLMES
+ John William 
+16 
+Spilsby 
+7a
+355
+Deaths  Sep1869
+HOLMES
+ John Thomas 
+0 
+Spilsby 
+7a
+334
+HOLMES
+ Mary 
+77 
+Spilsby 
+7a
+334
+Deaths  Jun1871
+Holmes
+ Eliza 
+54 
+Spilsby 
+7a
+335
+Deaths  Sep1871
+HOLMES
+ Mark 
+72 
+Spilsby 
+7a
+335
+Deaths  Jun1872
+HOLMES
+ Elizabeth 
+68 
+Spilsby 
+7a
+362
+HOLMES
+ Fanny 
+18 
+Spilsby 
+7a
+361
+HOLMES
+ John 
+77 
+Spilsby 
+7a
+357
+Deaths  Jun1873
+Holmes
+ Edwin 
+38 
+Spilsby 
+7a
+354
+Holmes
+ Joseph 
+51 
+Spilsby 
+7a
+357
+Holmes
+ Mary 
+87 
+Spilsby 
+7a
+351
+Deaths  Sep1873
+Holmes
+ Frank 
+67 
+Spilsby 
+7a
+342
+Deaths  Dec1873
+HOLMES
+ Challis 
+70 
+Spilsby 
+7a
+339
+HOLMES
+ Robert 
+52 
+Spilsby 
+7a
+337
+Deaths  Mar1874
+HOLMES
+ Mary 
+75 
+Spilsby 
+7a
+359
+Deaths  Dec1874
+HOLMES
+ Elizabeth 
+87 
+Spilsby 
+7a
+371
+Deaths  Mar1875
+HOLMES
+ Robert 
+80 
+Spilsby 
+7a
+444
+Deaths  Jun1875
+HOLMES
+ Elizabeth 
+80 
+Spilsby 
+7a
+361
+Deaths  Sep1875
+HOLMES
+ Mary Ann 
+0 
+Spilsby 
+7a
+377
+Deaths  Mar1877
+Holmes
+ Frederick Hurdman 
+0 
+Spilsby 
+7a
+397
+Holmes
+ Thomas 
+73 
+Spilsby 
+7a
+353
+Holmes
+ Thomas 
+73 
+Spilsby 
+7a
+383
+Deaths  Jun1877
+HOLMES
+ Millicent 
+73 
+Spilsby 
+7a
+373
+Deaths  Jun1878
+HOLMES
+ Susan 
+78 
+Spilsby 
+7a
+361
+Deaths  Dec1878
+HOLMES
+ Thomas 
+29 
+Spilsby 
+7a
+373
+Deaths  Sep1879
+Holmes
+ Joseph 
+80 
+Spilsby 
+7a
+318
+Deaths  Mar1880
+HOLMES
+ Mary 
+86 
+Spilsby 
+7a
+391
+Deaths  Jun1881
+HOLMES
+ Francis 
+72 
+Spilsby 
+7a
+341
+Deaths  Sep1881
+Holmes
+ Ann 
+52 
+Spilsby 
+7a
+340
+Deaths  Sep1882
+Holmes
+ Mary 
+90 
+Spilsby 
+7a
+346
+Deaths  Mar1883
+HOLMES
+ Frank 
+0 
+Spilsby 
+7a
+380
+HOLMES
+ Herbert 
+2 
+Spilsby 
+7a
+379
+HOLMES
+ Thomas 
+83 
+Spilsby 
+7a
+380
+HOLMES
+ William 
+65 
+Spilsby 
+7a
+379
+Deaths  Jun1883
+HOLMES
+ Ada 
+1 
+Spilsby 
+7a
+362
+Deaths  Jun1884
+Holmes
+ Lucy 
+21 
+Spilsby 
+7a
+343
+Deaths  Mar1885
+HOLMES
+ Jane 
+64 
+Spilsby 
+7a
+382
+Deaths  Dec1885
+Holmes
+ Walter 
+0 
+Spilsby 
+7a
+329
+Deaths  Mar1886
+Holmes
+ Maud 
+0 
+Spilsby 
+7a
+395
+Deaths  Jun1886
+Holmes
+ David 
+79 
+Spilsby 
+7a
+356
+Deaths  Sep1886
+Holmes
+ Ann 
+84 
+Spilsby 
+7a
+366
+Holmes
+ Edith 
+0 
+Spilsby 
+7a
+365
+Holmes
+ Sarah 
+79 
+Spilsby 
+7a
+369
+Deaths  Mar1887
+Holmes
+ James 
+0 
+Spilsby 
+7a
+366
+Holmes
+ Joseph 
+47 
+Spilsby 
+7a
+366
+Holmes
+ Mary 
+78 
+Spilsby 
+7a
+379
+Deaths  Jun1887
+Holmes
+ Harriett 
+80 
+Spilsby 
+7a
+351
+Holmes
+ Rebecca 
+1 
+Spilsby 
+7a
+344
+Deaths  Dec1887
+HOLMES
+ Mary 
+53 
+Spilsby 
+7a
+351
+Deaths  Jun1888
+Holmes
+ Ellen 
+51 
+Spilsby 
+7a
+357
+Holmes
+ George Freeman 
+72 
+Spilsby 
+7a
+351
+Holmes
+ John 
+81 
+Spilsby 
+7a
+347
+Deaths  Dec1888
+Holmes
+ Kezia 
+60 
+Spilsby 
+7a
+335
+Deaths  Jun1889
+HOLMES
+ Henry John 
+63 
+Spilsby 
+7a
+340
+Deaths  Mar1890
+Holmes
+ Margaret 
+85 
+Spilsby 
+7a
+421
+Deaths  Dec1890
+Holmes
+ Alfred 
+60 
+Spilsby 
+7a
+365
+Holmes
+ Edward 
+90 
+Spilsby 
+7a
+358
+Deaths  Sep1892
+Holmes
+ Ada 
+0 
+Spilsby 
+7a
+314
+Holmes
+ George 
+86 
+Spilsby 
+7a
+319
+Deaths  Mar1894
+Holmes
+ John 
+73 
+Spilsby 
+7a
+401
+Deaths  Jun1894
+Holmes
+ George 
+0 
+Spilsby 
+7a
+313
+Deaths  Dec1894
+Holmes
+ George 
+64 
+Spilsby 
+7a
+336
+Deaths  Dec1895
+Holmes
+ Joseph 
+52 
+Spilsby 
+7a
+338
+Deaths  Jun1896
+Holmes
+ Mary 
+87 
+Spilsby 
+7a
+310
+Deaths  Jun1897
+Holmes
+ Frederick Thomas 
+42 
+Spilsby 
+7a
+343
+Deaths  Mar1899
+Holmes
+ Alice Emily 
+19 
+Spilsby 
+7a
+363
+Deaths  Jun1899
+Holmes
+ William 
+64 
+Spilsby 
+7a
+353
+Deaths  Sep1899
+Holmes
+ Elizabeth 
+0 
+Spilsby 
+7a
+369
+Deaths  Dec1899
+Holmes
+ James 
+25 
+Spilsby 
+7a
+377
+Deaths  Mar1900
+Holmes
+ Annie Eliza 
+77 
+Spilsby 
+7a
+457
+Holmes
+ Eliza 
+26 
+Spilsby 
+7a
+465
+Deaths  Dec1900
+Holmes
+ Rebecca 
+75 
+Spilsby 
+7a
+313
+Deaths  Mar1901
+Holmes
+ Mary Ann 
+61 
+Spilsby 
+7a
+357
+Deaths  Sep1901
+Holmes
+ Arthur 
+50 
+Spilsby 
+7a
+349
+Deaths  Dec1901
+Holmes
+ Ann 
+75 
+Spilsby 
+7a
+338
+Holmes
+ Charles 
+52 
+Spilsby 
+7a
+338
+Holmes
+ Mary 
+86 
+Spilsby 
+7a
+341
+Holmes
+ Thomas 
+64 
+Spilsby 
+7a
+333
+Deaths  Jun1902
+Holmes
+ John 
+81 
+Spilsby 
+7a
+342
+Holmes
+ Mary 
+66 
+Spilsby 
+7a
+342
+Deaths  Dec1902
+Holmes
+ John 
+59 
+Spilsby 
+7a
+338
+Deaths  Jun1903
+Holmes
+ William Edward 
+21 
+Spilsby 
+7a
+323
+Deaths  Dec1904
+Holmes
+ Harry 
+31 
+Spilsby 
+7a
+359
+Deaths  Mar1905
+Holmes
+ John 
+86 
+Spilsby 
+7a
+389
+Deaths  Jun1905
+HOLMES
+ Annie 
+0 
+Spilsby 
+7a
+322
+Deaths  Sep1905
+Holmes
+ Tom 
+23 
+Spilsby 
+7a
+322
+Deaths  Dec1905
+Holmes
+ George Edward 
+48 
+Spilsby 
+7a
+329
+Holmes
+ George Edwrad 
+48 
+Spilsby 
+7a
+329
+Deaths  Jun1906
+Holmes
+ Frances 
+92 
+Spilsby 
+7A
+315
+Deaths  Sep1907
+Holmes
+ Sarah 
+72 
+Spilsby 
+7a
+280
+Deaths  Mar1908
+HOLMES
+ Stanley 
+1 
+Spilsby 
+7a
+379
+Deaths  Jun1908
+HOLMES
+ Arthur Norman 
+1 
+Spilsby 
+7a
+320
+HOLMES
+ Emma 
+67 
+Spilsby 
+7a
+320
+Deaths  Sep1908
+Holmes
+ Benjamin 
+0 
+Spilsby 
+7a
+302
+Deaths  Dec1908
+Holmes
+ William 
+79 
+Spilsby 
+7a
+351
+Deaths  Jun1909
+Holmes
+ Lily 
+6 
+Spilsby 
+7a
+326
+Deaths  Dec1909
+HOLMES
+ Harold John 
+2 
+Spilsby 
+7a
+336
+HOLMES
+ Victor Speed 
+0 
+Spilsby 
+7a
+337
+Deaths  Jun1910
+HOLMES
+ Norah 
+0 
+Spilsby 
+7a
+293
+Deaths  Dec1910
+Holmes
+ Sarah J 
+70 
+Spilsby 
+7a
+321
+Deaths  Mar1911
+Holmes
+ Harold 
+0 
+Spilsby 
+7a
+347
+Deaths  Jun1911
+Holmes
+ Jane 
+84 
+Spilsby 
+7a
+301
+Holmes
+ Thomas 
+70 
+Spilsby 
+7a
+307
+Deaths  Sep1911
+Holmes
+ Annie 
+65 
+Spilsby 
+7a
+657
+Deaths  Dec1911
+HOLMES
+ George 
+84 
+Spilsby 
+7a
+630
+HOLMES
+ Isabella 
+71 
+Spilsby 
+7a
+612
+Deaths  Mar1912
+Holmes
+ Ann 
+78 
+Spilsby 
+7a
+745
+Holmes
+ William 
+76 
+Spilsby 
+7a
+725
+Deaths  Jun1912
+Holmes
+ George 
+80 
+Spilsby 
+7a
+575
+Deaths  Sep1912
+Holmes
+ Charles 
+15 
+Spilsby 
+7a
+550
+Deaths  Mar1915
+Holmes
+ Joel 
+67 
+Spilsby 
+7a
+851
+Deaths  Mar1916
+Holmes
+ Thomas 
+88 
+Spilsby 
+7a
+719
+Deaths  Jun1916
+Holmes
+ Cyril D 
+0 
+Spilsby 
+7a
+634
+Deaths  Mar1918
+Holmes
+ Lucy 
+69 
+Spilsby 
+7a
+688
+Deaths  Sep1918
+Holmes
+ George 
+76 
+Spilsby 
+7a
+559
+Holmes
+ Louisa 
+46 
+Spilsby 
+7a
+567
+Deaths  Mar1919
+HOLMES
+ William R 
+0 
+Spilsby 
+7a
+911
+Deaths  Dec1919
+Holmes
+ Albert 
+50 
+Spilsby 
+7a
+585
+Deaths  Jun1920
+HOLMES
+ George 
+87 
+Spilsby 
+7a
+583
+Deaths  Mar1921
+Holmes
+ Ann 
+74 
+Spilsby 
+7a
+658
+Deaths  Sep1922
+Holmes
+ Emma 
+73 
+Spilsby 
+7a
+501
+Deaths  Mar1923
+HOLMES
+ Alice 
+46 
+Spilsby 
+7a
+652
+HOLMES
+ Elizabeth 
+33 
+Spilsby 
+7a
+667
+HOLMES
+ Frederick W 
+27 
+Spilsby 
+7a
+638
+Deaths  Dec1923
+Holmes
+ John T 
+52 
+Spilsby 
+7a
+596
+Deaths  Mar1924
+Holmes
+ Charlotte 
+70 
+Spilsby 
+7a
+771
+Deaths  Mar1925
+Holmes
+ James 
+79 
+Spilsby 
+7a
+702
+Deaths  Jun1925
+HOLMES
+ Frederick J 
+38 
+Spilsby 
+7a
+632
+Deaths  Jun1926
+Holmes
+ John G 
+76 
+Spilsby 
+7a
+575
+Holmes
+ John T C 
+18 
+Spilsby 
+7a
+579
+Deaths  Mar1928
+Holmes
+ John W 
+53 
+Spilsby 
+7a
+661
+Deaths  Jun1928
+Holmes
+ Mary A 
+74 
+Spilsby 
+7a
+595
+Holmes
+ Sarah 
+38 
+Spilsby 
+7a
+589
+Deaths  Mar1929
+Holmes
+ Henrietta 
+74 
+Spilsby 
+7a
+988
+Deaths  Jun1930
+Holmes
+ Emma A 
+82 
+Spilsby 
+7a
+572
+Deaths  Dec1930
+Holmes
+ Mary 
+80 
+Spilsby 
+7a
+591
+Holmes
+ Stephen 
+81 
+Spilsby 
+7a
+585
+Deaths  Mar1932
+Holmes
+ Nellie 
+46 
+Spilsby 
+7a
+796
+Deaths  Jun1933
+Holmes
+ George 
+77 
+Spilsby 
+7a
+560
+Deaths  Sep1934
+Holmes
+ Wright 
+91 
+Spilsby 
+7a
+504
+Deaths  Sep1935
+Holmes
+ Annie 
+69 
+Spilsby 
+7a
+550
+Deaths  Jun1936
+Holmes
+ Ann 
+85 
+Spilsby 
+7a
+600
+Deaths  Dec1936
+Holmes
+ George 
+83 
+Spilsby 
+7a
+584
+Holmes
+ Rebecca 
+85 
+Spilsby 
+7a
+600
+Deaths  Mar1937
+Holmes
+ William 
+91 
+Spilsby 
+7a
+821
+Deaths  Sep1937
+Holmes
+ John F 
+88 
+Spilsby 
+7a
+533
+Deaths  Dec1937
+Holmes
+ Frank 
+78 
+Spilsby 
+7a
+623
+Deaths  Sep1938
+HOLMES
+ Evelyn I 
+51 
+Spilsby 
+7a
+509
+Deaths  Sep1939
+Holmes
+ Elizabeth A 
+54 
+Spilsby 
+7a
+747
+Deaths  Mar1940
+Holmes
+ John G 
+89 
+Spilsby 
+7a
+1821
+Deaths  Jun1940
+Holmes
+ Ann F 
+79 
+Spilsby 
+7a
+1308
+Deaths  Dec1940
+Holmes
+ Jane 
+74 
+Spilsby 
+7a
+1334
+Deaths  Mar1942
+Holmes
+ George 
+82 
+Spilsby. 
+7a
+*
+Deaths  Dec1942
+Holmes
+ John R 
+39 
+Spilsby 
+7a
+595
+Deaths  Sep1944
+Holmes
+ Mary 
+70 
+Spilsby 
+7a
+610
+Deaths  Mar1945
+Holmes
+ Margaret 
+81 
+Spilsby 
+7a
+786
+Holmes
+ Sarah E 
+74 
+Spilsby 
+7a
+803
+Deaths  Sep1945
+Holmes
+ William D 
+61 
+Spilsby 
+7a
+460
+Deaths  Mar1946
+Holmes
+ Harriet 
+92 
+Spilsby 
+7a
+710
+Deaths  Mar1947
+Holmes
+ Rebecca 
+82 
+Spilsby 
+3b
+517
+Deaths  Mar1948
+Holmes
+ Fred 
+70 
+Spilsby 
+3b
+408
+Holmes
+ James A 
+72 
+Spilsby 
+3b
+428
+Holmes
+ Nellie 
+72 
+Spilsby 
+3b
+420
+Deaths  Mar1949
+Holmes
+ John G 
+75 
+Spilsby 
+3b
+507
+Deaths  Sep1950
+Holmes
+ Harold 
+60 
+Spilsby 
+3b
+359
+Deaths  Dec1950
+Holmes
+ William 
+86 
+Spilsby 
+3b
+436
+Deaths  Mar1951
+HOLMES
+ Annie 
+71 
+Spilsby 
+3b
+583
+HOLMES
+ Charles 
+80 
+Spilsby 
+3b
+590
+Deaths  Jun1951
+HOLMES
+ George 
+71 
+Spilsby 
+3b
+374
+Deaths  Dec1955
+HOLMES
+ Gordon 
+46 
+Spilsby 
+3b
+379
+Deaths  Sep1957
+HOLMES
+ Bernard S 
+59 
+Spilsby 
+3b
+352
+Deaths  Jun1958
+HOLMES
+ Charles E 
+81 
+Spilsby 
+3b
+398
+HOLMES
+ Elizabeth 
+74 
+Spilsby 
+3b
+410
+HOLMES
+ Elizabeth L 
+71 
+Spilsby 
+3b
+410
+HOLMES
+ Joseph 
+89 
+Spilsby 
+3b
+406
+Deaths  Mar1959
+HOLMES
+ Isabella 
+85 
+Spilsby 
+3b
+553
+Deaths  Jun1960
+HOLMES
+ Alice 
+80 
+Spilsby 
+3b
+388
+Deaths  Dec1961
+HOLMES
+ Katherine J M 
+94 
+Spilsby 
+3b
+426
+Deaths  Mar1963
+HOLMES
+ TOM 
+86 
+SPILSBY 
+3B
+584
+Deaths  Jun1963
+HOLMES
+ CLARA 
+84 
+SPILSBY 
+3B
+408
+Deaths  Jun1964
+HOLMES
+ CHARLES 
+85 
+SPILSBY 
+3B
+397
+HOLMES
+ LIZZIE 
+81 
+SPILSBY 
+3B
+402
+Deaths  Dec1964
+HOLMES
+ ARTHUR W 
+84 
+SPILSBY 
+3B
+432
+Deaths  Mar1965
+HOLMES
+ GEORGE W 
+82 
+Spilsby 
+3b
+508
+HOLMES
+ KATHLEEN 
+71 
+Spilsby 
+3b
+500
+Deaths  Sep1965
+HOLMES
+ JOHN 
+61 
+Spilsby 
+3b
+369
+Deaths  Dec1965
+HOLMES
+ NELLIE 
+86 
+SPILSBY 
+3B
+441
+Deaths  Mar1966
+HOLMES
+ ALICE L 
+82 
+SPILSBY 
+3B
+550
+Deaths  Jun1967
+Holmes
+ Joan M P 
+30 
+Spilsby 
+3b
+418
+Deaths  Sep1967
+Holmes
+ George E 
+88 
+Spilsby 
+3b
+382
+Deaths  Mar1968
+HOLMES
+ KITTY 
+73 
+SPILSBY 
+3B
+692
+Deaths  Sep1968
+Holmes
+ Mabel 
+68 
+Spilsby 
+3b
+386
+Deaths  Jun1971
+HOLMES
+ Harold 
+6Se1918 
+Spilsby 
+3b
+962/S
+Deaths  Sep1971
+HOLMES
+ Clara 
+25De1899 
+Spilsby 
+3b
+1041
+Deaths  Dec1971
+HOLMES
+ Edward 
+13Fe1911 
+Spilsby 
+3b
+1219
+Deaths  Mar1972
+HOLMES
+ George 
+31Mr1892 
+Spilsby 
+3b
+1356
+HOLMES
+ Harold 
+6Se1918 
+Spilsby 
+3b
+1350
+HOLMES
+ Muriel 
+4Au1898 
+Spilsby 
+3b
+1428
+Deaths  Sep1972
+HOLMES
+ George Thomas 
+31Jy1908 
+Spilsby 
+3b
+1076
+Deaths  Jun1974
+HOLMES
+ HARRY 
+23AP1914 
+SPILSBY 
+7
+1865
+Deaths  Dec1975
+HOLMES
+ ALBERT EDWARD 
+24JA1901 
+SPILSBY 
+7
+2036
+Deaths  Dec1976
+HOLMES
+ ARTHUR 
+27OC1906 
+SPILSBY 
+7
+2079
+Deaths  Mar1977
+HOLMES
+ EVELYN LAURA 
+19MR1904 
+SPILSBY 
+7
+2319
+Deaths  Jun1977
+HOLMES
+ EFFIE MAY 
+31MR1890 
+SPILSBY 
+7
+2076
+Deaths  Sep1977
+HOLMES
+ JOSEPH 
+13FE1907 
+SPILSBY 
+7
+1802
+Deaths  Dec1977
+HOLMES
+ HARRY 
+12SE1900 
+SPILSBY 
+7
+1997
+Deaths  Jun1978
+HOLMES
+ THOMAS 
+7JY1890 
+SPILSBY 
+7
+2029
+Deaths  Sep1978
+HOLMES
+ OLIVE 
+17JY1896 
+SPILSBY 
+7
+1871
+Deaths  Jun1981
+HOLMES
+ JOHN FREEMAN 
+8FE1905 
+SPILSBY 
+7
+1865
+Deaths  Dec1981
+HOLMES
+ LAWRENCE 
+20MR1911 
+SPILSBY 
+7
+2166
+Deaths 1984
+HOLMES
+ FRANK 
+6JA1926 
+SPILSBY 
+7
+2027
+HOLMES
+ MARY 
+11SE1913 
+SPILSBY 
+7
+2185
+Deaths 1986
+HOLMES
+ MAURICE 
+27AU1928 
+SPILSBY 
+7
+1959
+HOLMES
+ ROBERT 
+23SE1911 
+SPILSBY 
+7
+1819
+Deaths 1987
+HOLMES
+ NELLIE 
+23JA1903 
+SPILSBY 
+7
+2046
+Deaths 1988
+HOLMES
+ ALICE 
+23OC1889 
+SPILSBY 
+7
+1836
+HOLMES
+ ELIZA MARY 
+5FE1908 
+SPILSBY 
+7
+2311
+HOLMES
+ HERBERT 
+14JY1924 
+SPILSBY 
+7
+2264
+HOLMES
+ MAUD MARY 
+8MY1902 
+SPILSBY 
+7
+2302
+Deaths 1989
+HOLMES
+ ALBERT EDWARD 
+13MY1902 
+SPILSBY 
+7
+1842
+Deaths 1990
+HOLMES
+ SYDNEY 
+20NO1915 
+SPILSBY 
+7
+2250
+Deaths 1993
+HOLMES
+ LEWIS REGINALD 
+21NO1927 
+SPILSBY 
+6262
+278
+HOLMES
+ PETER NEWTON 
+12OC1920 
+SPILSBY 
+6261
+34
+Deaths 1994
+HOLMES
+ BETTY 
+26MR1926 
+SPILSBY 
+6262
+155
+HOLMES
+ STANLEY REGINALD 
+30AU1908 
+SPILSBY 
+6261
+115
+Deaths 1995
+HOLMES
+ MARGARET ANNIE 
+24NO1924 
+SPILSBY 
+6262
+66
+HOLMES
+ RICHARD ALEXANDER R 
+21NO1966 
+SPILSBY 
+6261
+242
+Deaths 1996
+HOLMES
+ ERIC GORDON 
+21NO1933 
+SPILSBY 
+6261
+259
+HOLMES
+ ESTHER ELLEN 
+21MY1903 
+SPILSBY 
+6262
+83
+HOLMES
+ GLADYS MINNIE 
+17AP1916 
+SPILSBY 
+6262
+74
+Deaths 1997
+HOLMES
+ ELSIE MAY 
+13JE1903 
+SPILSBY 
+6261
+178

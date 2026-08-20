@@ -1,0 +1,32 @@
+GenealogySA (SAGHS) online database search
+Query: {'surname': 'Curtis', 'year': '1865', 'acc': '3', 'coll': 'birth'}
+URL: https://www.genealogysa.org.au/index.php?option=com_gsa&view=gsa&layout=essearch&Itemid=193&collection_id=birth&page_no=1&sort_by=&sort_direction=asc&Surname=Curtis&GivenName=&year_from=1865&accuracy=3&ShipName=
+Retrieved 2026-08-19
+
+ROWS (26):
+Surname | Given Names | Gender | Father | District | Book/Page | Birth Year | Action
+CURTIS | William | M | Thomas CURTIS | Adelaide | 27/42 | 1862 | View Details
+CURTIS | Henry | M | Henry CURTIS | Adelaide | 26/80 | 1862 | View Details
+CURTIS | Edward James | M | William CURTIS | Adelaide | 27/189 | 1863 | View Details
+CURTIS | Mary Ann | F | John CURTIS | Adelaide | 27/97 | 1863 | View Details
+CURTIS | Emma Sarah | F | William CURTIS | Barossa | 29/282 | 1863 | View Details
+CURTIS | Charles | M | William CURTIS | Talunga | 29/332 | 1863 | View Details
+CURTIS | Ellen | F | Charles CURTIS | Adelaide | 31/62 | 1863 | View Details
+CURTIS | Henry Halliwall | M | John CURTIS | Clare | 29/629 | 1863 | View Details
+CURTIS | Jane | F | Thomas CURTIS | Adelaide | 27/221 | 1863 | View Details
+CURTIS | Aaron Samuel | M | Henry CURTIS | Wellington | 29/305 | 1863 | View Details
+CURTIS | Jane | F | John CURTIS | Adelaide | 31/316 | 1864 | View Details
+CURTIS | Fredrick | M | William Fredrick CURTIS | Adelaide | 31/391 | 1864 | View Details
+CURTIS | Caroline | F | Thomas CURTIS | Talunga | 32/346 | 1864 | View Details
+CURTIS | William | M | Charles CURTIS | Adelaide | 38/279 | 1865 | View Details
+CURTIS | Albert | M | John CURTIS | Clare | 38/499 | 1865 | View Details
+CURTIS | Nancy Brooker | F | William CURTIS | Barossa | 34/513 | 1865 | View Details
+CURTIS | Robert Thomas | M | William CURTIS | Adelaide | 41/109 | 1866 | View Details
+CURTIS | Honest | M | John CURTIS | Adelaide | 40/520 | 1866 | View Details
+CURTIS | Eleanor Mary | F | John CURTIS | Clare | 41/101 | 1866 | View Details
+CURTIS | William Henry | M | William CURTIS | Daly | 68/468 | 1868 | View Details
+CURTIS | Margaret Catherine | F | William CURTIS | Adelaide | 61/250 | 1868 | View Details
+CURTIS | Edwin Arthur Lewis | M | Henry CURTIS | Kapunda | 67/229 | 1868 | View Details
+CURTIS | Daniel | M | Thomas CURTIS | Talunga | 63/143 | 1868 | View Details
+CURTIS | Rachel | F | John CURTIS | Clare | 63/543 | 1868 | View Details
+CURTIS | William Absolem | M | William CURTIS | Adelaide | 33/670 | 1866 | View Details

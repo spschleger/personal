@@ -1,0 +1,56 @@
+FreeBMD search: {'surname': 'Curtis', 's_surname': 'Barrett', 'type_': 'Marriages', 'districtid': '118', 'start': 1850, 'end': 1865}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+NO RESULTS / ERROR
+
+FreeBMD - Search
+Advertisement
+Advertisement
+Sorry, we found no matches.
+Search for
+Type:
+Marriages
+Surname:
+Curtis
+Start date:
+Dec 1850
+End date:
+Dec 1865
+Spouse/Mother's surname:
+Barrett
+District:
+St Austell
+Has our search engine found the record you are seeking?
+Click 
+here
+ to learn what to do now.
+Found one partner in a marriage but now looking for the spouse?
+Click 
+here
+ for more information.
+Don't understand the results? Can't find the record you are looking for?
+Perhaps our 
+Results Help
+ could have the answer.
+Do you have information about an entry other researchers might be interested in (e.g. the other spouse of a marriage)? Please consider leaving a 
+Postem
+.
+If FreeBMD has been of help in your search you may wish to consider making a 
+donation
+.
+FreeBMD hasn't yet transcribed the whole index - see 
+here
+ for which years have been transcribed.
+Since we haven't yet transcribed the whole index we need more people to help. If you have very basic skills, a computer and half an hour a week, FreeBMD needs you! You don't have to be a  good typist - just accurate! Help us and speed up the rate at which free birth, marriage and death indexes become available.
+Click 
+here
+ to learn more and volunteer.
+FreeBMD Main Page
+&copy; Crown copyright. Published by
+permission of the Controller of HMSO and the Office for National
+Statistics.
+You must not copy on, transfer or reproduce records without the prior
+permission of ONS.
+Search engine, layout and database
+Copyright &copy; 19

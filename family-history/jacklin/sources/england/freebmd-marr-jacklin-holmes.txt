@@ -1,0 +1,79 @@
+FreeBMD search marr-jacklin-holmes: {'surname': 'Jacklin', 's_surname': 'Holmes', 'type_': 'Marriages', 'start': 1837, 'end': 1900}
+Source: https://www.freebmd.org.uk/cgi/search.pl
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Jun1838
+JACKLIN
+ Sarah 
+Hull 
+22
+250
+Marriages  Dec1847
+JACKLIN
+ John 
+Louth 
+14
+903
+Marriages  Jun1851
+Jacklin
+ Ann 
+Glanford B 
+14
+613
+Marriages  Mar1864
+Jacklin
+ Mary Ann 
+Boston 
+7a
+536
+Marriages  Dec1872
+Jacklin
+ William 
+Bakewell 
+7b
+1309
+Marriages  Sep1878
+JACKLIN
+ Thomas 
+Louth 
+7a
+911
+Marriages  Mar1902
+Jacklin
+ Willie 
+Sheffield 
+9c
+685
+Marriages  Mar1950
+Jacklin
+ Frederick 
+Holmes 
+Basford 
+3c
+202
+Marriages  Jun1959
+JACKLIN
+ Christine M 
+HOLMES 
+Welton 
+3b
+817
+Marriages  Dec1974
+JACKLIN
+ BERYL E 
+HOLMES 
+SURREY N 
+17
+247
+Marriages  Sep1978
+JACKLIN
+ LORAINE S 
+HOLMES 
+HUNTINGDON 
+9
+1417

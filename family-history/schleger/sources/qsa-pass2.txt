@@ -1,0 +1,73 @@
+Queensland State Archives — ArchivesSearch free public index, 19 Aug 2026
+Method: sources/qsa_search.py — POST https://www.archivessearch.qld.gov.au/api/advanced_search
+(multipart: query=<json clauses>, page, sort). Item pages: /api/fetch?qsa_id=ITMnnn&type=archival_object
+Free digitised PDFs: /api/download_file/DRnnnnn
+
+== Keyword "Schleger" — 7 items TOTAL ==
+ITM1355052  SCHLEGER, Ignatius Loyola | 1903-03-12 - 1910-12-09 | File - estates, mentally
+            incapacitated persons | Open Access | series S334 "Protective Management Files -
+            Public Curator Office / Public Trust Office, Brisbane" | creating agency
+            "Insolvency, Intestacy and Insanity Office, Brisbane" | physical rep PR1355052,
+            agency file no. 75/1903 | prev ids CUR/R177; PRV11229/1/177; 91349
+ITM3292618  SCHLEGER, Francis Charles | 1889-09-24 - 1892-05-11 | File - land selection
+            (= AF629, already held as DR221448) | LAN/DF810; PRV9899/2/631; 71451
+ITM3292872  SCHLEGER, Francis Charles | 1892-12-07 - 1893-02-23 | File - land selection
+            (= US978, already held as DR221449) | LAN/DF824; PRV9899/2/645; 71465
+ITM2832237  SCHLEGER Francis Charles (or SCHLEGER Frank Charles) | 1931 | Ecclesiastical (will)
+            file | series S4486 Supreme Court (Southern) Ecclesiastical Files (Wills) |
+            physical rep PR2832237 agency no. "160"  => confirms will 160/1931
+ITM3469712  Maryborough Leases - Bootharh [Bootharh/Booyal?] Sawmill For Schleger Bros | 1911 |
+            Batch file, railway | series S21280 Maryborough Leases (Qld Rail Heritage Collection)
+            | physical rep PR3469712, CAT 374/3/12
+ITM3567084  SCHLEGER, Eileen May Catherine | 1928-02-06 - 1930-08-07 | Teacher's Staff Card |
+            series S17557 (Dept of Public Instruction) [dau. of Francis Morgan Schleger, b.1910]
+ITM3563689  FLANAGAN, Marcia Josephine (nee SCHLEGER, Marcia Josephine) | 1938-01-01 - 1983-04-09
+            | Teacher's Staff Card | Restricted Access [dau. of Raphael Emanuel Schleger, b.1922;
+            gives her married surname = FLANAGAN]
+Keyword "Schlegher": 0 items.
+
+== Immigration: ships named in the 1929 golden-wedding article ==
+ITM18415 Register of immigrants promissory notes, Maryborough, 1874-1879 (series S13060)
+   DR38585 "Register of Immigrants: High Flyer, 1878" — 1 page (bk p25). Names listed:
+           Adams Mary A.; Holland Catherine; Holland Johanna; Lee Mary A.  => no O'Meara/O'Mara.
+   DR39476 "Register of Immigrants: Scottish Hero, 1879" — 1 page (bk p27), dated Jul 1 1879.
+           Names: Elliott Elizth.; Wordley Emma E.; McCabe Jane; O'Neill Elizabeth; Turman Mary A.
+           => no Schleger.
+ITM18478 Register of passengers on immigrant ships arriving in Queensland - No. 3, 1878-1882 (S13086)
+   DR39478 "Register of Immigrants: Scottish Hero, 1879-1880" — 19 pp.
+           Voyage 1: "Scottish Hero, 1493 tons, sailed London 14th December 1878, Capt. Mowatt,
+           Dr. Macau[lay] surgeon" ... "Arrived Maryborough 5th April 1879" (bk pp247-253+).
+           Complete list read (Steerage / Assisted / Free / Remittance / Nationalities summary):
+           NO SCHLEGER (nor any plausible variant) in any class.
+           Voyage 2 (bk pp later, 1880) is a different, overwhelmingly Irish complement.
+   DR38582 "Register of Immigrants: Highflyer, 1878" — 11 pp. "Highflyer ... London for Maryborough
+           2nd Aug[ust 1878], Capt. Hawkins, Dr. Harris, Matron McGrath". Summary: 340 landed
+           (3 steerage, 188 assisted, 137 free, 6 remittance, 5 free-nominated; 6 births, 5 deaths
+           on voyage). Complete list read: NO O'MEARA / O'MARA and NO SCHLEGER.
+ITM18477 Register ... No. 2, 1874-1878: DR39474 "Scottish Hero, 1876-1877" — both voyages in that
+           volume arrived ROCKHAMPTON (28 Nov 1876 and 12 Dec 1877), not Maryborough.
+=> The Qld immigration registers are for government (assisted / free / remittance / nominated) and
+   steerage immigrants. Frank Schleger, a Hungarian subject, was not eligible for assisted passage;
+   the negative result is consistent with a self-paid passage that generated no register entry,
+   or with the ship names in the 1929 article being misremembered.
+
+== Aboriginal / Torres Strait Islander indexes (public index metadata only) ==
+ITM732477  JACKSON, ROSE | series S4429 "Personal Files - Office of the Chief Protector of
+           Aboriginals" | item ref SRS4429/1/12474 | physical rep PR732477, agency file no. 8R/119 |
+           dates 1902-1978 (INHERITED series-level range, marked "approximate" — NOT this person's
+           dates) | RAP: 100 years, open metadata / closed record, expiry 2078-12-31 |
+           creating agency: Southern Protector of Aboriginals Office; responsible agency: ATSIP.
+           *** This is an index entry for a person named Rose Jackson. Nothing in the public index
+           links it to a place, a date, or to the Rose Jackson who married F. J. Johnstone in 1919.
+           It is NOT evidence of identity. ***
+Searches returning NIL in the ATSI series: "JOHNSTONE, Rose" (0), "JACKSON, Millie" (0),
+   "JACKSON, Amelia" (0), "JACKSON, Robert" (30 results, none ATSI-flagged).
+Other JOHNSTONE personal files in S4429 (unconnected, listed for completeness): JOHNSTONE MAVIS
+   (ITM729941), JOHNSTONE FRANK (ITM724954), JOHNSTONE HENRY (ITM726098), JOHNSTONE PETER HENRY
+   (ITM731979).
+Relevant series for a future Community & Personal Histories request:
+   S4429 Personal Files - Office of the Chief Protector of Aboriginals
+   S18092 / ITM337006 / ITM337007 Registers of Removals 1908-1936, 1942-1971 (Restricted)
+   ITM337123 Index to register of removals 1942-1964 (Open Access)
+   SRS4973 Record of Removal Card Index - Chief Protector of Aboriginals Office 1908-1948 (Restricted)
+   SRS4833 Correspondence Register card index (Open Access, name-level items)

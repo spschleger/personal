@@ -1,0 +1,2192 @@
+FreeBMD search marr-jacklin-louth: {'surname': 'Jacklin', 'type_': 'Marriages', 'districtid': '937', 'start': 1837, 'end': 1900}
+Source: https://www.freebmd.org.uk/cgi/search.pl (free index, no login)
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Dec1837
+Jacklin
+ Mary 
+Louth 
+14
+765
+Marriages  Sep1838
+JACKLIN
+ Michael 
+Louth 
+14
+642
+Marriages  Mar1840
+JACKLIN
+ Thorpe 
+Louth 
+14
+675
+Marriages  Jun1840
+JACKLIN
+ Ann 
+Louth 
+14
+853
+Marriages  Dec1840
+JACKLIN
+ David 
+Louth 
+14
+847
+Marriages  Jun1841
+JACKLIN
+ Elizabeth 
+Louth 
+14
+875
+Marriages  Sep1841
+JACKLIN
+ George 
+Louth 
+14
+659
+Marriages  Jun1842
+JACKLIN
+ Thomas 
+Louth 
+14
+919
+Marriages  Sep1842
+JACKLIN
+ George 
+South 
+14
+653
+JACKLIN
+ George 
+South 
+14
+669
+Marriages  Dec1842
+JACKLIN
+ Ann 
+Louth 
+14
+787
+Marriages  Jun1843
+Jacklin
+ Mary Ann 
+Louth 
+14
+905
+Marriages  Sep1843
+JACKLIN
+ Aaron 
+Louth 
+14
+643
+Marriages  Mar1845
+Jacklin
+ Mary 
+Louth 
+14
+649
+Marriages  Jun1845
+Jacklin
+ Ann 
+Louth 
+14
+907
+Jacklin
+ Maria 
+Louth 
+14
+879
+Jacklin
+ William 
+Louth 
+14
+923
+Marriages  Jun1846
+Jacklin
+ Ann 
+Louth 
+14
+903
+Jacklin
+ Thomas 
+Louth 
+14
+849
+Marriages  Mar1847
+Jacklin
+ Eliza 
+Louth 
+14
+583
+Jacklin
+ Hannah 
+Louth 
+14
+569
+Marriages  Sep1847
+JACKLIN
+ Harriot 
+Louth 
+14
+724
+Marriages  Dec1847
+JACKLIN
+ John 
+Louth 
+14
+903
+Marriages  Jun1848
+JACKLIN
+ Jane 
+Louth 
+14
+965
+Marriages  Jun1849
+Jacklin
+ Elizabeth 
+Louth 
+14
+941
+Marriages  Jun1850
+Jacklin
+ Maria 
+Louth 
+14
+957
+Marriages  Jun1851
+Jacklin
+ Eliza 
+Louth 
+14
+939
+Marriages  Jun1852
+Jacklin
+ Mary 
+Louth 
+7a
+1142
+Jacklin
+ Mary 
+Louth 
+7a
+1147
+Marriages  Dec1852
+Jacklin
+ Elizabeth 
+Louth 
+7a
+1087
+Jacklin
+ William Miles 
+Louth 
+7a
+1107
+Marriages  Mar1853
+JACKLIN
+ John 
+Louth 
+7a
+806
+Marriages  Jun1853
+Jacklin
+ Charles 
+Louth 
+7a
+1133
+Jacklin
+ Elizabeth 
+Louth 
+7a
+1196
+Jacklin
+ Rebecca 
+Louth 
+7a
+1127
+Marriages  Jun1854
+JACKLIN
+ George 
+Louth 
+7a
+1184
+JACKLIN
+ John 
+Louth 
+7a
+1187
+Marriages  Sep1854
+JACKLIN
+ Reuben 
+Louth 
+7a
+871
+JACKLIN
+ Thomas 
+Louth 
+7a
+885
+Marriages  Dec1854
+Jacklin
+ William 
+Louth 
+7a
+1113
+Marriages  Jun1855
+JACKLIN
+ Frederick 
+Louth 
+7a
+1194
+Marriages  Dec1855
+JACKLIN
+ John 
+Louth 
+7a
+1113
+JACKLIN
+ Susannah 
+Louth 
+7a
+1087
+Marriages  Mar1856
+Jacklin
+ George 
+Louth 
+7a
+779
+Marriages  Jun1856
+JACKLIN
+ Abraham 
+Louth 
+7a
+1083
+Marriages  Sep1856
+Jacklin
+ Isabella 
+Louth 
+7a
+870
+Jacklin
+ Joseph 
+Louth 
+7a
+891
+Jacklin
+ Mary 
+Louth 
+7a
+883
+Marriages  Dec1856
+Jacklin
+ Mildred 
+Louth 
+7a
+1189
+Marriages  Sep1857
+Jacklin
+ Joseph 
+Louth 
+7a
+879
+Marriages  Mar1858
+JACKLIN
+ William 
+Louth 
+7a
+773
+Marriages  Jun1858
+Jacklin
+ Mary Ann 
+Louth 
+7a
+1099
+Marriages  Dec1859
+Jacklin
+ Ann 
+Louth 
+7a
+1154
+Jacklin
+ Rebecca 
+Louth 
+7a
+1158
+Marriages  Jun1860
+Jacklin
+ Jane 
+Louth 
+7a
+1167
+Jacklin
+ Mary 
+Louth 
+7a
+1234
+Marriages  Jun1861
+Jacklin
+ Charles 
+Louth 
+7a
+1025
+Jacklin
+ Charles 
+Louth 
+7a
+1024a
+Jacklin
+ Edmund 
+Louth 
+7a
+1022
+Jacklin
+ Elizabeth 
+Louth 
+7a
+1057
+Jacklin
+ Henry 
+Louth 
+7a
+1037
+Jacklin
+ Mary 
+Louth 
+7a
+1051
+Jacklin
+ Susannah 
+Louth 
+7a
+1019
+Marriages  Jun1862
+Jacklin
+ Cassandra 
+Louth 
+7a
+1121
+Marriages  Sep1862
+Jacklin
+ Charlotte 
+Louth 
+7a
+873
+Marriages  Dec1863
+Jacklin
+ Aaron 
+Louth 
+7a
+1156
+JACKLIN
+ Aaron 
+Louth 
+7a
+1186
+Marriages  Jun1864
+Jacklin
+ Eliza 
+Louth 
+7a
+1174
+Jacklin
+ George Parkinson 
+Louth 
+7a
+1173
+Jacklin
+ Jane 
+Louth 
+7a
+1212
+Marriages  Dec1864
+Jacklin
+ Thomas 
+Louth 
+7a
+1107
+Marriages  Jun1865
+Jacklin
+ Mary Ann 
+Louth 
+7a
+1205
+Marriages  Mar1866
+JACKLIN
+ Elizabeth 
+Louth 
+7a
+746
+Marriages  Jun1868
+JACKLIN
+ William 
+Louth 
+7a
+1191
+Marriages  Dec1868
+Jacklin
+ Anne 
+Louth 
+7a
+1148
+Jacklin
+ William 
+Louth 
+7a
+1179
+Marriages  Mar1870
+Jacklin
+ Fanny 
+Louth 
+7a
+761
+Marriages  Jun1870
+JACKLIN
+ Susanna 
+Louth 
+7a
+1165
+Marriages  Sep1870
+JACKLIN
+ George 
+Louth 
+7a
+925
+Marriages  Dec1871
+Jacklin
+ Mary Ann 
+Louth 
+7a
+1268
+Marriages  Jun1872
+JACKLIN
+ Charles 
+Louth 
+7a
+1327
+Marriages  Dec1873
+JACKLIN
+ Jacob 
+Louth 
+7a
+1243
+Marriages  Jun1875
+JACKLIN
+ Isaac 
+Louth 
+7a
+1242
+Marriages  Jun1876
+Jacklin
+ Joseph 
+Louth 
+7a
+1360
+Marriages  Dec1876
+JACKLIN
+ Moses Ambrose 
+Louth 
+7a
+1293
+Marriages  Jun1877
+Jacklin
+ Mary 
+Louth 
+7a
+1269
+Marriages  Jun1878
+Jacklin
+ Henry 
+Louth 
+7a
+1235
+Marriages  Sep1878
+JACKLIN
+ Thomas 
+Louth 
+7a
+911
+Marriages  Jun1879
+JACKLIN
+ Annie 
+Louth 
+7a
+1244
+JACKLIN
+ Fanny 
+Louth 
+7a
+1215
+JACKLIN
+ John Bacon 
+Louth 
+7a
+1213
+Marriages  Jun1880
+Jacklin
+ Caroline 
+Louth 
+7a
+1111
+Marriages  Dec1880
+JACKLIN
+ Abraham 
+Louth 
+7a
+1161
+Marriages  Sep1881
+Jacklin
+ Eliza Margret 
+Louth 
+7a
+1001
+Marriages  Dec1881
+JACKLIN
+ Alfred 
+Louth 
+7a
+1144
+Marriages  Jun1882
+JACKLIN
+ Elizabeth 
+Louth 
+7a
+1204
+JACKLIN
+ Maria 
+Louth 
+7a
+1253
+JACKLIN
+ William Towell 
+Louth 
+7a
+1211
+Marriages  Sep1882
+Jacklin
+ Emma 
+Louth 
+7a
+963
+Marriages  Dec1882
+Jacklin
+ Betsy 
+Louth 
+7a
+1174
+Marriages  Jun1883
+Jacklin
+ John 
+Louth 
+7a
+1117
+Jacklin
+ Sarah Jane 
+Louth 
+7a
+1155
+Marriages  Dec1883
+JACKLIN
+ John 
+Louth 
+7a
+1219
+Marriages  Jun1884
+Jacklin
+ William 
+Louth 
+7a
+1327
+Marriages  Dec1884
+Jacklin
+ George Albert 
+Louth 
+7a
+1149
+Marriages  Jun1885
+Jacklin
+ Harriet 
+Louth 
+7a
+1294
+Marriages  Dec1885
+JACKLIN
+ Henry 
+Louth 
+7a
+1104
+Marriages  Mar1886
+Jacklin
+ Fanny 
+Louth 
+7a
+786
+Marriages  Sep1886
+Jacklin
+ Edward 
+Louth 
+7a
+937
+Marriages  Jun1887
+Jacklin
+ Annie Jane 
+Louth 
+7a
+1239
+Jacklin
+ Betsy Ann 
+Louth 
+7a
+1229
+Jacklin
+ Robert 
+Louth 
+7a
+1155
+Marriages  Dec1887
+Jacklin
+ Naomi 
+Louth 
+7a
+1113
+Marriages  Mar1888
+JACKLIN
+ David 
+Louth 
+7a
+773
+Marriages  Jun1888
+JACKLIN
+ Mary 
+Louth 
+7a
+1205
+Marriages  Mar1889
+JACKLIN
+ William 
+Louth 
+7a
+697
+Marriages  Jun1889
+Jacklin
+ John 
+Louth 
+7a
+1251
+Marriages  Jun1890
+Jacklin
+ George 
+Louth 
+7a
+1334
+JACKLIN
+ George 
+Louth 
+7a
+1337
+Marriages  Sep1890
+Jacklin
+ Thomas 
+Louth 
+7a
+1005
+Marriages  Dec1890
+Jacklin
+ John Towell 
+Louth 
+7a
+1168
+Marriages  Jun1892
+Jacklin
+ Elizabeth 
+Louth 
+7a
+1443
+Jacklin
+ George 
+Louth 
+7a
+1425
+Jacklin
+ John Gray 
+Louth 
+7a
+1451
+Marriages  Sep1892
+Jacklin
+ John Henry 
+Louth 
+7a
+1043
+Marriages  Mar1893
+Jacklin
+ George 
+Louth 
+7a
+789
+Marriages  Jun1894
+Jacklin
+ Elizabeth 
+Louth 
+7a
+1227
+Jacklin
+ George 
+Louth 
+7a
+1232
+Jacklin
+ Mary Ann E 
+Louth 
+7a
+1235
+Marriages  Jun1895
+Jacklin
+ Charlie 
+Louth 
+7a
+1327
+Jacklin
+ John 
+Louth 
+7a
+1357
+Jacklin
+ Mary Jane 
+Louth 
+7a
+1377
+Jacklin
+ Rebecca Mary 
+Louth 
+7a
+1393
+Marriages  Sep1895
+Jacklin
+ Louisa Jane 
+Louth 
+7a
+1119
+Marriages  Dec1895
+Jacklin
+ Emma 
+Louth 
+7a
+1224
+Marriages  Mar1896
+JACKLIN
+ Lucy 
+Louth 
+7a
+855
+Marriages  Dec1896
+Jacklin
+ Charles 
+Louth 
+7a
+1258a
+Jacklin
+ Elizabeth 
+Louth 
+7a
+1271
+Marriages  Jun1897
+Jacklin
+ Fanny 
+Louth 
+7a
+1514
+Jacklin
+ William Herbert 
+Louth 
+7a
+1457
+Marriages  Sep1897
+Jacklin
+ Kate 
+Louth 
+7a
+1216
+Marriages  Sep1898
+Jacklin
+ Arthur Tom 
+Louth 
+7a
+1243
+Marriages  Dec1898
+Jacklin
+ Joseph 
+Louth 
+7a
+1261
+Marriages  Jun1899
+Jacklin
+ Charlotte Ellen 
+Louth 
+7a
+1511
+Jacklin
+ Fanny 
+Louth 
+7a
+1515
+Jacklin
+ Sarah Ann 
+Louth 
+7a
+1557
+Marriages  Sep1899
+JACKLIN
+ Mary Maria 
+Louth 
+7a
+1277
+Marriages  Dec1899
+JACKLIN
+ Alice Martha 
+Louth 
+7a
+1297
+Marriages  Mar1900
+Jacklin
+ Adelaide 
+Louth 
+7a
+809
+Marriages  Jun1900
+Jacklin
+ George Nicholas W 
+Louth 
+7a
+1525
+Jacklin
+ George Thomas 
+Louth 
+7a
+1457
+Marriages  Jun1901
+JACKLIN
+ David 
+Louth 
+7a
+1567
+JACKLIN
+ George Parkinson 
+Louth 
+7a
+1573
+Marriages  Mar1903
+Jacklin
+ Martha 
+Louth 
+7a
+843
+Marriages  Jun1903
+JACKLIN
+ Walter 
+Louth 
+7a
+1517
+Marriages  Sep1903
+JACKLIN
+ George Henry 
+Louth 
+7a
+1247
+Marriages  Jun1904
+JACKLIN
+ Fred Wilfred 
+Louth 
+7a
+1490
+Marriages  Dec1904
+Jacklin
+ Joseph 
+Louth 
+7a
+1267
+Jacklin
+ Moses 
+Louth 
+7a
+1311
+Marriages  Mar1905
+JACKLIN
+ Elizabeth 
+Louth 
+7a
+835
+Marriages  Dec1905
+Jacklin
+ Ira Joseph 
+Louth 
+7a
+1341
+Marriages  Mar1906
+JACKLIN
+ Joseph 
+Louth 
+7a
+812
+Marriages  Jun1907
+Jacklin
+ Rosanna 
+Louth 
+7a
+1497
+Marriages  Sep1907
+Jacklin
+ Lucy 
+Louth 
+7a
+1323
+Marriages  Mar1908
+Jacklin
+ Philip 
+Louth 
+7a
+865
+Marriages  Dec1908
+JACKLIN
+ Arthur 
+Louth 
+7a
+1313
+Marriages  Jun1909
+JACKLIN
+ Charles William 
+Louth 
+7a
+1468
+JACKLIN
+ Mary Elizabeth 
+Louth 
+7a
+1519
+Marriages  Sep1909
+JACKLIN
+ John 
+Louth 
+7a
+1277
+Marriages  Dec1909
+JACKLIN
+ John William 
+Louth 
+7a
+1277
+JACKLIN
+ William 
+Louth 
+7a
+1261
+Marriages  Jun1910
+Jacklin
+ John George 
+Louth 
+7a
+1265
+Marriages  Sep1910
+Jacklin
+ Emily J 
+Louth 
+7a
+1375
+Marriages  Dec1910
+Jacklin
+ William 
+Louth 
+7a
+1397
+Marriages  Jun1911
+JACKLIN
+ Betsy M 
+Louth 
+7a
+1629
+Marriages  Dec1911
+Jacklin
+ Eliza 
+Louth 
+7a
+1363
+Marriages  Sep1912
+Jacklin
+ Wilfred J 
+Hewson 
+Louth 
+7a
+1402
+Marriages  Mar1913
+Jacklin
+ Robert 
+Hunt 
+Louth 
+7a
+1125
+Marriages  Jun1913
+Jacklin
+ Olive M 
+Douglas 
+Louth 
+7a
+1319
+Marriages  Jun1914
+Jacklin
+ Joseph W 
+Lingard 
+Louth 
+7a
+1591
+Jacklin
+ Tom 
+Marshall 
+Louth 
+7a
+1535
+Marriages  Sep1915
+Jacklin
+ Iley 
+Campion 
+Louth 
+7a
+1581
+Jacklin
+ John W 
+Taylor 
+Louth 
+7a
+1587
+Marriages  Jun1917
+Jacklin
+ John H 
+Campion 
+Louth 
+7a
+1213
+Marriages  Jun1918
+Jacklin
+ Charles E 
+Smith 
+Louth 
+7a
+1291
+Jacklin
+ John H 
+Bocock 
+Louth 
+7a
+1299
+Marriages  Sep1918
+Jacklin
+ Annie E 
+Simons 
+Louth 
+7a
+1391
+Marriages  Dec1918
+Jacklin
+ Elizabeth 
+Seeley 
+Louth 
+7a
+1403
+Marriages  Jun1919
+Jacklin
+ Gladys N 
+Leadman 
+Louth 
+7a
+1723
+Marriages  Dec1919
+Jacklin
+ Arthur 
+Rollinson 
+Louth 
+7a
+1719
+Jacklin
+ Joseph 
+Barker 
+Louth 
+7a
+1749
+Marriages  Jun1921
+Jacklin
+ Edith L 
+Wright 
+Louth 
+7a
+1393
+Jacklin
+ Leonard 
+Sanderson 
+Louth 
+7a
+1413
+Marriages  Sep1921
+Jacklin
+ Charles H 
+Jackson 
+Louth 
+7a
+1599
+Jacklin
+ Harry 
+Benton 
+Louth 
+7a
+1587
+Marriages  Dec1921
+Jacklin
+ Charles 
+Smith 
+Louth 
+7a
+1497
+Jacklin
+ David 
+Jacklin 
+Louth 
+7a
+1501
+Jacklin
+ Lucy 
+Jacklin 
+Louth 
+7a
+1501
+Marriages  Jun1922
+Jacklin
+ Rose B 
+White 
+Louth 
+7a
+1688
+Marriages  Jun1923
+Jacklin
+ Annie 
+Dales 
+Louth 
+7a
+1563
+Marriages  Mar1924
+Jacklin
+ Elsie 
+Hydes 
+Louth 
+7a
+948
+Marriages  Jun1924
+JACKLIN
+ Florence A 
+Peel 
+Louth 
+7a
+1565
+Marriages  Dec1924
+Jacklin
+ John W 
+Barker 
+Louth 
+7a
+1428
+Jacklin
+ Sarah J 
+Spence 
+Louth 
+7a
+1385
+Marriages  Jun1925
+Jacklin
+ Wilfred 
+Willows 
+Louth 
+7a
+1539
+Marriages  Jun1926
+Jacklin
+ Lily C 
+Collinson 
+Louth 
+7a
+1513
+Marriages  Jun1927
+Jacklin
+ Albert R 
+Hirst 
+Louth 
+7a
+1665
+Jacklin
+ Alice 
+Richardson 
+Louth 
+7a
+1693
+Jacklin
+ Elsie M 
+Ward 
+Louth 
+7a
+1699
+Marriages  Dec1927
+Jacklin
+ Charles B 
+West 
+Louth 
+7a
+1523
+Jacklin
+ Elsie V 
+Cary 
+Louth 
+7a
+1549
+Jacklin
+ Florence M 
+Greenwood 
+Louth 
+7a
+1529
+Marriages  Mar1930
+Jacklin
+ Dorothy 
+Snowden 
+Louth 
+7a
+980
+Jacklin
+ Leslie 
+Rand 
+Louth 
+7a
+957
+Marriages  Sep1930
+Jacklin
+ Freda M 
+Cook 
+Louth 
+7a
+1587
+Marriages  Mar1931
+Jacklin
+ Iris 
+Arliss 
+Louth 
+7a
+961
+Marriages  Jun1931
+Jacklin
+ Effie M 
+Wilson 
+Louth 
+7a
+1593
+Marriages  Jun1932
+Jacklin
+ Frederick 
+Larder 
+Louth 
+7a
+1281
+Marriages  Mar1934
+Jacklin
+ Bertram J 
+Harrison 
+Louth 
+7a
+1119
+Marriages  Jun1934
+Jacklin
+ Harold 
+Fox 
+Louth 
+7a
+1579
+Marriages  Jun1935
+Jacklin
+ Sidney 
+Larder 
+Louth 
+7a
+1731
+Marriages  Sep1935
+Jacklin
+ Cecelia 
+Vinter 
+Louth 
+7a
+1785
+Jacklin
+ Levi 
+Barr 
+Louth 
+7a
+1761
+Marriages  Dec1935
+Jacklin
+ Albert J 
+Rook 
+Louth 
+7a
+1571
+Marriages  Mar1936
+Jacklin
+ Fanny 
+Reed 
+Louth 
+7a
+956
+Jacklin
+ Florence A 
+Jacklin 
+Louth 
+7a
+939
+Jacklin
+ Ida 
+Kirk 
+Louth 
+7a
+954
+Jacklin
+ Richard 
+Jacklin 
+Louth 
+7a
+939
+Jacklin
+ William R 
+Tushby 
+Louth 
+7a
+959
+Marriages  Jun1936
+Jacklin
+ Ralph 
+Dickinson 
+Louth 
+7a
+1745
+Marriages  Sep1936
+Jacklin
+ Gwendoline 
+Ness 
+Louth 
+7a
+1749
+Marriages  Dec1936
+Jacklin
+ Dorothy M 
+Neave 
+Louth 
+7a
+1574
+Jacklin
+ Ira H 
+Jacklin 
+Louth 
+7a
+1537
+Jacklin
+ Joyce 
+Jacklin 
+Louth 
+7a
+1537
+Marriages  Sep1937
+Jacklin
+ Robert W 
+Oliver 
+Louth 
+7a
+1907
+Marriages  Dec1937
+Jacklin
+ Wilfred 
+Blades 
+Louth 
+7a
+1547
+Marriages  Jun1938
+JACKLIN
+ Charles R 
+Patrick 
+Louth 
+7a
+1840
+Marriages  Sep1938
+Jacklin
+ Elsie M 
+Gooding 
+Louth 
+7a
+1887
+Jacklin
+ Florence M 
+Maddison 
+Louth 
+7a
+1833
+Marriages  Jun1939
+Jacklin
+ Kathleen M 
+Mead 
+Louth 
+7a
+1808
+Marriages  Dec1939
+Jacklin
+ Constance 
+Ford 
+Louth 
+7a
+2351
+Marriages  Sep1940
+Jacklin
+ Ida M 
+Morris 
+Louth 
+7a
+2319
+Marriages  Mar1941
+JACKLIN
+ Edith 
+Brader 
+Louth 
+7a
+1649
+Marriages  Jun1941
+Jacklin
+ Lilian 
+Bartholomew 
+Louth 
+7a
+1959
+Jacklin
+ Phyllis M 
+Ireland 
+Louth 
+7a
+1959
+Marriages  Sep1943
+Jacklin
+ Iris 
+Manders 
+Louth 
+7a
+1427
+Marriages  Sep1944
+JACKLIN
+ Nancy I 
+Lowis 
+Louth 
+7a
+1597
+Marriages  Dec1946
+Jacklin
+ Ralph G 
+Harness 
+Louth 
+3b
+928
+Marriages  Jun1947
+Jacklin
+ Joyce H 
+Ashby 
+Louth 
+3b
+934
+Marriages  Sep1947
+Jacklin
+ John H 
+Maddison 
+Louth 
+3b
+951
+Marriages  Dec1947
+Jacklin
+ Margaret M 
+Manders 
+Louth 
+3b
+891
+Marriages  Mar1948
+Jacklin
+ George W 
+Gibson 
+Louth 
+3b
+831
+Marriages  Sep1948
+Jacklin
+ Peter B 
+Standaloft 
+Louth 
+3b
+967
+Marriages  Dec1948
+Jacklin
+ William 
+Needham 
+Louth 
+3b
+783
+Marriages  Dec1949
+Jacklin
+ Eva I 
+Archer 
+Louth 
+3b
+773
+Jacklin
+ Joyce M 
+Armstrong 
+Louth 
+3b
+774
+Marriages  Jun1950
+JACKLIN
+ Frank 
+Rushby 
+Louth 
+3b
+810
+JACKLIN
+ Gladys 
+Morris 
+Louth 
+3b
+819
+Marriages  Sep1950
+JACKLIN
+ George E 
+DUCKWORTH 
+Louth 
+3b
+915
+Marriages  Jun1951
+JACKLIN
+ Joseph C 
+GODDARD 
+Louth 
+3b
+675
+Marriages  Dec1951
+JACKLIN
+ Freda M 
+HODGEKINS 
+Louth 
+3b
+706
+Marriages  Mar1952
+Jacklin
+ Jean M 
+Campion 
+Louth 
+3b
+927
+Jacklin
+ Maisie 
+Allison 
+Louth 
+3b
+901
+Marriages  Sep1952
+JACKLIN
+ Philip 
+DRING 
+Louth 
+3b
+860
+Marriages  Mar1953
+JACKLIN
+ George 
+BETT 
+Louth 
+3b
+859
+Marriages  Jun1953
+JACKLIN
+ John W 
+PORTUS 
+Louth 
+3b
+781
+Marriages  Sep1953
+JACKLIN
+ Brenda E 
+SMART 
+Louth 
+3b
+893
+Marriages  Mar1954
+Jacklin
+ Michael B 
+Burgin 
+Louth 
+3b
+823
+Jacklin
+ Robert 
+Blackman 
+Louth 
+3b
+818
+Jacklin
+ Roy 
+Parrish 
+Louth 
+3b
+819
+Jacklin
+ Wilfrid 
+Nicholls 
+Louth 
+3b
+831
+Marriages  Jun1954
+JACKLIN
+ Betty 
+DAY 
+Louth 
+3b
+741
+Marriages  Sep1954
+JACKLIN
+ EDNA M 
+OTLEY 
+Louth 
+3b
+942
+JACKLIN
+ Pamela J 
+HOWARD 
+Louth 
+3b
+919
+Marriages  Mar1956
+Jacklin
+ Joseph L T 
+Dobbs 
+Louth 
+3b
+903
+Jacklin
+ Kathleen L 
+Forman 
+Louth 
+3b
+907
+Marriages  Sep1956
+JACKLIN
+ Henry 
+BROWN 
+Louth 
+3b
+955
+JACKLIN
+ Sylvia R 
+DIXON 
+Louth 
+3b
+909
+Marriages  Mar1957
+JACKLIN
+ Freda 
+OLIVER 
+Louth 
+3b
+972
+JACKLIN
+ Pearl 
+TURNER 
+Louth 
+3b
+921
+JACKLIN
+ Raymond 
+CLOVER 
+Louth 
+3b
+947
+Marriages  Jun1957
+JACKLIN
+ Hubert 
+JACKLIN 
+Louth 
+3b
+657
+JACKLIN
+ Rita 
+JACKLIN 
+Louth 
+3b
+657
+Marriages  Sep1957
+JACKLIN
+ Wilfred E 
+BRADFORD 
+Louth 
+3b
+859
+Marriages  Dec1957
+JACKLIN
+ Charles H 
+NEEDHAM 
+Louth 
+3b
+608
+JACKLIN
+ Leslie B 
+BENTON 
+Louth 
+3b
+641
+Marriages  Dec1958
+JACKLIN
+ Phyllis 
+DENNIS 
+Louth 
+3b
+663
+JACKLIN
+ Roy 
+SULLIVAN 
+Louth 
+3b
+699
+JACKLIN
+ Roy 
+O'SULLIVAN 
+Louth 
+3b
+699
+Marriages  Mar1959
+JACKLIN
+ Frank H 
+DUNNINGTON 
+Louth 
+3b
+938
+Marriages  Dec1959
+JACKLIN
+ Patricia 
+ADDISON 
+Louth 
+3b
+676
+Marriages  Jun1960
+JACKLIN
+ Alan E 
+BETT 
+Louth 
+3b
+739
+JACKLIN
+ Peter 
+SMITH 
+Louth 
+3b
+710
+Marriages  Dec1960
+JACKLIN
+ Edward B 
+HARNESS 
+Louth 
+3b
+722
+Marriages  Jun1961
+JACKLIN
+ Eric 
+ALLENBY 
+Louth 
+3b
+778
+JACKLIN
+ Joan E 
+PARKER 
+Louth 
+3b
+741
+Marriages  Mar1962
+JACKLIN
+ Lance 
+BETT 
+Louth 
+3b
+951
+Marriages  Dec1963
+JACKLIN
+ MARION 
+LIBELL 
+LOUTH 
+3B
+779
+Marriages  Mar1964
+JACKLIN
+ MAUREEN S 
+WORRELL 
+LOUTH 
+3B
+933
+JACKLIN
+ WALTER 
+CORBY 
+LOUTH 
+3B
+957
+Marriages  Jun1964
+JACKLIN
+ ROY 
+GREEN 
+LOUTH 
+3B
+653
+Marriages  Dec1964
+JACKLIN
+ Albert 
+GOODEY 
+Louth 
+3b
+755
+Marriages  Sep1965
+JACKLIN
+ DIANNE 
+HENDERSON 
+LOUTH 
+3B
+974
+JACKLIN
+ DIANNE 
+KILMURRAY 
+LOUTH 
+3B
+974
+Marriages  Sep1967
+JACKLIN
+ PATRICK H 
+PORTESS 
+LOUTH 
+3B
+1053
+Marriages  Sep1968
+JACKLIN
+ RUTH 
+BRADBURY 
+LOUTH 
+3B
+1089
+Marriages  Sep1970
+JACKLIN
+ Vincent J 
+COXON 
+Louth 
+3b
+1187
+Marriages  Mar1971
+JACKLIN
+ Lynn 
+CAMPION 
+Louth 
+3b
+687
+Marriages  Jun1971
+JACKLIN
+ Hugh 
+WOODS 
+Louth 
+3b
+994
+Marriages  Sep1972
+Jacklin
+ Eileen M 
+Holesworth 
+Louth 
+3b
+1308
+Jacklin
+ Wendy A 
+Cope 
+Louth 
+3b
+1257
+Marriages  Dec1972
+JACKLIN
+ JUDITH 
+JENNINGS 
+LOUTH 
+3B
+851
+Marriages  Jun1973
+JACKLIN
+ MYRA E 
+BROOKER 
+LOUTH 
+3B
+944
+Marriages  Sep1974
+JACKLIN
+ ALAN M 
+BROUGHTON 
+LOUTH 
+7
+2242
+Marriages  Dec1974
+JACKLIN
+ JULIE J 
+DOWSON 
+LOUTH 
+7
+1507
+Marriages  Dec1975
+JACKLIN
+ VALERIE 
+LINGARD 
+LOUTH 
+7
+1458
+Marriages  Dec1976
+JACKLIN
+ ANN 
+DAWSON 
+LOUTH 
+7
+1406
+Marriages  Jun1977
+JACKLIN
+ MARGARET R 
+NOONE 
+LOUTH 
+7
+1599
+Marriages  Mar1978
+JACKLIN
+ ELAINE 
+WHITE 
+LOUTH 
+7
+1332
+Marriages  Jun1979
+Jacklin
+ Stephen R 
+Spitman 
+Louth 
+7
+1735
+Marriages  Mar1981
+JACKLIN
+ BRIDGET M 
+ALFAQEH 
+LOUTH 
+7
+1174
+JACKLIN
+ BRIDGET M 
+ALHUSEINI 
+LOUTH 
+7
+1174
+JACKLIN
+ BRIDGET M 
+SALEM 
+LOUTH 
+7
+1174
+JACKLIN
+ VALERIE 
+WRISDALE 
+LOUTH 
+7
+1186
+Marriages  Jun1982
+JACKLIN
+ WENDY E 
+WRANGHAM 
+LOUTH 
+7
+1836
+Marriages  Jun1983
+Jacklin
+ Judith A 
+Field 
+Louth 
+7
+1807
+Marriages  Sep1983
+JACKLIN
+ PATRICK H 
+DOWS 
+LOUTH 
+7
+2225
+Marriages  Dec1983
+JACKLIN
+ HELEN 
+ASHLEY 
+LOUTH 
+7
+1380
+Marriages 1984
+JACKLIN
+ GEORGE J D 
+DOBBS 
+LOUTH 
+7
+2328
+JACKLIN
+ LINDA 
+STRINGER 
+LOUTH 
+7
+2295
+JACKLIN
+ ZAN S 
+DEVONSHIRE 
+LOUTH 
+7
+2308
+Marriages 1985
+JACKLIN
+ VANESSA 
+SUTCLIFFE 
+LOUTH 
+7
+2257
+JACKLIN
+ VINCENT J 
+TAYLOR 
+LOUTH 
+7
+1305
+Marriages 1986
+JACKLIN
+ JAYNE 
+WALMSLEY 
+LOUTH 
+7
+1284
+Marriages 1987
+JACKLIN
+ LORRAINE 
+HUBBARD 
+LOUTH 
+7
+2395
+JACKLIN
+ PAUL R 
+MEREDITH 
+LOUTH 
+7
+1002
+JACKLIN
+ RUTH 
+CLARK 
+LOUTH 
+7
+1347
+JACKLIN
+ THERESA 
+ROYLE 
+LOUTH 
+7
+1904
+Marriages 1988
+JACKLIN
+ GRAHAM W 
+GOOD 
+LOUTH 
+7
+2451
+JACKLIN
+ PEGGY 
+PASTERNAK 
+LOUTH 
+7
+2504
+Marriages 1990
+JACKLIN
+ AMANDA E 
+GLENTWORTH 
+LOUTH 
+7
+1893
+JACKLIN
+ ANDREW R 
+WALKER 
+LOUTH 
+7
+1134
+JACKLIN
+ JENNIFER Y 
+DUNHAM 
+LOUTH 
+7
+1945
+JACKLIN
+ KEITH B 
+COX 
+LOUTH 
+7
+2349
+JACKLIN
+ PAUL 
+PARTRIDGE 
+LOUTH 
+7
+1915
+JACKLIN
+ SIDNEY B 
+GARFIELD 
+LOUTH 
+7
+1165
+Marriages 1992
+JACKLIN
+ IAN L 
+MERRIKIN 
+LOUTH 
+7
+2414
+JACKLIN
+ JANE E 
+WAUMSLEY 
+LOUTH 
+7
+1117
+JACKLIN
+ SARAH J 
+ROBERTS 
+LOUTH 
+7
+1808
+JACKLIN
+ VALERIE D 
+GODDARD 
+LOUTH 
+7
+2430
+Marriages 1993
+JACKLIN
+ ELAINE 
+SHEPPARD 
+LOUTH 
+7
+1728
+Marriages 1996
+JACKLIN
+ STEPHEN 
+TAYLOR 
+LOUTH 
+620
+732
+JACKLIN
+ TIMOTHY E 
+JOHNSON 
+LOUTH 
+620
+690

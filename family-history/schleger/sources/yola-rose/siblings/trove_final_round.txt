@@ -1,0 +1,32 @@
+--- '"Mafalda Maria"' limits=None total=8 shown=8
+  [94836939] Monday 16 January 1939 | Kalgoorlie Miner (WA : 1895 - 1954) | Princess of Italy WEDDING POSTPONED Rome, Jan. 14.
+        , has been postponed indefinitely owing to the illness of Princess Mafalda, Princess Maria's sister.
+  [46292123] Saturday 14 January 1939 | The West Australian (Perth, WA : 1879 - 1954 | PRINCESS OF ITALY. Wedding Postponed.
+         postponed indefinitely owing to -the illness of Princess Mafalda. Princess Maria's sister.
+  [17557936] Friday 13 January 1939 | The Sydney Morning Herald (NSW : 1842 - 1954 | ROYAL WEDDING POSTPONED. ROME, Jan. 12.
+         Sunday, has been postponed indefinitely because of the illness of Princess Mafalda, Princess Maria
+  [223738654] Thursday 24 September 1925 | The Sun (Sydney, NSW : 1910 - 1954) | LOVE STORY ITALIAN PRINCESS'S ROMANCE GORGEOUS WED
+         The couple will reside in a house in Rome which Prince Philip baB designed. 1Princess Princess Mafalda //  Maria Elizabeth Anna Romana is the second daughter of King Victor Emanuel IIL and Quoen Holono of Italy
+  [283358169] Wednesday 28 January 1948 | Bundaberg News-Mail (Qld. : 1942 - 1961) | "FREE & EASY" Revue Pleases Large Audience
+         by Mafalda Maria. , , , Colin Stibc infused plenty of volume Into his solos. “Come Sing To Me" and an
+  [128455881] Saturday 10 January 1903 | The World's News (Sydney, NSW : 1901 - 1955) | Did You Know This?
+        . Mafalda Maria Elizabetha Anna Roimana are the Christian names which have been given to the little Italian
+  [232878103] Thursday 24 May 1956 | Commonwealth of Australia Gazette (National  | CERTIFICATES OF NATURALIZATION.
+        , Maris Atis Rubini, Mafalda Maria Russo, Angelo .. .. .. .. " Russo, Santa Rosa Sanlorenzo, Luigi Pietro
+  [237262176] Wednesday 6 December 1978 | Commonwealth of Australia Gazette. Periodic  | VICTORIA
+        
+--- '"Mrs. E. L. Bartlem"' limits=None total=0 shown=0
+--- '"Jacqueline Johnstone" "Radio Fame"' limits=None total=3 shown=3
+  [57123291] Tuesday 16 October 1951 | Morning Bulletin (Rockhampton, Qld. : 1878 - | Advertising
+         Singet Of Song»), Jacqueline Johnstone (of Radio Fame), Tom Carr %T&lt;oat PaTQgrlta), Notene Flanaghan
+  [56919003] Friday 14 October 1949 | Morning Bulletin (Rockhampton, Qld. : 1878 - | Advertising
+         and Kay (Sensational Dancers), Jacqueline Johnstone (of ! Radio Fame), Jack O'Connell (Descriptive
+  [57075590] Saturday 28 April 1951 | Morning Bulletin (Rockhampton, Qld. : 1878 - | Advertising
+         Yodel! er), Jimmy Perricks (Everybody's Favourite), Jacqueline Johnston (Of Radio Fame), Jack Cockrane
+--- '"of Radio Fame"' limits={'state': ['Queensland']} total=390 shown=3
+  [54963128] Saturday 27 June 1936 | Morning Bulletin (Rockhampton, Qld. : 1878 - | Entertainments TIVOLI THEATRE | Cap, Bebe, and Pau
+        Entertainments TIVOLI THEATRE | Cap, Bebe, and Paul On The Stage The popular favourites of radio //  fame, Cap and Bebe, assisted by Paul de Rayonne, tenor and entertainer, who have been delighting Tivoli
+  [54966751] Tuesday 21 July 1936 | Morning Bulletin (Rockhampton, Qld. : 1878 - | "PADDY O'DAY"
+         Mus-covite miss. Finally, there is George Givot, "Greek Ambassador" of radio fame ,who rends the air
+  [56191034] Friday 10 January 1941 | Morning Bulletin (Rockhampton, Qld. : 1878 - | LIBERTY THEATRE " Sing, Dance, Plenty Hot "
+        . Barbara Allen (Vera Vague of radio fame) vies with Billy Gilbert for honours tn the laugh-making // , of radio fame, as members of his cast to support the capable singing efforts of Donald Grayson, who

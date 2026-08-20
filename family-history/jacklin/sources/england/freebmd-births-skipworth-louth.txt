@@ -1,0 +1,1191 @@
+FreeBMD search births-skipworth-louth: {'surname': 'Skipworth', 'type_': 'Births', 'districtid': '937', 'start': 1837, 'end': 1900}
+Source: https://www.freebmd.org.uk/cgi/search.pl (free index, no login)
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Jun1840
+Skipworth
+ Jane 
+Louth 
+14
+453
+Births  Sep1842
+Skipworth
+ Henry 
+Louth 
+14
+473
+Births  Dec1843
+Skipworth
+ Maria 
+Louth 
+14
+472
+Births  Dec1845
+SKIPWORTH
+ Ellen 
+Louth 
+14
+464
+Births  Mar1847
+Skipworth
+ Charles 
+Louth 
+14
+529
+Births  Mar1849
+SKIPWORTH
+ Edward 
+Louth 
+14
+547
+Births  Dec1849
+SKIPWORTH
+ Edward 
+Louth 
+14
+501
+Births  Sep1850
+Skipworth
+ Matilda 
+Louth 
+14
+527
+Skipworth
+ Matilda 
+Louth 
+14
+536
+Births  Mar1851
+Skipworth
+ Mary Ann 
+Louth 
+14
+537
+Births  Sep1852
+Skipworth
+ Mary Ann 
+Louth 
+7a
+511
+Births  Mar1853
+Skipworth
+ Charlotte 
+Louth 
+7a
+538
+Births  Sep1854
+SKIPWORTH
+ Christopher Hastings 
+Louth 
+7a
+494
+Births  Dec1854
+Skipworth
+ Benjamin 
+Louth 
+7a
+483
+Births  Sep1855
+Skipworth
+ Elizabeth 
+Louth 
+7a
+516
+Births  Dec1855
+Skipworth
+ Charlotte Elizabeth 
+Louth 
+7a
+523
+Births  Sep1856
+Skipworth
+ Frances 
+Louth 
+7a
+506
+Births  Mar1857
+SKIPWORTH
+ William 
+Louth 
+7a
+532
+Births  Jun1857
+Skipworth
+ John Samuel 
+Louth 
+7a
+550
+Births  Dec1857
+Skipworth
+ Elizabeth 
+Louth 
+7a
+510
+Births  Jun1858
+Skipworth
+ Jane 
+Louth 
+7a
+507
+Births  Dec1858
+Skipworth
+ Edward 
+Louth 
+7a
+491
+Births  Mar1859
+SKIPWORTH
+ William Marshall 
+Louth 
+7a
+544
+Births  Dec1859
+SKIPWORTH
+ Frederic 
+Louth 
+7a
+535
+Births  Mar1860
+SKIPWORTH
+ Maria 
+Louth 
+7a
+549
+Births  Sep1860
+SKIPWORTH
+ Dinah 
+Louth 
+7a
+517
+Births  Sep1861
+SKIPWORTH
+ Emily Jane 
+Louth 
+7a
+543
+Births  Mar1862
+SKIPWORTH
+ Mary Ann 
+Louth 
+7a
+525
+Births  Dec1862
+SKIPWORTH
+ Benjamin 
+Louth 
+7a
+527
+Births  Sep1863
+SKIPWORTH
+ John Henry 
+Louth 
+7a
+527
+Births  Dec1863
+SKIPWORTH
+ Samuel 
+Louth 
+7a
+527
+Births  Mar1864
+SKIPWORTH
+ George Henry 
+Louth 
+7a
+575
+Births  Jun1864
+SKIPWORTH
+ Jane 
+Louth 
+7a
+542
+Births  Jun1865
+SKIPWORTH
+ Elizabeth 
+Louth 
+7a
+547
+Births  Dec1865
+SKIPWORTH
+ Jesse 
+Louth 
+7a
+515
+Births  Mar1866
+SKIPWORTH
+ Charles 
+Louth 
+7a
+562
+Births  Mar1867
+SKIPWORTH
+ Joseph 
+Louth 
+7a
+562
+Births  Jun1867
+Skipworth
+ Sarah Elizabeth 
+Louth 
+7a
+572
+Births  Dec1867
+SKIPWORTH
+ Julia 
+Louth 
+7a
+525
+Births  Jun1868
+SKIPWORTH
+ Edward 
+Louth 
+7a
+581
+Births  Sep1869
+SKIPWORTH
+ Charles 
+Louth 
+7a
+562
+Births  Mar1870
+Skipworth
+ Maria 
+Louth 
+7a
+584
+Births  Sep1870
+SKIPWORTH
+ Charlotte Rosa 
+Louth 
+7a
+559
+Births  Dec1870
+SKIPWORTH
+ Frederic 
+Louth 
+7a
+537
+Births  Mar1872
+SKIPWORTH
+ Emily 
+Louth 
+7a
+598
+Births  Jun1872
+SKIPWORTH
+ Arthur 
+Louth 
+7a
+585
+SKIPWORTH
+ Charles 
+Louth 
+7a
+569
+Births  Jun1873
+Skipworth
+ Harriet 
+Louth 
+7a
+575
+Births  Jun1874
+SKIPWORTH
+ Charlotte 
+Louth 
+7a
+595
+SKIPWORTH
+ Clara 
+Louth 
+7a
+599
+SKIPWORTH
+ Ellen 
+Louth 
+7a
+599
+Births  Dec1874
+Skipworth
+ Frederic 
+Louth 
+7a
+586
+Births  Sep1876
+SKIPWORTH
+ Albert 
+Louth 
+7a
+601
+SKIPWORTH
+ William 
+Louth 
+7a
+593
+Births  Dec1876
+SKIPWORTH
+ Herbert Sydney 
+Louth 
+7a
+591
+Births  Dec1877
+SKIPWORTH
+ Sydney 
+Louth 
+7a
+635
+Births  Dec1878
+Skipworth
+ Eliza Ann 
+Louth 
+7a
+611
+Births  Sep1879
+SKIPWORTH
+ Herbert 
+Louth 
+7a
+617
+Births  Dec1879
+Skipworth
+ Annie Maria 
+Louth 
+7a
+603
+Births  Mar1880
+Skipworth
+ Ernest William 
+Louth 
+7a
+630
+Births  Jun1881
+SKIPWORTH
+ Emily 
+Louth 
+7a
+613
+SKIPWORTH
+ William Teft 
+Louth 
+7a
+611
+Births  Sep1881
+Skipworth
+ Arthur Edward 
+Louth 
+7a
+589
+Births  Dec1881
+SKIPWORTH
+ Herbert Sydney 
+Louth 
+7a
+600
+Births  Mar1883
+SKIPWORTH
+ Lizzie 
+Louth 
+7a
+630
+Births  Sep1883
+Skipworth
+ Ethel Marian 
+Louth 
+7a
+593
+Births  Dec1883
+SKIPWORTH
+ Edith Elizabeth 
+Louth 
+7a
+580
+Births  Mar1884
+Skipworth
+ Herbert Gorden 
+Louth 
+7a
+606
+SKIPWORTH
+ Herbert Gordon 
+Louth 
+7a
+606
+Births  Jun1884
+Skipworth
+ Albert Bartie 
+Louth 
+7a
+630
+SKIPWORTH
+ Albert Bertie 
+Louth 
+7a
+630
+Births  Dec1884
+SKIPWORTH
+ Ellen 
+Louth 
+7a
+598
+SKIPWORTH
+ Fanny 
+Louth 
+7a
+619
+SKIPWORTH
+ Fanny 
+Louth 
+7a
+649
+Births  Jun1885
+SKIPWORTH
+ Charles 
+Louth 
+7a
+613
+SKIPWORTH
+ Phoebe Ann 
+Louth 
+7a
+619
+Births  Mar1886
+Skipworth
+ Maud Sophia 
+Louth 
+7a
+605
+Births  Sep1886
+Skipworth
+ Charles Edward 
+Louth 
+7a
+594
+Skipworth
+ George Henry 
+Louth 
+7a
+605
+Births  Mar1887
+Skipworth
+ Florence Annie 
+Louth 
+7a
+586
+Births  Jun1887
+Skipworth
+ George 
+Louth 
+7a
+592
+Births  Sep1887
+Skipworth
+ John Charles 
+Louth 
+7a
+596
+SKIPWORTH
+ John Charles 
+Louth 
+7a
+598
+Births  Dec1887
+Skipworth
+ Alice Mabel 
+Louth 
+7a
+590
+Births  Mar1888
+SKIPWORTH
+ Emma 
+Louth 
+7a
+581
+Births  Sep1888
+Skipworth
+ William 
+Louth 
+7a
+537
+Births  Jun1889
+Skipworth
+ John Harold 
+Louth 
+7a
+620
+Births  Sep1889
+Skipworth
+ Ernest Frederick 
+Louth 
+7a
+566
+Skipworth
+ Margaret 
+Louth 
+7a
+571
+Skipworth
+ Percy 
+Louth 
+7a
+563
+Births  Jun1890
+SKIPWORTH
+ Paul Kirkby 
+Louth 
+7a
+573
+Births  Mar1891
+Skipworth
+ Mabel Louise 
+Louth 
+7a
+585
+Births  Sep1891
+SKIPWORTH
+ Alfred 
+Louth 
+7a
+575
+SKIPWORTH
+ George Henry 
+Louth 
+7a
+575
+Births  Jun1892
+Skipworth
+ Christopher Robinson 
+Louth 
+7a
+607
+Skipworth
+ Raymond 
+Louth 
+7a
+620
+Births  Dec1892
+SKIPWORTH
+ Maud Alice 
+Louth 
+7a
+571
+Births  Sep1893
+SKIPWORTH
+ Gertrude May 
+Louth 
+7a
+594
+Births  Dec1894
+Skipworth
+ Ethel Florence 
+Louth 
+7a
+605
+Skipworth
+ Mary Lucy 
+Louth 
+7a
+602
+Births  Mar1895
+Skipworth
+ William Maurice 
+Louth 
+7a
+605
+Births  Jun1895
+Skipworth
+ Charlotte Rose 
+Louth 
+7a
+607
+Births  Sep1895
+Skipworth
+ Albert James 
+Louth 
+7a
+595
+Births  Mar1897
+Skipworth
+ Elsie Mable 
+Louth 
+7a
+631
+Births  Jun1897
+Skipworth
+ Annie Mary 
+Louth 
+7a
+583
+Births  Dec1897
+Skipworth
+ Dora 
+Louth 
+7a
+575
+Skipworth
+ Hilda Lucy 
+Louth 
+7a
+575
+Skipworth
+ Louisa Jane 
+Louth 
+7a
+582
+Births  Mar1898
+Skipworth
+ Herbert William 
+Louth 
+7a
+589
+Births  Jun1898
+Skipworth
+ Fred 
+Louth 
+7a
+610
+Births  Sep1898
+Skipworth
+ Gertrude 
+Louth 
+7a
+587
+Births  Dec1898
+SKIPWORTH
+ Sarah Ann 
+Louth 
+7a
+581
+Births  Mar1899
+Skipworth
+ Elsie 
+Louth 
+7a
+570
+Births  Dec1899
+Skipworth
+ Richard Teft 
+Louth 
+7a
+574
+Births  Dec1900
+SKIPWORTH
+ Charlotte Glover 
+Louth 
+7a
+537
+Births  Jun1901
+Skipworth
+ Fred 
+Louth 
+7a
+583
+Births  Dec1902
+SKIPWORTH
+ Vera 
+Louth 
+7a
+582
+Births  Sep1905
+Skipworth
+ Laura Kathleen 
+Louth 
+7a
+559
+Births  Dec1905
+Skipworth
+ Dorothy 
+Louth 
+7a
+549
+Skipworth
+ Grace Elizabeth 
+Louth 
+7a
+541
+Births  Dec1906
+Skipworth
+ Reginald Sydney 
+Louth 
+7a
+558
+Births  Sep1907
+Skipworth
+ Doris 
+Louth 
+7a
+548
+Births  Jun1908
+Skipworth
+ Eveline Mary 
+Louth 
+7a
+579
+Births  Sep1909
+Skipworth
+ Susan Ellen 
+Louth 
+7a
+556
+Births  Mar1911
+Skipworth
+ Sylvia J 
+Louth 
+7a
+547
+Births  Jun1911
+Skipworth
+ Harold S 
+Louth 
+7a
+553
+Births  Dec1911
+Skipworth
+ Charles W 
+Graves 
+Louth 
+7a
+1023
+Births  Sep1912
+Skipworth
+ Cyril 
+Phillipson 
+Louth 
+7a
+1027
+Births  Dec1912
+Skipworth
+ John T 
+Hyde 
+Louth 
+7a
+1039
+Births  Dec1913
+Skipworth
+ John H 
+Phillipson 
+Louth 
+7a
+1018
+Births  Sep1915
+Skipworth
+ Leslie 
+Phillipson 
+Louth 
+7a
+973
+Births  Dec1916
+Skipworth
+ John A 
+Twigg 
+Louth 
+7a
+938
+Births  Sep1918
+Skipworth
+ Nancy G 
+Twigg 
+Louth 
+7a
+822
+Births  Jun1919
+Skipworth
+ Herbert W 
+Phillipson 
+Louth 
+7a
+717
+Births  Sep1919
+Skipworth
+ Dora 
+Faucett 
+Louth 
+7a
+808
+Births  Dec1919
+Skipworth
+ Muriel W 
+Stanney 
+Louth 
+7a
+1048
+Births  Dec1920
+SKIPWORTH
+ Barbara 
+Panton 
+Louth 
+7a
+1038
+SKIPWORTH
+ Frederick N 
+Phillipson 
+Louth 
+7a
+1039
+Births  Jun1922
+Skipworth
+ Donald 
+Phillipson 
+Louth 
+7a
+987
+Skipworth
+ Jesse 
+Panton 
+Louth 
+7a
+996
+Births  Dec1922
+Skipworth
+ Douglas H 
+Stanney 
+Louth 
+7a
+917
+Skipworth
+ Ronald 
+Hyde 
+Louth 
+7a
+912
+Births  Jun1923
+Skipworth
+ George S 
+Phillipson 
+Louth 
+7a
+957
+Births  Dec1923
+Skipworth
+ Frederick 
+Panton 
+Louth 
+7a
+898
+Skipworth
+ Owen P S 
+Studd 
+Louth 
+7a
+902
+Births  Jun1924
+SKIPWORTH
+ Gwendolyn E 
+KERMAN 
+Louth 
+7a
+961
+Births  Sep1924
+Skipworth
+ Phyllis M 
+Hyde 
+Louth 
+7a
+929
+Births  Dec1924
+Skipworth
+ Peggy 
+Simons 
+Louth 
+7a
+859
+Births  Jun1925
+Skipworth
+ Geoffrey E 
+Kerman 
+Louth 
+7a
+939
+Births  Dec1925
+Skipworth
+ Joan M 
+Parsons 
+Louth 
+7a
+834
+Births  Mar1926
+Skipworth
+ Barbara 
+Simons 
+Louth 
+7a
+834
+Births  Dec1926
+Skipworth
+ Alice M 
+Vessey 
+Louth 
+7a
+871
+Skipworth
+ Pamela E 
+Panton 
+Louth 
+7a
+862
+Births  Sep1927
+Skipworth
+ Joyce E 
+Parsons 
+Louth 
+7a
+874
+Births  Mar1928
+Skipworth
+ Raymond 
+Stanney 
+Louth 
+7a
+894
+Births  Sep1928
+SKIPWORTH
+ Victor R 
+Simons 
+Louth 
+7a
+876
+Births  Jun1929
+Skipworth
+ Frank 
+Parsons 
+Louth 
+7a
+914
+Births  Mar1932
+Skipworth
+ Sheila 
+Stanney 
+Louth 
+7a
+832
+Births  Dec1934
+Skipworth
+ Byron D B 
+Birkett 
+Louth 
+7a
+765
+Births  Sep1935
+Skipworth
+ June 
+Parsons 
+Louth 
+7a
+798
+Births  Dec1935
+Skipworth
+ Audrey D 
+Simons 
+Louth 
+7a
+753
+Births  Sep1937
+Skipworth
+ Richard T 
+Panton 
+Louth 
+7a
+808
+Skipworth
+ Sheila E 
+Baker 
+Louth 
+7a
+805
+Births  Mar1938
+Skipworth
+ Gordon 
+Parsons 
+Louth 
+7a
+802
+Births  Jun1942
+Skipworth
+ David S 
+Baker 
+Louth 
+7a
+1252
+Births  Jun1945
+Skipworth
+ Brian F 
+Baker 
+Louth 
+7a
+977
+Skipworth
+ Myra E 
+Marsh 
+Louth 
+7a
+978
+Births  Sep1947
+Skipworth
+ Ann L 
+Churn 
+Louth 
+3b
+561
+Births  Mar1950
+Skipworth
+ Carol A 
+Hutson 
+Louth 
+3b
+483
+Births  Dec1950
+Skipworth
+ Barbara A 
+Baker 
+Louth 
+3b
+423
+Births  Sep1951
+SKIPWORTH
+ John G 
+Howard 
+Louth 
+3b
+475
+Births  Dec1951
+Skipworth
+ Susan D 
+Hutson 
+Louth 
+3b
+441
+Births  Sep1956
+Skipworth
+ Derek 
+Storr 
+Louth 
+3b
+442
+Births  Dec1956
+SKIPWORTH
+ Karen 
+BROUGHTON 
+Louth 
+3b
+440
+Births  Dec1958
+SKIPWORTH
+ Kevin D 
+COOPER 
+Louth 
+3b
+484
+Births  Mar1959
+SKIPWORTH
+ Tony 
+STORR 
+Louth 
+3b
+490
+Births  Sep1959
+SKIPWORTH
+ Michael T 
+RIGGALL 
+Louth 
+3b
+511
+Births  Mar1960
+SKIPWORTH
+ Trudi J 
+SIZER 
+Louth 
+3b
+558
+Births  Jun1960
+SKIPWORTH
+ Mark A 
+COOPER 
+Louth 
+3b
+518
+Births  Dec1962
+SKIPWORTH
+ Brian R 
+STORR 
+Louth 
+3b
+533
+SKIPWORTH
+ David 
+BROUGHTON 
+Louth 
+3b
+513
+Births  Sep1964
+SKIPWORTH
+ SIMON M 
+COOPER 
+LOUTH 
+3B
+685
+Births  Sep1966
+SKIPWORTH
+ GARY RAYMOND 
+MORTON 
+LOUTH 
+3B
+568
+Births  Mar1968
+SKIPWORTH
+ PHILIP JOHN 
+COOPER 
+LOUTH 
+3B
+577
+Births  Sep1968
+SKIPWORTH
+ WAYNE ERIC 
+ROYCE 
+LOUTH 
+3B
+559
+Births  Dec1969
+SKIPWORTH
+ Deborah Ann 
+ROYCE 
+Louth 
+3b
+1216
+Births  Jun1970
+SKIPWORTH
+ Kevin Neil 
+BROMNIELD 
+Louth 
+3b
+1375
+Births  Dec1970
+SKIPWORTH
+ Rachel Louise 
+MORTON 
+Louth 
+3b
+1263
+Births  Dec1972
+SKIPWORTH
+ GARY STEVEN 
+BROMFIELD 
+LOUTH 
+3B
+1103
+Births  Sep1973
+SKIPWORTH
+ KATHRYN ANNE 
+MORTON 
+LOUTH 
+3B
+1159
+Births  Sep1975
+SKIPWORTH
+ IAN DAVID 
+ROYCE 
+LOUTH 
+7
+2118

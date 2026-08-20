@@ -1,0 +1,139 @@
+FreeCEN2 search: last_name=Curtis chapman=CON record_type=1901
+URL: https://www.freecen.org.uk/search_queries
+Retrieved 2026-08-19
+
+HITS (134):
+/search_records/6634cf43f493fdb1f9aed629/elizabeth-curtis-1901-cornwall-talland-1817- :: Elizabeth CURTIS | Cornwall | Polperro | 1817 | 1901 | Cornwall | Polperro
+/search_records/640045e9f493fd0cee4624b8/william-curtis-1901-cornwall-saltash-1818- :: William CURTIS | Devon | Stoke Damerel (or Stoke) | 1818 | 1901 | Cornwall | Saltash
+/search_records/6634cf43f493fdb1f9aed627/william-curtis-1901-cornwall-talland-1820- :: William CURTIS | Cornwall | Polperro | 1820 | 1901 | Cornwall | Polperro
+/search_records/6634cf3ff493fdb1f9aed557/elizabeth-curtis-1901-cornwall-talland-1822- :: Elizabeth CURTIS | Cornwall | Polperro | 1822 | 1901 | Cornwall | Polperro
+/search_records/6634cf40f493fdb1f9aed55d/catherine-curtis-1901-cornwall-talland-1825- :: Catherine CURTIS | Cornwall | Polperro | 1825 | 1901 | Cornwall | Polperro
+/search_records/6634cf40f493fdb1f9aed57b/james-curtis-1901-cornwall-talland-1831- :: James CURTIS | Cornwall | Polperro | 1831 | 1901 | Cornwall | Polperro
+/search_records/6634cf40f493fdb1f9aed57d/selina-curtis-1901-cornwall-talland-1834- :: Selina CURTIS | Cornwall | Polperro | 1834 | 1901 | Cornwall | Polperro
+/search_records/66a742dcb18f7c9fa2c44c0b/jane-curtis-1901-cornwall-kilkhampton-1836- :: Jane CURTIS | Cornwall | Morwinstow | 1836 | 1901 | Cornwall | Kilkhampton
+/search_records/6400456bf493fd0cee460774/alice-curtis-1901-cornwall-saltash-1837- :: Alice CURTIS | Cornwall | Saltash | 1837 | 1901 | Cornwall | Saltash
+/search_records/66a73c5bb18f7c6f8eb019d0/james-curtis-1901-cornwall-lansallos-1837- :: James CURTIS | Cornwall | Polperro | 1837 | 1901 | Cornwall | Polperro
+/search_records/66a73c56b18f7c6f8eb01877/matilda-curtis-1901-cornwall-lansallos-1838- :: Matilda CURTIS | Cornwall | Polperro | 1838 | 1901 | Cornwall | Polperro
+/search_records/640045c4f493fd0cee461a69/mary-curtis-1901-cornwall-saltash-1839- :: Mary CURTIS | Cornwall | St Stephens | 1839 | 1901 | Cornwall | Saltash
+/search_records/66a742dcb18f7c9fa2c44c09/robert-curtis-1901-cornwall-kilkhampton-1839- :: Robert CURTIS | Cornwall | Kilkhampton | 1839 | 1901 | Cornwall | Kilkhampton
+/search_records/6400456bf493fd0cee460772/henry-curtis-1901-cornwall-saltash-1840- :: Henry CURTIS | Hampshire | Fareham | 1840 | 1901 | Cornwall | Saltash
+/search_records/66a73ca4b18f7c6f8eb0255b/catherine-curtis-1901-cornwall-lanteglos-highway-1840- :: Catherine CURTIS | Cornwall | Mawnan | 1840 | 1901 | Cornwall | Polruan
+/search_records/63bc04fef493fd4e1cfa3abc/john-curtis-1901-cornwall-trewen-1842- :: John CURTIS | Devon | Clawton | 1842 | 1901 | Cornwall | Trewen
+/search_records/63bc04fef493fd4e1cfa3ac1/mary-j-curtis-1901-cornwall-trewen-1842- :: Mary J CURTIS | Devon | Moorland (or Morland) | 1842 | 1901 | Cornwall | Trewen
+/search_records/640045e9f493fd0cee4624bd/harriette-f-curtis-1901-cornwall-saltash-1842- :: Harriette F CURTIS | Cornwall | Truro | 1842 | 1901 | Cornwall | Saltash
+/search_records/6634cf3df493fdb1f9aed486/william-curtis-1901-cornwall-talland-1842- :: William CURTIS | Cornwall | Polperro | 1842 | 1901 | Cornwall | Polperro
+/search_records/66a73c56b18f7c6f8eb0187f/maria-v-curtis-1901-cornwall-lansallos-1842- :: Maria V CURTIS | Cornwall | Polperro | 1842 | 1901 | Cornwall | Polperro
+/search_records/6634cf3cf493fdb1f9aed428/john-curtis-1901-cornwall-talland-1845- :: John CURTIS | Cornwall | Polperro | 1845 | 1901 | Cornwall | Polperro
+/search_records/6546eacef493fd5fc8236634/elizabeth-h-curtis-1901-cornwall-east-looe-1846- :: Elizabeth H CURTIS | Devon | Buckland | 1846 | 1901 | Cornwall | East Looe
+/search_records/6634cf3cf493fdb1f9aed42a/elizabeth-a-curtis-1901-cornwall-talland-1847- :: Elizabeth A CURTIS | Cornwall | Polperro | 1847 | 1901 | Cornwall | Polperro
+/search_records/6634cf3df493fdb1f9aed488/elizabeth-a-curtis-1901-cornwall-talland-1847- :: Elizabeth A CURTIS | Devon | Exmouth | 1847 | 1901 | Cornwall | Polperro
+/search_records/66a73c59b18f7c6f8eb0195d/john-curtis-1901-cornwall-lansallos-1848- :: John CURTIS | Cornwall | Talland (or Talland Polperro) | 1848 | 1901 | Cornwall | Polperro
+/search_records/66a73c59b18f7c6f8eb0195f/rachael-curtis-1901-cornwall-lansallos-1848- :: Rachael CURTIS | Cornwall | Talland (or Talland Polperro) | 1848 | 1901 | Cornwall | Polperro
+/search_records/6634cf43f493fdb1f9aed62f/william-curtis-1901-cornwall-talland-1850- :: William CURTIS | Cornwall | Polperro | 1850 | 1901 | Cornwall | Polperro
+/search_records/6634cf43f493fdb1f9aed631/catherine-curtis-1901-cornwall-talland-1850- :: Catherine CURTIS | Cornwall | Polperro | 1850 | 1901 | Cornwall | Polperro
+/search_records/66a73c56b18f7c6f8eb0187b/william-h-curtis-1901-cornwall-lansallos-1851- :: William H CURTIS | Cornwall | Polperro | 1851 | 1901 | Cornwall | Polperro
+/search_records/66a73c57b18f7c6f8eb018ec/elizabeth-curtis-1901-cornwall-lansallos-1851- :: Elizabeth CURTIS | Cornwall | Polperro | 1851 | 1901 | Cornwall | Polperro
+/search_records/66a73c5ab18f7c6f8eb01981/jane-e-curtis-1901-cornwall-lansallos-1855- :: Jane E CURTIS | Cornwall | Polperro | 1855 | 1901 | Cornwall | Polperro
+/search_records/6634cf3ef493fdb1f9aed4d3/james-curtis-1901-cornwall-talland-1857- :: James CURTIS | Devon | - | 1857 | 1901 | Cornwall | Polperro
+/search_records/6634cf3ef493fdb1f9aed4d5/mary-j-curtis-1901-cornwall-talland-1857- :: Mary J CURTIS | Cornwall | Polperro | 1857 | 1901 | Cornwall | Polperro
+/search_records/6634cf34f493fdb1f9aed2b7/lettia-curtis-1901-cornwall-talland-1858- :: Lettia CURTIS | Cornwall | Pelynt | 1858 | 1901 | Cornwall | Polperro
+/search_records/654a1d0ff493fd465e689124/w-j-curtis-1901-cornwall-paul-1859- :: W J CURTIS | Cornwall | St Agnes | 1859 | 1901 | Cornwall | Mousehole
+/search_records/6634cf33f493fdb1f9aed2b5/james-curtis-1901-cornwall-talland-1859- :: James CURTIS | Cornwall | Polperro | 1859 | 1901 | Cornwall | Polperro
+/search_records/640045c4f493fd0cee461a6b/thomas-curtis-1901-cornwall-saltash-1860- :: Thomas CURTIS | Cornwall | St Stephens | 1860 | 1901 | Cornwall | Saltash
+/search_records/6634cf3bf493fdb1f9aed3fc/elizabeth-a-curtis-1901-cornwall-talland-1861- :: Elizabeth A CURTIS | Cornwall | Polperro | 1861 | 1901 | Cornwall | Polperro
+/search_records/6634cf3ff493fdb1f9aed559/ann-curtis-1901-cornwall-talland-1861- :: Ann CURTIS | Cornwall | Polperro | 1861 | 1901 | Cornwall | Polperro
+/search_records/66a73c57b18f7c6f8eb018ea/francis-curtis-1901-cornwall-lansallos-1861- :: Francis CURTIS | Cornwall | Polperro | 1861 | 1901 | Cornwall | Polperro
+/search_records/6546eae3f493fd5fc8236b91/mary-j-curtis-1901-cornwall-east-looe-1862- :: Mary J CURTIS | Cornwall | East Looe (or E Looe) | 1862 | 1901 | Cornwall | East Looe
+/search_records/6634cf3bf493fdb1f9aed3fa/henry-curtis-1901-cornwall-talland-1862- :: Henry CURTIS | Cornwall | Polperro | 1862 | 1901 | Cornwall | Polperro
+/search_records/66a73c55b18f7c6f8eb0184b/william-h-curtis-1901-cornwall-lansallos-1862- :: William H CURTIS | Cornwall | Polperro | 1862 | 1901 | Cornwall | Polperro
+/search_records/640045edf493fd0cee462631/william-w-curtis-1901-cornwall-saltash-1863- :: William W CURTIS | Cornwall | Saltash | 1863 | 1901 | Cornwall | Saltash
+/search_records/6546eae3f493fd5fc8236b8c/francis-curtis-1901-cornwall-east-looe-1863- :: Francis CURTIS | Cornwall | East Looe (or E Looe) | 1863 | 1901 | Cornwall | East Looe
+/search_records/66a73c58b18f7c6f8eb01908/charles-h-curtis-1901-cornwall-lansallos-1863- :: Charles H CURTIS | Cornwall | Polperro | 1863 | 1901 | Cornwall | Polperro
+/search_records/66a73c65b18f7c6f8eb01c56/elizabeth-j-curtis-1901-cornwall-lansallos-1863- :: Elizabeth J CURTIS | Cornwall | Lansallos | 1863 | 1901 | Cornwall | Lansallos
+/search_records/66a73c55b18f7c6f8eb0184f/lavinia-curtis-1901-cornwall-lansallos-1864- :: Lavinia CURTIS | Cornwall | Polperro | 1864 | 1901 | Cornwall | Polperro
+/search_records/654a1d0ff493fd465e689125/esther-curtis-1901-cornwall-paul-1865- :: Esther CURTIS | Cornwall | Mousehole | 1865 | 1901 | Cornwall | Mousehole
+/search_records/66a73c8eb18f7c6f8eb02264/ethelburt-curtis-1901-cornwall-lanteglos-highway-1865- :: Ethelburt CURTIS | Cornwall | Lanteglos | 1865 | 1901 | Cornwall | Polruan
+/search_records/66a73c8eb18f7c6f8eb02266/agnes-ann-curtis-1901-cornwall-lanteglos-highway-1865- :: Agnes Ann CURTIS | Cornwall | Lanteglos | 1865 | 1901 | Cornwall | Polruan
+/search_records/63f4b1bdf493fd20ffd8fad3/john-h-curtis-1901-cornwall-lezant-1866- :: John H CURTIS | Devon | Lifton | 1866 | 1901 | Cornwall | Greystone And District
+/search_records/640045edf493fd0cee462635/jane-a-curtis-1901-cornwall-saltash-1866- :: Jane A CURTIS | Cornwall | Burraton | 1866 | 1901 | Cornwall | Saltash
+/search_records/654a1da1f493fd465e68c116/george-curtis-1901-cornwall-paul-1866- :: George CURTIS | Suffolk | Kessingland | 1866 | 1901 | Cornwall | Newlyn Harbour
+/search_records/66a73c58b18f7c6f8eb0190c/martha-curtis-1901-cornwall-lansallos-1866- :: Martha CURTIS | Cornwall | Polperro | 1866 | 1901 | Cornwall | Polperro
+/search_records/66a742dab18f7c9fa2c44bdf/sarah-j-curtis-1901-cornwall-kilkhampton-1866- :: Sarah J CURTIS | Cornwall | Kilkhampton | 1866 | 1901 | Cornwall | Kilkhampton
+/search_records/66a742dcb18f7c9fa2c44c0d/thomas-curtis-1901-cornwall-kilkhampton-1867- :: Thomas CURTIS | Cornwall | Kilkhampton | 1867 | 1901 | Cornwall | Kilkhampton
+/search_records/6634cf2af493fdb1f9aed0da/rosina-curtis-1901-cornwall-talland-1868- :: Rosina CURTIS | Cornwall | Polperro | 1868 | 1901 | Cornwall | Polperro
+/search_records/66a73c59b18f7c6f8eb01961/john-curtis-1901-cornwall-lansallos-1869- :: John CURTIS | Cornwall | Talland (or Talland Polperro) | 1869 | 1901 | Cornwall | Polperro
+/search_records/63f4b1bef493fd20ffd8fad7/elizabeth-s-curtis-1901-cornwall-lezant-1870- :: Elizabeth S CURTIS | Devon | Stowford | 1870 | 1901 | Cornwall | Greystone And District
+/search_records/66a73c66b18f7c6f8eb01ca4/edward-curtis-1901-cornwall-lansallos-1871- :: Edward CURTIS | Cornwall | Lansallos | 1871 | 1901 | Cornwall | Lansallos
+/search_records/640045baf493fd0cee46186c/wallace-curtis-1901-cornwall-saltash-1872- :: Wallace CURTIS | Cornwall | Saltash | 1872 | 1901 | Cornwall | Saltash
+/search_records/66a73c66b18f7c6f8eb01ca6/annie-curtis-1901-cornwall-lansallos-1872- :: Annie CURTIS | Cornwall | Lansallos | 1872 | 1901 | Cornwall | Lansallos
+/search_records/640045c4f493fd0cee461a6d/josephine-curtis-1901-cornwall-saltash-1873- :: Josephine CURTIS | Cornwall | Saltash | 1873 | 1901 | Cornwall | Saltash
+/search_records/628e0aeaf493fd1f067850e1/richard-curtis-1901-cornwall-liskeard-1874- :: Richard CURTIS | Cornwall | Polperro | 1874 | 1901 | Cornwall | Liskeard
+/search_records/6634cf40f493fdb1f9aed57f/richard-curtis-1901-cornwall-talland-1874- :: Richard CURTIS | Cornwall | Polperro | 1874 | 1901 | Cornwall | Polperro
+/search_records/66a73c56b18f7c6f8eb01879/matilda-curtis-1901-cornwall-lansallos-1874- :: Matilda CURTIS | Cornwall | Polperro | 1874 | 1901 | Cornwall | Polperro
+/search_records/66a742dcb18f7c9fa2c44c0f/william-curtis-1901-cornwall-kilkhampton-1875- :: William CURTIS | Cornwall | Kilkhampton | 1875 | 1901 | Cornwall | Kilkhampton
+/search_records/6400456bf493fd0cee460776/eliza-curtis-1901-cornwall-saltash-1876- :: Eliza CURTIS | Cornwall | Saltash | 1876 | 1901 | Cornwall | Saltash
+/search_records/6546eacff493fd5fc8236635/charles-curtis-1901-cornwall-east-looe-1876- :: Charles CURTIS | Cornwall | Looe | 1876 | 1901 | Cornwall | East Looe
+/search_records/6634cf43f493fdb1f9aed633/bessie-curtis-1901-cornwall-talland-1876- :: Bessie CURTIS | Cornwall | Polperro | 1876 | 1901 | Cornwall | Polperro
+/search_records/66a73c5bb18f7c6f8eb019d2/thomas-curtis-1901-cornwall-lansallos-1877- :: Thomas CURTIS | Cornwall | Polperro | 1877 | 1901 | Cornwall | Polperro
+/search_records/66a73ca4b18f7c6f8eb0255d/bessie-louise-curtis-1901-cornwall-lanteglos-highway-1877- :: Bessie Louise CURTIS | Cornwall | Polruan | 1877 | 1901 | Cornwall | Polruan
+/search_records/640045c4f493fd0cee461a6f/edwin-curtis-1901-cornwall-saltash-1878- :: Edwin CURTIS | Cornwall | Saltash | 1878 | 1901 | Cornwall | Saltash
+/search_records/6634cf43f493fdb1f9aed635/william-curtis-1901-cornwall-talland-1878- :: William CURTIS | Cornwall | Polperro | 1878 | 1901 | Cornwall | Polperro
+/search_records/640045bbf493fd0cee46186e/ellen-curtis-1901-cornwall-saltash-1879- :: Ellen CURTIS | Devon | Modbury | 1879 | 1901 | Cornwall | Saltash
+/search_records/628e0aeaf493fd1f067850df/john-curtis-1901-cornwall-liskeard-1880- :: John CURTIS | Cornwall | Polperro | 1880 | 1901 | Cornwall | Liskeard
+/search_records/640045c5f493fd0cee461a71/sydney-curtis-1901-cornwall-saltash-1880- :: Sydney CURTIS | Cornwall | Saltash | 1880 | 1901 | Cornwall | Saltash
+/search_records/6634cf43f493fdb1f9aed637/harry-curtis-1901-cornwall-talland-1881- :: Harry CURTIS | Cornwall | Polperro | 1881 | 1901 | Cornwall | Polperro
+/search_records/66a73c5bb18f7c6f8eb019d4/robert-curtis-1901-cornwall-lansallos-1882- :: Robert CURTIS | Cornwall | Polperro | 1882 | 1901 | Cornwall | Polperro
+/search_records/6634cf43f493fdb1f9aed639/john-r-curtis-1901-cornwall-talland-1883- :: John R CURTIS | Cornwall | Polperro | 1883 | 1901 | Cornwall | Polperro
+/search_records/66a73c5bb18f7c6f8eb019d6/albert-curtis-1901-cornwall-lansallos-1883- :: Albert CURTIS | Cornwall | Polperro | 1883 | 1901 | Cornwall | Polperro
+/search_records/66a7432bb18f7c9fa2c45903/walter-curtis-1901-cornwall-kilkhampton-1883- :: Walter CURTIS | Devon | Hartland | 1883 | 1901 | Cornwall | Morwenstow
+/search_records/6634cf3bf493fdb1f9aed3ea/florence-curtis-1901-cornwall-talland-1884- :: Florence CURTIS | Cornwall | Polperro | 1884 | 1901 | Cornwall | Polperro
+/search_records/6634cf3ef493fdb1f9aed4d9/james-curtis-1901-cornwall-talland-1884- :: James CURTIS | Cornwall | Polperro | 1884 | 1901 | Cornwall | Polperro
+/search_records/66a73c57b18f7c6f8eb018ee/aletha-curtis-1901-cornwall-lansallos-1884- :: Aletha CURTIS | Cornwall | Polperro | 1884 | 1901 | Cornwall | Polperro
+/search_records/66a73c5ab18f7c6f8eb01985/charles-h-curtis-1901-cornwall-lansallos-1884- :: Charles H CURTIS | Cornwall | Polperro | 1884 | 1901 | Cornwall | Polperro
+/search_records/6634cf34f493fdb1f9aed2b9/william-curtis-1901-cornwall-talland-1885- :: William CURTIS | Cornwall | Polperro | 1885 | 1901 | Cornwall | Polperro
+/search_records/640045e9f493fd0cee4624c1/harriette-f-curtis-1901-cornwall-saltash-1886- :: Harriette F CURTIS | Cornwall | Saltash | 1886 | 1901 | Cornwall | Saltash
+/search_records/6634cf3bf493fdb1f9aed3ec/winnifred-curtis-1901-cornwall-talland-1886- :: Winnifred CURTIS | Cornwall | Polperro | 1886 | 1901 | Cornwall | Polperro
+/search_records/66a73c5ab18f7c6f8eb01989/john-e-curtis-1901-cornwall-lansallos-1886- :: John E CURTIS | Cornwall | Polperro | 1886 | 1901 | Cornwall | Polperro
+/search_records/6634cf34f493fdb1f9aed2bb/richard-curtis-1901-cornwall-talland-1887- :: Richard CURTIS | Cornwall | Polperro | 1887 | 1901 | Cornwall | Polperro
+/search_records/66a73c58b18f7c6f8eb0190e/charles-h-curtis-1901-cornwall-lansallos-1887- :: Charles H CURTIS | Cornwall | Polperro | 1887 | 1901 | Cornwall | Polperro
+/search_records/6255158cf493fd50a5965b2d/muriel-m-curtis-1901-cornwall-launceston-1888- :: Muriel M CURTIS | London (City) | - | 1888 | 1901 | Cornwall | Launceston
+/search_records/6546eae3f493fd5fc8236b95/elsie-m-curtis-1901-cornwall-east-looe-1888- :: Elsie M CURTIS | Cornwall | East Looe (or E Looe) | 1888 | 1901 | Cornwall | East Looe
+/search_records/6634cf3bf493fdb1f9aed400/henry-curtis-1901-cornwall-talland-1888- :: Henry CURTIS | Cornwall | Polridmouth (or Pridmouth) | 1888 | 1901 | Cornwall | Polperro
+/search_records/6634cf43f493fdb1f9aed63d/alfred-curtis-1901-cornwall-talland-1888- :: Alfred CURTIS | Cornwall | Polperro | 1888 | 1901 | Cornwall | Polperro
+/search_records/66a73c8eb18f7c6f8eb0228c/marian-curtis-1901-cornwall-lanteglos-highway-1888- :: Marian CURTIS | Cornwall | Lanteglos By Fowey | 1888 | 1901 | Cornwall | Polruan
+/search_records/63f4b1bef493fd20ffd8fadb/francis-j-curtis-1901-cornwall-lezant-1889- :: Francis J CURTIS | Cornwall (or Devon) | Boyton | 1889 | 1901 | Cornwall | Greystone And District
+/search_records/640045bbf493fd0cee461870/wallace-curtis-1901-cornwall-saltash-1889- :: Wallace CURTIS | Cornwall | Saltash | 1889 | 1901 | Cornwall | Saltash
+/search_records/654a1d0ff493fd465e68912a/ada-f-curtis-1901-cornwall-paul-1889- :: Ada F CURTIS | Born Overseas | Usa Massachusetts Orange (or U.S.A Mas. Orange) | 1889 | 1901 | Cornwall | Mousehole
+/search_records/66a73c58b18f7c6f8eb01912/florinda-curtis-1901-cornwall-lansallos-1889- :: Florinda CURTIS | Cornwall | Polperro | 1889 | 1901 | Cornwall | Polperro
+/search_records/66a73c57b18f7c6f8eb018f0/hilda-curtis-1901-cornwall-lansallos-1890- :: Hilda CURTIS | Cornwall | Polperro | 1890 | 1901 | Cornwall | Polperro
+/search_records/66a73c65b18f7c6f8eb01c5a/alice-curtis-1901-cornwall-lansallos-1890- :: Alice CURTIS | Cornwall | Lansallos | 1890 | 1901 | Cornwall | Lansallos
+/search_records/640045edf493fd0cee46263d/ada-h-curtis-1901-cornwall-saltash-1891- :: Ada H CURTIS | Cornwall | Saltash | 1891 | 1901 | Cornwall | Saltash
+/search_records/6546eae3f493fd5fc8236b99/edna-e-curtis-1901-cornwall-east-looe-1891- :: Edna E CURTIS | Cornwall | East Looe (or E Looe) | 1891 | 1901 | Cornwall | East Looe
+/search_records/6634cf34f493fdb1f9aed2bf/thurza-curtis-1901-cornwall-talland-1891- :: Thurza CURTIS | Cornwall | Polperro | 1891 | 1901 | Cornwall | Polperro
+/search_records/6634cf3bf493fdb1f9aed402/elizabeth-a-curtis-1901-cornwall-talland-1891- :: Elizabeth A CURTIS | Cornwall | Polperro | 1891 | 1901 | Cornwall | Polperro
+/search_records/66a73c58b18f7c6f8eb01914/martha-curtis-1901-cornwall-lansallos-1891- :: Martha CURTIS | Cornwall | Polperro | 1891 | 1901 | Cornwall | Polperro
+/search_records/66a73c8eb18f7c6f8eb0226a/polly-curtis-1901-cornwall-lanteglos-highway-1891- :: Polly CURTIS | Cornwall | Lanteglos | 1891 | 1901 | Cornwall | Polruan
+/search_records/654a1d0ff493fd465e68912e/fredrick-h-curtis-1901-cornwall-paul-1892- :: Fredrick H CURTIS | Born Overseas | Usa Massachusetts Orange (or U.S.A. Mas. Orange) | 1892 | 1901 | Cornwall | Mousehole
+/search_records/6634cf43f493fdb1f9aed63f/edmund-curtis-1901-cornwall-talland-1892- :: Edmund CURTIS | Cornwall | Polperro | 1892 | 1901 | Cornwall | Polperro
+/search_records/66a73c58b18f7c6f8eb01916/doris-curtis-1901-cornwall-lansallos-1892- :: Doris CURTIS | Cornwall | Polperro | 1892 | 1901 | Cornwall | Polperro
+/search_records/66a73c65b18f7c6f8eb01c5c/john-e-curtis-1901-cornwall-lansallos-1892- :: John E CURTIS | Cornwall | Lansallos | 1892 | 1901 | Cornwall | Lansallos
+/search_records/66a73c8eb18f7c6f8eb0226c/joseph-curtis-1901-cornwall-lanteglos-highway-1892- :: Joseph CURTIS | Cornwall | Lanteglos | 1892 | 1901 | Cornwall | Polruan
+/search_records/6634cf34f493fdb1f9aed2bd/john-curtis-1901-cornwall-talland-1893- :: John CURTIS | Cornwall | Polperro | 1893 | 1901 | Cornwall | Polperro
+/search_records/66a73c58b18f7c6f8eb01918/katie-curtis-1901-cornwall-lansallos-1893- :: Katie CURTIS | Cornwall | Polperro | 1893 | 1901 | Cornwall | Polperro
+/search_records/6546eae3f493fd5fc8236b9a/gladys-curtis-1901-cornwall-east-looe-1894- :: Gladys CURTIS | Cornwall | East Looe (or E Looe) | 1894 | 1901 | Cornwall | East Looe
+/search_records/66a73c58b18f7c6f8eb0191a/joseph-curtis-1901-cornwall-lansallos-1894- :: Joseph CURTIS | Cornwall | Polperro | 1894 | 1901 | Cornwall | Polperro
+/search_records/66a73c65b18f7c6f8eb01c60/louis-curtis-1901-cornwall-lansallos-1894- :: Louis CURTIS | Cornwall | Lansallos | 1894 | 1901 | Cornwall | Lansallos
+/search_records/66a73c8eb18f7c6f8eb02270/ethelburt-curtis-1901-cornwall-lanteglos-highway-1895- :: Ethelburt CURTIS | Cornwall | Lanteglos | 1895 | 1901 | Cornwall | Polruan
+/search_records/6634cf2af493fdb1f9aed0dc/melena-curtis-1901-cornwall-talland-1896- :: Melena CURTIS | Cornwall | Polperro | 1896 | 1901 | Cornwall | Polperro
+/search_records/6634cf3ef493fdb1f9aed4db/edgar-curtis-1901-cornwall-talland-1896- :: Edgar CURTIS | Cornwall | Polperro | 1896 | 1901 | Cornwall | Polperro
+/search_records/66a73c65b18f7c6f8eb01c62/william-j-curtis-1901-cornwall-lansallos-1896- :: William J CURTIS | Cornwall | Lansallos | 1896 | 1901 | Cornwall | Lansallos
+/search_records/640045edf493fd0cee462639/victor-w-curtis-1901-cornwall-saltash-1897- :: Victor W CURTIS | Renfrewshire | Greenock | 1897 | 1901 | Cornwall | Saltash
+/search_records/6546eae3f493fd5fc8236b9c/francis-curtis-1901-cornwall-east-looe-1897- :: Francis CURTIS | Cornwall | East Looe (or E Looe) | 1897 | 1901 | Cornwall | East Looe
+/search_records/654a1d0ff493fd465e689132/william-c-curtis-1901-cornwall-paul-1898- :: William C CURTIS | Cornwall | Mousehole | 1898 | 1901 | Cornwall | Mousehole
+/search_records/66a73c58b18f7c6f8eb0191c/william-j-curtis-1901-cornwall-lansallos-1898- :: William J CURTIS | Cornwall | Polperro | 1898 | 1901 | Cornwall | Polperro
+/search_records/66a73c8eb18f7c6f8eb0226e/avilla-curtis-1901-cornwall-lanteglos-highway-1898- :: Avilla CURTIS | Cornwall | Lanteglos | 1898 | 1901 | Cornwall | Polruan
+/search_records/6634cf34f493fdb1f9aed2c1/rachel-curtis-1901-cornwall-talland-1899- :: Rachel CURTIS | Cornwall | Polperro | 1899 | 1901 | Cornwall | Polperro
+/search_records/66a73c8eb18f7c6f8eb02272/kate-curtis-1901-cornwall-lanteglos-highway-1899- :: Kate CURTIS | Cornwall | Lanteglos | 1899 | 1901 | Cornwall | Polruan
+/search_records/66a7431db18f7c9fa2c455ee/emily-curtis-1901-cornwall-kilkhampton-1900- :: Emily CURTIS | Cornwall | Kilkhampton | 1900 | 1901 | Cornwall | Morwenstow
+/search_records/66a73c58b18f7c6f8eb01920/fred-curtis-1901-cornwall-lansallos-1901- :: Fred CURTIS | Cornwall | Polperro | 1901 | 1901 | Cornwall | Polperro
+/search_records/66a73c8eb18f7c6f8eb02274/james-albert-curtis-1901-cornwall-lanteglos-highway-1901- :: James Albert CURTIS | Cornwall | Lanteglos | 1901 | 1901 | Cornwall | Polruan

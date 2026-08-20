@@ -1,0 +1,292 @@
+FreeBMD search: {'surname': 'Barratt', 'type_': 'Births', 'districtid': '118', 'start': 1837, 'end': 1850}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Mar1839
+Barratt
+ Grace 
+St Austell 
+9
+17
+Births  Mar1844
+BARRATT
+ Frederick James 
+St Austel 
+9
+1
+Births  Sep1845
+Barratt
+ William 
+St Austell 
+9
+3
+Births  Mar1849
+BARRATT
+ Eliza 
+St Austel 
+9
+8
+Births  Sep1849
+Barratt
+ John 
+St Austell 
+9
+3
+Births  Jun1851
+BARRATT
+ Thomas 
+St Austell 
+9
+15
+Births  Mar1852
+Barratt
+ Joseph 
+St Austell 
+5c
+142
+Births  Sep1852
+Barratt
+ Grace Ann 
+St Austell 
+5c
+135
+Births  Sep1853
+BARRATT
+ Ellen 
+St Austell 
+5c
+140
+Births  Mar1854
+Barratt
+ James 
+St Austell 
+5c
+137
+Barratt
+ John 
+St Austell 
+5c
+137
+Births  Dec1854
+BARRATT
+ Thomas 
+St Austell 
+5c
+151
+Births  Mar1855
+Barratt
+ Ann 
+St Austell 
+5c
+162
+Births  Mar1856
+BARRATT
+ Male 
+St Austell 
+5c
+161
+Births  Jun1858
+Barratt
+ Thomas Henry 
+St Austell 
+5c
+147
+Barratt
+ William Joshua 
+St Austell 
+5c
+154
+Births  Sep1858
+Barratt
+ Mary Anna 
+St Austell 
+5c
+142
+Barratt
+ William Charles Colwell 
+St Austell 
+5c
+143
+Births  Sep1859
+BARRATT
+ William 
+St Austell 
+5c
+143
+Births  Dec1859
+Barratt
+ William 
+St Austell 
+5c
+161
+Births  Jun1860
+BARRATT
+ Mary Ann 
+St Austell 
+5c
+144
+Births  Sep1860
+BARRATT
+ Frances 
+St Austell 
+5c
+143
+Births  Mar1861
+BARRATT
+ Mary Ann 
+St Austell 
+5c
+141
+Births  Jun1861
+Barratt
+ Alice Maud Mary 
+St Austell 
+5c
+165
+Births  Dec1861
+Barratt
+ Odessa 
+St Austell 
+5c
+140
+Births  Mar1862
+BARRATT
+ Elizabeth Ann 
+St Austell 
+5c
+148
+Births  Sep1862
+BARRATT
+ Jane 
+St Austell 
+5c
+121
+Births  Sep1863
+BARRATT
+ Bessie 
+St Austell 
+5c
+143
+BARRATT
+ James 
+St Austell 
+5c
+141
+Births  Dec1863
+BARRATT
+ Ellen 
+St Austell 
+5c
+140
+BARRATT
+ Hannah Jane 
+St Austell 
+5c
+140
+Births  Mar1865
+BARRATT
+ Mary Ann 
+St Austell 
+5c
+150
+BARRATT
+ Samuel 
+St Austell 
+5c
+139
+Births  Jun1867
+Barratt
+ James 
+St. Austell 
+5c
+135
+BARRATT
+ James 
+St. Austell 
+5e
+135
+Births  Jun1870
+BARRATT
+ Thomas Hugh 
+St.Austell 
+5c
+127
+Births  Dec1875
+Barratt
+ Ada 
+St. Austell 
+5c
+137
+Barratt
+ Mary Jane 
+St. Austell 
+5c
+122
+Births  Sep1881
+Barratt
+ Emily 
+St. Austell 
+5c
+106
+Births  Jun1884
+Barratt
+ Joshua Henry 
+St. Austell 
+5c
+134
+Births  Dec1886
+Barratt
+ Christiana 
+St. Austell 
+5c
+121
+Births  Mar1888
+BARRATT
+ Ellen 
+St Austell 
+5c
+104
+Births  Sep1889
+BARRATT
+ George 
+St. Austell 
+5c
+99
+Births  Mar1890
+Barratt
+ Frederick 
+St. Austell 
+5c
+117
+Births  Dec1898
+BARRATT
+ William Harold 
+St Austell 
+5c
+90
+Births  Jun1900
+BARRATT
+ Frederick Charles 
+St Austell 
+5c
+87
+Births  Jun1918
+Barratt
+ George A H 
+Goach 
+St. Austell 
+5c
+123
+Births  Sep1924
+Barratt
+ Gladys D 
+Hawkins 
+St. Austell 
+5c
+132

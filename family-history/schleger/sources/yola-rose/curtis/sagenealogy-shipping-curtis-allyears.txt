@@ -1,0 +1,54 @@
+GenealogySA (SAGHS) online database search
+Query: {'surname': 'Curtis', 'coll': 'shipping'}
+URL: https://www.genealogysa.org.au/index.php?option=com_gsa&view=gsa&layout=essearch&Itemid=193&collection_id=shipping&page_no=1&sort_by=&sort_direction=asc&Surname=Curtis&GivenName=&year_from=&accuracy=&ShipName=
+Retrieved 2026-08-19
+
+ROWS (48):
+BDM Registrations | Birth Registrations | 484 results
+Death Registrations | 504 results
+Marriage Registrations | 411 results
+Newspaper Notices | Newspaper Births | 918 results
+Newspaper Death Notices | 1226 results
+Newspaper Marriages | 625 results
+Newspaper Divorces | 14 results
+Cemeteries Burial Records | South Australia Cemeteries | 376 results
+Church Records | South Australian Church records - Burials | 12 results
+South Australian Church records - Baptisms | 38 results
+South Australian Church records - Marriages | 19 results
+South Australian Church Records - Other | 27 results
+Admission Records | South Australian School Admissions | 149 results
+Other Records | All Other Records | 1397 results
+Biographical Index of South Australians | 126 results
+Biographical Index of South Australians - Supplementary | 6 results
+Certificates-Australia and Overseas | 12 results
+Irish Born South Australians (IBSA) | 26 results
+Ship Passenger Arrivals in South Australia | 165 results
+Ships to South Australia | 0 results
+Shipping Passenger Departures from South Australia | 71 results
+South Australian Public Trustees/Deceased Estates | 139 results
+Surname | Given Names | Arrival Year | Action
+CURTIS | W | 1912 | View Details
+CURTIS | J | 1912 | View Details
+CURTIS |  | 1912 | View Details
+CURTIS |  | 1912 | View Details
+CURTIS |  | 1912 | View Details
+CURTIS |  | 1912 | View Details
+CURTIS | Doris | 1912 | View Details
+CURTIS | Henry | 1912 | View Details
+CURTIS |  | 1912 | View Details
+CURTIS | Arthur | 1912 | View Details
+CURTIS | Elva | 1912 | View Details
+CURTIS | Neale | 1912 | View Details
+CURTIS |  | 1911 | View Details
+CURTIS |  | 1911 | View Details
+CURTIS |  | 1911 | View Details
+CURTIS |  | 1911 | View Details
+CURTIS |  | 1911 | View Details
+CURTIS | T | 1912 | View Details
+CURTIS |  | 1912 | View Details
+CURTIS |  | 1912 | View Details
+CURTIS |  | 1912 | View Details
+CURTIS |  | 1912 | View Details
+CURTIS | F | 1912 | View Details
+CURTIS |  | 1912 | View Details
+CURTIS |  | 1912 | View Details

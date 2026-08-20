@@ -1,0 +1,38 @@
+FreeBMD search: {'surname': 'Normanton', 'type_': 'Births', 'countyid': 'CON,59,61', 'start': 1837, 'end': 1900}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+NO RESULTS / ERROR
+
+FreeBMD - Search
+Advertisement
+Advertisement
+Sorry, we found no matches.
+Search for
+Type:
+Births
+Surname:
+Normanton
+Start date:
+Dec 1837
+End date:
+Dec 1900
+County:
+Cornwall
+Has our search engine found the record you are seeking?
+Click 
+here
+ to learn what to do now.
+Don't understand the results? Can't find the record you are looking for?
+Perhaps our 
+Results Help
+ could have the answer.
+Do you have information about an entry other researchers might be interested in (e.g. the other spouse of a marriage)? Please consider leaving a 
+Postem
+.
+If FreeBMD has been of help in your search you may wish to consider making a 
+donation
+.
+FreeBMD hasn't yet transcribed the whole index - see 
+here
+ for w

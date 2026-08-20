@@ -1,0 +1,9 @@
+Cornwall OPC database burials search
+URL: https://www.cornwall-opc-database.org/search-database/burials/index.php?year_from=1700&year_to=1930&parish=&forename1=&surname1=Normanton&t=burials&bf=Search
+Retrieved 2026-08-19
+
+ROWS (4):
+ |  | Name | 
+Year | Parish Circuit Or Chapel | Forename | Surname | 
+1851 | Blazey, St. | Charles | NORMANTON | more
+1859 | Dominick, St. | Mary | NORMANTON | more

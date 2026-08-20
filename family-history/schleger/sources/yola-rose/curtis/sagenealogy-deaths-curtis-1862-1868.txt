@@ -1,0 +1,16 @@
+GenealogySA (SAGHS) online database search
+Query: {'surname': 'Curtis', 'year': '1865', 'acc': '3', 'coll': 'death'}
+URL: https://www.genealogysa.org.au/index.php?option=com_gsa&view=gsa&layout=essearch&Itemid=193&collection_id=death&page_no=1&sort_by=&sort_direction=asc&Surname=Curtis&GivenName=&year_from=1865&accuracy=3&ShipName=
+Retrieved 2026-08-19
+
+ROWS (10):
+Surname | First Names | Gender | District | Book/Page | Death Year | Action
+CURTIS | Frederick William | M | Adelaide | 25/319 | 1866 | View Details
+CURTIS | Albert | M | Clare | 22/510 | 1866 | View Details
+CURTIS | Jane | F | Adelaide | 33/216 | 1868 | View Details
+CURTIS | Henry | M | Adelaide | 15/270 | 1863 | View Details
+CURTIS | Mary Hudson | F | Adelaide | 15/186 | 1863 | View Details
+CURTIS | Jane | F | Adelaide | 15/153 | 1863 | View Details
+CURTIS | Emma Sarah | F | Barossa | 16/283 | 1863 | View Details
+CURTIS | Eliazar | M | Adelaide | 15/406 | 1864 | View Details
+CURTIS | Jane | F | Adelaide | 18/130 | 1865 | View Details

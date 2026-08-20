@@ -1,0 +1,14 @@
+FreeBMD births-jacklin-spilsby-margaret: {'surname': 'Holmes', 'given': 'Fanny Margaret', 'type_': 'Births', 'start': 1855, 'end': 1865}
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Mar1859
+HOLMES
+ Fanny Margaret 
+Spilsby 
+7a
+528

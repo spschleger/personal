@@ -1,0 +1,8 @@
+Cornwall OPC database marriages search
+URL: https://www.cornwall-opc-database.org/search-database/marriages/index.php?year_from=1820&year_to=1860&parish=&forename1=&surname1=Normanton&t=marriages&bf=Search
+Retrieved 2026-08-19
+
+ROWS (3):
+ |  | Groom | Bride | Witness 1 | Witness 2 | 
+Year | Parish Circuit Or Chapel | Forename | Surname | Forename | Surname | Forename | Surname | Forename | Surname | 
+1859 | Royal Cornwall Gazette | Richard | NORMANTON | Anna | HODGE |  |  |  |  | more

@@ -1,0 +1,15 @@
+FreeBMD search marr-skipworth-jacklin: {'surname': 'Skipworth', 's_surname': 'Jacklin', 'type_': 'Marriages', 'start': 1837, 'end': 1900}
+Source: https://www.freebmd.org.uk/cgi/search.pl
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Jun1856
+SKIPWORTH
+ Maria 
+Louth 
+7a
+1083

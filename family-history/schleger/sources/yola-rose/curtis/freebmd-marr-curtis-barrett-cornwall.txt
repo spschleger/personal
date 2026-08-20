@@ -1,0 +1,35 @@
+FreeBMD search: {'surname': 'Curtis', 's_surname': 'Barrett', 'type_': 'Marriages', 'countyid': 'CON,59,61', 'start': 1837, 'end': 1875}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Mar1843
+Curtis
+ William Henry 
+Liskeard 
+9
+181
+Marriages  Sep1850
+CURTIS
+ William 
+Truro 
+9
+368
+Marriages  Jun1870
+CURTIS
+ Charles 
+Liskeard 
+5c
+91
+Marriages  Dec1976
+CURTIS
+ RODNEY 
+BARRETT 
+STRATTON 
+21
+504

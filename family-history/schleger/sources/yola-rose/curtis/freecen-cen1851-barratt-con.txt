@@ -1,0 +1,75 @@
+FreeCEN2 search: last_name=Barratt chapman=CON record_type=1851
+URL: https://www.freecen.org.uk/search_queries
+Retrieved 2026-08-19
+
+HITS (70):
+/search_records/5a143484f4040b9d6e21d697/ann-barratt-1851-cornwall-padstow-1784- :: Ann BARRATT | Cornwall | Truro | 1784 | 1851 | Cornwall | Padstow
+/search_records/5a143c75f4040b9d6e2b6fa3/hugh-barratt-1851-cornwall-gwennap-1784- :: Hugh BARRATT | Cornwall | Gwennap | 1784 | 1851 | Cornwall | Gwennap
+/search_records/5a143c75f4040b9d6e2b6fa5/mary-barratt-1851-cornwall-gwennap-1791- :: Mary BARRATT | Cornwall | Gwennap | 1791 | 1851 | Cornwall | Gwennap
+/search_records/5a143904f4040b9d6e272935/john-barratt-1851-cornwall-st-clement-1796- :: John BARRATT | Cornwall | Gwennap | 1796 | 1851 | Cornwall | St Clement
+/search_records/5a143c7ef4040b9d6e2b8144/william-barratt-1851-cornwall-gwennap-1796- :: William BARRATT | Cornwall | Gwennap | 1796 | 1851 | Cornwall | Gwennap
+/search_records/5a143c7ef4040b9d6e2b8146/jenney-barratt-1851-cornwall-gwennap-1798- :: Jenney BARRATT | Cornwall | Gwennap | 1798 | 1851 | Cornwall | Gwennap
+/search_records/5a143468f4040b9d6e219cd9/john-barratt-1851-cornwall-padstow-1799- :: John BARRATT | Cornwall | St Breock | 1799 | 1851 | Cornwall | Padstow
+/search_records/5a1435f4f4040b9d6e237b9f/james-barratt-1851-cornwall-st-austell-1801- :: James BARRATT | Cornwall | St Austell | 1801 | 1851 | Cornwall | St Austell
+/search_records/5a143904f4040b9d6e27291b/william-barratt-1851-cornwall-st-clement-1801- :: William BARRATT | Cornwall | Gwennap | 1801 | 1851 | Cornwall | St Clement
+/search_records/5a143904f4040b9d6e27291d/elizth-barratt-1851-cornwall-st-clement-1806- :: Elizth BARRATT | Cornwall | Gwennap | 1806 | 1851 | Cornwall | St Clement
+/search_records/5a143484f4040b9d6e21d699/mary-ann-barratt-1851-cornwall-padstow-1807- :: Mary Ann BARRATT | Cornwall | Truro | 1807 | 1851 | Cornwall | Padstow
+/search_records/5a1438f7f4040b9d6e270ff9/elizabeth-barratt-1851-cornwall-st-clement-1807- :: Elizabeth BARRATT | Cornwall | Kenwyn | 1807 | 1851 | Cornwall | St Clement
+/search_records/5a1435f4f4040b9d6e237ba1/mary-barratt-1851-cornwall-st-austell-1811- :: Mary BARRATT | Devon (or Cornwall) | Tavistock | 1811 | 1851 | Cornwall | St Austell
+/search_records/5a142e42f4040b9d6e1a234a/william-barratt-1851-cornwall-kilkhampton-1812- :: William BARRATT | Cornwall | Poughill | 1812 | 1851 | Cornwall | Kilkhampton
+/search_records/6a30e719755f9fc843766640/william-barratt-1851-cornwall-poughill-1812- :: William BARRATT | Cornwall | Poughill | 1812 | 1851 | Cornwall | Poughill
+/search_records/5a142e42f4040b9d6e1a234c/elizabeth-barratt-1851-cornwall-kilkhampton-1815- :: Elizabeth BARRATT | Devon | Bradstone | 1815 | 1851 | Cornwall | Kilkhampton
+/search_records/6a30e719755f9fc843766642/elizabeth-barratt-1851-cornwall-poughill-1815- :: Elizabeth BARRATT | Devon | Bradstone | 1815 | 1851 | Cornwall | Poughill
+/search_records/5a143476f4040b9d6e21b986/hercules-barratt-1851-cornwall-padstow-1817- :: Hercules BARRATT | Cornwall | St Issey | 1817 | 1851 | Cornwall | Padstow
+/search_records/5a1437c1f4040b9d6e2584bd/kitty-barratt-1851-cornwall-probus-1818- :: Kitty BARRATT | Cornwall | Redruth | 1818 | 1851 | Cornwall | Probus
+/search_records/5a143476f4040b9d6e21b988/susan-barratt-1851-cornwall-padstow-1819- :: Susan BARRATT | Cornwall | St Breock | 1819 | 1851 | Cornwall | Padstow
+/search_records/5a143c7bf4040b9d6e2b7bcc/grace-barratt-1851-cornwall-gwennap-1819- :: Grace BARRATT | Cornwall | Gwennap | 1819 | 1851 | Cornwall | Gwennap
+/search_records/5a143c7bf4040b9d6e2b7bca/james-barratt-1851-cornwall-gwennap-1820- :: James BARRATT | Cornwall | Gwennap | 1820 | 1851 | Cornwall | Gwennap
+/search_records/5a143c75f4040b9d6e2b6fa7/mary-barratt-1851-cornwall-gwennap-1822- :: Mary BARRATT | Cornwall | Gwennap | 1822 | 1851 | Cornwall | Gwennap
+/search_records/5a1435f5f4040b9d6e237eb7/sarah-barratt-1851-cornwall-st-austell-1823- :: Sarah BARRATT | Cornwall | St Austell | 1823 | 1851 | Cornwall | St Austell
+/search_records/5a1438eff4040b9d6e26fe68/john-barratt-1851-cornwall-st-clement-1824- :: John BARRATT | Cornwall | Truro | 1824 | 1851 | Cornwall | St Clement
+/search_records/5a1438eff4040b9d6e26fe6a/mary-barratt-1851-cornwall-st-clement-1825- :: Mary BARRATT | Cornwall | Truro | 1825 | 1851 | Cornwall | St Clement
+/search_records/5a143c75f4040b9d6e2b6fa9/hugh-barratt-1851-cornwall-gwennap-1826- :: Hugh BARRATT | Cornwall | Gwennap | 1826 | 1851 | Cornwall | Gwennap
+/search_records/5a1438f7f4040b9d6e270fef/james-barratt-1851-cornwall-st-clement-1828- :: James BARRATT | Cornwall | Kenwyn | 1828 | 1851 | Cornwall | St Clement
+/search_records/5a143c7ef4040b9d6e2b8148/alice-barratt-1851-cornwall-gwennap-1828- :: Alice BARRATT | Cornwall | Gwennap | 1828 | 1851 | Cornwall | Gwennap
+/search_records/5a143143f4040b9d6e1dd355/anthony-barratt-1851-cornwall-callington-1829- :: Anthony BARRATT | Cornwall | Pillaton | 1829 | 1851 | Cornwall | Callington
+/search_records/5a143904f4040b9d6e272920/william-barratt-1851-cornwall-st-clement-1829- :: William BARRATT | Cornwall | Gwennap | 1829 | 1851 | Cornwall | St Clement
+/search_records/5a143143f4040b9d6e1dd1fa/john-barratt-1851-cornwall-callington-1830- :: John BARRATT | Cornwall | Callington | 1830 | 1851 | Cornwall | Callington
+/search_records/5a143143f4040b9d6e1dd219/hannah-barratt-1851-cornwall-callington-1830- :: Hannah BARRATT | Cornwall | Pillaton | 1830 | 1851 | Cornwall | Callington
+/search_records/5a143c7ef4040b9d6e2b814a/william-barratt-1851-cornwall-gwennap-1830- :: William BARRATT | Cornwall | Gwennap | 1830 | 1851 | Cornwall | Gwennap
+/search_records/5a1438f7f4040b9d6e270ff1/elizabeth-barratt-1851-cornwall-st-clement-1831- :: Elizabeth BARRATT | Cornwall | Kenwyn | 1831 | 1851 | Cornwall | St Clement
+/search_records/5a14338ff4040b9d6e20bece/susan-barratt-1851-cornwall-lanlivery-1831- :: Susan BARRATT | Cornwall | St Mabyn | 1831 | 1851 | Cornwall | Lanlivery
+/search_records/5a143904f4040b9d6e272922/caroline-barratt-1851-cornwall-st-clement-1832- :: Caroline BARRATT | Cornwall | Kenwyn | 1832 | 1851 | Cornwall | St Clement
+/search_records/5a143c7ef4040b9d6e2b814c/richard-barratt-1851-cornwall-gwennap-1833- :: Richard BARRATT | Cornwall | Gwennap | 1833 | 1851 | Cornwall | Gwennap
+/search_records/5a1438f7f4040b9d6e270ffb/mary-an-barratt-1851-cornwall-st-clement-1834- :: Mary An BARRATT | Cornwall | Kenwyn | 1834 | 1851 | Cornwall | St Clement
+/search_records/5a143904f4040b9d6e272924/elizth-barratt-1851-cornwall-st-clement-1834- :: Elizth BARRATT | Cornwall | Kenwyn | 1834 | 1851 | Cornwall | St Clement
+/search_records/5a143144f4040b9d6e1dd3e5/edward-barratt-1851-cornwall-callington-1835- :: Edward BARRATT | Cornwall | Callington | 1835 | 1851 | Cornwall | Callington
+/search_records/5a143c7ef4040b9d6e2b814e/john-barratt-1851-cornwall-gwennap-1836- :: John BARRATT | Cornwall | Gwennap | 1836 | 1851 | Cornwall | Gwennap
+/search_records/5a1435f4f4040b9d6e237ba3/john-barratt-1851-cornwall-st-austell-1836- :: John BARRATT | Cornwall | St Austell | 1836 | 1851 | Cornwall | St Austell
+/search_records/5a143903f4040b9d6e27281b/john-barratt-1851-cornwall-st-clement-1836- :: John BARRATT | Cornwall | Kenwyn | 1836 | 1851 | Cornwall | St Clement
+/search_records/5a143904f4040b9d6e272927/mary-barratt-1851-cornwall-st-clement-1836- :: Mary BARRATT | Cornwall | Kenwyn | 1836 | 1851 | Cornwall | St Clement
+/search_records/5a142ec7f4040b9d6e1acdd4/william-barratt-1851-cornwall-boscastle-1837- :: William BARRATT | Cornwall | Minster | 1837 | 1851 | Cornwall | Boscastle
+/search_records/5a143484f4040b9d6e21d69d/mary-barratt-1851-cornwall-padstow-1838- :: Mary BARRATT | Cornwall | Truro | 1838 | 1851 | Cornwall | Padstow
+/search_records/5a143904f4040b9d6e272929/ann-barratt-1851-cornwall-st-clement-1838- :: Ann BARRATT | Cornwall | Kenwyn | 1838 | 1851 | Cornwall | St Clement
+/search_records/5a143c7ef4040b9d6e2b8150/mary-barratt-1851-cornwall-gwennap-1838- :: Mary BARRATT | Cornwall | Gwennap | 1838 | 1851 | Cornwall | Gwennap
+/search_records/5a142e42f4040b9d6e1a234e/mary-m-barratt-1851-cornwall-kilkhampton-1839- :: Mary M BARRATT | Cornwall | Poughill | 1839 | 1851 | Cornwall | Kilkhampton
+/search_records/5a143903f4040b9d6e27281d/thomas-barratt-1851-cornwall-st-clement-1839- :: Thomas BARRATT | Cornwall | Kenwyn | 1839 | 1851 | Cornwall | St Clement
+/search_records/6a30e719755f9fc843766644/mary-m-barratt-1851-cornwall-poughill-1839- :: Mary M BARRATT | Cornwall | Poughill | 1839 | 1851 | Cornwall | Poughill
+/search_records/5a1437c1f4040b9d6e2584bf/john-barratt-1851-cornwall-probus-1841- :: John BARRATT | Cornwall | St Agnes | 1841 | 1851 | Cornwall | Probus
+/search_records/5a1435f4f4040b9d6e237ba5/anna-barratt-1851-cornwall-st-austell-1841- :: Anna BARRATT | Cornwall | St Columb Major | 1841 | 1851 | Cornwall | St Austell
+/search_records/5a143904f4040b9d6e27292b/thomas-barratt-1851-cornwall-st-clement-1841- :: Thomas BARRATT | Cornwall | Kenwyn | 1841 | 1851 | Cornwall | St Clement
+/search_records/5a1437c1f4040b9d6e2584c1/samuel-barratt-1851-cornwall-probus-1842- :: Samuel BARRATT | Cornwall | St Agnes | 1842 | 1851 | Cornwall | Probus
+/search_records/5a143904f4040b9d6e27292d/harriot-barratt-1851-cornwall-st-clement-1843- :: Harriot BARRATT | Cornwall | Kenwyn | 1843 | 1851 | Cornwall | St Clement
+/search_records/5a142e42f4040b9d6e1a2352/william-barratt-1851-cornwall-kilkhampton-1844- :: William BARRATT | Cornwall | Poughill | 1844 | 1851 | Cornwall | Kilkhampton
+/search_records/5a1437c1f4040b9d6e2584c3/william-barratt-1851-cornwall-probus-1844- :: William BARRATT | Cornwall | St Agnes | 1844 | 1851 | Cornwall | Probus
+/search_records/6a30e71a755f9fc843766648/william-barratt-1851-cornwall-poughill-1844- :: William BARRATT | Cornwall | Poughill | 1844 | 1851 | Cornwall | Poughill
+/search_records/5a143476f4040b9d6e21b98b/hercules-barratt-1851-cornwall-padstow-1845- :: Hercules BARRATT | Cornwall | Padstow | 1845 | 1851 | Cornwall | Padstow
+/search_records/5a143904f4040b9d6e27292f/emily-barratt-1851-cornwall-st-clement-1846- :: Emily BARRATT | Cornwall | Kenwyn | 1846 | 1851 | Cornwall | St Clement
+/search_records/5a1435f4f4040b9d6e237ba8/william-barratt-1851-cornwall-st-austell-1846- :: William BARRATT | Cornwall | St Austell | 1846 | 1851 | Cornwall | St Austell
+/search_records/5a143c7ef4040b9d6e2b824f/sarah-barratt-1851-cornwall-gwennap-1846- :: Sarah BARRATT | Cornwall | St Agnes | 1846 | 1851 | Cornwall | Gwennap
+/search_records/5a142e42f4040b9d6e1a2354/henry-barratt-1851-cornwall-kilkhampton-1847- :: Henry BARRATT | Cornwall | Poughill | 1847 | 1851 | Cornwall | Kilkhampton
+/search_records/6a30e71a755f9fc84376664a/henry-barratt-1851-cornwall-poughill-1847- :: Henry BARRATT | Cornwall | Poughill | 1847 | 1851 | Cornwall | Poughill
+/search_records/5a143476f4040b9d6e21b98d/phillipa-barratt-1851-cornwall-padstow-1848- :: Phillipa BARRATT | Cornwall | Padstow | 1848 | 1851 | Cornwall | Padstow
+/search_records/5a1435f4f4040b9d6e237bb2/eliza-barratt-1851-cornwall-st-austell-1849- :: Eliza BARRATT | Cornwall | St Austell | 1849 | 1851 | Cornwall | St Austell
+/search_records/5a1438eff4040b9d6e26fe6c/eliza-barratt-1851-cornwall-st-clement-1850- :: Eliza BARRATT | Cornwall | Truro | 1850 | 1851 | Cornwall | St Clement
+/search_records/5a143904f4040b9d6e272931/mary-ann-barratt-1851-cornwall-st-clement-1850- :: Mary Ann BARRATT | Cornwall | Kenwyn | 1850 | 1851 | Cornwall | St Clement

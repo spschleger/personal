@@ -1,0 +1,2627 @@
+FreeBMD search deaths-jacklin-louth: {'surname': 'Jacklin', 'type_': 'Deaths', 'districtid': '937', 'start': 1837, 'end': 1920}
+Source: https://www.freebmd.org.uk/cgi/search.pl (free index, no login)
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Deaths  Mar1838
+Jacklin
+ George 
+Louth 
+14
+326
+Jacklin
+ Mary Ann 
+Louth 
+14
+319
+Deaths  Dec1839
+Jacklin
+ Michael 
+Louth 
+14
+300
+Deaths  Jun1840
+JACKLIN
+ John 
+Louth 
+14
+345
+Deaths  Sep1840
+Jacklin
+ Miles 
+Louth 
+14
+294
+Deaths  Dec1840
+Jacklin
+ John 
+Louth 
+14
+332
+Deaths  Sep1841
+Jacklin
+ George John 
+Louth 
+14
+312
+Deaths  Dec1841
+JACKLIN
+ John 
+Louth 
+14
+322
+JACKLIN
+ William 
+Louth 
+14
+314
+Deaths  Mar1842
+JACKLIN
+ Mary 
+Louth 
+14
+330
+Deaths  Dec1842
+JACKLIN
+ Dinah 
+Louth 
+14
+298
+Deaths  Sep1843
+JACKLIN
+ William 
+Louth 
+14
+273
+Deaths  Dec1844
+JACKLIN
+ Jesse 
+Louth 
+14
+313
+Deaths  Mar1845
+JACKLIN
+ Sarah Ann 
+Louth 
+14
+365
+Deaths  Dec1845
+JACKLIN
+ John 
+Louth 
+14
+291
+Deaths  Sep1846
+JACKLIN
+ Benjamin 
+Louth 
+14
+398
+Deaths  Dec1846
+JACKLIN
+ John 
+Louth 
+14
+374
+Deaths  Mar1847
+Jacklin
+ George 
+Louth 
+14
+435
+Deaths  Jun1847
+Jacklin
+ John 
+Louth 
+14
+359
+Jacklin
+ Maria 
+Louth 
+14
+360
+Jacklin
+ Mary 
+Louth 
+14
+356
+Deaths  Sep1847
+JACKLIN
+ Hannah 
+Louth 
+14
+321
+Deaths  Dec1847
+JACKLIN
+ Charlotte 
+Louth 
+14
+342
+JACKLIN
+ Mary 
+Louth 
+14
+348
+Deaths  Mar1848
+JACKLIN
+ Ann 
+Louth 
+14
+419
+Deaths  Jun1848
+JACKLIN
+ Elizabeth 
+Louth 
+14
+375
+Deaths  Sep1848
+Jacklin
+ Henry 
+Louth 
+14
+335
+Jacklin
+ Mary 
+Louth 
+14
+329
+Deaths  Sep1850
+JACKLIN
+ Elizabeth 
+Louth 
+14
+323
+Deaths  Jun1851
+Jacklin
+ Thomas 
+Louth 
+14
+358
+Jacklin
+ William 
+Louth 
+14
+358
+Deaths  Dec1851
+Jacklin
+ Thomas 
+Louth 
+14
+[35]15
+JACKLIN
+ Tobias 
+Louth 
+14
+315
+JACKLIN
+ William Pell 
+Louth 
+14
+316
+Deaths  Mar1852
+JACKLIN
+ Thomas 
+Louth 
+7a
+354
+Deaths  Dec1852
+JACKLIN
+ Charlotte 
+Louth 
+7a
+334
+JACKLIN
+ Porter Clay 
+Louth 
+7a
+345
+Deaths  Mar1853
+Jacklin
+ Alice Fanny 
+Louth 
+7a
+380
+Jacklin
+ Nicholas 
+Louth 
+7a
+394
+Jacklin
+ Sabina 
+Louth 
+7a
+379
+Deaths  Jun1853
+Jacklin
+ Albert 
+Louth 
+7a
+348
+Jacklin
+ James 
+Louth 
+7a
+359
+Deaths  Sep1853
+Jacklin
+ Sabina 
+Louth 
+7a
+296
+Deaths  Mar1854
+Jacklin
+ George 
+Louth 
+7a
+375
+Deaths  Sep1854
+Jacklin
+ George 
+Louth 
+7a
+357
+Jacklin
+ Martha 
+Louth 
+7a
+358
+Deaths  Dec1854
+JACKLIN
+ Elizabeth 
+Louth 
+7a
+365
+Deaths  Mar1855
+Jacklin
+ Elizabeth 
+Louth 
+7a
+460
+Jacklin
+ Mary Ann 
+Louth 
+7a
+457
+Deaths  Jun1855
+Jacklin
+ Anna 
+Louth 
+7a
+351
+Jacklin
+ Bridget 
+Louth 
+7a
+357
+Jacklin
+ Maria 
+Louth 
+7a
+366
+Deaths  Sep1855
+Jacklin
+ George 
+Louth 
+7a
+272
+Jacklin
+ John 
+Louth 
+7a
+282
+Jacklin
+ John 
+Louth 
+7a
+283
+Deaths  Mar1856
+JACKLIN
+ Frances Cook 
+Louth 
+7a
+335
+JACKLIN
+ John William 
+Louth 
+7a
+328
+Deaths  Jun1856
+Jacklin
+ Sarah 
+Louth 
+7a
+335
+Jacklin
+ Sarah 
+Louth 
+7a
+332
+Deaths  Sep1857
+Jacklin
+ Christopher 
+Louth 
+7a
+356
+Jacklin
+ William 
+Louth 
+7a
+358
+Deaths  Dec1857
+Jacklin
+ Ann 
+Louth 
+7a
+340
+Jacklin
+ Ellen 
+Louth 
+7a
+345
+Deaths  Mar1858
+Jacklin
+ Christopher 
+Louth 
+7a
+443
+Deaths  Dec1858
+Jacklin
+ Martha 
+Louth 
+7a
+379
+Deaths  Mar1859
+JACKLIN
+ Esther 
+Louth 
+7a
+437
+Deaths  Mar1860
+Jacklin
+ Mehetable 
+Louth 
+7a
+401
+Jacklin
+ Mihctable 
+Louth 
+7a
+401
+Deaths  Sep1860
+Jacklin
+ George 
+Louth 
+7a
+300
+Deaths  Mar1861
+JACKLIN
+ Male 
+Louth 
+7a
+359
+Deaths  Jun1861
+Jacklin
+ Eliza 
+Louth 
+7a
+358
+Jacklin
+ Elizabeth 
+Louth 
+7a
+375
+Jacklin
+ Joseph 
+Louth 
+7a
+375
+Deaths  Sep1861
+Jacklin
+ John 
+Louth 
+7a
+361
+Deaths  Mar1862
+Jacklin
+ Susannah 
+Louth 
+7a
+367
+Deaths  Jun1862
+Jacklin
+ William 
+Louth 
+3a
+348
+Deaths  Sep1862
+Jacklin
+ Emma 
+Louth 
+7a
+303
+Deaths  Jun1863
+Jacklin
+ Eliza 
+Louth 
+7a
+384
+Jacklin
+ George 
+Louth 
+7a
+369
+Jacklin
+ Harriet 
+Louth 
+7a
+388
+Jacklin
+ Thomas 
+Louth 
+7a
+384
+Deaths  Sep1863
+Jacklin
+ Ambrose 
+Louth 
+7a
+392
+Jacklin
+ George 
+Louth 
+7a
+391
+Deaths  Jun1864
+Jacklin
+ John 
+Louth 
+7a
+373
+Deaths  Sep1864
+JACKLIN
+ Esther 
+Louth 
+7a
+335
+JACKLIN
+ Mary Ann 
+Louth 
+7a
+337
+Deaths  Dec1864
+Jacklin
+ Elizabeth 
+Louth 
+7a
+344
+Jacklin
+ Mehesabel 
+Louth 
+7a
+356
+Jacklin
+ Nehetabel 
+Louth 
+7a
+356
+Deaths  Mar1865
+JACKLIN
+ Francis 
+Louth 
+7a
+430
+Deaths  Sep1865
+Jacklin
+ William 
+Louth 
+7a
+355
+Deaths  Dec1866
+JACKLIN
+ Michael 
+75 
+Louth 
+7a
+329
+Deaths  Mar1867
+Jacklin
+ Joseph 
+37 
+Louth 
+7a
+419
+Jacklin
+ Mary 
+68 
+Louth 
+7a
+408
+Deaths  Jun1867
+JACKLIN
+ Sarah 
+23 
+Louth 
+7a
+357
+Deaths  Dec1867
+JACKLIN
+ Eliza 
+0 
+Louth 
+7a
+352
+JACKLIN
+ George 
+8 
+Louth 
+7a
+343
+JACKLIN
+ Thirza 
+76 
+Louth 
+7a
+341
+Deaths  Mar1868
+JACKLIN
+ Mary 
+76 
+Louth 
+7a
+379
+Deaths  Mar1869
+JACKLIN
+ Mary Jane 
+19 
+Louth 
+7a
+374
+Deaths  Jun1869
+JACKLIN
+ Elizabeth 
+64 
+Louth 
+7a
+373
+JACKLIN
+ Thomas 
+66 
+Louth 
+7a
+364
+Deaths  Sep1869
+JACKLIN
+ Mary 
+73 
+Louth 
+7a
+354
+Deaths  Mar1870
+JACKLIN
+ William 
+0 
+Louth 
+7a
+397
+Deaths  Sep1870
+JACKLIN
+ Charles 
+20 
+Louth 
+7a
+385
+JACKLIN
+ Mary 
+74 
+Louth 
+7a
+385
+JACKLIN
+ Mary Ann 
+60 
+Louth 
+7a
+385
+JACKLIN
+ William 
+85 
+Louth 
+7a
+378
+Deaths  Dec1870
+JACKLIN
+ Frank 
+0 
+Louth 
+7a
+373
+Deaths  Mar1872
+Jacklin
+ Jane Alice 
+0 
+Louth 
+7a
+400
+JACKLIN
+ Jane Alice 
+0 
+Louth 
+7a
+490
+Deaths  Jun1872
+JACKLIN
+ Mary 
+73 
+Louth 
+7a
+377
+JACKLIN
+ Mile 
+79 
+Louth 
+7a
+379
+JACKLIN
+ Miles 
+79 
+Louth 
+7a
+379
+Deaths  Jun1873
+Jacklin
+ Ann 
+85 
+Louth 
+7a
+379
+Jacklin
+ Rebecca 
+73 
+Louth 
+7a
+369
+Deaths  Sep1873
+Jacklin
+ George 
+2 
+Louth 
+7a
+357
+Deaths  Dec1873
+JACKLIN
+ Thomas 
+87 
+Louth 
+7a
+361
+Deaths  Mar1874
+JACKLIN
+ Sarah 
+48 
+Louth 
+7a
+383
+Deaths  Jun1874
+JACKLIN
+ Emma Jane 
+0 
+Louth 
+7a
+380
+Deaths  Dec1876
+Jacklin
+ Nicholas 
+84 
+Louth 
+7a
+364
+Deaths  Jun1877
+Jacklin
+ Harriet 
+45 
+Louth 
+7a
+398
+Deaths  Sep1877
+JACKLIN
+ Emma 
+15 
+Louth 
+7a
+349
+Deaths  Jun1878
+Jacklin
+ Maria 
+18 
+Louth 
+7a
+379
+Jacklin
+ William 
+76 
+Louth 
+7a
+385
+Deaths  Mar1879
+JACKLIN
+ Sabina 
+69 
+Louth 
+7a
+470
+Deaths  Sep1879
+Jacklin
+ Andrew Cook 
+0 
+Louth 
+7a
+337
+Deaths  Dec1879
+Jacklin
+ Elizabeth 
+46 
+Louth 
+7a
+391
+Deaths  Mar1880
+Jacklin
+ Joseph 
+65 
+Louth 
+7a
+413
+Deaths  Jun1880
+JACKLIN
+ Maria 
+42 
+Louth 
+7a
+353
+JACKLIN
+ Rebecca May 
+0 
+Louth 
+7a
+360
+Deaths  Sep1880
+Jacklin
+ Benjamin 
+87 
+Louth 
+7a
+422
+Jacklin
+ Walter Stovin 
+6 
+Louth 
+7a
+417
+Deaths  Dec1880
+JACKLIN
+ MARY 
+62 
+LOUTH 
+7a
+400
+Deaths  Mar1881
+JACKLIN
+ John William 
+0 
+Louth 
+7a
+395
+Deaths  Mar1882
+JACKLIN
+ Elizabeth Skipworth 
+3 
+Louth 
+7a
+377
+Deaths  Jun1882
+Jacklin
+ John 
+44 
+Louth 
+7a
+358
+Deaths  Dec1882
+JACKLIN
+ Ann 
+48 
+Louth 
+7a
+375
+JACKLIN
+ James Andrew 
+0 
+Louth 
+7a
+373
+Deaths  Mar1883
+Jacklin
+ William 
+54 
+Louth 
+7a
+397
+Deaths  Jun1883
+Jacklin
+ George 
+35 
+Louth 
+7a
+392
+Deaths  Mar1884
+Jacklin
+ William 
+66 
+Louth 
+7a
+387
+Deaths  Jun1884
+Jacklin
+ Thomas 
+56 
+Louth 
+7a
+365
+Deaths  Dec1884
+Jacklin
+ Eliza 
+56 
+Louth 
+7a
+392
+Deaths  Mar1885
+Jacklin
+ George 
+66 
+Louth 
+7a
+404
+JACKLIN
+ William 
+80 
+Louth 
+7a
+401
+Jacklin
+ William 
+80 
+Louth 
+7a
+404
+Deaths  Sep1885
+JACKLIN
+ Mary Ann 
+0 
+Louth 
+7a
+351
+Deaths  Dec1885
+Jacklin
+ Mary 
+75 
+Louth 
+7a
+355
+Deaths  Mar1886
+Jacklin
+ George Ernest 
+3 
+Louth 
+7a
+425
+Deaths  Jun1887
+JACKLIN
+ Betsy 
+0 
+Louth 
+7a
+367
+Deaths  Jun1888
+JACKLIN
+ Ethel 
+0 
+Louth 
+7a
+371
+Deaths  Jun1889
+JACKLIN
+ Mary Ann 
+89 
+Louth 
+7a
+353
+JACKLIN
+ Thomas 
+47 
+Louth 
+7a
+351
+Deaths  Sep1889
+JACKLIN
+ Hannah Lizzie 
+0 
+Louth 
+7a
+369
+Deaths  Sep1890
+Jacklin
+ Hannah 
+53 
+Louth 
+7a
+349
+Jacklin
+ William 
+74 
+Louth 
+7a
+849
+Deaths  Dec1890
+Jacklin
+ Ann Maria 
+31 
+Louth 
+7a
+383
+Deaths  Jun1891
+Jacklin
+ Ethel Fanny 
+0 
+Louth 
+7a
+543
+Jacklin
+ George 
+85 
+Louth 
+7a
+543
+Jacklin
+ Mary Jane 
+55 
+Louth 
+7a
+523
+Deaths  Sep1891
+Jacklin
+ Fanny Gertrude 
+0 
+Louth 
+7a
+341
+Jacklin
+ Joseph 
+74 
+Louth 
+7a
+341
+Deaths  Dec1891
+Jacklin
+ William 
+73 
+Louth 
+7a
+357
+Deaths  Mar1892
+Jacklin
+ Ann Maria B 
+1 
+Louth 
+7a
+435
+Jacklin
+ David Sydney 
+3 
+Louth 
+7a
+436
+Jacklin
+ Lily 
+1 
+Louth 
+7a
+436
+Deaths  Jun1892
+JACKLIN
+ Ellen 
+87 
+Louth 
+7a
+381
+JACKLIN
+ George 
+68 
+Louth 
+7a
+374
+JACKLIN
+ John Bacon 
+43 
+Louth 
+7a
+382
+JACKLIN
+ Mary Elizabeth 
+17 
+Louth 
+7a
+381
+Deaths  Sep1892
+Jacklin
+ Charles William 
+0 
+Louth 
+7a
+329
+Deaths  Mar1893
+Jacklin
+ Mary 
+0 
+Louth 
+7a
+378
+Jacklin
+ Mary 
+72 
+Louth 
+7a
+367
+Deaths  Mar1894
+Jacklin
+ Male 
+0 
+Louth 
+7a
+419
+Deaths  Mar1895
+Jacklin
+ Eve Kathleen 
+0 
+Louth 
+7a
+415
+Jacklin
+ Jane 
+0 
+Louth 
+7a
+423
+Deaths  Jun1895
+Jacklin
+ John Philip 
+0 
+Louth 
+7a
+359
+Deaths  Dec1896
+Jacklin
+ Elizabeth 
+74 
+Louth 
+7a
+361
+Deaths  Mar1897
+Jacklin
+ Annie 
+0 
+Louth 
+7a
+408
+Jacklin
+ George 
+80 
+Louth 
+7a
+407
+Deaths  Dec1897
+Jacklin
+ Charles 
+56 
+Louth 
+7a
+355
+Jacklin
+ Laura 
+0 
+Louth 
+7a
+358
+Deaths  Mar1898
+Jacklin
+ Henry 
+0 
+Louth 
+7a
+414
+Jacklin
+ Walter Stovin 
+0 
+Louth 
+7a
+417
+Deaths  Sep1898
+Jacklin
+ Frank 
+0 
+Louth 
+7a
+389
+Deaths  Dec1898
+Jacklin
+ Thomas 
+0 
+Louth 
+7a
+357
+Deaths  Jun1899
+Jacklin
+ David 
+79 
+Louth 
+7a
+373
+Deaths  Dec1899
+Jacklin
+ Joseph 
+64 
+Louth 
+7a
+385
+Jacklin
+ Mary 
+82 
+Louth 
+7a
+391
+Deaths  Mar1900
+Jacklin
+ Fanny 
+41 
+Louth 
+7a
+473
+Jacklin
+ John 
+0 
+Louth 
+7a
+488
+Jacklin
+ Mary 
+58 
+Louth 
+7a
+484
+Deaths  Jun1900
+Jacklin
+ Albert Ambrose 
+0 
+Louth 
+7a
+377
+Deaths  Dec1900
+Jacklin
+ Elizabeth 
+38 
+Louth 
+7a
+335
+Jacklin
+ John William 
+10 
+Louth 
+7a
+337
+Deaths  Mar1901
+Jacklin
+ Fanny 
+38 
+Louth 
+7a
+389
+Deaths  Jun1901
+Jacklin
+ Benjamin 
+10 
+Louth 
+7a
+353
+Jacklin
+ Elizabeth 
+0 
+Louth 
+7a
+349
+Deaths  Dec1901
+Jacklin
+ George 
+1 
+Louth 
+7a
+363
+Jacklin
+ Lucy 
+0 
+Louth 
+7a
+361
+Jacklin
+ Mary 
+66 
+Louth 
+7a
+362
+Deaths  Mar1902
+Jacklin
+ Ann 
+79 
+Louth 
+7a
+411
+Jacklin
+ George 
+79 
+Louth 
+7a
+407
+Jacklin
+ John 
+80 
+Louth 
+7a
+407
+Deaths  Mar1903
+Jacklin
+ Lily 
+4 
+Louth 
+7a
+375
+Deaths  Jun1903
+Jacklin
+ Abraham 
+72 
+Louth 
+7a
+337
+Deaths  Mar1904
+JACKLIN
+ Ann 
+34 
+Louth 
+7a
+417
+JACKLIN
+ William 
+67 
+Louth 
+7a
+409
+Deaths  Jun1904
+Jacklin
+ Charlotte 
+82 
+Louth 
+7a
+342
+Jacklin
+ Eliza 
+68 
+Louth 
+7a
+346
+Jacklin
+ George 
+72 
+Louth 
+7a
+350
+Deaths  Sep1904
+Jacklin
+ Evelyn Betsy 
+19 
+Louth 
+7a
+345
+Deaths  Dec1904
+JACKLIN
+ Florence Ella 
+4 
+Louth 
+7a
+381
+JACKLIN
+ Jane Arliss 
+64 
+Louth 
+7a
+374
+Deaths  Mar1905
+Jacklin
+ Alice Gertrude 
+0 
+Louth 
+7a
+415
+Jacklin
+ Alice Gertrude 
+0 
+Louth 
+7a
+416
+Jacklin
+ Henry 
+67 
+Louth 
+7a
+415
+Deaths  Jun1905
+Jacklin
+ Susan 
+62 
+Louth 
+7a
+341
+Deaths  Mar1906
+JACKLIN
+ Sidney 
+0 
+Louth 
+7a
+399
+Deaths  Jun1906
+JACKLIN
+ Henry 
+59 
+Louth 
+7a
+335
+Deaths  Sep1906
+Jacklin
+ Agnes Emily 
+0 
+Louth 
+7a
+341
+Deaths  Dec1906
+Jacklin
+ Edward 
+75 
+Louth 
+7a
+353
+Jacklin
+ Jane 
+68 
+Louth 
+7a
+341
+Deaths  Mar1907
+Jacklin
+ Charles 
+69 
+Louth 
+7a
+422
+Jacklin
+ Joseph 
+70 
+Louth 
+7a
+436
+Deaths  Sep1907
+Jacklin
+ Thomas 
+53 
+Louth 
+7a
+292
+Deaths  Mar1909
+JACKLIN
+ John 
+50 
+Louth 
+7a
+423
+JACKLIN
+ William 
+53 
+Louth 
+7a
+427
+Deaths  Jun1909
+Jacklin
+ George Parkinson 
+70 
+Louth 
+7a
+341
+Deaths  Mar1910
+JACKLIN
+ Charles 
+85 
+Louth 
+7a
+372
+Deaths  Jun1911
+Jacklin
+ Florence 
+20 
+Louth 
+7a
+326
+Deaths  Sep1911
+Jacklin
+ Ernest R 
+0 
+Louth 
+7a
+687
+Deaths  Mar1912
+Jacklin
+ Harriet 
+79 
+Louth 
+7a
+779
+Deaths  Dec1912
+Jacklin
+ Eva 
+0 
+Louth 
+7a
+637
+Deaths  Mar1915
+JACKLIN
+ Thirza M 
+38 
+Louth 
+7a
+903
+Deaths  Jun1915
+Jacklin
+ Joseph 
+48 
+Louth 
+7a
+721
+Deaths  Sep1915
+Jacklin
+ Walter 
+42 
+Louth 
+7a
+597
+Deaths  Dec1915
+Jacklin
+ Constance M 
+0 
+Louth 
+7a
+746
+Jacklin
+ Eliza 
+76 
+Louth 
+7a
+750
+Deaths  Mar1916
+Jacklin
+ Robert W 
+0 
+Louth 
+7a
+788
+Jacklin
+ Female 
+0 
+Louth 
+7a
+789
+Deaths  Sep1916
+Jacklin
+ Eve 
+44 
+Louth 
+7a
+561
+Deaths  Dec1916
+Jacklin
+ Mary A 
+75 
+Louth 
+7a
+726
+Jacklin
+ Tom 
+0 
+Louth 
+7a
+732
+Deaths  Jun1918
+Jacklin
+ George 
+77 
+Louth 
+7a
+625
+Deaths  Dec1919
+Jacklin
+ Mary 
+67 
+Louth 
+7a
+622
+Deaths  Jun1920
+JACKLIN
+ Ann 
+77 
+Louth 
+7a
+641
+Deaths  Sep1920
+JACKLIN
+ George 
+0 
+Louth 
+7a
+550
+Deaths  Dec1920
+JACKLIN
+ Herbert 
+22 
+Louth 
+7a
+632
+Deaths  Mar1922
+Jacklin
+ John T 
+63 
+Louth 
+7a
+802
+Deaths  Mar1923
+JACKLIN
+ Edith M 
+13 
+Louth 
+7a
+680
+Deaths  Dec1923
+JACKLIN
+ Charlotte 
+62 
+Louth 
+7a
+644
+Deaths  Jun1924
+Jacklin
+ Ivy 
+15 
+Louth 
+7a
+609
+Deaths  Dec1924
+Jacklin
+ John 
+87 
+Louth 
+7a
+612
+Deaths  Mar1925
+Jacklin
+ Robert 
+79 
+Louth 
+7a
+725
+Deaths  Mar1926
+Jacklin
+ Wilfred 
+67 
+Louth 
+7a
+686
+Deaths  Dec1928
+Jacklin
+ James 
+76 
+Louth 
+7a
+634
+Deaths  Jun1929
+Jacklin
+ Elizabeth 
+74 
+Louth 
+7a
+646
+Jacklin
+ Mary A 
+69 
+Louth 
+7a
+635
+Deaths  Sep1929
+JACKLIN
+ Edith G G 
+43 
+Louth 
+7a
+554
+Deaths  Mar1930
+Jacklin
+ John 
+72 
+Louth 
+7a
+673
+Deaths  Dec1930
+Jacklin
+ Moses A 
+81 
+Louth 
+7a
+614
+Deaths  Mar1931
+Jacklin
+ Ambrose 
+66 
+Louth 
+7a
+796
+Deaths  Jun1931
+Jacklin
+ George T 
+60 
+Louth 
+7a
+635
+Deaths  Mar1932
+Jacklin
+ Ann E 
+75 
+Louth 
+7a
+836
+Deaths  Sep1932
+Jacklin
+ John 
+73 
+Louth 
+7a
+572
+Deaths  Mar1933
+Jacklin
+ William 
+73 
+Louth 
+7a
+907
+Deaths  Sep1933
+Jacklin
+ Eliza 
+79 
+Louth 
+7a
+561
+Deaths  Mar1934
+Jacklin
+ Ernest K 
+43 
+Louth 
+7a
+711
+Deaths  Jun1934
+Jacklin
+ Charles S 
+12 
+Louth 
+7a
+604
+Deaths  Sep1934
+Jacklin
+ Mary A 
+70 
+Louth 
+7a
+514
+Deaths  Dec1934
+Jacklin
+ William 
+84 
+Louth 
+7a
+632
+Deaths  Mar1935
+Jacklin
+ George 
+66 
+Louth 
+7a
+704
+Jacklin
+ Leofric 
+35 
+Louth 
+7a
+700
+Jacklin
+ Mildred 
+74 
+Louth 
+7a
+684
+Deaths  Jun1935
+Jacklin
+ George 
+69 
+Louth 
+7a
+640
+Jacklin
+ Mary 
+72 
+Louth 
+7a
+645
+Deaths  Dec1935
+JACKLIN
+ Lucy A 
+49 
+Louth 
+7a
+668
+Deaths  Mar1937
+Jacklin
+ Ann 
+71 
+Louth 
+7a
+847
+Jacklin
+ Charlotte E 
+84 
+Louth 
+7a
+860
+Jacklin
+ Jacob 
+87 
+Louth 
+7a
+854
+Deaths  Dec1937
+Jacklin
+ Sarah 
+73 
+Louth 
+7a
+672
+Deaths  Mar1938
+Jacklin
+ David 
+75 
+Louth 
+7a
+705
+Jacklin
+ Thomas 
+72 
+Louth 
+7a
+710
+Deaths  Dec1939
+Jacklin
+ Leslie 
+35 
+Louth 
+7a
+1451
+Deaths  Mar1940
+Jacklin
+ Moses 
+83 
+Louth 
+7a
+1897
+Deaths  Dec1941
+Jacklin
+ Robert 
+82 
+Louth 
+7a
+1102
+Jacklin
+ William 
+68 
+Louth 
+7a
+1100
+Deaths  Dec1942
+Jacklin
+ John H 
+80 
+Louth 
+7a
+622
+Deaths  Dec1943
+JACKLIN
+ Elizabeth 
+70 
+Louth 
+7a
+760
+JACKLIN
+ John H 
+50 
+Louth 
+7a
+757
+Deaths  Mar1946
+Jacklin
+ Charles 
+76 
+Louth 
+7a
+751
+Deaths  Jun1946
+Jacklin
+ Ellen O 
+87 
+Louth 
+7a
+56_
+Jacklin
+ Fred 
+49 
+Louth 
+7a
+587
+Deaths  Dec1947
+Jacklin
+ David 
+72 
+Louth 
+3b
+303
+Jacklin
+ Ellen A 
+79 
+Louth 
+3b
+288
+Jacklin
+ Winifred 
+65 
+Louth 
+3b
+312
+Deaths  Mar1948
+Jacklin
+ Mary E 
+91 
+Louth 
+3b
+326
+Deaths  Mar1949
+Jacklin
+ Joseph W 
+64 
+Louth 
+3b
+408
+Deaths  Dec1949
+Jacklin
+ Martha 
+61 
+Louth 
+3b
+303
+Deaths  Jun1950
+JACKLIN
+ Edith M 
+55 
+Louth 
+3b
+316
+JACKLIN
+ Rebecca 
+80 
+Louth 
+3b
+316
+Deaths  Jun1951
+JACKLIN
+ Charles 
+78 
+Louth 
+3b
+299
+Deaths  Mar1953
+JACKLIN
+ John 
+82 
+Louth 
+3b
+445
+Deaths  Sep1953
+JACKLIN
+ Elizabeth 
+68 
+Louth 
+3b
+251
+Deaths  Mar1955
+JACKLIN
+ Charles H 
+78 
+Louth 
+3b
+418
+JACKLIN
+ Leonard 
+57 
+Louth 
+3b
+411
+Deaths  Mar1956
+JACKLIN
+ Dennis F 
+0 
+Louth 
+3b
+420
+JACKLIN
+ Robert 
+27 
+Louth 
+3b
+436
+JACKLIN
+ Sarah J 
+98 
+Louth 
+3b
+433
+Deaths  Dec1956
+Jacklin
+ Harriett J 
+85 
+Louth 
+3b
+305
+Deaths  Jun1957
+JACKLIN
+ Florence A 
+44 
+Louth 
+3b
+301
+Deaths  Sep1957
+JACKLIN
+ William 
+74 
+Louth 
+3b
+273
+Deaths  Mar1958
+JACKLIN
+ Susannah E 
+83 
+Louth 
+3b
+391
+Deaths  Sep1958
+JACKLIN
+ Minnie 
+47 
+Louth 
+3b
+264
+Deaths  Dec1958
+JACKLIN
+ Lucy 
+86 
+Louth 
+3b
+312
+Deaths  Sep1959
+JACKLIN
+ William 
+81 
+Louth 
+3b
+267
+Deaths  Dec1959
+JACKLIN
+ Hilda 
+43 
+Louth 
+3b
+307
+Deaths  Mar1960
+JACKLIN
+ Eric H 
+42 
+Louth 
+3b
+330
+JACKLIN
+ Florence 
+71 
+Louth 
+3b
+340
+Deaths  Jun1960
+JACKLIN
+ Maud L 
+72 
+Louth 
+3b
+313
+Deaths  Dec1961
+JACKLIN
+ Charles H 
+74 
+Louth 
+3b
+341
+JACKLIN
+ Naomi 
+81 
+Louth 
+3b
+339
+Deaths  Mar1962
+JACKLIN
+ Frank S 
+61 
+Louth 
+3b
+433
+JACKLIN
+ Sarah 
+52 
+Louth 
+3b
+447
+Deaths  Jun1962
+JACKLIN
+ Florence M 
+70 
+Louth 
+3b
+322
+Deaths  Sep1962
+JACKLIN
+ John G 
+76 
+Louth 
+3b
+270
+Deaths  Dec1962
+JACKLIN
+ Florence 
+68 
+Louth 
+3b
+354
+JACKLIN
+ George H 
+83 
+Louth 
+3b
+367
+Deaths  Mar1963
+JACKLIN
+ PHILIP 
+78 
+LOUTH 
+3B
+482
+Deaths  Jun1963
+JACKLIN
+ EDNA 
+85 
+LOUTH 
+3B
+328
+JACKLIN
+ FRANK 
+61 
+LOUTH 
+3B
+329
+Deaths  Jun1964
+JACKLIN
+ FLORENCE M 
+54 
+LOUTH 
+3B
+313
+Deaths  Sep1964
+JACKLIN
+ RICHARD 
+54 
+LOUTH 
+3B
+281
+Deaths  Dec1964
+JACKLIN
+ JOHN W 
+81 
+LOUTH 
+3B
+338
+Deaths  Jun1965
+JACKLIN
+ CHARLES 
+76 
+LOUTH 
+3B
+316
+Deaths  Dec1965
+JACKLIN
+ SOPHIS 
+81 
+Louth 
+3b
+350
+Deaths  Mar1967
+Jacklin
+ Jessie J 
+76 
+Louth 
+3b
+378
+Deaths  Jun1967
+Jacklin
+ George W 
+69 
+Louth 
+3b
+311
+Deaths  Sep1967
+Jacklin
+ John G 
+94 
+Louth 
+3b
+307
+Deaths  Sep1968
+JACKLIN
+ JOSEPH 
+67 
+LOUTH 
+3B
+300
+JACKLIN
+ RALPH 
+56 
+LOUTH 
+3B
+311
+Deaths  Dec1968
+JACKLIN
+ JOSEPH 
+83 
+LOUTH 
+3B
+363
+JACKLIN
+ JOSEPH C 
+41 
+LOUTH 
+3B
+364
+Deaths  Jun1969
+JACKLIN
+ Mary Ann 
+27Jy1873 
+Louth 
+3b
+872
+Deaths  Mar1970
+JACKLIN
+ Fred Wilfred 
+22Ap1876 
+Louth 
+3b
+1089
+Deaths  Jun1970
+JACKLIN
+ Nellie 
+28Ja1893 
+Louth 
+3b
+891
+JACKLIN
+ Sarah Ellen 
+1Fe1887 
+Louth 
+3b
+843
+JACKLIN
+ Walter 
+12Au1891 
+Louth 
+3b
+890
+Deaths  Sep1970
+JACKLIN
+ Florence 
+28No1881 
+Louth 
+3b
+791
+Deaths  Mar1971
+JACKLIN
+ Alice 
+21No1892 
+Louth 
+3b
+984
+JACKLIN
+ Susan Anne 
+8Ap1892 
+Louth 
+3b
+946
+Deaths  Dec1971
+JACKLIN
+ Arthur Tom 
+7Jy1871 
+Louth 
+3b
+954
+JACKLIN
+ Emily Catherine 
+3Ap1882 
+Louth 
+3b
+908
+JACKLIN
+ Ira Joseph 
+15No1877 
+Louth 
+3b
+929
+Deaths  Sep1972
+JACKLIN
+ Edith Georgina 
+11Fe1880 
+Louth 
+3b
+801
+Deaths  Mar1973
+JACKLIN
+ JOYCE 
+31JA1913 
+LOUTH 
+3B
+1069
+JACKLIN
+ ROBERT WILLIAM 
+24AP1910 
+LOUTH 
+3B
+1123
+Deaths  Sep1973
+JACKLIN
+ JACK 
+16JA1910 
+LOUTH 
+3B
+786
+Deaths  Jun1975
+JACKLIN
+ JOHN HENRY 
+15SE1888 
+LOUTH 
+7
+1829
+Deaths  Sep1975
+JACKLIN
+ SELINA 
+17OC1878 
+LOUTH 
+7
+1670
+Deaths  Sep1976
+JACKLIN
+ CHARLES 
+17FE1911 
+LOUTH 
+7
+1570
+Deaths  Dec1976
+JACKLIN
+ WILFRID 
+28JA1904 
+LOUTH 
+7
+1951
+Deaths  Jun1977
+JACKLIN
+ ALBERT ROWSON 
+17JY1905 
+LOUTH 
+7
+1892
+Deaths  Sep1977
+JACKLIN
+ HARRY 
+12AU1889 
+LOUTH 
+7
+1679
+Deaths  Dec1977
+Jacklin
+ George William 
+25MR1903 
+Louth 
+7
+1858
+Deaths  Mar1978
+JACKLIN
+ ANNIE RUTH 
+25MY1899 
+LOUTH 
+7
+2092
+JACKLIN
+ FRED URIOL E 
+8NO1909 
+LOUTH 
+7
+2112
+Deaths  Jun1979
+JACKLIN
+ EMILY 
+28JY1887 
+LOUTH 
+7
+1790
+JACKLIN
+ JANET ELIZABETH 
+14AU1927 
+LOUTH 
+7
+1819
+Deaths  Sep1979
+JACKLIN
+ ALICE MEDLEY 
+3MR1902 
+LOUTH 
+7
+1625
+Deaths  Mar1980
+JACKLIN
+ ERIC 
+22FE1936 
+LOUTH 
+7
+1974
+JACKLIN
+ ETHEL MAY 
+15SE1895 
+LOUTH 
+7
+2002
+Deaths  Sep1980
+JACKLIN
+ GWENDOLINE 
+29SE1904 
+LOUTH 
+7
+1675
+Deaths  Jun1981
+JACKLIN
+ CHARLES WILLIAM 
+3FE1885 
+LOUTH 
+7
+1769
+Deaths  Dec1981
+JACKLIN
+ ARTHUR 
+16JY1886 
+LOUTH 
+7
+2036
+JACKLIN
+ MARY OXLEY 
+20JA1904 
+LOUTH 
+7
+2041
+Deaths  Jun1982
+JACKLIN
+ ELLEN IVERNA 
+11NO1894 
+LOUTH 
+7
+1807
+Deaths  Dec1982
+JACKLIN
+ GEORGE 
+13DE1919 
+LOUTH 
+7
+1973
+Deaths  Mar1983
+JACKLIN
+ CLARA ANN 
+19DE1912 
+LOUTH 
+7
+2128
+JACKLIN
+ EMMA 
+23MR1891 
+LOUTH 
+7
+2109
+Deaths 1984
+JACKLIN
+ EDITH 
+9AP1895 
+LOUTH 
+7
+2065
+Deaths 1985
+JACKLIN
+ RUTH 
+23NO1911 
+LOUTH 
+7
+2227
+JACKLIN
+ WILFRED 
+31MY1907 
+LOUTH 
+7
+1898
+Deaths 1986
+JACKLIN
+ DOROTHY 
+18AU1945 
+LOUTH 
+7
+1821
+JACKLIN
+ THOMAS GEORGE 
+24DE1909 
+LOUTH 
+7
+1796
+Deaths 1987
+JACKLIN
+ HAROLD 
+23SE1905 
+LOUTH 
+7
+1929
+JACKLIN
+ WILFRED ERNEST 
+20DE1933 
+LOUTH 
+7
+1946
+Deaths 1988
+JACKLIN
+ BERTRAM JACK 
+30OC1906 
+LOUTH 
+7
+1940
+JACKLIN
+ SYDNEY 
+21MR1909 
+LOUTH 
+7
+1898
+Deaths 1990
+JACKLIN
+ CHARLES RANDOLPH 
+24SE1911 
+LOUTH 
+7
+2002
+JACKLIN
+ MILLICENT JANE 
+-AP1905 
+LOUTH 
+7
+1903
+Deaths 1991
+Jacklin
+ Ada 
+27JY1898 
+Louth 
+7
+1752
+Jacklin
+ Agnes Mary 
+29JY1906 
+Louth 
+7
+1794
+Jacklin
+ Annie 
+23OC1900 
+Louth 
+7
+1859
+Jacklin
+ Michael 
+19OC1969 
+Louth 
+7
+2123
+Jacklin
+ William Roland 
+23SE1913 
+Louth 
+7
+1990
+Deaths 1992
+JACKLIN
+ GERTRUDE 
+24FE1901 
+LOUTH 
+7
+1723
+Deaths 1994
+JACKLIN
+ ELSIE 
+1MY1921 
+LOUTH 
+6201
+254
+JACKLIN
+ JENNIFER EILEEN 
+18DE1946 
+LOUTH 
+6201
+78
+JACKLIN
+ JOHN HENRY 
+10AU1922 
+LOUTH 
+6201
+203
+Deaths 1996
+JACKLIN
+ PHILIP 
+13NO1929 
+LOUTH 
+6201
+79
+Deaths 1997
+JACKLIN
+ FLORENCE EDNA 
+9AP1909 
+LOUTH 
+6201
+163
+JACKLIN
+ FRANK 
+13JY1925 
+LOUTH 
+6201
+26
+JACKLIN
+ IRA HUBERT 
+10SE1913 
+LOUTH 
+6201
+166

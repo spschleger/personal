@@ -1,0 +1,955 @@
+FreeBMD search: {'surname': 'Curtis', 'type_': 'Births', 'districtid': '118', 'start': 1850, 'end': 1866}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Jun1838
+Curtis
+ James Penhall 
+St Austell 
+9
+3
+Births  Jun1841
+Curtis
+ John 
+St Austell 
+9
+12
+Births  Mar1842
+Curtis
+ Emma 
+St Austell 
+9
+3
+CURTIS
+ Emma 
+St Austel 
+9
+5
+Births  Jun1842
+Curtis
+ Elizabeth 
+St Austell 
+9
+11
+Births  Mar1844
+Curtis
+ Elizabeth Ann 
+St Austel 
+9
+8
+Births  Mar1845
+CURTIS
+ James 
+St Austell 
+9
+6
+Births  Mar1846
+CURTIS
+ James 
+St Austell 
+9
+12
+Births  Mar1847
+Curtis
+ Hellen 
+St Austell 
+9
+6
+Births  Sep1847
+Curtis
+ Elizabeth Jane 
+St Austel 
+9
+22
+Births  Mar1848
+Curtis
+ Anna 
+St Austell 
+9
+1
+Births  Dec1849
+CURTIS
+ John 
+S Austell 
+9
+5
+Births  Mar1850
+Curtis
+ William Henry 
+Austell St 
+9
+11
+Births  Jun1852
+Curtis
+ Catherine 
+St Austell 
+5c
+140
+Births  Dec1852
+CURTIS
+ Laura Augusta 
+St Austell 
+5c
+140
+Births  Jun1853
+CURTIS
+ Harriet 
+St Austell 
+5c
+152
+Births  Dec1853
+CURTIS
+ Julia Ann 
+St Austell 
+5c
+144
+Births  Jun1854
+CURTIS
+ Thomas 
+St Austell 
+5c
+150
+CURTIS
+ William 
+St Austell 
+5c
+158
+Births  Sep1854
+Curtis
+ Arthur Heber 
+St Austell 
+5c
+138
+Births  Mar1855
+Curtis
+ Lavinia 
+St Austell 
+5c
+166
+Births  Jun1855
+Curtis
+ Amelia 
+St Austell 
+5c
+152
+Births  Sep1855
+CURTIS
+ Harriet 
+St Austell 
+5c
+134
+CURTIS
+ Joseph 
+St Austell 
+5c
+149
+Births  Jun1856
+CURTIS
+ James 
+St Austell 
+5c
+154
+Births  Dec1857
+Curtis
+ Elizabeth Ann 
+St Austell 
+5c
+132
+Curtis
+ Odessa 
+St Austell 
+5c
+129
+Births  Mar1858
+Curtis
+ Georgiana 
+St Austell 
+5c
+171
+Births  Dec1858
+Curtis
+ John 
+St Austell 
+5C
+161
+Births  Dec1859
+Curtis
+ Harriet Ann 
+St Austell 
+5c
+147
+Births  Jun1860
+CURTIS
+ Eliza Jane 
+St Austell 
+5c
+156
+Births  Sep1863
+CURTIS
+ John 
+St Austell 
+5c
+156
+Births  Dec1863
+CURTIS
+ John 
+St Austell 
+5c
+137
+Births  Jun1865
+Curtis
+ Fred 
+St Austell 
+5c
+151
+Births  Sep1866
+CURTIS
+ Elizabeth 
+St. Austell 
+5c
+126
+Births  Dec1867
+CURTIS
+ Joseph Nettle 
+St. Austell 
+5c
+126
+Births  Sep1870
+CURTIS
+ Male 
+St. Austell 
+5a
+122
+Curtis
+ Male 
+St. Austell 
+5c
+122
+Births  Jun1871
+Curtis
+ Morley 
+St. Austell 
+5c
+131
+Births  Jun1873
+Curtis
+ Frederick Albert 
+St. Austell 
+5c
+119
+Births  Dec1873
+Curtis
+ Mary Anna N 
+St. Austell 
+5c
+131
+Births  Sep1874
+Curtis
+ John Alexander H 
+St. Austell 
+5c
+117
+Births  Sep1875
+Curtis
+ Alice Beatrice 
+St. Austell 
+5c
+108
+Births  Mar1876
+CURTIS
+ Frederick William 
+St.Austell 
+5c
+117
+Births  Dec1876
+CURTIS
+ Richard John 
+St. Austell 
+5c
+114
+Births  Mar1877
+CURTIS
+ Hannah Rebecca 
+St. Austell 
+5c
+117
+Births  Jun1877
+CURTIS
+ James Henry 
+St. Austell 
+5c
+130
+Births  Jun1878
+CURTIS
+ Clarissa 
+St. Austell 
+5c
+125
+Births  Mar1879
+CURTIS
+ Thomas Henry B 
+St. Austell 
+5c
+134
+Births  Sep1879
+CURTIS
+ Harry Rosewarne 
+St. Austell 
+5c
+133
+Births  Mar1880
+CURTIS
+ Thomas John 
+St. Austell 
+5c
+117
+CURTIS
+ Tomas John 
+St. Austell 
+5c
+117
+Births  Jun1881
+CURTIS
+ Mabel Ann B 
+St Austell 
+5c
+132
+Births  Sep1882
+CURTIS
+ Ethel Maud 
+St. Austell 
+5c
+131
+Births  Mar1883
+CURTIS
+ Beatrice Charlotte 
+St Austell 
+5c
+128
+Births  Mar1885
+CURTIS
+ Emily Elizabeth 
+St. Austell 
+5c
+126
+Births  Sep1885
+CURTIS
+ Edith 
+St. Austell 
+5c
+125
+Births  Mar1886
+CURTIS
+ Martha 
+St Austell 
+5c
+122
+Births  Jun1886
+Curtis
+ Florence Emma 
+St. Austell 
+5c
+122
+Births  Sep1887
+Curtis
+ Henry 
+St Austell 
+5c
+98
+Births  Dec1887
+Curtis
+ Joseph Nettle 
+St Austell 
+5c
+102
+Births  Jun1888
+CURTIS
+ Edward John 
+St. Austell 
+5c
+110
+Births  Jun1890
+CURTIS
+ William John 
+St. Austell 
+5c
+111
+Births  Sep1890
+CURTIS
+ Elizabeth Mary 
+St.Austell 
+5c
+117
+Births  Mar1892
+Curtis
+ Caroline Augusta O 
+St. Austell 
+5c
+110
+Births  Jun1892
+CURTIS
+ Ada Gwendoline 
+St.Austell 
+5c
+98
+Births  Jun1893
+Curtis
+ Alfred Henry 
+St. Austell 
+5c
+115
+Births  Sep1893
+Curtis
+ John Ralph 
+St. Austell 
+5c
+103
+Births  Mar1894
+CURTIS
+ Violet Enid 
+St. Austell 
+5c
+96
+Births  Mar1895
+CURTIS
+ George Leonard 
+St. Austell 
+5c
+111
+Births  Sep1895
+Curtis
+ Hilda Eveline 
+St. Austell 
+5c
+103
+Births  Dec1895
+Curtis
+ Reginald Gerard 
+St. Austell 
+5c
+104
+Births  Jun1899
+Curtis
+ Clarence Lionel 
+St. Austell 
+5c
+92
+Births  Dec1901
+Curtis
+ Willie 
+St. Austell 
+5c
+91
+Births  Mar1902
+CURTIS
+ Cyril Arthur 
+St Austell 
+5c
+87
+Births  Jun1902
+Curtis
+ James Bernard T 
+St. Austell 
+5c
+95
+Births  Dec1902
+CURTIS
+ Eugenia 
+St. Austell 
+5c
+82
+Births  Sep1903
+Curtis
+ Eva 
+St. Austell 
+5c
+97
+Births  Dec1903
+Curtis
+ Harold John 
+St Austell 
+5c
+85
+Births  Jun1905
+Curtis
+ Gwendoline May 
+St. Austell 
+5c
+88
+Births  Mar1906
+Curtis
+ Phyllis Lottie 
+St. Austell 
+5c
+92
+Births  Dec1907
+Curtis
+ Charles Heber 
+St. Austell 
+5c
+92
+Births  Mar1908
+Curtis
+ Edna May 
+St. Austell 
+5c
+85
+Curtis
+ Georgina 
+St. Austell 
+5c
+80
+Births  Mar1909
+CURTIS
+ Kathleen 
+St Austell 
+5c
+91
+Births  Jun1909
+CURTIS
+ Leslie Arthur 
+St Austell 
+5c
+93
+CURTIS
+ William Edward 
+St Austell 
+5c
+81
+Births  Dec1909
+CURTIS
+ William John 
+St Austell 
+5c
+85
+Births  Mar1910
+CURTIS
+ Maisie Pearl 
+St Austell 
+5c
+91
+Births  Dec1910
+CURTIS
+ Iris P 
+St.Austell 
+5c
+80
+Births  Mar1911
+CURTIS
+ Gladys M 
+St.Austell 
+5c
+80
+Births  Sep1911
+CURTIS
+ Richard G 
+Lamerton 
+St Austell 
+5c
+164
+Births  Dec1911
+Curtis
+ Narissa M 
+Odgers 
+St.Austell 
+5c
+158
+Births  Jun1912
+Curtis
+ Frederic J 
+Jewells 
+St.Austell 
+5c
+154
+Births  Dec1912
+Curtis
+ Dorothy I 
+Job 
+St.Austell 
+5c
+158
+Births  Sep1913
+Curtis
+ Dorothy A 
+Jewells 
+St. Austell 
+5c
+156
+Births  Dec1913
+CURTIS
+ FERNLEIGH C 
+TONKINS 
+St Austell 
+5c
+164
+CURTIS
+ STEPHEN R 
+ODGERS 
+St Austell 
+5c
+165
+Births  Jun1914
+CURTIS
+ Hilda N 
+Vivian 
+St Austell 
+5c
+149
+Births  Dec1916
+Curtis
+ Violet G 
+Tonkin 
+St Austell 
+5c
+137
+Births  Sep1920
+Curtis
+ Reginald W 
+Hibberd 
+St. Austell 
+5c
+187
+Births  Jun1921
+Curtis
+ William G B 
+Curtis 
+St.Austell 
+5c
+166
+Births  Mar1922
+Curtis
+ Grace L 
+Hibberd 
+St.Austell 
+5c
+161
+Births  Dec1922
+Curtis
+ Kathleen G N 
+Whale 
+St.Austell 
+5c
+142
+Births  Mar1924
+Curtis
+ Winnifred B 
+Lory 
+St. Austell 
+5c
+165
+Births  Sep1925
+Curtis
+ Elizabeth M 
+Lory 
+St. Austell 
+5c
+153
+Births  Dec1925
+Curtis
+ Morley J 
+Cahart 
+St.Austell 
+5c
+149
+Births  Mar1927
+Curtis
+ Arthur D 
+Carhart 
+St.Austell 
+5c
+132
+Births  Dec1929
+Curtis
+ Thelma 
+Poad 
+St Austell 
+5c
+119
+Births  Dec1938
+Curtis
+ Terence G 
+Kent 
+St.Austell 
+5c
+99
+Births  Jun1940
+CURTIS
+ John 
+Chidgey 
+St.Austell 
+5c
+334
+Births  Dec1940
+Curtis
+ Jane 
+Dawkins 
+St. Austell 
+5c
+265
+Births  Sep1942
+Curtis
+ Nicholas D 
+Dawkins 
+St Austell 
+5c
+125
+Births  Mar1943
+Curtis
+ Michael T 
+Billing 
+St.Austell 
+5c
+95
+Births  Dec1943
+Curtis
+ Paul R 
+Gordon 
+St.Austell 
+5c
+116
+Births  Jun1945
+Curtis
+ Shirley J 
+Lane 
+St.Austell 
+5c
+127
+Births  Sep1945
+CURTIS
+ Jacqueline 
+BROAD 
+St.Austell 
+5c
+108
+Births  Dec1946
+Curtis
+ Christopher J 
+Lane 
+St.Austell 
+7a
+227
+Births  Mar1947
+Curtis
+ Alan R 
+Castle 
+St.Austell 
+7a
+277
+Births  Sep1947
+Curtis
+ David J 
+Broad 
+St.Austell 
+7a
+258
+Births  Mar1948
+Curtis
+ Patricia D 
+Rundle 
+St Austell 
+7a
+223
+Births  Jun1950
+CURTIS
+ Robin M 
+BROAD 
+St.Austell 
+7a
+213
+Births  Dec1952
+Curtis
+ Colin N 
+Kent 
+St.Austell 
+7a
+192
+CURTIS
+ Richard E J 
+TOZER 
+St.Austell 
+7a
+193
+Births  Jun1953
+CURTIS
+ Susan M 
+COAD 
+St.Austell 
+7a
+201
+Births  Dec1955
+CURTIS
+ Michael A 
+GRIBBLE 
+St.Austell 
+7a
+187
+Births  Jun1957
+CURTIS
+ Leslie R 
+PASCOE 
+St.Austell 
+7a
+196
+Births  Jun1959
+Curtis
+ Anthony D 
+Pascoe 
+St.Austell 
+7a
+200
+Births  Mar1961
+CURTIS
+ Jeremy R 
+BROAD 
+St.Austell 
+7a
+210
+Births  Sep1961
+CURTIS
+ Gordon C 
+PASCOE 
+St. Austell 
+7a
+198
+Births  Jun1962
+CURTIS
+ Frederick P 
+GRIBBLE 
+St.Austell 
+7a
+202
+Births  Sep1965
+CURTIS
+ PATRICK 
+THOMAS 
+ST.AUSTELL 
+7A
+244
+Births  Mar1966
+CURTIS
+ GARY MARK B 
+SMERDON 
+ST.AUSTELL 
+7A
+224
+Births  Dec1966
+CURTIS
+ COLIN MARK 
+JANE 
+ST.AUSTELL 
+7A
+195
+CURTIS
+ GARY FRANCIS 
+BREWER 
+ST.AUSTELL 
+7A
+210
+Births  Mar1967
+Curtis
+ Beverley Jean G 
+Garland 
+St.Austell 
+7a
+191
+Curtis
+ Duncan Robert 
+Mackenzie 
+St.Austell 
+7a
+191
+Curtis
+ Paul Alan 
+Curtis 
+St.Austell 
+7a
+202
+Births  Jun1967
+Curtis
+ Mark John 
+Blemings 
+St.Austell 
+7a
+217
+Births  Mar1968
+CURTIS
+ TRACY 
+JANE 
+ST.AUSTELL 
+7A
+206
+Births  Mar1969
+CURTIS
+ PATRICIA JAYNE 
+RICHARDS 
+ST.AUSTELL 
+7A
+141
+Births  Sep1969
+CURTIS
+ Shaun 
+BLEMINGS 
+St.Austell 
+7a
+298
+Births  Jun1971
+CURTIS
+ Christopher 
+MACKENZIE 
+St.Austell 
+7a
+286
+Births  Mar1974
+CURTIS
+ Antony Stephen 
+HOOPER 
+St.Austell 
+7a
+209
+CURTIS
+ Rachael Elizabeth 
+MAC-KENZIE 
+St.Austell 
+7a
+193
+Births  Jun1977
+CURTIS
+ AMANDA 
+ALLEN 
+ST AUSTELL 
+21
+122
+Births  Mar1980
+CURTIS
+ KEVIN CHARLES 
+ROUSE 
+ST AUSTELL 
+21
+90
+Births  Mar1983
+Curtis
+ Emma Victoria R 
+Booth 
+St Austell 
+21
+82
+Births 1995
+CURTIS
+ JESSICA DEA 
+LAW 
+ST AUSTELL 
+3673
+2
+Births 1996
+CURTIS
+ REECE DEAN 
+MACKENZIE 
+ST AUSTELL 
+3671C
+41

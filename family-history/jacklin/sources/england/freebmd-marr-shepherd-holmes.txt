@@ -1,0 +1,1140 @@
+FreeBMD search marr-shepherd-holmes: {'surname': 'Shepherd', 's_surname': 'Holmes', 'type_': 'Marriages', 'start': 1837, 'end': 1890}
+Source: https://www.freebmd.org.uk/cgi/search.pl
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Dec1838
+SHEPHERD
+ Frances 
+Rochdale 
+21
+417
+Marriages  Jun1839
+SHEPHERD
+ Elizabeth 
+Wortley 
+22
+516
+Marriages  Sep1839
+SHEPHERD
+ Rebecca 
+Alverstoke 
+7
+19
+Marriages  Mar1840
+SHEPHERD
+ Robert 
+Rochdale 
+21
+397
+Marriages  Jun1840
+SHEPHERD
+ George 
+Wantage 
+6
+377
+Marriages  Dec1840
+SHEPHERD
+ Elizabeth 
+Bradford 
+23
+208
+Marriages  Jun1841
+SHEPHERD
+ Sarah 
+Huddersfield 
+22
+207
+Marriages  Sep1841
+SHEPHERD
+ Thomas 
+York 
+23
+553
+SHEPHERD
+ William 
+Bradford 
+23
+341
+Marriages  Jun1842
+SHEPHERD
+ Jonathan 
+Whitehaven 
+25
+173
+Marriages  Sep1842
+SHEPHERD
+ Sarah 
+Skipton 
+23
+405
+Marriages  Dec1842
+SHEPHERD
+ Elizabeth 
+Stepney 
+2
+395
+SHEPHERD
+ Henry 
+Birmingham 
+16
+437
+Marriages  Mar1843
+Shepherd
+ Mary 
+Rotherham 
+22
+259
+Marriages  Jun1843
+SHEPHERD
+ Robert 
+Bury 
+21
+159
+Marriages  Dec1843
+Shepherd
+ Henry 
+Poplar 
+2
+308
+Shepherd
+ Sarah 
+Hackney 
+3
+120
+Marriages  Jun1844
+SHEPHERD
+ Joseph 
+Leeds 
+23
+336
+Marriages  Dec1844
+SHEPHERD
+ John 
+Bradford Y 
+23
+218
+Marriages  Mar1845
+SHEPHERD
+ John 
+Whitehaven 
+25
+147
+Marriages  Jun1845
+Shepherd
+ John 
+Bradford Yk 
+23
+154
+Marriages  Dec1845
+SHEPHERD
+ Eliza 
+Goole 
+23
+319
+Marriages  Mar1846
+SHEPHERD
+ Emma 
+Amesbury 
+8
+369
+SHEPHERD
+ Joseph 
+St Pancras 
+1
+344
+Marriages  Jun1846
+Shepherd
+ Hannah 
+Knaresboro 
+23
+333
+Marriages  Sep1846
+Shepherd
+ Jane 
+Martley 
+18
+451
+Shepherd
+ Jane 
+Otley 
+23
+440
+Marriages  Dec1846
+Shepherd
+ Mary Ann 
+W London 
+2
+297
+Marriages  Jun1847
+SHEPHERD
+ Mary Ann 
+Radford 
+15
+863
+Marriages  Dec1847
+SHEPHERD
+ William 
+Rotherham 
+22
+441
+Marriages  Jun1848
+SHEPHERD
+ Ann 
+Basford 
+15
+672
+SHEPHERD
+ William 
+Basford 
+15
+672
+Marriages  Sep1849
+Shepherd
+ Sarah Ann 
+Dewsbury 
+22
+7
+Marriages  Dec1849
+Shepherd
+ Ann 
+Basford 
+15
+887
+Shepherd
+ Edwin 
+Market Bosworth 
+15
+325
+Shepherd
+ John 
+Market Bosworth 
+15
+325
+Shepherd
+ Joseph 
+Market Bosworth 
+15
+325
+Marriages  Mar1850
+Shepherd
+ Joseph 
+York 
+23
+701
+Marriages  Jun1850
+Shepherd
+ Alice 
+Boston 
+14
+357
+Marriages  Sep1850
+Shepherd
+ Mary 
+Basford 
+15
+667
+Marriages  Jun1851
+Shepherd
+ William 
+Pewsey 
+8
+691
+Marriages  Dec1851
+SHEPHERD
+ Henry 
+Basford 
+15
+893
+SHEPHERD
+ Sabina 
+Andover 
+7
+57
+SHEPHERD
+ Thomas 
+Derby 
+19
+615
+Marriages  Dec1852
+SHEPHERD
+ Susanna 
+Hoxne 
+4a
+1091
+Marriages  Sep1853
+SHEPHERD
+ Joseph 
+Barrow 
+7a
+221
+Marriages  Dec1853
+Shepherd
+ George 
+W Derby 
+8b
+661
+Marriages  Sep1855
+Shepherd
+ John 
+Rochdale 
+8e
+42
+Marriages  Dec1855
+SHEPHERD
+ Joseph 
+M Bosworth 
+7a
+203
+Marriages  Dec1857
+Shepherd
+ Hannah 
+Bingham 
+7b
+533
+Marriages  Dec1858
+Shepherd
+ John 
+Kendal 
+10b
+899
+Shepherd
+ Mary 
+M.Bosworth 
+7a
+186
+Shepherd
+ Thomas 
+Mt. Bosworth 
+7a
+186
+Marriages  Dec1859
+Shepherd
+ Ann 
+York 
+9d
+51
+Marriages  Mar1861
+SHEPHERD
+ Sarah 
+Sunderland 
+10a
+373
+Marriages  Mar1862
+Shepherd
+ James 
+Chichester 
+2b
+415
+Shepherd
+ William 
+Wantage 
+2c
+407
+Marriages  Dec1863
+SHEPHERD
+ Sarah Priscilla 
+Holbeach 
+7a
+747
+Marriages  Mar1864
+Shepherd
+ Ann 
+Martley 
+6c
+347
+Marriages  Jun1864
+Shepherd
+ Edward 
+Steyning 
+2b
+386
+Marriages  Sep1864
+SHEPHERD
+ Eliza 
+Hull 
+9d
+300
+Marriages  Mar1865
+Shepherd
+ Matilda Margarette 
+Beverley 
+9d
+156
+Marriages  Jun1865
+Shepherd
+ James 
+St Giles 
+1b
+713
+Marriages  Dec1869
+SHEPHERD
+ Edmund 
+Tadcaster 
+9c
+967
+Marriages  Jun1870
+SHEPHERD
+ John 
+Durham 
+10a
+457
+Marriages  Dec1870
+SHEPHERD
+ Maria 
+Ashby Z. 
+7a
+213
+Marriages  Jun1871
+SHEPHERD
+ Jane 
+Lunesdale 
+8e
+999
+Marriages  Sep1872
+SHEPHERD
+ Eliza 
+Pewsey 
+5a
+263
+Marriages  Mar1875
+Shepherd
+ Robert Louis 
+W. Derby 
+8b
+671
+Marriages  Dec1876
+Shepherd
+ James 
+Bury 
+8c
+601
+Marriages  Dec1877
+Shepherd
+ Henry 
+Honiton 
+5b
+54
+Marriages  Sep1878
+Shepherd
+ Emma 
+West Derby 
+8b
+540
+Marriages  Dec1879
+SHEPHERD
+ Harriett 
+Nottingham 
+7b
+536
+SHEPHERD
+ Margaret 
+Settle 
+9a
+15
+Marriages  Dec1880
+Shepherd
+ Sarah Ann 
+Shoreditch 
+1c
+218
+Marriages  Mar1881
+SHEPHERD
+ William Wells 
+Halifax 
+9a
+556
+Marriages  Jun1881
+Shepherd
+ William 
+Wetherby 
+9a
+209
+Marriages  Sep1881
+Shepherd
+ Robert Vernon 
+Pancras 
+1b
+213
+Shepherd
+ Thomas 
+Holborn 
+1b
+1233
+Marriages  Jun1882
+SHEPHERD
+ David 
+Huddersfield 
+9a
+471
+SHEPHERD
+ Edward Wolfington 
+Barrow F. 
+8e
+1263
+Marriages  Sep1883
+Shepherd
+ Alice 
+Lewisham 
+1d
+1497
+Marriages  Dec1883
+SHEPHERD
+ Benjamin 
+Wandsworth 
+1d
+1142
+Marriages  Dec1885
+Shepherd
+ William 
+Cockermouth 
+10b
+843
+Marriages  Mar1887
+Shepherd
+ Thomas 
+Basford 
+7b
+147
+Marriages  Sep1887
+SHEPHERD
+ Mary 
+Wandsworth 
+1d
+1069
+Marriages  Sep1889
+Shepherd
+ Elizabeth 
+Kendal 
+10b
+1082
+Marriages  Dec1889
+SHEPHERD
+ Bluebell Edith E 
+Holbeach 
+7a
+1209
+Marriages  Sep1890
+Shepherd
+ Richard 
+Leicester 
+7a
+300
+Marriages  Dec1890
+Shepherd
+ Richard 
+Gateshead 
+10a
+1328
+Marriages  Sep1891
+SHEPHERD
+ Esther 
+Bury 
+8c
+794
+SHEPHERD
+ Florence Gertrude 
+Bath 
+5c
+904
+SHEPHERD
+ Kate 
+Pontefract 
+9c
+139
+SHEPHERD
+ Richard 
+Derby 
+7b
+824
+Marriages  Dec1891
+Shepherd
+ William 
+Nottingham 
+7b
+633
+Marriages  Sep1892
+SHEPHERD
+ Florence Alexandra 
+Toxteth Park 
+8b
+503
+Marriages  Sep1893
+SHEPHERD
+ Agnes 
+Northampton 
+3b
+212
+Marriages  Dec1893
+Shepherd
+ William 
+Keighley 
+9a
+343
+Marriages  Jun1894
+Shepherd
+ Jane 
+Garstang 
+8e
+1164
+Marriages  Jun1895
+Shepherd
+ Gertrude 
+Ongar 
+4a
+472
+Shepherd
+ James 
+Ulverston 
+8e
+1301
+Marriages  Mar1896
+Shepherd
+ Mathew 
+Rochdale 
+8e
+23
+Marriages  Sep1896
+Shepherd
+ Arthur 
+Derby 
+7b
+935
+Marriages  Sep1897
+SHEPHERD
+ Ada Elizabeth 
+Mansfield 
+7b
+155
+Marriages  Dec1897
+SHEPHERD
+ Robert 
+Haslingden 
+8e
+206
+Marriages  Mar1898
+SHEPHERD
+ Alfred 
+Woodbridge 
+4a
+1039
+Marriages  Sep1899
+SHEPHERD
+ Walter 
+Gt. Ouseburn 
+9a
+165
+Marriages  Jun1900
+Shepherd
+ Elizabeth 
+Blackburn 
+8e
+868
+Shepherd
+ Margaret Jane 
+Barrow F. 
+8e
+1617
+Marriages  Sep1900
+Shepherd
+ James 
+Sheffield 
+9c
+797
+Marriages  Sep1901
+SHEPHERD
+ Annie 
+Nantwich 
+8a
+647
+SHEPHERD
+ Charles William 
+Halifax 
+9a
+184
+Marriages  Dec1901
+SHEPHERD
+ Annie Margaret 
+Bramley 
+9b
+607
+Marriages  Sep1902
+Shepherd
+ Harriett 
+Nottingham 
+7b
+677
+Marriages  Dec1902
+SHEPHERD
+ Elizabeth Mary A 
+Bethnal G. 
+1c
+456
+Marriages  Jun1903
+Shepherd
+ David 
+Barnsley 
+9c
+342
+Marriages  Dec1903
+Shepherd
+ Joseph 
+Bury 
+8c
+933
+Marriages  Mar1904
+SHEPHERD
+ Mary Jane 
+Caistor 
+7a
+955
+Marriages  Jun1904
+Shepherd
+ James 
+Salford 
+8d
+237
+Marriages  Sep1905
+Shepherd
+ James 
+Burnley 
+8e
+569
+Marriages  Sep1906
+Shepherd
+ Daniel 
+Liverpool 
+8b
+292
+Marriages  Dec1906
+Shepherd
+ Rose 
+Kingston 
+2a
+729
+Marriages  Mar1907
+Shepherd
+ Elizabeth Harriett 
+Caistor 
+7a
+1079
+Shepherd
+ Emily Ann 
+Leigh 
+8c
+325
+Marriages  Jun1907
+SHEPHERD
+ Ruth Elizabeth 
+Wharfedale 
+9a
+269
+Marriages  Dec1907
+SHEPHERD
+ Olive Mabel 
+Wandsworth 
+1d
+1221
+Marriages  Sep1908
+Shepherd
+ Albert Edward 
+Sheffield 
+9c
+790
+Marriages  Mar1909
+Shepherd
+ Fanny 
+Bradford 
+9b
+9
+Marriages  Sep1910
+Shepherd
+ Arthur 
+Bradford 
+9b
+188
+Marriages  Mar1911
+SHEPHERD
+ Gertrude R 
+Holborn 
+1b
+750
+Marriages  Jun1911
+Shepherd
+ Albert E 
+Basford 
+7b
+402
+Shepherd
+ Tom 
+Shardlow 
+7b
+1144
+Marriages  Dec1913
+Shepherd
+ Alfred 
+Holmes 
+Burnley 
+8e
+487
+Marriages  Mar1915
+Shepherd
+ Sarah I 
+Holmes 
+Cockermouth 
+10b
+1023
+Marriages  Sep1915
+Shepherd
+ Albert 
+Holmes 
+Halifax 
+9a
+1241
+Marriages  Dec1917
+Shepherd
+ Rebecca 
+Holmes 
+Leicester 
+7a
+629
+Marriages  Mar1921
+Shepherd
+ Clara E 
+Holmes 
+Nottingham 
+7b
+777
+Shepherd
+ Robert 
+Holmes 
+Thanet 
+2a
+2248
+Marriages  Jun1923
+Shepherd
+ Victor J D 
+Holmes 
+Mile End 
+1c
+489
+Marriages  Jun1924
+Shepherd
+ Fred 
+Holmes 
+Chesterfield 
+7b
+1795
+Marriages  Sep1925
+Shepherd
+ George H 
+Holmes 
+Morpeth 
+10b
+799
+Marriages  Sep1926
+Shepherd
+ Thomas E 
+Holmes 
+Middlesbro' 
+9d
+1223
+Marriages  Mar1929
+Shepherd
+ Lilian 
+Holmes 
+Burton 
+6b
+572
+Marriages  Sep1930
+Shepherd
+ Elizabeth A 
+Holmes 
+Preston 
+8e
+1485
+Marriages  Mar1931
+Shepherd
+ Margaret 
+Holmes 
+Leeds South 
+9b
+604
+Marriages  Sep1932
+Shepherd
+ Edyth M 
+Holmes 
+Stamford 
+7a
+1054
+Marriages  Sep1933
+Shepherd
+ Sydney 
+Holmes 
+Nottingham 
+7b
+960
+Marriages  Jun1940
+Shepherd
+ Robert 
+Holmes 
+Westmorland S. 
+10b
+2161
+Marriages  Jun1941
+Shepherd
+ Ernest 
+Holmes 
+Leeds 
+9b
+659
+Marriages  Jun1945
+Shepherd
+ Samuel C 
+Holmes 
+Cleethorpes 
+7a
+2052
+Marriages  Mar1946
+Shepherd
+ Jessie E 
+Holmes 
+Calder 
+9a
+1085
+Marriages  Sep1947
+Shepherd
+ George H 
+Holmes 
+Westmorland S. 
+1b
+1355
+Marriages  Jun1948
+Shepherd
+ Freda 
+Holmes 
+Bolton 
+10b
+1283
+Marriages  Jun1949
+Shepherd
+ Leonard 
+Holmes 
+Bradford 
+2b
+346
+Marriages  Mar1950
+Shepherd
+ Henry G 
+Holmes 
+W.Ham 
+5a
+1233
+Marriages  Dec1950
+SHEPHERD
+ Dorothy 
+HOLMES 
+Pontefract 
+2c
+1095
+Marriages  Sep1952
+SHEPHERD
+ Percival H 
+HOLMES 
+Swindon 
+7c
+1499
+Marriages  Mar1953
+SHEPHERD
+ Arthur 
+HOLMES 
+Sheffield 
+2d
+71
+Marriages  Mar1955
+SHEPHERD
+ Violet A 
+HOLMES 
+W.Bromwich 
+9b
+2172
+Marriages  Jun1955
+SHEPHERD
+ Andrew E 
+HOLMES 
+Chesterfield 
+3a
+344
+SHEPHERD
+ Florence M 
+HOLMES 
+Blackburn 
+10b
+580
+Marriages  Sep1958
+SHEPHERD
+ Audrey 
+HOLMES 
+Durham S.E. 
+1a
+1716
+Marriages  Dec1958
+SHEPHERD
+ Eric 
+HOLMES 
+Manchester 
+10e
+767
+SHEPHERD
+ Raymond L 
+HOLMES 
+Reading 
+6a
+216
+Marriages  Mar1959
+SHEPHERD
+ Mary 
+HOLMES 
+Nthmbld.S. 
+1b
+866
+Marriages  Sep1959
+SHEPHERD
+ Barbara 
+HOLMES 
+Pontypridd 
+8b
+1169
+Marriages  Sep1960
+SHEPHERD
+ Raymond E 
+Holmes 
+Gosport 
+6b
+774
+SHEPHERD
+ Richard F 
+Holmes 
+Stoke 
+9b
+1503
+Marriages  Jun1961
+SHEPHERD
+ Kenneth A 
+HOLMES 
+Eton 
+6a
+854
+Marriages  Dec1964
+SHEPHERD
+ KENNETH 
+HOLMES 
+CHESTERFIELD 
+3A
+303
+Marriages  Mar1965
+SHEPHERD
+ Sylvia J 
+Holmes 
+Bridge 
+5b
+168
+Marriages  Dec1965
+SHEPHERD
+ JOHN 
+HOLMES 
+COALVILLE 
+3A
+1077
+Marriages  Mar1966
+SHEPHERD
+ FRANCES N 
+HOLMES 
+NEWTON A 
+7A
+1093
+Marriages  Jun1970
+SHEPHERD
+ Jacqueline 
+HOLMES 
+Calder 
+2b
+584
+Marriages  Sep1974
+SHEPHERD
+ TREVOR D 
+HOLMES 
+WATFORD 
+10
+1233
+Marriages  Sep1980
+SHEPHERD
+ FRENESEE J 
+HOLMES 
+BIRKENHEAD 
+37
+981
+SHEPHERD
+ RUSSELL N 
+HOLMES 
+HULL 
+7
+1033
+Marriages 1985
+SHEPHERD
+ CHRISTINE Y 
+HOLMES 
+E CLEVELAND 
+3
+2238
+SHEPHERD
+ SUSAN 
+HOLMES 
+NORWICH OUT 
+10
+1372
+Marriages 1986
+SHEPHERD
+ GAIL E 
+HOLMES 
+WREKIN 
+30
+328
+Marriages 1989
+SHEPHERD
+ JACQUELINE 
+HOLMES 
+LEIGHTON B 
+9
+280
+Marriages 1990
+SHEPHERD
+ LINDA M 
+HOLMES 
+WREKIN 
+30
+674
+SHEPHERD
+ PAUL A 
+HOLMES 
+LEEDS 
+5
+613
+Marriages 1991
+SHEPHERD
+ FRANK J 
+HOLMES 
+ANDOVER 
+20
+200
+Marriages 1994
+SHEPHERD
+ MARTIN K 
+HOLMES 
+N E HANTS 
+495
+830

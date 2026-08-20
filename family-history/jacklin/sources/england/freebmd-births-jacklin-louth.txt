@@ -1,0 +1,3565 @@
+FreeBMD search births-jacklin-louth: {'surname': 'Jacklin', 'type_': 'Births', 'districtid': '937', 'start': 1837, 'end': 1900}
+Source: https://www.freebmd.org.uk/cgi/search.pl (free index, no login)
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Dec1837
+Jacklin
+ George Parkinson 
+Louth 
+14
+367
+Jacklin
+ John 
+Louth 
+14
+359
+Births  Mar1838
+Jacklin
+ Henry 
+Louth 
+14
+451
+Births  Sep1838
+JACKLIN
+ Thomas 
+Louth 
+14
+434
+Births  Dec1838
+Jacklin
+ Edmund 
+Louth 
+14
+442
+Jacklin
+ Martha 
+Louth 
+14
+447
+Jacklin
+ Mary Ann 
+Louth 
+14
+441
+Births  Jun1839
+Jacklin
+ Elizabeth 
+Louth 
+14
+469
+Jacklin
+ Thomas 
+Louth 
+14
+460
+Births  Sep1839
+JACKLIN
+ Martha 
+Louth 
+14
+462
+Births  Dec1839
+Jacklin
+ Emma 
+Louth 
+14
+475
+Births  Mar1840
+Jacklin
+ James 
+Louth 
+14
+484
+Births  Sep1840
+Jacklin
+ Ann 
+Louth 
+14
+468
+Births  Dec1840
+Jacklin
+ George Thomas 
+Louth 
+14
+465
+Births  Mar1841
+Jacklin
+ George 
+Louth 
+14
+497
+Births  Jun1841
+Jacklin
+ Eliza 
+Louth 
+14
+480
+Jacklin
+ Maria 
+Louth 
+14
+483
+Births  Sep1841
+Jacklin
+ Ann 
+Louth 
+14
+456
+Jacklin
+ Mary 
+Louth 
+14
+469
+Births  Dec1841
+Jacklin
+ John 
+Louth 
+14
+465
+Jacklin
+ Mary Ann 
+Louth 
+14
+463
+Births  Jun1842
+JACKLIN
+ Ann 
+Louth 
+14
+498
+Births  Sep1842
+Jacklin
+ Eliza Margaret 
+Louth 
+14
+483
+Births  Dec1842
+Jacklin
+ William Pell 
+Louth 
+14
+467
+Births  Mar1843
+Jacklin
+ Jane 
+Louth 
+14
+514
+Births  Sep1843
+JACKLIN
+ Benjamin 
+Louth 
+14
+480
+JACKLIN
+ Charles 
+Louth 
+14
+473
+Births  Dec1843
+JACKLIN
+ Susanna 
+Louth 
+14
+487
+JACKLIN
+ Thomas Stubbs 
+Louth 
+14
+487
+Births  Mar1844
+Jacklin
+ Jesse 
+Louth 
+14
+504
+Births  Jun1844
+Jacklin
+ Emma 
+Louth 
+14
+316
+Jacklin
+ Emma 
+Louth 
+14
+516
+Births  Sep1844
+Jacklin
+ Charlotte 
+Louth 
+14
+462
+Births  Dec1844
+JACKLIN
+ Sarah Ann 
+Louth 
+14
+461
+Births  Sep1845
+Jacklin
+ George Bradshaw 
+Louth 
+14
+479
+Jacklin
+ Mitty 
+Louth 
+14
+479
+Births  Dec1845
+Jacklin
+ Mahala Salome 
+Louth 
+14
+486
+Jacklin
+ Robert 
+Louth 
+14
+478
+Births  Mar1846
+JACKLIN
+ Cassandra 
+Louth 
+14
+499
+JACKLIN
+ Eliza 
+Louth 
+14
+486
+JACKLIN
+ Eliza Mary 
+Louth 
+14
+493
+JACKLIN
+ James 
+Louth 
+14
+506
+Births  Sep1846
+Jacklin
+ Thomas 
+Louth 
+14
+488
+Births  Dec1846
+Jacklin
+ Henry 
+Louth 
+14
+509
+Jacklin
+ Mary 
+Louth 
+14
+497
+Jacklin
+ Mary Ellen 
+Louth 
+14
+507
+Births  Mar1847
+Jacklin
+ Charlotte Parker 
+Louth 
+14
+55_
+Jacklin
+ Elizabeth 
+Louth 
+14
+54_
+Jacklin
+ Maria 
+Louth 
+14
+53[35]
+Jacklin
+ William 
+Louth 
+14
+539
+Births  Jun1847
+JACKLIN
+ Mary Ann 
+Louth 
+14
+502
+Births  Jun1848
+Jacklin
+ Elizabeth 
+Louth 
+14
+534
+Jacklin
+ Henry 
+Louth 
+14
+540
+Jacklin
+ Robert Shearsmith 
+Louth 
+14
+535
+Births  Sep1848
+JACKLIN
+ George 
+Louth 
+14
+516
+JACKLIN
+ Sarah Ann 
+Louth 
+14
+513
+Births  Dec1848
+Jacklin
+ William 
+Louth 
+14
+493
+Births  Mar1849
+Jacklin
+ John Backon 
+Louth 
+14
+557
+Births  Jun1849
+JACKLIN
+ John 
+Louth 
+14
+552
+Births  Sep1849
+Jacklin
+ Jacob 
+Louth 
+14
+518
+Jacklin
+ Moses Ambrose 
+Louth 
+14
+514
+Births  Dec1849
+JACKLIN
+ Charles 
+Louth 
+14
+489
+JACKLIN
+ Mary Ann 
+Louth 
+14
+490
+JACKLIN
+ Mary Jane 
+Louth 
+14
+479
+Births  Jun1850
+Jacklin
+ John 
+Louth 
+14
+568
+Births  Sep1850
+Jacklin
+ George 
+Louth 
+14
+543
+Jacklin
+ William 
+Louth 
+14
+531
+Births  Dec1850
+Jacklin
+ Albert 
+Louth 
+14
+519
+Births  Sep1851
+Jacklin
+ John 
+Louth 
+14
+532
+Jacklin
+ Maria 
+Louth 
+14
+516
+Births  Mar1852
+JACKLIN
+ Charlotte 
+Louth 
+7a
+557
+JACKLIN
+ Hannah 
+Louth 
+7a
+557
+JACKLIN
+ James 
+Louth 
+7a
+560
+JACKLIN
+ Nickle 
+Louth 
+7a
+551
+Births  Jun1852
+Jacklin
+ Porter Clay 
+Louth 
+7a
+529
+Jacklin
+ Rachel Ann 
+Louth 
+7a
+525
+Births  Sep1852
+Jacklin
+ Fanny 
+Louth 
+7a
+516
+Births  Dec1852
+JACKLIN
+ Alice Fanny 
+Louth 
+7a
+494
+Births  Mar1853
+Jacklin
+ Christopher 
+Louth 
+7a
+555
+Births  Jun1853
+Jacklin
+ James 
+Louth 
+7a
+533
+Births  Sep1853
+JACKLIN
+ Emma Jane 
+Louth 
+7a
+500
+JACKLIN
+ George 
+Louth 
+7a
+492
+JACKLIN
+ Martha Ann 
+Louth 
+7a
+517
+Births  Dec1853
+JACKLIN
+ William Towell 
+Louth 
+7a
+510
+Births  Jun1854
+JACKLIN
+ Anne Emma 
+Louth 
+7a
+353
+Jacklin
+ Anne Emma 
+Louth 
+7a
+553
+Births  Sep1854
+JACKLIN
+ George 
+Louth 
+7a
+520
+JACKLIN
+ John William 
+Louth 
+7a
+505
+Births  Dec1854
+Jacklin
+ Mary Ann 
+Louth 
+7a
+506
+Jacklin
+ Sabina 
+Louth 
+7a
+506
+Births  Mar1855
+Jacklin
+ Thomas 
+Louth 
+7a
+530a
+Births  Jun1855
+JACKLIN
+ John 
+Louth 
+7a
+524
+Births  Sep1855
+JACKLIN
+ James 
+Louth 
+7a
+527
+Births  Dec1855
+Jacklin
+ Thomas David 
+Louth 
+7a
+530
+Jacklin
+ William 
+Louth 
+7a
+528
+Births  Mar1856
+JACKLIN
+ Frances Cook 
+Louth 
+7a
+559
+JACKLIN
+ Sarah Jane 
+Louth 
+7a
+561
+Births  Jun1856
+JACKLIN
+ Fanny 
+Louth 
+7a
+572
+JACKLIN
+ John Williams 
+Louth 
+7a
+571
+Births  Dec1856
+Jacklin
+ Esther 
+Louth 
+7a
+529
+Births  Mar1857
+Jacklin
+ John William 
+Louth 
+7a
+541
+Jacklin
+ Margaret Ann 
+Louth 
+7a
+559
+Jacklin
+ Thomas 
+Louth 
+7a
+560
+Births  Jun1857
+Jacklin
+ Caroline 
+Louth 
+7a
+545
+Jacklin
+ George 
+Louth 
+7a
+546
+Jacklin
+ Moses 
+Louth 
+7a
+554
+Births  Sep1857
+JACKLIN
+ Ann 
+Louth 
+7a
+512
+JACKLIN
+ Ellen 
+Louth 
+7a
+513
+JACKLIN
+ Frederic 
+Louth 
+7a
+511
+JACKLIN
+ Harriet 
+Louth 
+7a
+511
+JACKLIN
+ John 
+Louth 
+7a
+514
+Births  Mar1858
+Jacklin
+ Christopher 
+Louth 
+7a
+547
+Jacklin
+ Ellen 
+Louth 
+7a
+551
+Births  Jun1858
+Jacklin
+ William Frederick 
+Louth 
+7a
+526
+Births  Sep1858
+Jacklin
+ George Alfred 
+Louth 
+7a
+508
+Jacklin
+ John 
+Louth 
+7a
+507
+Jacklin
+ John Towell 
+Louth 
+7a
+513
+Births  Mar1859
+JACKLIN
+ Alfred 
+Louth 
+7a
+541
+JACKLIN
+ Betsey Ann 
+Louth 
+7a
+558
+JACKLIN
+ George 
+Louth 
+7a
+539
+JACKLIN
+ John 
+Louth 
+7a
+558
+Births  Jun1859
+Jacklin
+ Elizabeth 
+Louth 
+7a
+549
+Jacklin
+ Robert 
+Louth 
+7a
+545
+Jacklin
+ Female 
+Louth 
+7a
+546
+Births  Sep1859
+Jacklin
+ Fanny 
+Louth 
+7a
+545
+Jacklin
+ Sarah Helen 
+Louth 
+7a
+543
+Jacklin
+ Thirza 
+Louth 
+7a
+531
+Births  Mar1860
+JACKLIN
+ Eliza 
+Louth 
+7a
+583
+JACKLIN
+ Joseph 
+Louth 
+7a
+583
+JACKLIN
+ Martha 
+Louth 
+7a
+583
+Births  Sep1860
+JACKLIN
+ George 
+Louth 
+7a
+541
+JACKLIN
+ George William 
+Louth 
+7a
+535
+Births  Mar1861
+JACKLIN
+ Maria 
+Louth 
+7a
+512
+JACKLIN
+ Male 
+Louth 
+7a
+522
+Births  Sep1861
+JACKLIN
+ Emma Eliza 
+Louth 
+7a
+553
+Births  Dec1861
+Jacklin
+ Emma 
+Louth 
+7a
+539
+Births  Mar1862
+JACKLIN
+ Elizabeth 
+Louth 
+7a
+555
+JACKLIN
+ Fred 
+Louth 
+7a
+551
+JACKLIN
+ John Henry 
+Louth 
+7a
+557
+JACKLIN
+ William 
+Louth 
+7a
+551
+Births  Jun1862
+JACKLIN
+ David 
+Louth 
+7a
+567
+Births  Sep1862
+JACKLIN
+ Harriet 
+Louth 
+7a
+540
+JACKLIN
+ Harriet Hannah 
+Louth 
+7a
+542
+JACKLIN
+ Martha Jane 
+Louth 
+7a
+518
+JACKLIN
+ William 
+Louth 
+7a
+545
+Births  Dec1862
+JACKLIN
+ Charles 
+Louth 
+7a
+543
+JACKLIN
+ Emma 
+Louth 
+7a
+541
+Births  Mar1863
+JACKLIN
+ Esther 
+Louth 
+7a
+553
+JACKLIN
+ George 
+Louth 
+7a
+582
+JACKLIN
+ Mary Ann 
+Louth 
+7a
+553
+JACKLIN
+ Richard 
+Louth 
+7a
+574
+JACKLIN
+ Thomas 
+Louth 
+7a
+573
+Births  Sep1863
+JACKLIN
+ Anne Jane 
+Louth 
+7a
+538
+Births  Mar1864
+JACKLIN
+ Elizabeth 
+Louth 
+7a
+578
+Births  Jun1864
+JACKLIN
+ Charles 
+South 
+7a
+570
+JACKLIN
+ Charles 
+South 
+7a
+547
+JACKLIN
+ Frederic John 
+Louth 
+7a
+546
+JACKLIN
+ Lucy Jane 
+Louth 
+7a
+567
+Births  Sep1864
+JACKLIN
+ Fanny Jane 
+Louth 
+7a
+561
+JACKLIN
+ Jesse 
+Louth 
+7a
+546
+JACKLIN
+ Louisa Jane 
+Louth 
+7a
+562
+JACKLIN
+ Mary 
+Louth 
+7a
+547
+Births  Dec1864
+JACKLIN
+ Benjamin 
+Louth 
+7a
+558
+JACKLIN
+ Elizabeth 
+Louth 
+7a
+531
+JACKLIN
+ Emma 
+Louth 
+7a
+552
+JACKLIN
+ Robert 
+Louth 
+7a
+560
+Births  Jun1865
+Jacklin
+ Emma Lucy 
+Louth 
+7a
+568
+Jacklin
+ Robert 
+Louth 
+7a
+574
+Births  Dec1865
+Jacklin
+ Charles 
+Louth 
+7a
+526
+Births  Mar1866
+Jacklin
+ James 
+Louth 
+7a
+585
+Births  Jun1866
+Jacklin
+ George 
+Louth 
+7a
+580
+Jacklin
+ George 
+Louth 
+7a
+572
+Jacklin
+ Isabella 
+Louth 
+7a
+592
+Jacklin
+ Sarah A 
+Louth 
+7a
+567
+JACKLIN
+ Sarah A 
+Louth 
+7a
+667
+Births  Dec1866
+Jacklin
+ Joseph 
+Louth 
+7a
+553
+Jacklin
+ Mary A 
+Louth 
+7a
+547
+Births  Mar1867
+Jacklin
+ Rebecca Mary 
+Louth 
+7a
+581
+Births  Jun1867
+Jacklin
+ Sarah Ann 
+Louth 
+7a
+591
+Births  Dec1867
+JACKLIN
+ Eliza 
+Louth 
+7a
+536
+JACKLIN
+ George 
+Louth 
+7a
+544
+Births  Sep1868
+JACKLIN
+ Mary Ann 
+Louth 
+7a
+602
+JACKLIN
+ Sarah Ann 
+Louth 
+7a
+596
+Births  Dec1868
+JACKLIN
+ George Nicholas W 
+Louth 
+7a
+566
+JACKLIN
+ Mary Ann 
+Louth 
+7a
+570
+JACKLIN
+ William Herbert 
+Louth 
+7a
+564
+Births  Jun1869
+Jacklin
+ Sarah 
+Louth 
+7a
+569
+Births  Sep1869
+Jacklin
+ Charles 
+Louth 
+7a
+576
+Births  Dec1869
+Jacklin
+ Fanny 
+Louth 
+7a
+563
+Jacklin
+ Mary Ann E 
+Louth 
+7a
+561
+Births  Mar1870
+JACKLIN
+ John Thomas 
+Louth 
+7a
+601
+JACKLIN
+ William 
+Louth 
+7a
+585
+Births  Sep1870
+Jacklin
+ George Thomas 
+Louth 
+7a
+574
+Births  Dec1870
+Jacklin
+ Frank 
+Louth 
+7a
+547
+Jacklin
+ George 
+Louth 
+7a
+561
+Jacklin
+ John 
+Louth 
+7a
+557
+Births  Mar1871
+Jacklin
+ Elizabeth 
+Louth 
+7a
+593
+Jacklin
+ Jane Alice 
+Louth 
+7a
+596
+Births  Jun1871
+Jacklin
+ Elizabeth 
+Louth 
+7a
+592
+Births  Sep1871
+Jacklin
+ Arthur Tom 
+Louth 
+7a
+552
+Jacklin
+ George William 
+Louth 
+7a
+554
+Births  Dec1871
+Jacklin
+ Mary Jane 
+Louth 
+7a
+576
+Births  Dec1872
+JACKLIN
+ Charles 
+Louth 
+7a
+588
+Births  Mar1873
+JACKLIN
+ Alfred Odlin 
+Louth 
+7a
+601
+JACKLIN
+ Fanny 
+Louth 
+7a
+606
+JACKLIN
+ John Gray 
+Louth 
+7a
+598
+Births  Jun1873
+Jacklin
+ Albert 
+Louth 
+7a
+589
+Jacklin
+ Walter 
+Louth 
+7a
+588
+Births  Dec1873
+Jacklin
+ Alfred 
+Louth 
+7a
+607
+Jacklin
+ Walter Steven 
+Louth 
+7a
+609
+JACKLIN
+ Walter Stovin 
+Louth 
+7a
+609
+Births  Mar1874
+Jacklin
+ Robert 
+Louth 
+7a
+611
+Births  Jun1874
+Jacklin
+ Adelaide 
+Louth 
+7a
+615
+Jacklin
+ Annie Maria 
+Louth 
+7a
+621
+Jacklin
+ Emma Jane 
+Louth 
+7a
+617
+Births  Dec1874
+JACKLIN
+ Herbert 
+Louth 
+7a
+597
+Births  Jun1875
+JACKLIN
+ David 
+Louth 
+7a
+597
+JACKLIN
+ Mary Elizabeth 
+Louth 
+7a
+590
+Births  Sep1875
+JACKLIN
+ Ernest Arthur 
+Louth 
+7a
+578
+JACKLIN
+ Isabella 
+Louth 
+7a
+560
+Births  Dec1875
+JACKLIN
+ Elizabeth 
+Louth 
+7a
+596
+JACKLIN
+ Susanna 
+Louth 
+7a
+597
+Births  Mar1876
+JACKLIN
+ Betsy Ann 
+Louth 
+7a
+674
+JACKLIN
+ Charlotte Helen 
+Louth 
+7a
+669
+Births  Jun1876
+JACKLIN
+ Fred Wilfred 
+Louth 
+7a
+644
+Births  Sep1876
+JACKLIN
+ Frederick 
+Louth 
+7a
+617
+Births  Mar1877
+Jacklin
+ Eliza Ann 
+Louth 
+7a
+667
+JACKLIN
+ Eliza Ann 
+Louth 
+7a
+687
+JACKLIN
+ Elizabeth 
+Louth 
+7a
+653
+JACKLIN
+ Lucy 
+Louth 
+7a
+669
+Births  Jun1877
+JACKLIN
+ Emma 
+Louth 
+7a
+650
+Births  Sep1877
+JACKLIN
+ George Thomas L 
+Louth 
+7a
+607
+Births  Dec1877
+Jacklin
+ Harriet 
+Louth 
+7a
+652
+Births  Mar1878
+Jacklin
+ Ira Joseph 
+Louth 
+7a
+631
+Births  Sep1878
+Jacklin
+ Annie Mary 
+Louth 
+7a
+611
+JACKLIN
+ Annie Mary 
+Louth 
+7a
+641
+Births  Dec1878
+Jacklin
+ Fanny 
+Louth 
+7a
+640
+Jacklin
+ Leonard 
+Louth 
+7a
+609
+Jacklin
+ Mary Maria 
+Louth 
+7a
+639
+Births  Mar1879
+JACKLIN
+ Elizabeth 
+Louth 
+7a
+644
+JACKLIN
+ Elizabeth Skipworth 
+Louth 
+7a
+631
+JACKLIN
+ George Henry 
+Louth 
+7a
+646
+Births  Jun1879
+JACKLIN
+ Joseph 
+Louth 
+7a
+629
+Births  Sep1879
+JACKLIN
+ Andrew Cook 
+Louth 
+7a
+625
+Births  Mar1880
+JACKLIN
+ Eliza 
+Louth 
+7a
+633
+JACKLIN
+ Kate 
+Louth 
+7a
+631
+Births  Jun1880
+JACKLIN
+ Joseph 
+Louth 
+7a
+681
+JACKLIN
+ Rebecca May 
+Louth 
+7a
+679
+Births  Mar1881
+JACKLIN
+ John William 
+Louth 
+7a
+611
+Births  Jun1881
+JACKLIN
+ Lucy 
+Louth 
+7a
+635
+Births  Sep1881
+Jacklin
+ Herbert William 
+Louth 
+7a
+596
+Births  Mar1882
+Jacklin
+ Eliza 
+Louth 
+7a
+603
+Jacklin
+ Frederick Thomas 
+Louth 
+7a
+621
+Jacklin
+ Louisa 
+Louth 
+7a
+620
+Births  Jun1882
+JACKLIN
+ Abraham 
+Louth 
+7a
+642
+JACKLIN
+ Martha 
+Louth 
+7a
+641
+Births  Sep1882
+JACKLIN
+ James Andrew 
+Louth 
+7a
+622
+Births  Dec1882
+JACKLIN
+ John William 
+Louth 
+7a
+609
+Births  Mar1883
+JACKLIN
+ Fred 
+Louth 
+7a
+630
+Births  Jun1883
+JACKLIN
+ William 
+Louth 
+7a
+652
+Births  Sep1883
+JACKLIN
+ Annie 
+Louth 
+7a
+605
+Births  Dec1883
+JACKLIN
+ Emma 
+Louth 
+7a
+596
+JACKLIN
+ John William 
+Louth 
+7a
+579
+Births  Jun1884
+JACKLIN
+ Alice Maud 
+Louth 
+7a
+632
+Births  Dec1884
+JACKLIN
+ Ada Gertrude 
+Louth 
+7a
+621
+JACKLIN
+ Arthur 
+Louth 
+7a
+618
+JACKLIN
+ Joseph William 
+Louth 
+7a
+623
+JACKLIN
+ Philip 
+Louth 
+7a
+615
+Births  Mar1885
+Jacklin
+ Charles William 
+Louth 
+7a
+646
+Jacklin
+ Evelyn Betsey 
+Louth 
+7a
+639
+Jacklin
+ Mary Ann 
+Louth 
+7a
+639
+Jacklin
+ Walter Thomas 
+Louth 
+7a
+627
+Births  Jun1885
+Jacklin
+ Naomi Dunham 
+Louth 
+7a
+603
+Births  Sep1885
+Jacklin
+ Joseph 
+Louth 
+7a
+601
+Jacklin
+ Mary Elizabeth 
+Louth 
+7a
+582
+Births  Dec1885
+Jacklin
+ Arthur 
+Louth 
+7a
+625
+Jacklin
+ Mildred 
+Louth 
+7a
+628
+Jacklin
+ Rosanna 
+Louth 
+7a
+615
+Births  Jun1886
+Jacklin
+ John George 
+Louth 
+7a
+652
+Births  Sep1886
+Jacklin
+ Arthur 
+Louth 
+7a
+605
+Jacklin
+ John Henry 
+Louth 
+7a
+608
+Births  Mar1887
+Jacklin
+ Betsy 
+Louth 
+7a
+603
+Jacklin
+ Charles Henry 
+Louth 
+7a
+588
+Jacklin
+ Sarah Ellen 
+Louth 
+7a
+603
+Births  Jun1887
+Jacklin
+ Diana 
+Louth 
+7a
+590
+Jacklin
+ George Henry 
+Louth 
+7a
+597
+Births  Sep1887
+Jacklin
+ Emily 
+Louth 
+7a
+596
+Births  Dec1887
+Jacklin
+ John Henry 
+Louth 
+7a
+598
+Births  Jun1888
+JACKLIN
+ Charles 
+Louth 
+7a
+635
+JACKLIN
+ Ethel 
+Louth 
+7a
+630
+Births  Sep1888
+JACKLIN
+ Frederick 
+Louth 
+7a
+554
+JACKLIN
+ George Robert 
+Louth 
+7a
+548
+JACKLIN
+ Mary 
+Louth 
+7a
+552
+Births  Dec1888
+JACKLIN
+ John Robert 
+Louth 
+7a
+595
+JACKLIN
+ Sydney Blythe 
+Louth 
+7a
+593
+Births  Mar1889
+Jacklin
+ Annie 
+Louth 
+7a
+589
+Jacklin
+ Emily Jane 
+Louth 
+7a
+605
+Jacklin
+ George William 
+Louth 
+7a
+582
+Births  Sep1889
+JACKLIN
+ Hannah Lizzie 
+Louth 
+7a
+579
+JACKLIN
+ Harry 
+Louth 
+7a
+577
+Births  Mar1890
+JACKLIN
+ John William 
+Louth 
+7a
+607
+JACKLIN
+ Thomas William A 
+Louth 
+7a
+603
+Births  Jun1890
+Jacklin
+ Annie Elizabeth 
+Louth 
+7a
+590
+Jacklin
+ William Herbert S 
+Louth 
+7a
+593
+Births  Sep1890
+JACKLIN
+ Ernest Kime 
+Louth 
+7a
+555
+JACKLIN
+ Ethel Fanny 
+Louth 
+7a
+570
+Births  Dec1890
+Jacklin
+ Ann Maria B 
+Louth 
+7a
+541
+Jacklin
+ Martha 
+Louth 
+7a
+539
+Births  Mar1891
+JACKLIN
+ John Frederick 
+Louth 
+7a
+601
+JACKLIN
+ Tom 
+Louth 
+7a
+601
+Births  Jun1891
+Jacklin
+ Benjamin 
+Louth 
+7a
+629
+Jacklin
+ Florence Mary 
+Louth 
+7a
+621
+Jacklin
+ Harry Rowson 
+Louth 
+7a
+629
+Jacklin
+ Lillie 
+Louth 
+7a
+627
+Births  Sep1891
+Jacklin
+ Alice 
+Louth 
+7a
+585
+Jacklin
+ Fanny Gertrude 
+Louth 
+7a
+586
+Jacklin
+ Walter 
+Louth 
+7a
+583
+Births  Dec1891
+Jacklin
+ David 
+Louth 
+7a
+573
+Births  Sep1892
+Jacklin
+ Betsy May 
+Louth 
+7a
+611
+Jacklin
+ Charles William 
+Louth 
+7a
+597
+Jacklin
+ Florence Mabel 
+Louth 
+7a
+609
+Jacklin
+ Mary Elizabeth 
+Louth 
+7a
+597
+Births  Dec1892
+JACKLIN
+ Albert Edward 
+Louth 
+7a
+574
+JACKLIN
+ Benjamin 
+Louth 
+7a
+568
+JACKLIN
+ Florence May 
+Louth 
+7a
+581
+JACKLIN
+ Iley 
+Louth 
+7a
+580
+JACKLIN
+ Mary 
+Louth 
+7a
+581
+Births  Jun1893
+Jacklin
+ George 
+Louth 
+7a
+628
+Births  Sep1893
+Jacklin
+ Arthur Wellesley 
+Louth 
+7a
+603
+Births  Dec1893
+Jacklin
+ John Robert 
+Louth 
+7a
+567
+Jacklin
+ Lilian 
+Louth 
+7a
+586
+Births  Mar1894
+JACKLIN
+ Male 
+Louth 
+7a
+619
+Births  Jun1894
+Jacklin
+ John Wilfrid 
+Louth 
+7a
+589
+Births  Mar1895
+Jacklin
+ Arthur Frederick 
+Louth 
+7a
+621
+Jacklin
+ Eve Kathleen 
+Louth 
+7a
+617
+Jacklin
+ Jane 
+Louth 
+7a
+628
+Jacklin
+ William Drewery J 
+Louth 
+7a
+627
+Births  Jun1895
+Jacklin
+ Ann 
+Louth 
+7a
+626
+Jacklin
+ John Philip 
+Louth 
+7a
+623
+Births  Dec1895
+Jacklin
+ Olive May 
+Louth 
+7a
+586
+Jacklin
+ Robert William 
+Louth 
+7a
+585
+Births  Mar1896
+Jacklin
+ Mary 
+Louth 
+7a
+601
+Births  Jun1896
+Jacklin
+ George William 
+Louth 
+7a
+599
+Jacklin
+ Herbert 
+Louth 
+7a
+599
+Births  Sep1896
+Jacklin
+ Annie 
+Louth 
+7a
+581
+Births  Dec1896
+Jacklin
+ Ida Martha 
+Louth 
+7a
+612
+Births  Mar1897
+Jacklin
+ Fred 
+Louth 
+7a
+629
+Jacklin
+ Laura 
+Louth 
+7a
+634
+Jacklin
+ Leonard 
+Louth 
+7a
+634
+Jacklin
+ Robert 
+Louth 
+7a
+634
+Births  Sep1897
+Jacklin
+ Elizabeth 
+Louth 
+7a
+597
+Jacklin
+ Elsie Victoria 
+Louth 
+7a
+590
+Jacklin
+ George William 
+Louth 
+7a
+597
+Births  Dec1897
+Jacklin
+ Walter Stovin 
+Louth 
+7a
+592
+Births  Mar1898
+Jacklin
+ Henry 
+Louth 
+7a
+591
+Jacklin
+ Herbert 
+Louth 
+7a
+598
+Births  Jun1898
+JACKLIN
+ Frank 
+Louth 
+7a
+619
+JACKLIN
+ Lily 
+Louth 
+7a
+619
+Births  Sep1898
+Jacklin
+ Charles Arthur 
+Louth 
+7a
+599
+Jacklin
+ Florence Ada 
+Louth 
+7a
+597
+Jacklin
+ Thomas 
+Louth 
+7a
+589
+Births  Mar1899
+Jacklin
+ Elizabeth May 
+Louth 
+7a
+568
+Births  Sep1899
+Jacklin
+ Clara Alice 
+Louth 
+7a
+585
+Births  Dec1899
+JACKLIN
+ Florence Ella 
+Louth 
+7a
+587
+JACKLIN
+ John 
+Louth 
+7a
+587
+JACKLIN
+ Leofric 
+Louth 
+7a
+586
+Births  Mar1900
+Jacklin
+ Albert Ambros 
+Louth 
+7a
+601
+JACKLIN
+ Albert Ambrose 
+Louth 
+7a
+601
+Jacklin
+ Henry 
+Louth 
+7a
+603
+Births  Jun1900
+Jacklin
+ Mary Doris 
+Louth 
+7a
+609
+Jacklin
+ Rowland Pennell 
+Louth 
+7a
+599
+Births  Sep1900
+JACKLIN
+ Alice Maud M 
+Louth 
+7a
+585
+JACKLIN
+ Lily Constance 
+Louth 
+7a
+586
+Births  Dec1900
+JACKLIN
+ Annie 
+Louth 
+7a
+550
+JACKLIN
+ Violet 
+Louth 
+7a
+548a
+Births  Mar1901
+Jacklin
+ Charles Bertie 
+Louth 
+7a
+569
+Jacklin
+ Frank Sydney 
+Louth 
+7a
+580
+Jacklin
+ George 
+Louth 
+7a
+579
+Births  Jun1901
+Jacklin
+ Elizabeth 
+Louth 
+7a
+587
+Births  Sep1901
+Jacklin
+ Elsie 
+Louth 
+7a
+589
+Jacklin
+ Lucy 
+Louth 
+7a
+590
+Births  Dec1901
+Jacklin
+ Sarah Jane 
+Louth 
+7a
+574
+Births  Jun1902
+Jacklin
+ Annie 
+Louth 
+7a
+593
+Jacklin
+ Elizabeth 
+Louth 
+7a
+592
+Births  Sep1902
+Jacklin
+ Charlotte 
+Louth 
+7a
+604
+Births  Mar1903
+Jacklin
+ Rose Beatrice 
+Louth 
+7a
+583
+Births  Jun1903
+Jacklin
+ Leslie 
+Louth 
+7a
+598
+Births  Sep1903
+Jacklin
+ Ella 
+Louth 
+7a
+574
+Jacklin
+ Mary Helen 
+Louth 
+7a
+561
+Births  Mar1904
+Jacklin
+ Wilfred 
+Louth 
+7a
+591
+Births  Jun1904
+JACKLIN
+ Elsie May 
+Louth 
+7a
+582
+JACKLIN
+ Ethel Irene 
+Louth 
+7a
+585
+Births  Sep1904
+JACKLIN
+ Constance 
+Louth 
+7a
+602
+JACKLIN
+ Edith Lilian 
+Louth 
+7a
+600
+Births  Mar1905
+Jacklin
+ John William 
+Louth 
+7a
+562
+Births  Sep1905
+Jacklin
+ Albert Rowson 
+Louth 
+7a
+578
+Births  Dec1905
+Jacklin
+ Albert Joseph 
+Louth 
+7a
+547
+Jacklin
+ Harold 
+Louth 
+7a
+549
+Jacklin
+ Sydney 
+Louth 
+7a
+550
+Births  Sep1906
+Jacklin
+ James Edward 
+Louth 
+7a
+578
+Births  Dec1906
+Jacklin
+ George Nicholas W 
+Louth 
+7a
+573
+Births  Mar1907
+JACKLIN
+ Bertram Jack 
+Louth 
+7a
+561
+Births  Jun1907
+JACKLIN
+ May 
+Louth 
+7a
+595
+JACKLIN
+ Olive 
+Louth 
+7a
+592
+Births  Sep1907
+JACKLIN
+ Wilfred 
+Louth 
+7a
+549
+Births  Dec1907
+JACKLIN
+ Iris 
+Louth 
+7a
+537
+Births  Mar1908
+Jacklin
+ Fred 
+Louth 
+7a
+579
+Births  Jun1908
+Jacklin
+ Phyllis May 
+Louth 
+7a
+573
+Births  Sep1908
+Jacklin
+ Edith Mabel 
+Louth 
+7a
+567
+Births  Dec1908
+Jacklin
+ Ivy Martha 
+Louth 
+7a
+535
+Births  Jun1909
+Jacklin
+ Charles William 
+Louth 
+7a
+574
+Jacklin
+ Edith Mary 
+Louth 
+7a
+573
+Jacklin
+ Effie May 
+Louth 
+7a
+575
+Jacklin
+ George Parkinson 
+Louth 
+7a
+580
+Jacklin
+ Sydney 
+Louth 
+7a
+581
+Births  Sep1909
+Jacklin
+ Wilfred 
+Louth 
+7a
+564
+Births  Dec1909
+JACKLIN
+ Fred Uriol E 
+Louth 
+7a
+544
+JACKLIN
+ Richard 
+Louth 
+7a
+546
+Births  Mar1910
+JACKLIN
+ Doris 
+Louth 
+7a
+537
+JACKLIN
+ Jack 
+Louth 
+7a
+558
+JACKLIN
+ Thomas George 
+Louth 
+7a
+559
+Births  Jun1910
+JACKLIN
+ Robert William 
+Louth 
+7a
+594
+JACKLIN
+ Winifred Doris 
+Louth 
+7a
+581
+Births  Mar1911
+Jacklin
+ Dorothy 
+Louth 
+7a
+556
+Jacklin
+ Eva A 
+Louth 
+7a
+555
+Births  Jun1911
+Jacklin
+ Charles 
+Louth 
+7a
+571
+Jacklin
+ Fanny 
+Louth 
+7a
+571
+Jacklin
+ Freda M 
+Louth 
+7a
+568
+Jacklin
+ Mary 
+Louth 
+7a
+571
+Births  Sep1911
+Jacklin
+ Ernest R 
+Jelley 
+Louth 
+7a
+1094
+Jacklin
+ John L 
+Gouldsmith 
+Louth 
+7a
+1102
+Births  Dec1911
+Jacklin
+ Charles R 
+Blyth 
+Louth 
+7a
+1041
+Jacklin
+ Ruth 
+Dunham 
+Louth 
+7a
+1029
+Births  Jun1912
+JACKLIN
+ Eva 
+Jelley 
+Louth 
+7a
+1166
+Births  Sep1912
+Jacklin
+ Ralph 
+Wilson 
+Louth 
+7a
+1060
+Births  Mar1913
+Jacklin
+ Annie 
+Hewson 
+Louth 
+7a
+1058
+Jacklin
+ Florence A 
+Atkinson 
+Louth 
+7a
+1057
+Jacklin
+ Kathleen M 
+Gouldsmith 
+Louth 
+7a
+1039
+Births  Jun1913
+Jacklin
+ Joyce 
+Oliver 
+Louth 
+7a
+1132
+Births  Sep1913
+Jacklin
+ Gwendoline G 
+Jacklin 
+Louth 
+7a
+1099
+Births  Dec1913
+Jacklin
+ Ira H 
+Dobson 
+Louth 
+7a
+1041
+Jacklin
+ William R 
+Dawson 
+Louth 
+7a
+1045
+Births  Jun1914
+JACKLIN
+ John R 
+Jelley 
+Louth 
+7a
+1055
+Births  Sep1914
+Jacklin
+ Mary E 
+Hewson 
+Louth 
+7a
+1056
+Births  Dec1914
+Jacklin
+ Florence 
+Marshall 
+Louth 
+7a
+1009
+Jacklin
+ Wilfred 
+Blythe 
+Louth 
+7a
+1009
+Births  Mar1915
+Jacklin
+ Edith 
+Oliver 
+Louth 
+7a
+1061
+Births  Sep1915
+Jacklin
+ Charles W 
+Laking 
+Louth 
+7a
+1007
+Births  Dec1915
+Jacklin
+ Constance M 
+Dobson 
+Louth 
+7a
+916
+Jacklin
+ Emily 
+Jelley 
+Louth 
+7a
+898
+Jacklin
+ Robert W 
+Marshall 
+Louth 
+7a
+922
+Births  Mar1916
+Jacklin
+ Elsie M 
+Gouldsmith 
+Louth 
+7a
+926
+Jacklin
+ Female 
+Stiff 
+Louth 
+7a
+949
+Births  Sep1916
+Jacklin
+ Madge 
+Wilson 
+Louth 
+7a
+see S/40
+Births  Dec1916
+Jacklin
+ Tom 
+Marshall 
+Louth 
+7a
+960
+Births  Sep1917
+Jacklin
+ Wilfred J 
+Hewson 
+Louth 
+7a
+817
+Births  Dec1917
+Jacklin
+ Dorothy _ 
+Jacklin 
+Louth 
+7a
+795
+Births  Mar1918
+Jacklin
+ Eric H 
+Campion 
+Louth 
+7a
+823
+Births  Jun1918
+Jacklin
+ Charles F 
+Gouldsmith 
+Louth 
+7a
+840
+Births  Sep1918
+Jacklin
+ Lilian 
+Blythe 
+Louth 
+7a
+842
+Births  Mar1919
+Jacklin
+ Frank H 
+Bocock 
+Louth 
+7a
+741
+Births  Dec1919
+Jacklin
+ George 
+Wilson 
+Louth 
+7a
+1069
+Births  Mar1920
+Jacklin
+ Benjamin 
+Barker 
+Louth 
+7a
+1242
+Jacklin
+ Phyllis M 
+Blythe 
+Louth 
+7a
+1258
+Births  Sep1920
+Jacklin
+ George 
+Marshall 
+Louth 
+7a
+1127
+Births  Mar1922
+Jacklin
+ Charles S 
+Smith 
+Louth 
+7a
+1011
+Jacklin
+ Nancy I 
+Blythe 
+Louth 
+7a
+1011
+Jacklin
+ Peter B 
+Benton 
+Louth 
+7a
+1007
+Births  Jun1922
+Jacklin
+ Arnold H W 
+Jacklin 
+Louth 
+7a
+1011
+Births  Sep1922
+Jacklin
+ John H 
+Marshall 
+Louth 
+7a
+1008
+Jacklin
+ William 
+Jackson 
+Louth 
+7a
+989
+Births  Dec1922
+Jacklin
+ Edna M 
+Barker 
+Louth 
+7a
+916
+Births  Mar1923
+Jacklin
+ Iris 
+Oliver 
+Louth 
+7a
+1004
+Births  Sep1923
+Jacklin
+ Frank H 
+Jackson 
+Louth 
+7a
+948
+Births  Dec1923
+Jacklin
+ Joyce M 
+Baines 
+Louth 
+7a
+894
+Births  Mar1924
+Jacklin
+ Gladys 
+Leeton 
+Louth 
+7a
+952
+Births  Jun1924
+Jacklin
+ George E 
+Dunham 
+Louth 
+7a
+968
+Births  Sep1924
+JACKLIN
+ Jean M 
+TAYLOR 
+Louth 
+7a
+944
+Births  Mar1925
+Jacklin
+ Joyce H 
+Barker 
+Louth 
+7a
+898
+Jacklin
+ Margaret M 
+Blythe 
+Louth 
+7a
+898
+Births  Sep1925
+Jacklin
+ Frank 
+Marshall 
+Louth 
+7a
+930
+Births  Dec1925
+Jacklin
+ Ena I 
+Dobson 
+Louth 
+7a
+846
+Jacklin
+ Maisie 
+Willows 
+Louth 
+7a
+838
+Births  Mar1926
+Jacklin
+ Audrey M 
+Middleton 
+Louth 
+7a
+860
+Births  Jun1927
+Jacklin
+ John W 
+Leeton 
+Louth 
+7a
+901
+Jacklin
+ Joseph C 
+Willows 
+Louth 
+7a
+901
+Births  Mar1928
+Jacklin
+ Michael B 
+Benton 
+Louth 
+7a
+901
+Births  Sep1928
+Jacklin
+ Cecil 
+Oliver 
+Louth 
+7a
+910
+Births  Dec1928
+Jacklin
+ Robert 
+Marshall 
+Louth 
+7a
+855
+Births  Jun1929
+Jacklin
+ Phyllis 
+Rowson 
+Louth 
+7a
+920
+Jacklin
+ Rita M 
+Middleton 
+Louth 
+7a
+918
+Births  Sep1929
+Jacklin
+ Leonard A 
+Hirst 
+Louth 
+7a
+878
+Births  Mar1930
+Jacklin
+ Sylvia 
+Willows 
+Louth 
+7a
+850
+Births  Sep1930
+Jacklin
+ Edward B 
+Hand 
+Louth 
+7a
+874
+Births  Dec1930
+Jacklin
+ Norman L 
+Smith 
+Louth 
+7a
+824
+Jacklin
+ Pamela J 
+Middleton 
+Louth 
+7a
+838
+Jacklin
+ Rita 
+Rowson 
+Louth 
+7a
+838
+Births  Mar1931
+Jacklin
+ Hubert 
+Barker 
+Louth 
+7a
+881
+Births  Sep1932
+Jacklin
+ Freda M 
+Hirst 
+Louth 
+7a
+839
+Jacklin
+ Raymond 
+Rowson 
+Louth 
+7a
+852
+Births  Dec1932
+Jacklin
+ Thelma E 
+West 
+Louth 
+7a
+750
+Births  Jun1933
+JACKLIN
+ Brenda E 
+Larder 
+Louth 
+7a
+821
+Births  Sep1933
+JACKLIN
+ Betty 
+Barker 
+Louth 
+7a
+795
+Births  Mar1934
+Jacklin
+ Wilfred E 
+Fox 
+Louth 
+7a
+799
+Births  Jun1934
+Jacklin
+ Derek L 
+West 
+Louth 
+7a
+820
+Births  Dec1934
+Jacklin
+ Brenda 
+Harrison 
+Louth 
+7a
+765
+Births  Mar1935
+Jacklin
+ Geoffrey C K 
+Jacklin 
+Louth 
+7a
+781
+Jacklin
+ Lucy J 
+Hand 
+Louth 
+7a
+776
+Births  Dec1935
+Jacklin
+ Leslie B 
+Larder 
+Louth 
+7a
+770
+Births  Mar1936
+JACKLIN
+ Eric 
+Fox 
+Louth 
+7a
+789
+Births  Jun1936
+JACKLIN
+ Kathleen L 
+Leeton 
+Louth 
+7a
+817
+Births  Sep1936
+JACKLIN
+ Sylvia R 
+Larder 
+Louth 
+7a
+778
+Births  Dec1936
+JACKLIN
+ Pearl 
+Rushby 
+Louth 
+7a
+747
+JACKLIN
+ Shirley M 
+Hart 
+Louth 
+7a
+749
+Births  Dec1937
+Jacklin
+ Sidney B 
+Larder 
+Louth 
+7a
+730
+Births  Jun1938
+Jacklin
+ Joan E 
+Dickinson 
+Louth 
+7a
+855
+Births  Sep1938
+Jacklin
+ Freda 
+Jacklin 
+Louth 
+7a
+839
+Jacklin
+ Leonard A 
+Oliver 
+Louth 
+7a
+839
+Jacklin
+ Robert W 
+Oliver 
+Louth 
+7a
+839
+Births  Dec1938
+Jacklin
+ Lance 
+Rushby 
+Louth 
+7a
+741
+Jacklin
+ Peter 
+Blades 
+Louth 
+7a
+744
+Births  Mar1939
+Jacklin
+ Alan E 
+Fox 
+Louth 
+7a
+775
+Births  Dec1939
+Jacklin
+ Isabella E 
+Houldershaw 
+Louth 
+7a
+1609
+Jacklin
+ Ivor 
+Oliver 
+Louth 
+7a
+1565
+Births  Mar1940
+JACKLIN
+ Rodney A W 
+Blades 
+Louth 
+7a
+1640
+Births  Jun1940
+Jacklin
+ Marian 
+Dickinson 
+Louth 
+7a
+1677
+Births  Sep1940
+Jacklin
+ John C 
+Ward 
+Louth 
+7a
+1578
+Jacklin
+ Madge 
+Wilson 
+Louth 
+7a
+1586
+Births  Mar1941
+Jacklin
+ Roy 
+Rushby 
+Louth 
+7a
+1622
+Births  Dec1941
+Jacklin
+ Albert 
+Rowson 
+Louth 
+7a
+1364
+Births  Dec1943
+Jacklin
+ Sandra E 
+Ward 
+Louth 
+7a
+927
+Births  Mar1944
+Jacklin
+ Patrick H 
+Patrick 
+Louth 
+7a
+1048
+Births  Dec1946
+Jacklin
+ Jennifer E 
+Hirst 
+Louth 
+3b
+558
+Jacklin
+ Ruth 
+Rushby 
+Louth 
+3b
+562
+Births  Jun1948
+Jacklin
+ James A 
+Jacklin 
+Louth 
+3b
+520
+Jacklin
+ Vincent J 
+Maddison 
+Louth 
+3b
+534
+Births  Sep1948
+Jacklin
+ John W 
+Rushby 
+Louth 
+3b
+497
+Births  Dec1948
+Jacklin
+ Dianne 
+Houlden 
+Louth 
+3b
+485
+Births  Dec1949
+Jacklin
+ Hugh 
+Richardon 
+Louth 
+3b
+489
+Jacklin
+ Michael J 
+Needham 
+Louth 
+3b
+461
+Births  Jun1950
+Jacklin
+ Alan M 
+Oliver 
+Louth 
+3b
+473
+Jacklin
+ William G H 
+Dowse 
+Louth 
+3b
+496
+Births  Sep1950
+JACKLIN
+ Wendy A 
+COE 
+Louth 
+3b
+463
+Births  Dec1950
+JACKLIN
+ Ann D 
+RUSHBY 
+Louth 
+3b
+430
+Births  Mar1951
+JACKLIN
+ Stephen 
+NEEDHAM 
+Louth 
+3b
+466
+Births  Sep1951
+JACKLIN
+ Helen 
+Standaloft 
+Louth 
+3b
+461
+Births  Dec1951
+JACKLIN
+ Kathleen 
+PROCTOR 
+Louth 
+3b
+428
+Births  Mar1952
+JACKLIN
+ Valerie 
+RUSHBY 
+Louth 
+3b
+460
+Births  Sep1952
+JACKLIN
+ Nicola L 
+DUCKWORTH 
+Louth 
+3b
+480
+JACKLIN
+ Terry R 
+DOWSE 
+Louth 
+3b
+468
+Births  Mar1953
+JACKLIN
+ Ann 
+RUSHBY 
+Louth 
+3b
+480
+Births  Dec1953
+JACKLIN
+ Lynn 
+RUSHBY 
+Louth 
+3b
+411
+Births  Jun1955
+JACKLIN
+ Julia J 
+MADDISON 
+Louth 
+3b
+464
+Births  Sep1955
+JACKLIN
+ Andrew C 
+BRADER 
+Louth 
+3b
+451
+Births  Dec1955
+JACKLIN
+ Wendy E 
+PARRISH 
+Louth 
+3b
+428
+Births  Mar1956
+Jacklin
+ Adrian S 
+Houlden 
+Louth 
+3b
+500
+Jacklin
+ Denis F 
+Rushby 
+Louth 
+3b
+472
+Jacklin
+ Margaret R 
+Portus 
+Louth 
+3b
+473
+Births  Sep1956
+JACKLIN
+ Paul R 
+BLACKMAN 
+Louth 
+3b
+466
+Births  Sep1957
+JACKLIN
+ Martyn P 
+BURGIN 
+Louth 
+3b
+493
+JACKLIN
+ Stephen R 
+PARRISH 
+Louth 
+3b
+469
+Births  Mar1958
+Jacklin
+ Angela J 
+Dobbs 
+Louth 
+3b
+488
+Jacklin
+ Elaine 
+Goddard 
+Louth 
+3b
+489
+Jacklin
+ Stephen P 
+Dring 
+Louth 
+3b
+509
+Births  Jun1958
+JACKLIN
+ Bridget M 
+BRADER 
+Louth 
+3b
+500
+JACKLIN
+ Ruth 
+BETT 
+Louth 
+3b
+494
+Births  Dec1958
+JACKLIN
+ Valerie 
+PORTLIS 
+Louth 
+3b
+463
+Births  Jun1959
+Jacklin
+ Carolyn 
+Bradford 
+Louth 
+3b
+520
+Jacklin
+ Marcus E S 
+Duckworth 
+Louth 
+3b
+529
+Births  Jun1960
+JACKLIN
+ Anne 
+DUNNINGTON 
+Louth 
+3b
+543
+Births  Jun1961
+JACKLIN
+ Linda A 
+SMITH 
+Louth 
+3b
+547
+Births  Dec1961
+JACKLIN
+ David 
+DUNNINGTON 
+Louth 
+3b
+476
+JACKLIN
+ Ian L 
+HARNESS 
+Louth 
+3b
+500
+JACKLIN
+ Paul 
+SULLIVAN 
+Louth 
+3b
+487
+Births  Mar1963
+JACKLIN
+ ELAINE 
+BRADFORD 
+LOUTH 
+3B
+587
+JACKLIN
+ JAYNE 
+RUSHBY 
+LOUTH 
+3B
+584
+JACKLIN
+ SARA E S 
+DUCKWORTH 
+LOUTH 
+3B
+962
+Births  Dec1963
+JACKLIN
+ HELEN 
+SULLIVAN 
+LOUTH 
+3B
+533
+Births  Mar1964
+JACKLIN
+ CAROL T 
+DRING 
+LOUTH 
+3B
+605
+Births  Jun1964
+JACKLIN
+ ANDREW R 
+BETT 
+LOUTH 
+3B
+586
+JACKLIN
+ DENVER 
+CLOVER 
+LOUTH 
+3B
+617
+JACKLIN
+ SARAH J 
+BRADER 
+LOUTH 
+3B
+611
+Births  Mar1965
+JACKLIN
+ MARIE 
+BRADFORD 
+LOUTH 
+3B
+569
+Births  Sep1965
+JACKLIN
+ ELAINE 
+JACKLIN 
+LOUTH 
+3B
+587
+Births  Mar1966
+JACKLIN
+ CHRISTOPHER JAMES 
+BETT 
+LOUTH 
+3B
+595
+Births  Jun1966
+JACKLIN
+ AMANDA ELLEN 
+BETT 
+LOUTH 
+3B
+577
+Births  Jun1967
+Jacklin
+ Jane Emma 
+Green 
+Louth 
+3b
+577
+Births  Dec1967
+Jacklin
+ Theresa 
+Drayton 
+Louth 
+3b
+518
+Births  Mar1968
+JACKLIN
+ PAUL CARL 
+SMITH 
+LOUTH 
+3B
+574
+Births  Sep1968
+JACKLIN
+ SHANE RICHARD 
+CLOVER 
+LOUTH 
+3B
+578
+Births  Dec1968
+JACKLIN
+ STEVEN ROY 
+GREEN 
+LOUTH 
+3B
+545
+Births  Sep1970
+JACKLIN
+ Nicola Louise 
+JACKLIN 
+Louth 
+3b
+1348
+Births  Jun1971
+JACKLIN
+ Timothy Edward 
+PORTESS 
+Louth 
+3b
+1406
+Births  Jun1972
+Jacklin
+ Sarah 
+Green 
+Louth 
+3b
+1292
+Births  Dec1972
+JACKLIN
+ NINA LOUISE 
+PORTESS 
+LOUTH 
+3B
+1114
+Births  Dec1973
+JACKLIN
+ SAMANTHA 
+WOODS 
+LOUTH 
+3B
+1112
+Births  Dec1976
+JACKLIN
+ VICTORIA 
+WOODS 
+LOUTH 
+7
+1856
+Births  Dec1979
+JACKLIN
+ NICOLA MARIA 
+JACKLIN 
+LOUTH 
+7
+2033
+Births  Jun1980
+JACKLIN
+ AMY MARIE 
+SPILMAN 
+LOUTH 
+7
+2225
+Births  Sep1980
+JACKLIN
+ REBECCA 
+GREEN 
+LOUTH 
+7
+2203
+Births  Dec1980
+JACKLIN
+ AMANDA 
+WOODS 
+LOUTH 
+7
+2034
+Births  Mar1982
+JACKLIN
+ CRAIG STEPHEN 
+SPILMAN 
+LOUTH 
+7
+2092
+Births  Jun1982
+JACKLIN
+ DEBORAH 
+WOODS 
+LOUTH 
+7
+2143
+Births 1984
+JACKLIN
+ MARK ALAN 
+BROUGHTON 
+LOUTH 
+7
+2024
+Births 1985
+JACKLIN
+ PAUL STEPHEN 
+FERRAND 
+LOUTH 
+7
+2130

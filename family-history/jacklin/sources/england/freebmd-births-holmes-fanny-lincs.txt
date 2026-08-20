@@ -1,0 +1,277 @@
+FreeBMD search births-holmes-fanny-lincs: {'surname': 'Holmes', 'given': 'Fanny', 'type_': 'Births', 'countyid': 'LIN,6,33,49,50,52,102,103,154,175,176,225,226', 'start': 1850, 'end': 1870}
+Source: https://www.freebmd.org.uk/cgi/search.pl
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Mar1839
+Holmes
+ Fanny 
+Peterbro 
+15
+355
+Births  Sep1844
+HOLMES
+ Fanny 
+Sleaford 
+14
+474
+Births  Jun1850
+Holmes
+ Fanny Elizabeth 
+Sleaford 
+14
+573
+Births  Mar1851
+Holmes
+ Fanny 
+Stamford 
+14
+645
+Births  Jun1851
+HOLMES
+ Fanny Elizabeth 
+Lincoln 
+14
+531
+Births  Jun1852
+Holmes
+ Fanny 
+Spalding 
+7a
+293
+Births  Jun1853
+Holmes
+ Fanny 
+Lincoln 
+7a
+446
+Births  Mar1854
+Holmes
+ Fanny 
+Horncastle 
+7a
+465
+Births  Sep1855
+HOLMES
+ Fanny 
+Lincoln 
+7a
+438
+Births  Dec1856
+Holmes
+ Fanny 
+Bourn 
+7a
+280
+Births  Jun1857
+Holmes
+ Fanny 
+Glanford Brigg 
+7a
+602
+Births  Mar1859
+HOLMES
+ Fanny 
+Caistor 
+7a
+574
+HOLMES
+ Fanny Margaret 
+Spilsby 
+7a
+528
+Births  Sep1861
+HOLMES
+ Fanny 
+Thorne 
+9c
+502
+Births  Dec1861
+HOLMES
+ Fanny 
+Newark 
+7b
+285
+Births  Mar1862
+HOLMES
+ Fanny 
+Grantham 
+7a
+429
+Births  Jun1863
+HOLMES
+ Fanny 
+Sleaford 
+7a
+424
+Births  Sep1863
+HOLMES
+ Fanny 
+Horncastle 
+7a
+481
+Births  Jun1864
+HOLMES
+ Fanny Maud 
+Caistor 
+7a
+603
+Births  Jun1865
+HOLMES
+ Fanny Maud 
+Caistor 
+7A
+607
+HOLMES
+ Fanny Rebecca 
+Lincoln 
+7A
+464
+Births  Dec1867
+Holmes
+ Fanny Newton 
+Doncaster 
+9c
+550
+Births  Jun1868
+HOLMES
+ Fanny Rebecca 
+Lincoln 
+7a
+497
+Births  Mar1871
+Holmes
+ Fanny Elizabeth 
+Peterbro' 
+3b
+254
+Births  Dec1871
+Holmes
+ Fanny 
+Boston 
+7a
+383
+Births  Jun1872
+HOLMES
+ Fanny Elizabeth 
+Horncastle 
+7a
+521
+Births  Jun1873
+Holmes
+ Fanny 
+Bourn 
+7a
+337
+Births  Jun1874
+HOLMES
+ Fanny 
+Sleaford 
+7a
+445
+Births  Mar1876
+HOLMES
+ Fanny 
+Peterbro' 
+3b
+263
+HOLMES
+ Fanny 
+Lincoln 
+7a
+560
+Births  Jun1876
+HOLMES
+ Fanny Elizabeth 
+Boston 
+7a
+446
+Births  Mar1879
+Holmes
+ Fanny 
+Thorne 
+9c
+728
+Births  Mar1886
+HOLMES
+ Fanny 
+Glanford B. 
+7a
+717
+Births  Sep1886
+Holmes
+ Fanny 
+Lincoln 
+7a
+538
+Births  Mar1889
+Holmes
+ Fanny Evelyn A 
+Sleaford 
+7a
+446
+Births  Dec1889
+Holmes
+ Fanny Juliet W 
+Louth 
+7a
+608
+Births  Mar1891
+HOLMES
+ Fanny 
+Newark 
+7b
+425
+Births  Jun1892
+HOLMES
+ Fanny 
+Peterbro' 
+3b
+264
+Births  Jun1899
+Holmes
+ Fanny Louisa A 
+Lincoln 
+7a
+557
+Births  Mar1900
+Holmes
+ Fanny 
+Spilsby 
+7a
+573
+Births  Mar1902
+Holmes
+ Fanny Sophia 
+Bourn 
+7a
+381
+Births  Sep1902
+Holmes
+ Fanny 
+Horncastle 
+7a
+559
+Births  Dec1902
+Holmes
+ Fanny 
+Thorne 
+9c
+932
+Births  Dec1904
+Holmes
+ Fanny 
+Peterbro' 
+3b
+234
+Births  Sep1914
+Holmes
+ Fanny M 
+Jubb 
+Louth 
+7a
+1049

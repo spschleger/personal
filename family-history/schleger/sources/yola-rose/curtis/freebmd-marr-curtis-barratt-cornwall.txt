@@ -1,0 +1,16 @@
+FreeBMD search: {'surname': 'Curtis', 's_surname': 'Barratt', 'type_': 'Marriages', 'countyid': 'CON,59,61', 'start': 1837, 'end': 1875}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Dec1859
+Curtis
+ Thomas 
+St Austell 
+5c
+260

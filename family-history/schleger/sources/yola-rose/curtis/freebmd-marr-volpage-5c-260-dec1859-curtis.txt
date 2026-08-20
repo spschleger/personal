@@ -1,0 +1,16 @@
+FreeBMD search: {'surname': 'Curtis', 'type_': 'Marriages', 'districtid': '118', 'start': 1859, 'end': 1860, 'vol': '5c', 'pgno': '260'}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Dec1859
+Curtis
+ Thomas 
+St Austell 
+5c
+260

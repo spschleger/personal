@@ -1,0 +1,346 @@
+FreeCEN2 search: last_name=Curtis chapman=CON record_type=1841
+URL: https://www.freecen.org.uk/search_queries
+Retrieved 2026-08-19
+
+HITS (341):
+/search_records/651d04dff493fd5e57136ef7/mary-curtis-1841-cornwall-bridgerule-1756- :: Mary CURTIS | Cornwall |  | 1756 | 1841 | Cornwall | Bridgerule West Of Tamar
+/search_records/5902903fe9379091b174c501/mary-curtis-1841-cornwall-kerrier-1761- :: Mary CURTIS | Cornwall | - | 1761 | 1841 | Cornwall | Kerrier
+/search_records/590290cee9379091b176e8ce/alice-curtis-1841-cornwall-kerrier-1762- :: Alice CURTIS | Cornwall | - | 1762 | 1841 | Cornwall | Kerrier
+/search_records/59029472e9379091b184f11c/elizabeth-curtis-1841-cornwall-pydar-1766- :: Elizabeth CURTIS | Cornwall | - | 1766 | 1841 | Cornwall | Padstow
+/search_records/590290c1e9379091b176b541/margaret-curtis-1841-cornwall-kerrier-1766- :: Margaret CURTIS | Cornwall | - | 1766 | 1841 | Cornwall | Kerrier
+/search_records/59029082e9379091b175c175/john-curtis-1841-cornwall-kerrier-1766- :: John CURTIS | Cornwall | - | 1766 | 1841 | Cornwall | Kerrier
+/search_records/590293ace9379091b181ee7c/elenor-curtis-1841-cornwall-powder-1766- :: Elenor CURTIS | Cornwall | - | 1766 | 1841 | Cornwall | Truro
+/search_records/59028fdbe9379091b173399f/samuel-curtis-1841-cornwall-east-1769- :: Samuel CURTIS | Cornwall | - | 1769 | 1841 | Cornwall | Launceston
+/search_records/59029472e9379091b184f11a/john-curtis-1841-cornwall-pydar-1771- :: John CURTIS | Cornwall | - | 1771 | 1841 | Cornwall | Padstow
+/search_records/5902903fe9379091b174c4e5/jane-curtis-1841-cornwall-kerrier-1771- :: Jane CURTIS | Cornwall | - | 1771 | 1841 | Cornwall | Kerrier
+/search_records/59029464e9379091b184b723/john-curtis-1841-cornwall-pydar-1771- :: John CURTIS | Cornwall | - | 1771 | 1841 | Cornwall | Padstow
+/search_records/651d05baf493fd5e57139ee4/ann-curtis-1841-cornwall-stratton-1771- :: Ann CURTIS | Cornwall |  | 1771 | 1841 | Cornwall | Stratton
+/search_records/69be7847b18f7c454f58bb79/peter-curtis-1841-cornwall-phillack-1771- :: Peter CURTIS | Cornwall |  | 1771 | 1841 | Cornwall | Phillack
+/search_records/5902946ae9379091b184d1f0/betsy-curtis-1841-cornwall-pydar-1773- :: Betsy CURTIS | Cornwall | - | 1773 | 1841 | Cornwall | Padstow
+/search_records/5902929ce9379091b17deeb4/alice-curtis-1841-cornwall-penwith-1776- :: Alice CURTIS | Cornwall | - | 1776 | 1841 | Cornwall | Penwith
+/search_records/5902929fe9379091b17df9bd/john-curtis-1841-cornwall-penwith-1776- :: John CURTIS | Cornwall | - | 1776 | 1841 | Cornwall | Penwith
+/search_records/651d0544f493fd5e571384ad/elizabeth-curtis-1841-cornwall-launcells-1776- :: Elizabeth CURTIS | Cornwall |  | 1776 | 1841 | Cornwall | Launcells North Side
+/search_records/59029351e9379091b180b257/peter-curtis-1841-cornwall-powder-1777- :: Peter CURTIS | Cornwall | - | 1777 | 1841 | Cornwall | St Austell
+/search_records/59029351e9379091b180b259/dorcas-curtis-1841-cornwall-powder-1779- :: Dorcas CURTIS | Cornwall | - | 1779 | 1841 | Cornwall | St Austell
+/search_records/59029438e9379091b1840ed6/william-curtis-1841-cornwall-pydar-1781- :: William CURTIS | Cornwall | - | 1781 | 1841 | Cornwall | Padstow
+/search_records/5902903fe9379091b174c294/mary-curtis-1841-cornwall-kerrier-1781- :: Mary CURTIS | Cornwall | - | 1781 | 1841 | Cornwall | Kerrier
+/search_records/590290cee9379091b176e8d0/alice-curtis-1841-cornwall-kerrier-1781- :: Alice CURTIS | Cornwall | - | 1781 | 1841 | Cornwall | Kerrier
+/search_records/5902910ee9379091b177e654/christopher-curtis-1841-cornwall-kerrier-1781- :: Christopher CURTIS | Cornwall | - | 1781 | 1841 | Cornwall | Kerrier
+/search_records/5902910ee9379091b177e656/dorethy-curtis-1841-cornwall-kerrier-1781- :: Dorethy CURTIS | Cornwall | - | 1781 | 1841 | Cornwall | Kerrier
+/search_records/5902929de9379091b17df0ad/honor-curtis-1841-cornwall-penwith-1781- :: Honor CURTIS | Cornwall | - | 1781 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df0ab/walter-curtis-1841-cornwall-penwith-1781- :: Walter CURTIS | Cornwall | - | 1781 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df108/kitty-curtis-1841-cornwall-penwith-1781- :: Kitty CURTIS | Cornwall | - | 1781 | 1841 | Cornwall | Penwith
+/search_records/59029472e9379091b184f201/jane-curtis-1841-cornwall-pydar-1781- :: Jane CURTIS | Cornwall | - | 1781 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f2ad/john-snr-curtis-1841-cornwall-pydar-1781- :: John (Snr) CURTIS | Cornwall | - | 1781 | 1841 | Cornwall | Padstow
+/search_records/62ca8cd9f493fd200c90df64/robert-curtis-1841-cornwall-lanlivery-1781- :: Robert CURTIS | Cornwall |  | 1781 | 1841 | Cornwall | Lanlivery
+/search_records/62ca8cd9f493fd200c90df66/jane-curtis-1841-cornwall-lanlivery-1781- :: Jane CURTIS | Cornwall |  | 1781 | 1841 | Cornwall | Lanlivery
+/search_records/651d052df493fd5e57137dae/richard-curtis-1841-cornwall-kilkhampton-1781- :: Richard CURTIS | Cornwall |  | 1781 | 1841 | Cornwall | Kilkhampton
+/search_records/651d052df493fd5e57137db0/ann-curtis-1841-cornwall-kilkhampton-1781- :: Ann CURTIS | Cornwall |  | 1781 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0545f493fd5e571384df/susanna-curtis-1841-cornwall-launcells-1781- :: Susanna CURTIS | Cornwall |  | 1781 | 1841 | Cornwall | Launcells North Side
+/search_records/6846cbfbb18f7c1e088a8b15/william-curtis-1841-cornwall-falmouth-1781- :: William CURTIS | Cornwall |  | 1781 | 1841 | Cornwall | Falmouth
+/search_records/69be7873b18f7c454f58d5a9/jno-curtis-1841-cornwall-phillack-1781- :: Jno. CURTIS | Cornwall |  | 1781 | 1841 | Cornwall | Phillack
+/search_records/69be7873b18f7c454f58d5aa/margaret-curtis-1841-cornwall-phillack-1781- :: Margaret CURTIS | Cornwall |  | 1781 | 1841 | Cornwall | Phillack
+/search_records/651d05abf493fd5e57139915/jane-curtis-1841-cornwall-stratton-1783- :: Jane CURTIS | Out of County |  | 1783 | 1841 | Cornwall | Stratton
+/search_records/5902929fe9379091b17dfb0c/ann-curtis-1841-cornwall-penwith-1786- :: Ann CURTIS | Cornwall | - | 1786 | 1841 | Cornwall | Penwith
+/search_records/5902935ee9379091b180e69a/patience-curtis-1841-cornwall-powder-1786- :: Patience CURTIS | Cornwall | - | 1786 | 1841 | Cornwall | St Austell
+/search_records/670ccbc6b18f7ce1fe9da865/samuel-curtis-1841-cornwall-bodmin-1786- :: Samuel CURTIS | Cornwall |  | 1786 | 1841 | Cornwall | Bodmin
+/search_records/69be7875b18f7c454f58d728/willm-curtis-1841-cornwall-phillack-1786- :: Willm. CURTIS | Cornwall |  | 1786 | 1841 | Cornwall | Phillack
+/search_records/69be793cb18f7c454f5920c7/jane-curtis-1841-cornwall-redruth-1786- :: Jane CURTIS | Cornwall |  | 1786 | 1841 | Cornwall | Redruth
+/search_records/5902903fe9379091b174c503/johanna-curtis-1841-cornwall-kerrier-1786- :: Johanna CURTIS | Cornwall | - | 1786 | 1841 | Cornwall | Kerrier
+/search_records/590290c1e9379091b176b14d/mary-curtis-1841-cornwall-kerrier-1786- :: Mary CURTIS | Cornwall | - | 1786 | 1841 | Cornwall | Kerrier
+/search_records/59028fdbe9379091b17339a1/elizabeth-curtis-1841-cornwall-east-1786- :: Elizabeth CURTIS | Cornwall | - | 1786 | 1841 | Cornwall | Launceston
+/search_records/590293b1e9379091b18206a7/grace-curtis-1841-cornwall-powder-1787- :: Grace CURTIS | Cornwall | - | 1787 | 1841 | Cornwall | Truro
+/search_records/6846cbb6b18f7c1e088a76e5/amy-curtis-1841-cornwall-falmouth-1791- :: Amy CURTIS | Cornwall |  | 1791 | 1841 | Cornwall | Falmouth
+/search_records/69be7875b18f7c454f58d729/mary-curtis-1841-cornwall-phillack-1791- :: Mary CURTIS | Cornwall |  | 1791 | 1841 | Cornwall | Phillack
+/search_records/651d04dff493fd5e57136ef9/james-curtis-1841-cornwall-bridgerule-1791- :: James CURTIS | Cornwall |  | 1791 | 1841 | Cornwall | Bridgerule West Of Tamar
+/search_records/5902903fe9379091b174c426/john-curtis-1841-cornwall-kerrier-1791- :: John CURTIS | Cornwall | - | 1791 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c428/mary-curtis-1841-cornwall-kerrier-1791- :: Mary CURTIS | Cornwall | - | 1791 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c506/thomas-curtis-1841-cornwall-kerrier-1791- :: Thomas CURTIS | Cornwall | - | 1791 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c50a/john-curtis-1841-cornwall-kerrier-1791- :: John CURTIS | Cornwall | - | 1791 | 1841 | Cornwall | Kerrier
+/search_records/59029433e9379091b183f805/stephen-curtis-1841-cornwall-pydar-1791- :: Stephen CURTIS | Cornwall | - | 1791 | 1841 | Cornwall | Padstow
+/search_records/59029438e9379091b1840ed8/sarah-curtis-1841-cornwall-pydar-1791- :: Sarah CURTIS | Ireland | - | 1791 | 1841 | Cornwall | Padstow
+/search_records/651d0544f493fd5e5713847d/grace-curtis-1841-cornwall-launcells-1791- :: Grace CURTIS | Cornwall |  | 1791 | 1841 | Cornwall | Launcells North Side
+/search_records/651d0545f493fd5e571384db/thomas-curtis-1841-cornwall-launcells-1791- :: Thomas CURTIS | Cornwall |  | 1791 | 1841 | Cornwall | Launcells North Side
+/search_records/670ccc02b18f7ce1fe9dbbc6/matthew-curtis-1841-cornwall-bodmin-1791- :: Matthew CURTIS | Cornwall |  | 1791 | 1841 | Cornwall | Bodmin
+/search_records/5902903fe9379091b174c3fd/william-curtis-1841-cornwall-kerrier-1796- :: William CURTIS | Cornwall | - | 1796 | 1841 | Cornwall | Kerrier
+/search_records/59029086e9379091b175d169/delia-curtis-1841-cornwall-kerrier-1796- :: Delia CURTIS | Cornwall | - | 1796 | 1841 | Cornwall | Kerrier
+/search_records/5902933fe9379091b18063e5/hannah-curtis-1841-cornwall-powder-1796- :: Hannah CURTIS | Cornwall | - | 1796 | 1841 | Cornwall | St Austell
+/search_records/59029341e9379091b1806db8/john-curtis-1841-cornwall-powder-1796- :: John CURTIS | Cornwall | - | 1796 | 1841 | Cornwall | St Austell
+/search_records/59029344e9379091b18077ad/grace-curtis-1841-cornwall-powder-1796- :: Grace CURTIS | Cornwall | - | 1796 | 1841 | Cornwall | St Austell
+/search_records/590293ace9379091b181ee6a/william-curtis-1841-cornwall-powder-1796- :: William CURTIS | Cornwall | - | 1796 | 1841 | Cornwall | Truro
+/search_records/59029428e9379091b183cb1c/johana-curtis-1841-cornwall-pydar-1796- :: Johana CURTIS | Cornwall | - | 1796 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f203/maria-curtis-1841-cornwall-pydar-1796- :: Maria CURTIS | Cornwall | - | 1796 | 1841 | Cornwall | Padstow
+/search_records/66263d3af493fd445697dcc9/ann-curtis-1841-cornwall-st-martin-by-looe-1797- :: Ann CURTIS | Cornwall |  | 1797 | 1841 | Cornwall | St Martin By Looe
+/search_records/59029051e9379091b175113f/john-curtis-1841-cornwall-kerrier-1798- :: John CURTIS | Cornwall | - | 1798 | 1841 | Cornwall | Kerrier
+/search_records/59029341e9379091b1806db6/william-curtis-1841-cornwall-powder-1801- :: William CURTIS | Cornwall | - | 1801 | 1841 | Cornwall | St Austell
+/search_records/5902903fe9379091b174c3ff/jane-curtis-1841-cornwall-kerrier-1801- :: Jane CURTIS | Cornwall | - | 1801 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c508/elizabeth-curtis-1841-cornwall-kerrier-1801- :: Elizabeth CURTIS | Cornwall | - | 1801 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c52e/ann-curtis-1841-cornwall-kerrier-1801- :: Ann CURTIS | Cornwall | - | 1801 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c52c/william-curtis-1841-cornwall-kerrier-1801- :: William CURTIS | Cornwall | - | 1801 | 1841 | Cornwall | Kerrier
+/search_records/590290cee9379091b176e8d2/betsey-curtis-1841-cornwall-kerrier-1801- :: Betsey CURTIS | Cornwall | - | 1801 | 1841 | Cornwall | Kerrier
+/search_records/5902929ee9379091b17df493/christiana-curtis-1841-cornwall-penwith-1801- :: Christiana CURTIS | Cornwall | - | 1801 | 1841 | Cornwall | Penwith
+/search_records/5902929ee9379091b17df491/william-curtis-1841-cornwall-penwith-1801- :: William CURTIS | Cornwall | - | 1801 | 1841 | Cornwall | Penwith
+/search_records/59029433e9379091b183f880/elizabeth-curtis-1841-cornwall-pydar-1801- :: Elizabeth CURTIS | Cornwall | - | 1801 | 1841 | Cornwall | Padstow
+/search_records/6846cbddb18f7c1e088a8303/elizabeth-curtis-1841-cornwall-falmouth-1801- :: Elizabeth CURTIS | Cornwall |  | 1801 | 1841 | Cornwall | Falmouth Union Workhouse
+/search_records/69be7813b18f7c454f58b228/jane-curtis-1841-cornwall-perranuthnoe-1801- :: Jane CURTIS | Cornwall |  | 1801 | 1841 | Cornwall | Perranuthnoe
+/search_records/69be793bb18f7c454f5920b5/william-curtis-1841-cornwall-redruth-1801- :: William CURTIS | Cornwall |  | 1801 | 1841 | Cornwall | Redruth
+/search_records/59029051e9379091b1751141/elizebeth-curtis-1841-cornwall-kerrier-1803- :: Elizebeth CURTIS | Cornwall | - | 1803 | 1841 | Cornwall | Kerrier
+/search_records/5902929de9379091b17df252/john-curtis-1841-cornwall-penwith-1804- :: John CURTIS | Cornwall | - | 1804 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df157/jenifer-curtis-1841-cornwall-penwith-1806- :: Jenifer CURTIS | Cornwall | - | 1806 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df2c5/grace-curtis-1841-cornwall-penwith-1806- :: Grace CURTIS | Cornwall | - | 1806 | 1841 | Cornwall | Penwith
+/search_records/59029464e9379091b184b732/john-curtis-1841-cornwall-pydar-1806- :: John CURTIS | Cornwall | - | 1806 | 1841 | Cornwall | Padstow
+/search_records/62ca8d4af493fd200c90f45c/mary-l-curtis-1841-cornwall-lostwithiel-1806- :: Mary L. CURTIS | Cornwall |  | 1806 | 1841 | Cornwall | Lostwithiel
+/search_records/62ca8e1af493fd200c911e95/samuel-curtis-1841-cornwall-roche-1806- :: Samuel CURTIS | Cornwall |  | 1806 | 1841 | Cornwall | Roche
+/search_records/670ccbd8b18f7ce1fe9dae5a/martha-curtis-1841-cornwall-bodmin-1806- :: Martha CURTIS | Cornwall |  | 1806 | 1841 | Cornwall | Bodmin
+/search_records/69be7870b18f7c454f58d3f2/james-curtis-1841-cornwall-phillack-1806- :: James CURTIS | Cornwall |  | 1806 | 1841 | Cornwall | Phillack
+/search_records/69be7870b18f7c454f58d3f6/elizth-curtis-1841-cornwall-phillack-1806- :: Elizth. CURTIS | Cornwall |  | 1806 | 1841 | Cornwall | Phillack
+/search_records/5902910be9379091b177d9a0/grace-curtis-1841-cornwall-kerrier-1806- :: Grace CURTIS | Cornwall | - | 1806 | 1841 | Cornwall | Kerrier
+/search_records/5902929de9379091b17df155/josiah-curtis-1841-cornwall-penwith-1806- :: Josiah CURTIS | Cornwall | - | 1806 | 1841 | Cornwall | Penwith
+/search_records/5902903fe9379091b174c4eb/thomas-curtis-1841-cornwall-kerrier-1806- :: Thomas CURTIS | Cornwall | - | 1806 | 1841 | Cornwall | Kerrier
+/search_records/5902910be9379091b177d99e/william-curtis-1841-cornwall-kerrier-1806- :: William CURTIS | Cornwall | - | 1806 | 1841 | Cornwall | Kerrier
+/search_records/5902929de9379091b17df10a/charles-curtis-1841-cornwall-penwith-1806- :: Charles CURTIS | Cornwall | - | 1806 | 1841 | Cornwall | Penwith
+/search_records/651d0545f493fd5e571384ef/william-curtis-1841-cornwall-launcells-1807- :: William CURTIS | Cornwall |  | 1807 | 1841 | Cornwall | Launcells North Side
+/search_records/5902929de9379091b17df254/jane-curtis-1841-cornwall-penwith-1809- :: Jane CURTIS | Cornwall | - | 1809 | 1841 | Cornwall | Penwith
+/search_records/651d0545f493fd5e571384f1/betsy-curtis-1841-cornwall-launcells-1809- :: Betsy CURTIS | Cornwall |  | 1809 | 1841 | Cornwall | Launcells North Side
+/search_records/651d0544f493fd5e571384af/james-curtis-1841-cornwall-launcells-1811- :: James CURTIS | Cornwall |  | 1811 | 1841 | Cornwall | Launcells North Side
+/search_records/66263d4cf493fd445697e240/mary-curtis-1841-cornwall-st-veep-1811- :: Mary CURTIS | Cornwall |  | 1811 | 1841 | Cornwall | St Veep
+/search_records/670ccbd4b18f7ce1fe9dad69/mary-curtis-1841-cornwall-bodmin-1811- :: Mary CURTIS | Cornwall |  | 1811 | 1841 | Cornwall | Bodmin
+/search_records/69be7873b18f7c454f58d5ac/william-curtis-1841-cornwall-phillack-1811- :: William CURTIS | Cornwall |  | 1811 | 1841 | Cornwall | Phillack
+/search_records/5902929de9379091b17df10c/joseph-curtis-1841-cornwall-penwith-1811- :: Joseph CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Penwith
+/search_records/5902903fe9379091b174c4ed/ann-curtis-1841-cornwall-kerrier-1811- :: Ann CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Kerrier
+/search_records/59029091e9379091b175ff42/ann-curtis-1841-cornwall-kerrier-1811- :: Ann CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Kerrier
+/search_records/59029091e9379091b175ff3f/thos-curtis-1841-cornwall-kerrier-1811- :: Thos CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Kerrier
+/search_records/590290cfe9379091b176ecb8/william-curtis-1841-cornwall-kerrier-1811- :: William CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Kerrier
+/search_records/590290cfe9379091b176ecba/jenefer-curtis-1841-cornwall-kerrier-1811- :: Jenefer CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Kerrier
+/search_records/590291b0e9379091b17a5ddb/william-curtis-1841-cornwall-penwith-1811- :: William CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Penwith
+/search_records/590291cce9379091b17ad60c/william-curtis-1841-cornwall-penwith-1811- :: William CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Penwith
+/search_records/590291cce9379091b17ad60e/ann-curtis-1841-cornwall-penwith-1811- :: Ann CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Penwith
+/search_records/590291cce9379091b17ad74d/ralph-curtis-1841-cornwall-penwith-1811- :: Ralph CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df13b/william-curtis-1841-cornwall-penwith-1811- :: William CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Penwith
+/search_records/5902929ee9379091b17df696/joseph-curtis-1841-cornwall-penwith-1811- :: Joseph CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Penwith
+/search_records/590293a4e9379091b181d0c7/thomas-curtis-1841-cornwall-powder-1811- :: Thomas CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Truro
+/search_records/5902942be9379091b183da58/maria-curtis-1841-cornwall-pydar-1811- :: Maria CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Padstow
+/search_records/59029464e9379091b184b734/elizabeth-curtis-1841-cornwall-pydar-1811- :: Elizabeth CURTIS | Scotland | - | 1811 | 1841 | Cornwall | Padstow
+/search_records/59029470e9379091b184e84c/richard-curtis-1841-cornwall-pydar-1811- :: Richard CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Padstow
+/search_records/59029470e9379091b184e84e/mary-curtis-1841-cornwall-pydar-1811- :: Mary CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f173/william-curtis-1841-cornwall-pydar-1811- :: William CURTIS | Cornwall | - | 1811 | 1841 | Cornwall | Padstow
+/search_records/590293b2e9379091b18207a4/emmanuel-curtis-1841-cornwall-powder-1812- :: Emmanuel CURTIS | Cornwall | - | 1812 | 1841 | Cornwall | Truro
+/search_records/5902929de9379091b17df13d/elizabeth-curtis-1841-cornwall-penwith-1813- :: Elizabeth CURTIS | Cornwall | - | 1813 | 1841 | Cornwall | Penwith
+/search_records/69be7821b18f7c454f58ba80/john-curtis-1841-cornwall-perranuthnoe-1813- :: John CURTIS | Cornwall |  | 1813 | 1841 | Cornwall | Perranuthnoe
+/search_records/5902929ce9379091b17ded3d/samuel-curtis-1841-cornwall-penwith-1814- :: Samuel CURTIS | Cornwall | - | 1814 | 1841 | Cornwall | Penwith
+/search_records/590293b2e9379091b18207a6/phillipa-curtis-1841-cornwall-powder-1815- :: Phillipa CURTIS | Cornwall | - | 1815 | 1841 | Cornwall | Truro
+/search_records/69be7821b18f7c454f58ba82/mary-curtis-1841-cornwall-perranuthnoe-1815- :: Mary CURTIS | Cornwall |  | 1815 | 1841 | Cornwall | Perranuthnoe
+/search_records/5902929fe9379091b17df9bf/charlotte-curtis-1841-cornwall-penwith-1816- :: Charlotte CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Penwith
+/search_records/5902933fe9379091b18063e7/william-curtis-1841-cornwall-powder-1816- :: William CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | St Austell
+/search_records/59029344e9379091b18077af/john-curtis-1841-cornwall-powder-1816- :: John CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | St Austell
+/search_records/590293b1e9379091b18206a9/joseph-curtis-1841-cornwall-powder-1816- :: Joseph CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Truro
+/search_records/5902941fe9379091b183a4be/samuel-curtis-1841-cornwall-pydar-1816- :: Samuel CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Padstow
+/search_records/59029464e9379091b184b721/thomas-curtis-1841-cornwall-pydar-1816- :: Thomas CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f22d/ann-curtis-1841-cornwall-pydar-1816- :: Ann CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f229/john-jnr-curtis-1841-cornwall-pydar-1816- :: John (Jnr) CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f2b1/george-curtis-1841-cornwall-pydar-1816- :: George CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Padstow
+/search_records/651d0526f493fd5e57137aed/thomas-curtis-1841-cornwall-kilkhampton-1816- :: Thomas CURTIS | Cornwall |  | 1816 | 1841 | Cornwall | Kilkhampton
+/search_records/651d052bf493fd5e57137d04/john-curtis-1841-cornwall-kilkhampton-1816- :: John CURTIS | Out of County |  | 1816 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0544f493fd5e571384b1/mary-curtis-1841-cornwall-launcells-1816- :: Mary CURTIS | Cornwall |  | 1816 | 1841 | Cornwall | Launcells North Side
+/search_records/66263aebf493fd4456975bc3/grace-curtis-1841-cornwall-cardinham-1816- :: Grace CURTIS | Cornwall |  | 1816 | 1841 | Cornwall | Cardinham
+/search_records/66263c57f493fd4456979002/richard-curtis-1841-cornwall-liskeard-1816- :: Richard CURTIS | Cornwall |  | 1816 | 1841 | Cornwall | Liskeard
+/search_records/66263d4cf493fd445697e23e/william-curtis-1841-cornwall-st-veep-1816- :: William CURTIS | Cornwall |  | 1816 | 1841 | Cornwall | St Veep
+/search_records/69be7873b18f7c454f58d5b2/elizth-curtis-1841-cornwall-phillack-1816- :: Elizth. CURTIS | Out of County |  | 1816 | 1841 | Cornwall | Phillack
+/search_records/5902941fe9379091b183a4c0/elizabeth-curtis-1841-cornwall-pydar-1816- :: Elizabeth CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Padstow
+/search_records/5902903fe9379091b174c42a/mary-curtis-1841-cornwall-kerrier-1816- :: Mary CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Kerrier
+/search_records/59029136e9379091b17881a9/william-curtis-1841-cornwall-lesnewth-1816- :: William CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Lesnewth
+/search_records/590291cce9379091b17ad74f/sarah-curtis-1841-cornwall-penwith-1816- :: Sarah CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Penwith
+/search_records/5902929ce9379091b17ded3f/mary-curtis-1841-cornwall-penwith-1816- :: Mary CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df2c3/charles-curtis-1841-cornwall-penwith-1816- :: Charles CURTIS | Cornwall | - | 1816 | 1841 | Cornwall | Penwith
+/search_records/59029097e9379091b1761caa/william-curtis-1841-cornwall-kerrier-1818- :: William CURTIS | Cornwall | - | 1818 | 1841 | Cornwall | Kerrier
+/search_records/59029344e9379091b18077b1/thomas-curtis-1841-cornwall-powder-1819- :: Thomas CURTIS | Cornwall | - | 1819 | 1841 | Cornwall | St Austell
+/search_records/651d0542f493fd5e57138361/william-curtis-1841-cornwall-launcells-1820- :: William CURTIS | Cornwall |  | 1820 | 1841 | Cornwall | Launcells North Side
+/search_records/651d05baf493fd5e57139ec2/thomas-curtis-1841-cornwall-stratton-1820- :: Thomas CURTIS | Cornwall |  | 1820 | 1841 | Cornwall | Stratton
+/search_records/651d052ef493fd5e57137e19/john-curtis-1841-cornwall-kilkhampton-1821- :: John CURTIS | Out of County |  | 1821 | 1841 | Cornwall | Kilkhampton
+/search_records/59029022e9379091b1745d5d/grace-curtis-1841-cornwall-east-1821- :: Grace CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Saltash
+/search_records/5902903fe9379091b174c42c/thomasine-curtis-1841-cornwall-kerrier-1821- :: Thomasine CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Kerrier
+/search_records/5902909ae9379091b1762c37/maria-curtis-1841-cornwall-kerrier-1821- :: Maria CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Kerrier
+/search_records/5902909de9379091b1763a49/mary-curtis-1841-cornwall-kerrier-1821- :: Mary CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Kerrier
+/search_records/5902909de9379091b1763a47/james-curtis-1841-cornwall-kerrier-1821- :: James CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Kerrier
+/search_records/59029113e9379091b177fe90/amelia-curtis-1841-cornwall-kerrier-1821- :: Amelia CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Kerrier
+/search_records/59029113e9379091b177fe8e/william-curtis-1841-cornwall-kerrier-1821- :: William CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Kerrier
+/search_records/5902929de9379091b17df0b1/marey-curtis-1841-cornwall-penwith-1821- :: Marey CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df10e/ralph-curtis-1841-cornwall-penwith-1821- :: Ralph CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Penwith
+/search_records/5902933fe9379091b18063e9/james-curtis-1841-cornwall-powder-1821- :: James CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | St Austell
+/search_records/59029344e9379091b18077b3/grace-curtis-1841-cornwall-powder-1821- :: Grace CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | St Austell
+/search_records/590293b1e9379091b18206ab/grace-curtis-1841-cornwall-powder-1821- :: Grace CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Truro
+/search_records/59029464e9379091b184b725/margaret-curtis-1841-cornwall-pydar-1821- :: Margaret CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f206/maria-curtis-1841-cornwall-pydar-1821- :: Maria CURTIS | Cornwall | - | 1821 | 1841 | Cornwall | Padstow
+/search_records/651d052bf493fd5e57137d06/eliza-curtis-1841-cornwall-kilkhampton-1821- :: Eliza CURTIS | Out of County |  | 1821 | 1841 | Cornwall | Kilkhampton
+/search_records/651d052df493fd5e57137db5/mary-ann-curtis-1841-cornwall-kilkhampton-1821- :: Mary Ann CURTIS | Cornwall |  | 1821 | 1841 | Cornwall | Kilkhampton
+/search_records/651d052df493fd5e57137db6/edward-curtis-1841-cornwall-kilkhampton-1821- :: Edward CURTIS | Cornwall |  | 1821 | 1841 | Cornwall | Kilkhampton
+/search_records/651d053ff493fd5e5713827d/betsy-curtis-1841-cornwall-launcells-1821- :: Betsy CURTIS | Cornwall |  | 1821 | 1841 | Cornwall | Launcells North Side
+/search_records/651d0540f493fd5e571382b1/william-curtis-1841-cornwall-launcells-1821- :: William CURTIS | Cornwall |  | 1821 | 1841 | Cornwall | Launcells North Side
+/search_records/66263c57f493fd4456979004/elizabeth-curtis-1841-cornwall-liskeard-1821- :: Elizabeth CURTIS | Cornwall |  | 1821 | 1841 | Cornwall | Liskeard
+/search_records/66263d51f493fd445697e4d6/nicholas-curtis-1841-cornwall-st-veep-1821- :: Nicholas CURTIS | Cornwall |  | 1821 | 1841 | Cornwall | St Veep
+/search_records/670ccbc7b18f7ce1fe9da867/fanny-curtis-1841-cornwall-bodmin-1821- :: Fanny CURTIS | Cornwall |  | 1821 | 1841 | Cornwall | Bodmin
+/search_records/69be7813b18f7c454f58b22a/jane-curtis-1841-cornwall-perranuthnoe-1821- :: Jane CURTIS | Cornwall |  | 1821 | 1841 | Cornwall | Perranuthnoe
+/search_records/69be7873b18f7c454f58d5ae/james-curtis-1841-cornwall-phillack-1821- :: James CURTIS | Cornwall |  | 1821 | 1841 | Cornwall | Phillack
+/search_records/5902929de9379091b17df0b3/eliza-curtis-1841-cornwall-penwith-1822- :: Eliza CURTIS | Cornwall | - | 1822 | 1841 | Cornwall | Penwith
+/search_records/66263c89f493fd445697a2ee/thomas-curtis-1841-cornwall-liskeard-1822- :: Thomas CURTIS | Cornwall |  | 1822 | 1841 | Cornwall | Liskeard
+/search_records/69be7873b18f7c454f58d5c7/susan-curtis-1841-cornwall-phillack-1823- :: Susan CURTIS | Cornwall |  | 1823 | 1841 | Cornwall | Phillack
+/search_records/590293b1e9379091b18206ad/eliza-curtis-1841-cornwall-powder-1823- :: Eliza CURTIS | Cornwall | - | 1823 | 1841 | Cornwall | Truro
+/search_records/6846cbb6b18f7c1e088a76e9/ann-curtis-1841-cornwall-falmouth-1824- :: Ann CURTIS | Cornwall |  | 1824 | 1841 | Cornwall | Falmouth
+/search_records/590290cee9379091b176e92f/robert-curtis-1841-cornwall-kerrier-1824- :: Robert CURTIS | Cornwall | - | 1824 | 1841 | Cornwall | Kerrier
+/search_records/5902929de9379091b17df0b6/solomon-curtis-1841-cornwall-penwith-1825- :: Solomon CURTIS | Cornwall | - | 1825 | 1841 | Cornwall | Penwith
+/search_records/59029086e9379091b175d16b/henry-curtis-1841-cornwall-kerrier-1826- :: Henry CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/59029092e9379091b1760793/jocustia-curtis-1841-cornwall-kerrier-1826- :: Jocustia CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/59029136e9379091b1788385/thomas-curtis-1841-cornwall-lesnewth-1826- :: Thomas CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Lesnewth
+/search_records/5902929de9379091b17df110/caroline-curtis-1841-cornwall-penwith-1826- :: Caroline CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Penwith
+/search_records/5902929fe9379091b17df9c1/caroline-curtis-1841-cornwall-penwith-1826- :: Caroline CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Penwith
+/search_records/590292ade9379091b17e3658/sophia-curtis-1841-cornwall-penwith-1826- :: Sophia CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Penwith
+/search_records/5902933fe9379091b18063eb/peter-curtis-1841-cornwall-powder-1826- :: Peter CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | St Austell
+/search_records/5902933fe9379091b18063ed/mary-ann-curtis-1841-cornwall-powder-1826- :: Mary Ann CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | St Austell
+/search_records/59029341e9379091b1806c7a/william-curtis-1841-cornwall-powder-1826- :: William CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | St Austell
+/search_records/59029344e9379091b18077b5/elizabeth-curtis-1841-cornwall-powder-1826- :: Elizabeth CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | St Austell
+/search_records/590293b1e9379091b18206b0/john-curtis-1841-cornwall-powder-1826- :: John CURTIS | Unknown | - | 1826 | 1841 | Cornwall | Truro
+/search_records/59029428e9379091b183cb1e/hannah-curtis-1841-cornwall-pydar-1826- :: Hannah CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Padstow
+/search_records/59029428e9379091b183cb20/william-curtis-1841-cornwall-pydar-1826- :: William CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Padstow
+/search_records/59029471e9379091b184edcb/amy-curtis-1841-cornwall-pydar-1826- :: Amy CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f0b8/jane-curtis-1841-cornwall-pydar-1826- :: Jane CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f2b3/maria-curtis-1841-cornwall-pydar-1826- :: Maria CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f2b6/sophia-curtis-1841-cornwall-pydar-1826- :: Sophia CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Padstow
+/search_records/651d0542f493fd5e57138379/john-curtis-1841-cornwall-launcells-1826- :: John CURTIS | Cornwall |  | 1826 | 1841 | Cornwall | Launcells North Side
+/search_records/651d0542f493fd5e5713837b/richard-curtis-1841-cornwall-launcells-1826- :: Richard CURTIS | Cornwall |  | 1826 | 1841 | Cornwall | Launcells North Side
+/search_records/651d0545f493fd5e571384e0/mary-curtis-1841-cornwall-launcells-1826- :: Mary CURTIS | Cornwall |  | 1826 | 1841 | Cornwall | Launcells North Side
+/search_records/651d0547f493fd5e5713853b/betsy-curtis-1841-cornwall-launcells-1826- :: Betsy CURTIS | Cornwall |  | 1826 | 1841 | Cornwall | Launcells North Side
+/search_records/651d05c5f493fd5e5713a28c/elizabeth-curtis-1841-cornwall-stratton-1826- :: Elizabeth CURTIS | Cornwall |  | 1826 | 1841 | Cornwall | Stratton
+/search_records/66263d1bf493fd445697d2ed/elizabeth-curtis-1841-cornwall-st-pinnock-1826- :: Elizabeth CURTIS | Cornwall |  | 1826 | 1841 | Cornwall | St Pinnock
+/search_records/670ccbc7b18f7ce1fe9da869/frederick-curtis-1841-cornwall-bodmin-1826- :: Frederick CURTIS | Cornwall |  | 1826 | 1841 | Cornwall | Bodmin
+/search_records/670ccbefb18f7ce1fe9db4e5/joanna-curtis-1841-cornwall-bodmin-1826- :: Joanna CURTIS | Cornwall |  | 1826 | 1841 | Cornwall | Bodmin
+/search_records/69be7813b18f7c454f58b22c/alice-curtis-1841-cornwall-perranuthnoe-1826- :: Alice CURTIS | Cornwall |  | 1826 | 1841 | Cornwall | Perranuthnoe
+/search_records/69be7813b18f7c454f58b22e/william-curtis-1841-cornwall-perranuthnoe-1826- :: William CURTIS | Cornwall |  | 1826 | 1841 | Cornwall | Perranuthnoe
+/search_records/69be7875b18f7c454f58d72d/susan-curtis-1841-cornwall-phillack-1826- :: Susan CURTIS | Cornwall |  | 1826 | 1841 | Cornwall | Phillack
+/search_records/590292ade9379091b17e3648/josiah-curtis-1841-cornwall-penwith-1826- :: Josiah CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Penwith
+/search_records/5902903fe9379091b174c401/john-curtis-1841-cornwall-kerrier-1826- :: John CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c403/william-curtis-1841-cornwall-kerrier-1826- :: William CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c42e/jane-curtis-1841-cornwall-kerrier-1826- :: Jane CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c430/ann-curtis-1841-cornwall-kerrier-1826- :: Ann CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c530/mary-curtis-1841-cornwall-kerrier-1826- :: Mary CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/5902904ae9379091b174f544/grace-curtis-1841-cornwall-kerrier-1826- :: Grace CURTIS | Cornwall | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c532/francis-curtis-1841-cornwall-kerrier-1827- :: Francis CURTIS | Cornwall | - | 1827 | 1841 | Cornwall | Kerrier
+/search_records/5902933fe9379091b18063f1/harriot-curtis-1841-cornwall-powder-1827- :: Harriot CURTIS | Cornwall | - | 1827 | 1841 | Cornwall | St Austell
+/search_records/670ccbc7b18f7ce1fe9da86b/elizabeth-curtis-1841-cornwall-bodmin-1827- :: Elizabeth CURTIS | Cornwall |  | 1827 | 1841 | Cornwall | Bodmin
+/search_records/5902910be9379091b177d9a2/thomas-curtis-1841-cornwall-kerrier-1827- :: Thomas CURTIS | Cornwall | - | 1827 | 1841 | Cornwall | Kerrier
+/search_records/69be7813b18f7c454f58b230/carroline-curtis-1841-cornwall-perranuthnoe-1827- :: Carroline CURTIS | Cornwall |  | 1827 | 1841 | Cornwall | Perranuthnoe
+/search_records/59029344e9379091b18077b7/ann-curtis-1841-cornwall-powder-1828- :: Ann CURTIS | Cornwall | - | 1828 | 1841 | Cornwall | St Austell
+/search_records/5902903fe9379091b174c432/william-curtis-1841-cornwall-kerrier-1828- :: William CURTIS | Cornwall | - | 1828 | 1841 | Cornwall | Kerrier
+/search_records/59029051e9379091b1751143/mary-curtis-1841-cornwall-kerrier-1828- :: Mary CURTIS | Cornwall | - | 1828 | 1841 | Cornwall | Kerrier
+/search_records/5902929ee9379091b17df495/william-curtis-1841-cornwall-penwith-1828- :: William CURTIS | Cornwall | - | 1828 | 1841 | Cornwall | Penwith
+/search_records/590293b2e9379091b18206b2/johanna-curtis-1841-cornwall-powder-1828- :: Johanna CURTIS | Unknown | - | 1828 | 1841 | Cornwall | Truro
+/search_records/59029086e9379091b175d16d/loveday-curtis-1841-cornwall-kerrier-1829- :: Loveday CURTIS | Cornwall | - | 1829 | 1841 | Cornwall | Kerrier
+/search_records/5902910be9379091b177d9a4/william-curtis-1841-cornwall-kerrier-1829- :: William CURTIS | Cornwall | - | 1829 | 1841 | Cornwall | Kerrier
+/search_records/590291c7e9379091b17ac074/martha-curtis-1841-cornwall-penwith-1829- :: Martha CURTIS | Cornwall | - | 1829 | 1841 | Cornwall | Penwith
+/search_records/590291cce9379091b17ad610/maryan-curtis-1841-cornwall-penwith-1829- :: Maryan CURTIS | Cornwall | - | 1829 | 1841 | Cornwall | Penwith
+/search_records/59029472e9379091b184efb3/mary-curtis-1841-cornwall-pydar-1829- :: Mary CURTIS | Cornwall | - | 1829 | 1841 | Cornwall | Padstow
+/search_records/651d05baf493fd5e57139ec4/john-curtis-1841-cornwall-stratton-1829- :: John CURTIS | Cornwall |  | 1829 | 1841 | Cornwall | Stratton
+/search_records/5902903fe9379091b174c534/william-curtis-1841-cornwall-kerrier-1830- :: William CURTIS | Cornwall | - | 1830 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c434/edwin-curtis-1841-cornwall-kerrier-1830- :: Edwin CURTIS | Cornwall | - | 1830 | 1841 | Cornwall | Kerrier
+/search_records/5902929ee9379091b17df497/samuel-curtis-1841-cornwall-penwith-1830- :: Samuel CURTIS | Cornwall | - | 1830 | 1841 | Cornwall | Penwith
+/search_records/5902933fe9379091b18063f3/cordelia-curtis-1841-cornwall-powder-1830- :: Cordelia CURTIS | Cornwall | - | 1830 | 1841 | Cornwall | St Austell
+/search_records/590293b2e9379091b18206b5/william-curtis-1841-cornwall-powder-1830- :: William CURTIS | Unknown | - | 1830 | 1841 | Cornwall | Truro
+/search_records/66263d3af493fd445697dccb/margaret-curtis-1841-cornwall-st-martin-by-looe-1830- :: Margaret CURTIS | Cornwall |  | 1830 | 1841 | Cornwall | St Martin By Looe
+/search_records/6846cbb6b18f7c1e088a76eb/thomas-curtis-1841-cornwall-falmouth-1830- :: Thomas CURTIS | Cornwall |  | 1830 | 1841 | Cornwall | Falmouth
+/search_records/69be7875b18f7c454f58d72e/william-curtis-1841-cornwall-phillack-1831- :: William CURTIS | Cornwall |  | 1831 | 1841 | Cornwall | Phillack
+/search_records/59029051e9379091b1751145/john-curtis-1841-cornwall-kerrier-1831- :: John CURTIS | Cornwall | - | 1831 | 1841 | Cornwall | Kerrier
+/search_records/590290cee9379091b176e8d4/thomas-curtis-1841-cornwall-kerrier-1831- :: Thomas CURTIS | Cornwall | - | 1831 | 1841 | Cornwall | Kerrier
+/search_records/5902910be9379091b177d9a8/christopher-curtis-1841-cornwall-kerrier-1831- :: Christopher CURTIS | Cornwall | - | 1831 | 1841 | Cornwall | Kerrier
+/search_records/5902910be9379091b177d9a6/john-curtis-1841-cornwall-kerrier-1831- :: John CURTIS | Cornwall | - | 1831 | 1841 | Cornwall | Kerrier
+/search_records/590291cce9379091b17ad612/john-curtis-1841-cornwall-penwith-1831- :: John CURTIS | Cornwall | - | 1831 | 1841 | Cornwall | Penwith
+/search_records/59029344e9379091b18077b9/eliza-curtis-1841-cornwall-powder-1831- :: Eliza CURTIS | Cornwall | - | 1831 | 1841 | Cornwall | St Austell
+/search_records/59029472e9379091b184f209/fanny-curtis-1841-cornwall-pydar-1831- :: Fanny CURTIS | Cornwall | - | 1831 | 1841 | Cornwall | Padstow
+/search_records/651d0545f493fd5e571384f3/emlen-curtis-1841-cornwall-launcells-1831- :: Emlen CURTIS | Cornwall |  | 1831 | 1841 | Cornwall | Launcells North Side
+/search_records/69be7873b18f7c454f58d5b3/fanny-curtis-1841-cornwall-phillack-1831- :: Fanny CURTIS | Cornwall |  | 1831 | 1841 | Cornwall | Phillack
+/search_records/5902903fe9379091b174c405/james-curtis-1841-cornwall-kerrier-1831- :: James CURTIS | Cornwall | - | 1831 | 1841 | Cornwall | Kerrier
+/search_records/66263d3af493fd445697dccd/jane-curtis-1841-cornwall-st-martin-by-looe-1832- :: Jane CURTIS | Cornwall |  | 1832 | 1841 | Cornwall | St Martin By Looe
+/search_records/5902903fe9379091b174c536/john-curtis-1841-cornwall-kerrier-1832- :: John CURTIS | Cornwall | - | 1832 | 1841 | Cornwall | Kerrier
+/search_records/59029086e9379091b175d16f/elizabeth-curtis-1841-cornwall-kerrier-1832- :: Elizabeth CURTIS | Cornwall | - | 1832 | 1841 | Cornwall | Kerrier
+/search_records/5902929de9379091b17df256/john-curtis-1841-cornwall-penwith-1832- :: John CURTIS | Cornwall | - | 1832 | 1841 | Cornwall | Penwith
+/search_records/590293b2e9379091b18206b7/charles-curtis-1841-cornwall-powder-1832- :: Charles CURTIS | Unknown | - | 1832 | 1841 | Cornwall | Truro
+/search_records/62ca8e1af493fd200c911e9a/mary-ann-curtis-1841-cornwall-roche-1832- :: Mary Ann CURTIS | Cornwall |  | 1832 | 1841 | Cornwall | Roche
+/search_records/69be7870b18f7c454f58d3f7/john-curtis-1841-cornwall-phillack-1832- :: John CURTIS | Cornwall |  | 1832 | 1841 | Cornwall | Phillack
+/search_records/590290cee9379091b176e8d6/elizabeth-curtis-1841-cornwall-kerrier-1833- :: Elizabeth CURTIS | Cornwall | - | 1833 | 1841 | Cornwall | Kerrier
+/search_records/59029051e9379091b1751147/william-curtis-1841-cornwall-kerrier-1833- :: William CURTIS | Cornwall | - | 1833 | 1841 | Cornwall | Kerrier
+/search_records/590291cce9379091b17ad614/william-curtis-1841-cornwall-penwith-1833- :: William CURTIS | Cornwall | - | 1833 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df0af/walter-curtis-1841-cornwall-penwith-1833- :: Walter CURTIS | Cornwall | - | 1833 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df13f/charles-curtis-1841-cornwall-penwith-1833- :: Charles CURTIS | Cornwall | - | 1833 | 1841 | Cornwall | Penwith
+/search_records/59029344e9379091b18077bc/amelia-curtis-1841-cornwall-powder-1833- :: Amelia CURTIS | Cornwall | - | 1833 | 1841 | Cornwall | St Austell
+/search_records/5902903fe9379091b174c4ef/jane-curtis-1841-cornwall-kerrier-1833- :: Jane CURTIS | Cornwall | - | 1833 | 1841 | Cornwall | Kerrier
+/search_records/59029428e9379091b183cb22/james-curtis-1841-cornwall-pydar-1833- :: James CURTIS | Cornwall | - | 1833 | 1841 | Cornwall | Padstow
+/search_records/5902942be9379091b183da5b/william-curtis-1841-cornwall-pydar-1833- :: William CURTIS | Cornwall | - | 1833 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f20b/tabitha-curtis-1841-cornwall-pydar-1833- :: Tabitha CURTIS | Cornwall | - | 1833 | 1841 | Cornwall | Padstow
+/search_records/651d0544f493fd5e571384b3/sarah-curtis-1841-cornwall-launcells-1833- :: Sarah CURTIS | Cornwall |  | 1833 | 1841 | Cornwall | Launcells North Side
+/search_records/59029091e9379091b175ff44/mary-curtis-1841-cornwall-kerrier-1834- :: Mary CURTIS | Cornwall | - | 1834 | 1841 | Cornwall | Kerrier
+/search_records/5902929ee9379091b17df499/john-curtis-1841-cornwall-penwith-1834- :: John CURTIS | Cornwall | - | 1834 | 1841 | Cornwall | Penwith
+/search_records/5902933fe9379091b18063f5/lavinia-curtis-1841-cornwall-powder-1834- :: Lavinia CURTIS | Cornwall | - | 1834 | 1841 | Cornwall | St Austell
+/search_records/62ca8e1af493fd200c911e9b/elizabeth-curtis-1841-cornwall-roche-1834- :: Elizabeth CURTIS | Cornwall |  | 1834 | 1841 | Cornwall | Roche
+/search_records/651d0545f493fd5e571384f5/william-curtis-1841-cornwall-launcells-1834- :: William CURTIS | Cornwall |  | 1834 | 1841 | Cornwall | Launcells North Side
+/search_records/590291cce9379091b17ad616/elizabeth-curtis-1841-cornwall-penwith-1835- :: Elizabeth CURTIS | Cornwall | - | 1835 | 1841 | Cornwall | Penwith
+/search_records/5902903fe9379091b174c538/peggy-curtis-1841-cornwall-kerrier-1835- :: Peggy CURTIS | Cornwall | - | 1835 | 1841 | Cornwall | Kerrier
+/search_records/5902929de9379091b17df141/isabella-curtis-1841-cornwall-penwith-1835- :: Isabella CURTIS | Cornwall | - | 1835 | 1841 | Cornwall | Penwith
+/search_records/66263d4cf493fd445697e242/william-curtis-1841-cornwall-st-veep-1835- :: William CURTIS | Cornwall |  | 1835 | 1841 | Cornwall | St Veep
+/search_records/651d052bf493fd5e57137d0b/elizabeth-ann-curtis-1841-cornwall-kilkhampton-1836- :: Elizabeth Ann CURTIS | Out of County |  | 1836 | 1841 | Cornwall | Kilkhampton
+/search_records/5902903fe9379091b174c409/jane-curtis-1841-cornwall-kerrier-1836- :: Jane CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | Kerrier
+/search_records/5902903fe9379091b174c4f1/john-curtis-1841-cornwall-kerrier-1836- :: John CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | Kerrier
+/search_records/59029091e9379091b175ff46/eliza-curtis-1841-cornwall-kerrier-1836- :: Eliza CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | Kerrier
+/search_records/590290cee9379091b176e8d8/richard-curtis-1841-cornwall-kerrier-1836- :: Richard CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | Kerrier
+/search_records/590290cfe9379091b176ecbc/elizabeth-curtis-1841-cornwall-kerrier-1836- :: Elizabeth CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | Kerrier
+/search_records/5902910be9379091b177d9aa/francis-curtis-1841-cornwall-kerrier-1836- :: Francis CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | Kerrier
+/search_records/5902929de9379091b17df2c7/charles-curtis-1841-cornwall-penwith-1836- :: Charles CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | Penwith
+/search_records/59029344e9379091b18077be/james-curtis-1841-cornwall-powder-1836- :: James CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | St Austell
+/search_records/59029428e9379091b183cb24/mary-curtis-1841-cornwall-pydar-1836- :: Mary CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | Padstow
+/search_records/59029464e9379091b184b736/nicholas-curtis-1841-cornwall-pydar-1836- :: Nicholas CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f20d/thomas-curtis-1841-cornwall-pydar-1836- :: Thomas CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | Padstow
+/search_records/62ca8e1af493fd200c911e9d/grace-curtis-1841-cornwall-roche-1836- :: Grace CURTIS | Cornwall |  | 1836 | 1841 | Cornwall | Roche
+/search_records/5902903fe9379091b174c407/thomas-curtis-1841-cornwall-kerrier-1836- :: Thomas CURTIS | Cornwall | - | 1836 | 1841 | Cornwall | Kerrier
+/search_records/590292ade9379091b17e365a/johannah-curtis-1841-cornwall-penwith-1837- :: Johannah CURTIS | Cornwall | - | 1837 | 1841 | Cornwall | Penwith
+/search_records/5902903fe9379091b174c53a/james-curtis-1841-cornwall-kerrier-1837- :: James CURTIS | Cornwall | - | 1837 | 1841 | Cornwall | Kerrier
+/search_records/590291cce9379091b17ad751/joseph-curtis-1841-cornwall-penwith-1837- :: Joseph CURTIS | Cornwall | - | 1837 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df143/elizabeth-curtis-1841-cornwall-penwith-1837- :: Elizabeth CURTIS | Cornwall | - | 1837 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df258/peter-curtis-1841-cornwall-penwith-1837- :: Peter CURTIS | Cornwall | - | 1837 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df25a/jane-curtis-1841-cornwall-penwith-1837- :: Jane CURTIS | Cornwall | - | 1837 | 1841 | Cornwall | Penwith
+/search_records/5902929ee9379091b17df49b/thomas-curtis-1841-cornwall-penwith-1837- :: Thomas CURTIS | Cornwall | - | 1837 | 1841 | Cornwall | Penwith
+/search_records/5902942be9379091b183da5d/richard-curtis-1841-cornwall-pydar-1837- :: Richard CURTIS | Cornwall | - | 1837 | 1841 | Cornwall | Padstow
+/search_records/59029433e9379091b183f884/mary-curtis-1841-cornwall-pydar-1837- :: Mary CURTIS | Cornwall | - | 1837 | 1841 | Cornwall | Padstow
+/search_records/651d0544f493fd5e571384b5/james-curtis-1841-cornwall-launcells-1837- :: James CURTIS | Cornwall |  | 1837 | 1841 | Cornwall | Launcells North Side
+/search_records/590290cfe9379091b176ecbe/jane-curtis-1841-cornwall-kerrier-1838- :: Jane CURTIS | Cornwall | - | 1838 | 1841 | Cornwall | Kerrier
+/search_records/59029428e9379091b183cb26/susanna-curtis-1841-cornwall-pydar-1838- :: Susanna CURTIS | Cornwall | - | 1838 | 1841 | Cornwall | Padstow
+/search_records/59029464e9379091b184b738/catherine-curtis-1841-cornwall-pydar-1838- :: Catherine CURTIS | Cornwall | - | 1838 | 1841 | Cornwall | Padstow
+/search_records/651d052df493fd5e57137db8/robert-curtis-1841-cornwall-kilkhampton-1838- :: Robert CURTIS | Cornwall |  | 1838 | 1841 | Cornwall | Kilkhampton
+/search_records/5902910be9379091b177d9ac/eliza-curtis-1841-cornwall-kerrier-1838- :: Eliza CURTIS | Cornwall | - | 1838 | 1841 | Cornwall | Kerrier
+/search_records/590291cce9379091b17ad618/james-curtis-1841-cornwall-penwith-1838- :: James CURTIS | Cornwall | - | 1838 | 1841 | Cornwall | Penwith
+/search_records/5902929ee9379091b17df49d/elizabeth-curtis-1841-cornwall-penwith-1838- :: Elizabeth CURTIS | Cornwall | - | 1838 | 1841 | Cornwall | Penwith
+/search_records/5902941fe9379091b183a4c2/richard-curtis-1841-cornwall-pydar-1838- :: Richard CURTIS | Cornwall | - | 1838 | 1841 | Cornwall | Padstow
+/search_records/651d052bf493fd5e57137d0c/john-curtis-1841-cornwall-kilkhampton-1839- :: John CURTIS | Cornwall |  | 1839 | 1841 | Cornwall | Kilkhampton
+/search_records/651d052bf493fd5e57137d11/mary-jane-curtis-1841-cornwall-kilkhampton-1839- :: Mary Jane CURTIS | Cornwall |  | 1839 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0544f493fd5e571384b7/john-curtis-1841-cornwall-launcells-1839- :: John CURTIS | Cornwall |  | 1839 | 1841 | Cornwall | Launcells North Side
+/search_records/651d0544f493fd5e571384b9/thomas-curtis-1841-cornwall-launcells-1839- :: Thomas CURTIS | Cornwall |  | 1839 | 1841 | Cornwall | Launcells North Side
+/search_records/59029051e9379091b1751149/elizebeth-curtis-1841-cornwall-kerrier-1839- :: Elizebeth CURTIS | Cornwall | - | 1839 | 1841 | Cornwall | Kerrier
+/search_records/59029091e9379091b175ff49/thomas-curtis-1841-cornwall-kerrier-1839- :: Thomas CURTIS | Cornwall | - | 1839 | 1841 | Cornwall | Kerrier
+/search_records/590290cfe9379091b176ecc0/louisa-curtis-1841-cornwall-kerrier-1839- :: Louisa CURTIS | Cornwall | - | 1839 | 1841 | Cornwall | Kerrier
+/search_records/59029113e9379091b177fe92/ann-curtis-1841-cornwall-kerrier-1839- :: Ann CURTIS | Cornwall | - | 1839 | 1841 | Cornwall | Kerrier
+/search_records/590291cce9379091b17ad753/ralph-curtis-1841-cornwall-penwith-1839- :: Ralph CURTIS | Cornwall | - | 1839 | 1841 | Cornwall | Penwith
+/search_records/5902929de9379091b17df2c9/henry-curtis-1841-cornwall-penwith-1839- :: Henry CURTIS | Cornwall | - | 1839 | 1841 | Cornwall | Penwith
+/search_records/5902942be9379091b183da5f/jonathan-curtis-1841-cornwall-pydar-1839- :: Jonathan CURTIS | Cornwall | - | 1839 | 1841 | Cornwall | Padstow
+/search_records/5902909ae9379091b1762c3a/mark-curtis-1841-cornwall-kerrier-1840- :: Mark CURTIS | Cornwall | - | 1840 | 1841 | Cornwall | Kerrier
+/search_records/590290cee9379091b176e8da/william-curtis-1841-cornwall-kerrier-1840- :: William CURTIS | Cornwall | - | 1840 | 1841 | Cornwall | Kerrier
+/search_records/5902910be9379091b177d9af/dorothy-curtis-1841-cornwall-kerrier-1840- :: Dorothy CURTIS | Cornwall | - | 1840 | 1841 | Cornwall | Kerrier
+/search_records/5902929de9379091b17df145/ann-curtis-1841-cornwall-penwith-1840- :: Ann CURTIS | Cornwall | - | 1840 | 1841 | Cornwall | Penwith
+/search_records/590293b2e9379091b18207a8/phillipa-curtis-1841-cornwall-powder-1840- :: Phillipa CURTIS | Cornwall | - | 1840 | 1841 | Cornwall | Truro
+/search_records/5902941fe9379091b183a4c4/jane-curtis-1841-cornwall-pydar-1840- :: Jane CURTIS | Cornwall | - | 1840 | 1841 | Cornwall | Padstow
+/search_records/59029464e9379091b184b73a/john-curtis-1841-cornwall-pydar-1840- :: John CURTIS | Cornwall | - | 1840 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f20f/ellen-curtis-1841-cornwall-pydar-1840- :: Ellen CURTIS | Cornwall | - | 1840 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f22f/jane-curtis-1841-cornwall-pydar-1840- :: Jane CURTIS | Cornwall | - | 1840 | 1841 | Cornwall | Padstow
+/search_records/69be7821b18f7c454f58ba84/john-curtis-1841-cornwall-perranuthnoe-1840- :: John CURTIS | Cornwall |  | 1840 | 1841 | Cornwall | Perranuthnoe
+/search_records/5902929ee9379091b17df49f/james-curtis-1841-cornwall-penwith-1841- :: James CURTIS | Cornwall | - | 1841 | 1841 | Cornwall | Penwith
+/search_records/59029113e9379091b177fe94/william-curtis-1841-cornwall-kerrier-1841- :: William CURTIS | Cornwall | - | 1841 | 1841 | Cornwall | Kerrier
+/search_records/590291cce9379091b17ad755/emmanuel-curtis-1841-cornwall-penwith-1841- :: Emmanuel CURTIS | Cornwall | - | 1841 | 1841 | Cornwall | Penwith
+/search_records/590290cfe9379091b176ecc2/sarah-curtis-1841-cornwall-kerrier-1841- :: Sarah CURTIS | Cornwall | - | 1841 | 1841 | Cornwall | Kerrier
+/search_records/59029464e9379091b184b727/elizabeth-curtis-1841-cornwall-pydar-1841- :: Elizabeth CURTIS | Cornwall | - | 1841 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f211/william-curtis-1841-cornwall-pydar-1841- :: William CURTIS | Cornwall | - | 1841 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184f231/elizabeth-curtis-1841-cornwall-pydar-1841- :: Elizabeth CURTIS | Cornwall | - | 1841 | 1841 | Cornwall | Padstow

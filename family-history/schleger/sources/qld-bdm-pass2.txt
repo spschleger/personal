@@ -1,0 +1,66 @@
+Qld BDM historical index (familyhistory.bdm.qld.gov.au) — free index search, 19 Aug 2026
+Method: sources/qbdm.py  (POST /search with X-CSRF-TOKEN; deaths queried with doefrom/doeto via search2()).
+Index cut-offs: births to 1924, marriages to 1949, deaths to 1994.
+
+=== KEY: the JOHNSTONE family is registered in Qld as "JOHNSTON" (no final E) ===
+This is why pass 1 found no Qld births/marriage and inferred a NSW origin. The family is
+Maryborough / Apple Tree Creek (Childers), Queensland, not NSW.
+
+MARRIAGE
+  M 07/08/1877  George Johnston = Harriett Ann Curtis                     [C677/1877]
+
+BIRTHS (father George Johnston / mother Harriett Ann Curtis)
+  B 06/08/1880  Thomas Robert Benjamin Johnston  (mother as "Courtis")    [C4449/1880]
+  B 22/08/1883  Harriet Alexander Johnston                                [C458/1883]
+  B 22/12/1884  Elizabeth Ann Jane Johnston                               [C9525/1885]
+  B 29/07/1886  William John Johnston                                     [C10254/1886]
+  B 19/08/1888  George Vincent Johnston                                   [C11842/1888]
+  B 09/10/1890  Catherine Emily Johnston                                  [C12995/1890]
+  B 28/12/1892  FREDERICK JASON JOHNSTON  <-- Shane's great-grandfather   [C12224/1893]
+  B 25/08/1895  Henry Albert Curtis Johnston                              [C8499/1895]
+  (no Qld birth found for the "John Boland Johnstone (Brisbane)" named in the 1928 obituary)
+
+DEATHS (registered as JOHNSTON / JOHNSTONE, parents George + Harriett Ann Curtis)
+  D 14/12/1883  Harriett Elizabeth Johnston (infant)                      [C329/1883]
+  D 01/07/1916  Thomas Robert Benjamin Johnstone                          [C3107/1916]
+  D 18/01/1928  Henry Albert Curtis Johnstone                             [C677/1928]
+  D 06/06/1967  William John Johnstone                                    [C2569/1967]
+  D 20/11/1967  George Vincent Johnstone                                  [C6140/1967]
+  D 25/10/1969  Frederick Jason Johnstone                                 [C6787/1969]
+
+HARRIETT ANN CURTIS — remarried, so her death is registered under HUGHES
+  M 29/09/1898  John Hughes = Harriett Ann Johnston                       [C1530/1898]
+  D 21/02/1940  Harriet Ann Hughes | parents THOMAS CURTIS / ELIZABETH ANN BARRETT  [C856/1940]
+Probable death of her first husband:
+  D 29/03/1895  George Johnston | parents William Johnston / Elizabeth Vincent  [C2621/1895]
+   (uncorroborated identification; supported by the son named George VINCENT Johnston b.1888
+    and by Harriett's remarriage in 1898)
+Her brother (same parents), confirming the Curtis parentage:
+  D 28/07/1879  Frederick Thomas Curtis | Thomas Curtis / Elizabeth Ann Barrett  [C1705/1879]
+
+ROSE JACKSON — searches that came back NIL
+  Qld births 1885-1902, given name "Rose", surname Jackson: 4 hits, none with a father Robert
+      (Rose Elizabeth C8295/1891 George Jackson/Maria Elizabeth Smith;
+       Frances Rose C5878/1893 Thomas Jackson/Mary Ann Macartney;
+       Rose Wilhelmina C96/1895 Henry James Jackson/Mary Theresa Callaghan;
+       Rose May C2343/1898 Edwin Jackson/Janet Leishman)
+  Qld births 1885-1902 with father "Robert Jackson": 32 hits, no Rose, no mother Millie/Amelia.
+  Qld deaths any date, Jackson, mother "Millie/Milly": NIL relevant.
+  => Rose Jackson b. c.1893 still has NO Queensland birth registration. Her mother is still
+     recorded only as "Millie Jackson" (single given name + husband's surname).
+  D 12/11/1974  Rose Johnstone | Robert Jackson / Millie Jackson | dob 1893  [C7759/1974]
+
+CHILDREN OF FREDERICK JASON JOHNSTONE & ROSE JACKSON in the index (births only to 1924)
+  M 21/08/1919  Frederick Jason Johnstone = Rose Jackson                  [C2254/1919]
+  B 29/12/1919  John Johnstone                                            [C13851/1919]
+  B 10/11/1923  Jacquiline Johnstone                                      [C12503/1923]
+
+DEATHS OF FRANK & MARY SCHLEGER'S FOUR DAUGHTERS (all newly confirmed with parents)
+  D 08/07/1943  Catherine Theresa Hoffmann | Francis Charles Schleger / Mary O'Mara  [C3040/1943]
+  D 22/02/1967  Barbara Ellen Chalmers     | Francis Charles Schleger / Mary O'Meara [C97/1967]
+  D 27/03/1972  Clara Marshall             | Francis Charles Schleger / Mary O'Mara  [B31149/1972]
+  D 18/07/1976  Mary Bernadette O'Leary    | Francis Schleger / Mary O'Meara         [C3829/1976]
+     ^ registered at birth 1891 as "Mary Anne" (C771/1891) but died as Mary BERNADETTE.
+  D 08/02/1983  Vincent Joseph Patrick O'Leary | David Browne O'Leary / Mary Bernadette
+                Schleger | dob 1920                                        [51188/1983]
+     (a grandson of Frank; also fixes Mary's husband's full name = David Browne O'Leary)

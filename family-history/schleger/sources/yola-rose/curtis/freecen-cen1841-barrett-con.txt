@@ -1,0 +1,468 @@
+FreeCEN2 search: last_name=Barrett chapman=CON record_type=1841
+URL: https://www.freecen.org.uk/search_queries
+Retrieved 2026-08-19
+
+HITS (463):
+/search_records/66263d4df493fd445697e2d0/mary-barrett-1841-cornwall-st-veep-1751- :: Mary BARRETT | Out of County |  | 1751 | 1841 | Cornwall | St Veep
+/search_records/59029344e9379091b1807645/charity-barrett-1841-cornwall-powder-1756- :: Charity BARRETT | Cornwall | - | 1756 | 1841 | Cornwall | St Austell
+/search_records/59029358e9379091b180d183/ann-barrett-1841-cornwall-powder-1758- :: Ann BARRETT | Cornwall | - | 1758 | 1841 | Cornwall | St Austell
+/search_records/590293a7e9379091b181da44/elizabeth-barrett-1841-cornwall-powder-1758- :: Elizabeth BARRETT | Cornwall | - | 1758 | 1841 | Cornwall | Truro
+/search_records/59029473e9379091b184f674/william-barrett-1841-cornwall-pydar-1761- :: William BARRETT | Cornwall | - | 1761 | 1841 | Cornwall | Padstow
+/search_records/59028fb3e9379091b1729e00/mary-barrett-1841-cornwall-east-1761- :: Mary BARRETT | Cornwall | - | 1761 | 1841 | Cornwall | Callington
+/search_records/59029353e9379091b180b921/nicholas-barrett-1841-cornwall-powder-1766- :: Nicholas BARRETT | Cornwall | - | 1766 | 1841 | Cornwall | St Austell
+/search_records/590293b1e9379091b18202ca/christan-barrett-1841-cornwall-powder-1766- :: Christan BARRETT | Cornwall | - | 1766 | 1841 | Cornwall | Truro
+/search_records/59029473e9379091b184f4fd/elizabeth-barrett-1841-cornwall-pydar-1766- :: Elizabeth BARRETT | Cornwall | - | 1766 | 1841 | Cornwall | Padstow
+/search_records/590293e8e9379091b182d235/james-barrett-1841-cornwall-powder-1769- :: James BARRETT | Cornwall | - | 1769 | 1841 | Cornwall | Truro
+/search_records/59029016e9379091b1742aac/mary-barrett-1841-cornwall-east-1770- :: Mary BARRETT | Cornwall | - | 1770 | 1841 | Cornwall | Saltash
+/search_records/5902942be9379091b183db78/elizabeth-barrett-1841-cornwall-pydar-1771- :: Elizabeth BARRETT | Cornwall | - | 1771 | 1841 | Cornwall | Padstow
+/search_records/66263c70f493fd4456979a1f/elizabeth-barrett-1841-cornwall-liskeard-1771- :: Elizabeth BARRETT | Cornwall |  | 1771 | 1841 | Cornwall | Liskeard
+/search_records/66263cfcf493fd445697c9ba/john-barrett-1841-cornwall-pelynt-1771- :: John BARRETT | Cornwall |  | 1771 | 1841 | Cornwall | Pelynt
+/search_records/670ccbb6b18f7ce1fe9da163/willm-barrett-1841-cornwall-bodmin-1771- :: Willm. BARRETT | Cornwall |  | 1771 | 1841 | Cornwall | Bodmin
+/search_records/59028fb2e9379091b17296e7/john-barrett-1841-cornwall-east-1774- :: John BARRETT | Cornwall | - | 1774 | 1841 | Cornwall | Callington
+/search_records/59028fb2e9379091b17296e9/susan-barrett-1841-cornwall-east-1775- :: Susan BARRETT | Cornwall | - | 1775 | 1841 | Cornwall | Callington
+/search_records/66263d47f493fd445697e087/thomas-barrett-1841-cornwall-st-veep-1776- :: Thomas BARRETT | Cornwall |  | 1776 | 1841 | Cornwall | St Veep
+/search_records/59029011e9379091b1741412/susan-barrett-1841-cornwall-east-1776- :: Susan BARRETT | Cornwall | - | 1776 | 1841 | Cornwall | Saltash
+/search_records/59029016e9379091b1742bac/joseph-barrett-1841-cornwall-east-1776- :: Joseph BARRETT | Cornwall | - | 1776 | 1841 | Cornwall | Saltash
+/search_records/590290d2e9379091b176f8cd/mary-barrett-1841-cornwall-kerrier-1776- :: Mary BARRETT | Cornwall | - | 1776 | 1841 | Cornwall | Kerrier
+/search_records/59029353e9379091b180b923/susan-barrett-1841-cornwall-powder-1776- :: Susan BARRETT | Cornwall | - | 1776 | 1841 | Cornwall | St Austell
+/search_records/651d0516f493fd5e571375b3/ann-barrett-1841-cornwall-kilkhampton-1776- :: Ann BARRETT | Cornwall |  | 1776 | 1841 | Cornwall | Kilkhampton
+/search_records/651d051cf493fd5e57137753/john-barrett-1841-cornwall-kilkhampton-1776- :: John BARRETT | Out of County |  | 1776 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0520f493fd5e57137890/william-barrett-1841-cornwall-kilkhampton-1776- :: William BARRETT | Cornwall |  | 1776 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0520f493fd5e57137892/margaret-barrett-1841-cornwall-kilkhampton-1776- :: Margaret BARRETT | Cornwall |  | 1776 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0521f493fd5e57137914/john-barrett-1841-cornwall-kilkhampton-1776- :: John BARRETT | Cornwall |  | 1776 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0527f493fd5e57137b67/george-barrett-1841-cornwall-kilkhampton-1776- :: George BARRETT | Cornwall |  | 1776 | 1841 | Cornwall | Kilkhampton
+/search_records/670ccbb6b18f7ce1fe9da165/jane-barrett-1841-cornwall-bodmin-1776- :: Jane BARRETT | Cornwall |  | 1776 | 1841 | Cornwall | Bodmin
+/search_records/670ccbbdb18f7ce1fe9da450/john-barrett-1841-cornwall-bodmin-1776- :: John BARRETT | Cornwall |  | 1776 | 1841 | Cornwall | Bodmin
+/search_records/6846caa8b18f7c1e088a4efa/robert-barrett-1841-cornwall-launceston-1776- :: Robert BARRETT | Cornwall |  | 1776 | 1841 | Cornwall | Launceston
+/search_records/6846caa8b18f7c1e088a4efc/elizabeth-barrett-1841-cornwall-launceston-1776- :: Elizabeth BARRETT | Cornwall |  | 1776 | 1841 | Cornwall | Launceston
+/search_records/59029016e9379091b1742ae8/elizabeth-barrett-1841-cornwall-east-1778- :: Elizabeth BARRETT | Cornwall | - | 1778 | 1841 | Cornwall | Saltash
+/search_records/66263b50f493fd44569778de/william-barrett-1841-cornwall-lansallos-1780- :: William BARRETT | Cornwall |  | 1780 | 1841 | Cornwall | Duloe
+/search_records/59029011e9379091b1741410/ann-barrett-1841-cornwall-east-1781- :: Ann BARRETT | Cornwall | - | 1781 | 1841 | Cornwall | Saltash
+/search_records/5902909be9379091b1762e8c/peter-barrett-1841-cornwall-kerrier-1781- :: Peter BARRETT | Cornwall | - | 1781 | 1841 | Cornwall | Kerrier
+/search_records/651d0520f493fd5e5713789d/thomas-snr-barrett-1841-cornwall-kilkhampton-1781- :: Thomas (Snr) BARRETT | Cornwall |  | 1781 | 1841 | Cornwall | Kilkhampton
+/search_records/66263b50f493fd44569778e0/jane-barrett-1841-cornwall-lansallos-1781- :: Jane BARRETT | Cornwall |  | 1781 | 1841 | Cornwall | Duloe
+/search_records/66263c70f493fd4456979a1d/george-barrett-1841-cornwall-liskeard-1781- :: George BARRETT | Cornwall |  | 1781 | 1841 | Cornwall | Liskeard
+/search_records/66263d0af493fd445697cee5/thomasine-barrett-1841-cornwall-pelynt-1781- :: Thomasine BARRETT | Cornwall |  | 1781 | 1841 | Cornwall | Pelynt
+/search_records/670ccba3b18f7ce1fe9d9aec/john-barrett-1841-cornwall-bodmin-1781- :: John BARRETT | Cornwall |  | 1781 | 1841 | Cornwall | Bodmin
+/search_records/670ccbbdb18f7ce1fe9da452/elizabeth-barrett-1841-cornwall-bodmin-1781- :: Elizabeth BARRETT | Cornwall |  | 1781 | 1841 | Cornwall | Bodmin
+/search_records/6846ca5fb18f7c1e088a48ea/william-barrett-1841-cornwall-launceston-1781- :: William BARRETT | Cornwall |  | 1781 | 1841 | Cornwall | Launceston
+/search_records/6846ca5fb18f7c1e088a48ec/joanah-barrett-1841-cornwall-launceston-1781- :: Joanah BARRETT | Cornwall |  | 1781 | 1841 | Cornwall | Launceston
+/search_records/59029011e9379091b174140e/william-barrett-1841-cornwall-east-1781- :: William BARRETT | Cornwall | - | 1781 | 1841 | Cornwall | Saltash
+/search_records/590293eee9379091b182ed6f/joseph-barrett-1841-cornwall-powder-1786- :: Joseph BARRETT | Cornwall | - | 1786 | 1841 | Cornwall | Truro
+/search_records/59028fb6e9379091b172ab09/grace-barrett-1841-cornwall-east-1786- :: Grace BARRETT | Cornwall | - | 1786 | 1841 | Cornwall | Callington
+/search_records/59028fdee9379091b173466a/richd-barrett-1841-cornwall-east-1786- :: Richd BARRETT | Cornwall | - | 1786 | 1841 | Cornwall | Launceston
+/search_records/59029345e9379091b1807baf/mary-barrett-1841-cornwall-powder-1786- :: Mary BARRETT | Cornwall | - | 1786 | 1841 | Cornwall | St Austell
+/search_records/590293a8e9379091b181e012/ann-barrett-1841-cornwall-powder-1786- :: Ann BARRETT | Cornwall | - | 1786 | 1841 | Cornwall | Truro
+/search_records/590293c1e9379091b1824885/mary-barrett-1841-cornwall-powder-1786- :: Mary BARRETT | Cornwall | - | 1786 | 1841 | Cornwall | Truro
+/search_records/651d0516f493fd5e571375b1/charles-barrett-1841-cornwall-kilkhampton-1786- :: Charles BARRETT | Cornwall |  | 1786 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0527f493fd5e57137b69/ann-barrett-1841-cornwall-kilkhampton-1786- :: Ann BARRETT | Out of County |  | 1786 | 1841 | Cornwall | Kilkhampton
+/search_records/66263c86f493fd445697a20f/charlotte-barrett-1841-cornwall-liskeard-1786- :: Charlotte BARRETT | Out of County |  | 1786 | 1841 | Cornwall | Liskeard
+/search_records/66263d0af493fd445697cee3/thomas-barrett-1841-cornwall-pelynt-1786- :: Thomas BARRETT | Cornwall |  | 1786 | 1841 | Cornwall | Pelynt
+/search_records/66263d47f493fd445697e089/mary-barrett-1841-cornwall-st-veep-1786- :: Mary BARRETT | Cornwall |  | 1786 | 1841 | Cornwall | St Veep
+/search_records/670ccba3b18f7ce1fe9d9aee/mary-barrett-1841-cornwall-bodmin-1786- :: Mary BARRETT | Cornwall |  | 1786 | 1841 | Cornwall | Bodmin
+/search_records/69be793eb18f7c454f592225/eliza-barrett-1841-cornwall-redruth-1786- :: Eliza BARRETT | Cornwall |  | 1786 | 1841 | Cornwall | Redruth
+/search_records/651d0585f493fd5e57139540/mary-barrett-1841-cornwall-poughill-1787- :: Mary BARRETT | Cornwall |  | 1787 | 1841 | Cornwall | Poughill
+/search_records/59029016e9379091b174295a/john-barrett-1841-cornwall-east-1788- :: John BARRETT | Cornwall | - | 1788 | 1841 | Cornwall | Saltash
+/search_records/651d0585f493fd5e5713953e/george-barrett-1841-cornwall-poughill-1788- :: George BARRETT | Cornwall |  | 1788 | 1841 | Cornwall | Poughill
+/search_records/59029016e9379091b1742b1e/ann-barrett-1841-cornwall-east-1789- :: Ann BARRETT | Cornwall | - | 1789 | 1841 | Cornwall | Saltash
+/search_records/59029017e9379091b1742c1f/robert-barrett-1841-cornwall-east-1789- :: Robert BARRETT | Cornwall | - | 1789 | 1841 | Cornwall | Saltash
+/search_records/59029016e9379091b174295c/judith-barrett-1841-cornwall-east-1789- :: Judith BARRETT | Cornwall | - | 1789 | 1841 | Cornwall | Saltash
+/search_records/59029020e9379091b17455fa/mary-barrett-1841-cornwall-east-1791- :: Mary BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Saltash
+/search_records/5902909be9379091b1762e8e/mary-barrett-1841-cornwall-kerrier-1791- :: Mary BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Kerrier
+/search_records/59029433e9379091b183f735/james-barrett-1841-cornwall-pydar-1791- :: James BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Padstow
+/search_records/59029433e9379091b183f737/elizabeth-barrett-1841-cornwall-pydar-1791- :: Elizabeth BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Padstow
+/search_records/59029434e9379091b183fbb6/elizebeth-barrett-1841-cornwall-pydar-1791- :: Elizebeth BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Padstow
+/search_records/59029461e9379091b184a796/william-barrett-1841-cornwall-pydar-1791- :: William BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Padstow
+/search_records/62ca8d46f493fd200c90f37e/christian-barrett-1841-cornwall-lostwithiel-1791- :: Christian BARRETT | Cornwall |  | 1791 | 1841 | Cornwall | Lostwithiel
+/search_records/651d052af493fd5e57137ccf/william-barrett-1841-cornwall-kilkhampton-1791- :: William BARRETT | Cornwall |  | 1791 | 1841 | Cornwall | Kilkhampton
+/search_records/66263b34f493fd445697714a/mary-barrett-1841-cornwall-st-keyne-1791- :: Mary BARRETT | Cornwall |  | 1791 | 1841 | Cornwall | Duloe
+/search_records/66263b4ff493fd44569778d8/richard-barrett-1841-cornwall-lansallos-1791- :: Richard BARRETT | Cornwall |  | 1791 | 1841 | Cornwall | Duloe
+/search_records/66263c57f493fd445697900d/john-barrett-1841-cornwall-liskeard-1791- :: John BARRETT | Cornwall |  | 1791 | 1841 | Cornwall | Liskeard
+/search_records/66263c57f493fd445697900f/dorothy-barrett-1841-cornwall-liskeard-1791- :: Dorothy BARRETT | Cornwall |  | 1791 | 1841 | Cornwall | Liskeard
+/search_records/66263c86f493fd445697a20d/reginald-barrett-1841-cornwall-liskeard-1791- :: Reginald BARRETT | Cornwall |  | 1791 | 1841 | Cornwall | Liskeard
+/search_records/69be793eb18f7c454f592221/william-barrett-1841-cornwall-redruth-1791- :: William BARRETT | Cornwall |  | 1791 | 1841 | Cornwall | Redruth
+/search_records/5902945ee9379091b18499ab/maria-barrett-1841-cornwall-pydar-1791- :: Maria BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Padstow
+/search_records/59028fdee9379091b173466d/annabella-barrett-1841-cornwall-east-1791- :: Annabella BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Launceston
+/search_records/5902900ee9379091b1740615/mary-barrett-1841-cornwall-east-1791- :: Mary BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Saltash
+/search_records/59029015e9379091b1742458/susan-barrett-1841-cornwall-east-1791- :: Susan BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Saltash
+/search_records/5902901ce9379091b17446d9/mary-ann-barrett-1841-cornwall-east-1791- :: Mary Ann BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Saltash
+/search_records/5902901ce9379091b17447d0/elizabeth-barrett-1841-cornwall-east-1791- :: Elizabeth BARRETT | Cornwall | - | 1791 | 1841 | Cornwall | Saltash
+/search_records/590293eee9379091b182ed71/susan-barrett-1841-cornwall-powder-1793- :: Susan BARRETT | Cornwall | - | 1793 | 1841 | Cornwall | Truro
+/search_records/59028faee9379091b17289fd/joseph-barrett-1841-cornwall-east-1796- :: Joseph BARRETT | Out of County | - | 1796 | 1841 | Cornwall | Callington
+/search_records/59028fb3e9379091b1729df8/richard-barrett-1841-cornwall-east-1796- :: Richard BARRETT | Cornwall | - | 1796 | 1841 | Cornwall | Callington
+/search_records/59028fb3e9379091b1729dfa/mary-barrett-1841-cornwall-east-1796- :: Mary BARRETT | Cornwall | - | 1796 | 1841 | Cornwall | Callington
+/search_records/5902900ee9379091b1740613/james-barrett-1841-cornwall-east-1796- :: James BARRETT | Cornwall | - | 1796 | 1841 | Cornwall | Saltash
+/search_records/59029016e9379091b1742b1c/sampson-barrett-1841-cornwall-east-1796- :: Sampson BARRETT | Cornwall | - | 1796 | 1841 | Cornwall | Saltash
+/search_records/59029017e9379091b1742c21/jane-barrett-1841-cornwall-east-1796- :: Jane BARRETT | Cornwall | - | 1796 | 1841 | Cornwall | Saltash
+/search_records/5902901ce9379091b17447ce/william-barrett-1841-cornwall-east-1796- :: William BARRETT | Cornwall | - | 1796 | 1841 | Cornwall | Saltash
+/search_records/590293a7e9379091b181da48/john-barrett-1841-cornwall-powder-1796- :: John BARRETT | Cornwall | - | 1796 | 1841 | Cornwall | Truro
+/search_records/590293eee9379091b182ebd4/jas-barrett-1841-cornwall-powder-1796- :: Jas. BARRETT | Cornwall | - | 1796 | 1841 | Cornwall | Truro
+/search_records/59029473e9379091b184f670/william-barrett-1841-cornwall-pydar-1796- :: William BARRETT | Cornwall | - | 1796 | 1841 | Cornwall | Padstow
+/search_records/59029473e9379091b184f672/elizabeth-barrett-1841-cornwall-pydar-1796- :: Elizabeth BARRETT | Cornwall | - | 1796 | 1841 | Cornwall | Padstow
+/search_records/59029021e9379091b1745893/sarah-barrett-1841-cornwall-east-1796- :: Sarah BARRETT | Cornwall | - | 1796 | 1841 | Cornwall | Saltash
+/search_records/59029358e9379091b180d181/susannah-barrett-1841-cornwall-powder-1797- :: Susannah BARRETT | Cornwall | - | 1797 | 1841 | Cornwall | St Austell
+/search_records/5902909ae9379091b1762998/elizabeth-barrett-1841-cornwall-kerrier-1799- :: Elizabeth BARRETT | Cornwall | - | 1799 | 1841 | Cornwall | Kerrier
+/search_records/62ca8c65f493fd200c90d3bf/mary-barrett-1841-cornwall-st-goran-1799- :: Mary BARRETT | Cornwall |  | 1799 | 1841 | Cornwall | Gorran
+/search_records/590293efe9379091b182f2a9/richard-barrett-1841-cornwall-powder-1800- :: Richard BARRETT | Cornwall | - | 1800 | 1841 | Cornwall | Truro
+/search_records/59029473e9379091b184f37d/james-barrett-1841-cornwall-pydar-1801- :: James BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Padstow
+/search_records/59028faee9379091b17289ff/mary-barrett-1841-cornwall-east-1801- :: Mary BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Callington
+/search_records/59028fb4e9379091b172a1e2/antony-barrett-1841-cornwall-east-1801- :: Antony BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Callington
+/search_records/59028fb4e9379091b172a1e4/ann-barrett-1841-cornwall-east-1801- :: Ann BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Callington
+/search_records/5902900ee9379091b174068b/anne-barrett-1841-cornwall-east-1801- :: Anne BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Saltash
+/search_records/5902900ee9379091b1740689/samuel-barrett-1841-cornwall-east-1801- :: Samuel BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Saltash
+/search_records/5902909ae9379091b176298f/mark-barrett-1841-cornwall-kerrier-1801- :: Mark BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Kerrier
+/search_records/590293b1e9379091b18202c0/mary-barrett-1841-cornwall-powder-1801- :: Mary BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Truro
+/search_records/590293cae9379091b1826cf2/richard-barrett-1841-cornwall-powder-1801- :: Richard BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Truro
+/search_records/5902942be9379091b183db76/john-barrett-1841-cornwall-pydar-1801- :: John BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Padstow
+/search_records/59029461e9379091b184a798/ann-barrett-1841-cornwall-pydar-1801- :: Ann BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Padstow
+/search_records/59029473e9379091b184f56a/ann-barrett-1841-cornwall-pydar-1801- :: Ann BARRETT | Cornwall | - | 1801 | 1841 | Cornwall | Padstow
+/search_records/62ca8c0bf493fd200c90c776/reginald-barrett-1841-cornwall-fowey-1801- :: Reginald BARRETT | Cornwall |  | 1801 | 1841 | Cornwall | Fowey
+/search_records/62ca8c0bf493fd200c90c778/elizabeth-barrett-1841-cornwall-fowey-1801- :: Elizabeth BARRETT | Cornwall |  | 1801 | 1841 | Cornwall | Fowey
+/search_records/651d0521f493fd5e57137916/damaris-barrett-1841-cornwall-kilkhampton-1801- :: Damaris BARRETT | Cornwall |  | 1801 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0529f493fd5e57137c0e/charles-barrett-1841-cornwall-kilkhampton-1801- :: Charles BARRETT | Cornwall |  | 1801 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0529f493fd5e57137c10/grace-barrett-1841-cornwall-kilkhampton-1801- :: Grace BARRETT | Out of County |  | 1801 | 1841 | Cornwall | Kilkhampton
+/search_records/651d052bf493fd5e57137cd1/mary-barrett-1841-cornwall-kilkhampton-1801- :: Mary BARRETT | Out of County |  | 1801 | 1841 | Cornwall | Kilkhampton
+/search_records/66263c65f493fd44569795b4/grace-barrett-1841-cornwall-liskeard-1801- :: Grace BARRETT | Cornwall |  | 1801 | 1841 | Cornwall | Liskeard
+/search_records/66263cfcf493fd445697c9ab/william-barrett-1841-cornwall-pelynt-1801- :: William BARRETT | Cornwall |  | 1801 | 1841 | Cornwall | Pelynt
+/search_records/66263cfcf493fd445697c9ad/jane-barrett-1841-cornwall-pelynt-1801- :: Jane BARRETT | Cornwall |  | 1801 | 1841 | Cornwall | Pelynt
+/search_records/59029358e9379091b180d17f/william-barrett-1841-cornwall-powder-1802- :: William BARRETT | Cornwall | - | 1802 | 1841 | Cornwall | St Austell
+/search_records/5902901ce9379091b17446cd/william-barrett-1841-cornwall-east-1806- :: William BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Saltash
+/search_records/5902901de9379091b174484a/mary-barrett-1841-cornwall-east-1806- :: Mary BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Saltash
+/search_records/5902901de9379091b1744848/john-barrett-1841-cornwall-east-1806- :: John BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Saltash
+/search_records/590291bae9379091b17a87d9/james-barrett-1841-cornwall-penwith-1806- :: James BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Penwith
+/search_records/590291bae9379091b17a87db/elizabeth-barrett-1841-cornwall-penwith-1806- :: Elizabeth BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Penwith
+/search_records/59029333e9379091b1802e37/mathuselah-barrett-1841-cornwall-powder-1806- :: Mathuselah BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | St Austell
+/search_records/590293a7e9379091b181da4a/nanny-barrett-1841-cornwall-powder-1806- :: Nanny BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/590293b1e9379091b18202bd/thos-barrett-1841-cornwall-powder-1806- :: Thos. BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/590293b8e9379091b18224b9/william-barrett-1841-cornwall-powder-1806- :: William BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/590293b8e9379091b18224bb/eliza-barrett-1841-cornwall-powder-1806- :: Eliza BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/590293cae9379091b1826cb6/harkless-barrett-1841-cornwall-powder-1806- :: Harkless BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/590293cae9379091b1826cf4/elizabeth-barrett-1841-cornwall-powder-1806- :: Elizabeth BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/590293e8e9379091b182d126/mary-barrett-1841-cornwall-powder-1806- :: Mary BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/590293e8e9379091b182d124/nicholas-barrett-1841-cornwall-powder-1806- :: Nicholas BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/590293e8e9379091b182d43c/john-barrett-1841-cornwall-powder-1806- :: John BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/590293e8e9379091b182d43e/maria-barrett-1841-cornwall-powder-1806- :: Maria BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/590293f6e9379091b1831049/richard-barrett-1841-cornwall-powder-1806- :: Richard BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/590293f6e9379091b183104b/thomasin-barrett-1841-cornwall-powder-1806- :: Thomasin BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Truro
+/search_records/62ca8d6df493fd200c90fb95/john-barrett-1841-cornwall-luxulyan-1806- :: John BARRETT | Cornwall |  | 1806 | 1841 | Cornwall | Luxulyan
+/search_records/651d04def493fd5e57136eb8/william-barrett-1841-cornwall-bridgerule-1806- :: William BARRETT | Cornwall |  | 1806 | 1841 | Cornwall | Bridgerule West Of Tamar
+/search_records/651d0529f493fd5e57137c2a/william-barrett-1841-cornwall-kilkhampton-1806- :: William BARRETT | Cornwall |  | 1806 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0529f493fd5e57137c2c/fanny-barrett-1841-cornwall-kilkhampton-1806- :: Fanny BARRETT | Cornwall |  | 1806 | 1841 | Cornwall | Kilkhampton
+/search_records/66263d3df493fd445697de70/mary-barrett-1841-cornwall-st-martin-by-looe-1806- :: Mary BARRETT | Cornwall |  | 1806 | 1841 | Cornwall | St Martin By Looe
+/search_records/66263d47f493fd445697e08b/thomas-barrett-1841-cornwall-st-veep-1806- :: Thomas BARRETT | Cornwall |  | 1806 | 1841 | Cornwall | St Veep
+/search_records/670ccbb6b18f7ce1fe9da167/lucretia-barrett-1841-cornwall-bodmin-1806- :: Lucretia BARRETT | Cornwall |  | 1806 | 1841 | Cornwall | Bodmin
+/search_records/670cccbbb18f7ce1fe9df2f2/william-barrett-1841-cornwall-st-mabyn-1806- :: William BARRETT | Cornwall |  | 1806 | 1841 | Cornwall | St Mabyn
+/search_records/670cccbbb18f7ce1fe9df2f4/hannah-barrett-1841-cornwall-st-mabyn-1806- :: Hannah BARRETT | Cornwall |  | 1806 | 1841 | Cornwall | St Mabyn
+/search_records/59029016e9379091b1742a80/william-barrett-1841-cornwall-east-1806- :: William BARRETT | Cornwall | - | 1806 | 1841 | Cornwall | Saltash
+/search_records/59029016e9379091b1742a82/charity-barrett-1841-cornwall-east-1807- :: Charity BARRETT | Cornwall | - | 1807 | 1841 | Cornwall | Saltash
+/search_records/59029016e9379091b1742a8e/robert-barrett-1841-cornwall-east-1807- :: Robert BARRETT | Cornwall | - | 1807 | 1841 | Cornwall | Saltash
+/search_records/590293a8e9379091b181e014/mary-ann-barrett-1841-cornwall-powder-1808- :: Mary Ann BARRETT | Cornwall | - | 1808 | 1841 | Cornwall | Truro
+/search_records/590290d2e9379091b176f8cf/margret-barrett-1841-cornwall-kerrier-1811- :: Margret BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | Kerrier
+/search_records/59028fb6e9379091b172ab0d/jane-barrett-1841-cornwall-east-1811- :: Jane BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | Callington
+/search_records/59028fb6e9379091b172ab0b/william-barrett-1841-cornwall-east-1811- :: William BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | Callington
+/search_records/59029014e9379091b1742183/richard-barrett-1841-cornwall-east-1811- :: Richard BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | Saltash
+/search_records/5902901ce9379091b17446cf/mary-barrett-1841-cornwall-east-1811- :: Mary BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | Saltash
+/search_records/5902909ae9379091b1762bb7/saml-barrett-1841-cornwall-kerrier-1811- :: Saml BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | Kerrier
+/search_records/5902909ae9379091b1762bc5/grace-barrett-1841-cornwall-kerrier-1811- :: Grace BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | Kerrier
+/search_records/59029333e9379091b1802e39/maria-barrett-1841-cornwall-powder-1811- :: Maria BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | St Austell
+/search_records/59029341e9379091b1806c8a/mary-barrett-1841-cornwall-powder-1811- :: Mary BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | St Austell
+/search_records/59029341e9379091b1806c88/richard-barrett-1841-cornwall-powder-1811- :: Richard BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | St Austell
+/search_records/590293b8e9379091b182228f/jacob-barrett-1841-cornwall-powder-1811- :: Jacob BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | Truro
+/search_records/590293cae9379091b1826cb8/elizabeth-barrett-1841-cornwall-powder-1811- :: Elizabeth BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | Truro
+/search_records/590293eee9379091b182ebd7/susan-barrett-1841-cornwall-powder-1811- :: Susan BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | Truro
+/search_records/59029472e9379091b184ef65/william-barrett-1841-cornwall-pydar-1811- :: William BARRETT | Cornwall | - | 1811 | 1841 | Cornwall | Padstow
+/search_records/62ca8c21f493fd200c90ca58/mary-barrett-1841-cornwall-fowey-1811- :: Mary BARRETT | Cornwall |  | 1811 | 1841 | Cornwall | Fowey
+/search_records/651d04def493fd5e57136eba/ann-barrett-1841-cornwall-bridgerule-1811- :: Ann BARRETT | Cornwall |  | 1811 | 1841 | Cornwall | Bridgerule West Of Tamar
+/search_records/651d051cf493fd5e57137755/elizabeth-barrett-1841-cornwall-kilkhampton-1811- :: Elizabeth BARRETT | Cornwall |  | 1811 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0520f493fd5e57137897/thomas-jnr-barrett-1841-cornwall-kilkhampton-1811- :: Thomas (Jnr) BARRETT | Cornwall |  | 1811 | 1841 | Cornwall | Kilkhampton
+/search_records/651d055df493fd5e57138a1e/elizabeth-barrett-1841-cornwall-marhamchurch-1811- :: Elizabeth BARRETT | Cornwall |  | 1811 | 1841 | Cornwall | Marhamchurch
+/search_records/66263ac2f493fd44569752e1/john-barrett-1841-cornwall-boconnoc-1811- :: John BARRETT | Cornwall |  | 1811 | 1841 | Cornwall | Boconnoc
+/search_records/670ccba0b18f7ce1fe9d9a2e/richard-barrett-1841-cornwall-bodmin-1811- :: Richard BARRETT | Cornwall |  | 1811 | 1841 | Cornwall | Bodmin
+/search_records/670ccba0b18f7ce1fe9d9a30/grace-barrett-1841-cornwall-bodmin-1811- :: Grace BARRETT | Cornwall |  | 1811 | 1841 | Cornwall | Bodmin
+/search_records/670ccbb6b18f7ce1fe9da169/william-barrett-1841-cornwall-bodmin-1811- :: William BARRETT | Cornwall |  | 1811 | 1841 | Cornwall | Bodmin
+/search_records/6846cbcfb18f7c1e088a7f01/frances-barrett-1841-cornwall-falmouth-1811- :: Frances BARRETT | Cornwall |  | 1811 | 1841 | Cornwall | Falmouth
+/search_records/59029016e9379091b1742aea/richard-barrett-1841-cornwall-east-1812- :: Richard BARRETT | Cornwall | - | 1812 | 1841 | Cornwall | Saltash
+/search_records/59029421e9379091b183acb1/james-barrett-1841-cornwall-pydar-1812- :: James BARRETT | Cornwall | - | 1812 | 1841 | Cornwall | Padstow
+/search_records/5902901ae9379091b1743dbf/mary-barrett-1841-cornwall-east-1812- :: Mary BARRETT | Cornwall | - | 1812 | 1841 | Cornwall | Saltash
+/search_records/59029016e9379091b1742a90/pricilla-barrett-1841-cornwall-east-1813- :: Pricilla BARRETT | Cornwall | - | 1813 | 1841 | Cornwall | Saltash
+/search_records/590293efe9379091b182f2ab/mary-barrett-1841-cornwall-powder-1813- :: Mary BARRETT | Cornwall | - | 1813 | 1841 | Cornwall | Truro
+/search_records/59029421e9379091b183acb3/mary-barrett-1841-cornwall-pydar-1813- :: Mary BARRETT | Cornwall | - | 1813 | 1841 | Cornwall | Padstow
+/search_records/651d0583f493fd5e5713945d/william-barrett-1841-cornwall-poughill-1814- :: William BARRETT | Cornwall |  | 1814 | 1841 | Cornwall | Poughill
+/search_records/59029016e9379091b1742aec/james-barrett-1841-cornwall-east-1814- :: James BARRETT | Cornwall | - | 1814 | 1841 | Cornwall | Saltash
+/search_records/651d0583f493fd5e5713945f/elizabeth-barrett-1841-cornwall-poughill-1815- :: Elizabeth BARRETT | Cornwall |  | 1815 | 1841 | Cornwall | Poughill
+/search_records/59029016e9379091b1742aae/henry-barrett-1841-cornwall-east-1816- :: Henry BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Saltash
+/search_records/59029020e9379091b17455fc/isabella-barrett-1841-cornwall-east-1816- :: Isabella BARRETT | Out of County | - | 1816 | 1841 | Cornwall | Saltash
+/search_records/59029020e9379091b17455fe/william-barrett-1841-cornwall-east-1816- :: William BARRETT | Out of County | - | 1816 | 1841 | Cornwall | Saltash
+/search_records/59029335e9379091b1803754/william-barrett-1841-cornwall-powder-1816- :: William BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | St Austell
+/search_records/5902933ce9379091b1805a2d/benjamin-barrett-1841-cornwall-powder-1816- :: Benjamin BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | St Austell
+/search_records/59029345e9379091b1807e23/james-barrett-1841-cornwall-powder-1816- :: James BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | St Austell
+/search_records/590293ede9379091b182ead7/willm-barrett-1841-cornwall-powder-1816- :: Willm. BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Truro
+/search_records/59029430e9379091b183f0bd/elizabeth-barrett-1841-cornwall-pydar-1816- :: Elizabeth BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Padstow
+/search_records/59029432e9379091b183f2f1/admonish-barrett-1841-cornwall-pydar-1816- :: Admonish BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184ef67/mary-barrett-1841-cornwall-pydar-1816- :: Mary BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Padstow
+/search_records/62ca8c98f493fd200c90dcfb/john-barrett-1841-cornwall-ladock-1816- :: John BARRETT | Cornwall |  | 1816 | 1841 | Cornwall | Ladock
+/search_records/651d0520f493fd5e57137898/kezia-barrett-1841-cornwall-kilkhampton-1816- :: Kezia BARRETT | Cornwall |  | 1816 | 1841 | Cornwall | Kilkhampton
+/search_records/66263ac2f493fd44569752e5/maria-barrett-1841-cornwall-boconnoc-1816- :: Maria BARRETT | Cornwall |  | 1816 | 1841 | Cornwall | Boconnoc
+/search_records/66263c57f493fd4456979011/jane-barrett-1841-cornwall-liskeard-1816- :: Jane BARRETT | Cornwall |  | 1816 | 1841 | Cornwall | Liskeard
+/search_records/66263c57f493fd4456979050/william-barrett-1841-cornwall-liskeard-1816- :: William BARRETT | Cornwall |  | 1816 | 1841 | Cornwall | Liskeard
+/search_records/66263c57f493fd4456979052/jane-barrett-1841-cornwall-liskeard-1816- :: Jane BARRETT | Cornwall |  | 1816 | 1841 | Cornwall | Liskeard
+/search_records/66263d47f493fd445697e08d/henry-barrett-1841-cornwall-st-veep-1816- :: Henry BARRETT | Cornwall |  | 1816 | 1841 | Cornwall | St Veep
+/search_records/670ccbbdb18f7ce1fe9da454/rebecca-barrett-1841-cornwall-bodmin-1816- :: Rebecca BARRETT | Out of County |  | 1816 | 1841 | Cornwall | Bodmin
+/search_records/6846cadab18f7c1e088a54aa/robert-barrett-1841-cornwall-launceston-1816- :: Robert BARRETT | Cornwall |  | 1816 | 1841 | Cornwall | Launceston
+/search_records/62ca8c98f493fd200c90dcfd/elizabeth-barrett-1841-cornwall-ladock-1816- :: Elizabeth BARRETT | Cornwall |  | 1816 | 1841 | Cornwall | Ladock
+/search_records/59028fb3e9379091b1729c0a/john-barrett-1841-cornwall-east-1816- :: John BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Callington
+/search_records/59028fb3e9379091b1729c0c/susan-barrett-1841-cornwall-east-1816- :: Susan BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Callington
+/search_records/59028fb3e9379091b1729cd0/richard-barrett-1841-cornwall-east-1816- :: Richard BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Callington
+/search_records/59028fb3e9379091b1729cd2/jane-barrett-1841-cornwall-east-1816- :: Jane BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Callington
+/search_records/59028fb6e9379091b172a918/thomas-barrett-1841-cornwall-east-1816- :: Thomas BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Callington
+/search_records/59028fb6e9379091b172abd2/jane-barrett-1841-cornwall-east-1816- :: Jane BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Callington
+/search_records/59028fb6e9379091b172abd0/william-barrett-1841-cornwall-east-1816- :: William BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Callington
+/search_records/59029014e9379091b1742185/mary-barrett-1841-cornwall-east-1816- :: Mary BARRETT | Cornwall | - | 1816 | 1841 | Cornwall | Saltash
+/search_records/66263c57f493fd4456979013/mary-barrett-1841-cornwall-liskeard-1817- :: Mary BARRETT | Cornwall |  | 1817 | 1841 | Cornwall | Liskeard
+/search_records/59028fb2e9379091b17296ec/elizabeth-barrett-1841-cornwall-east-1818- :: Elizabeth BARRETT | Cornwall | - | 1818 | 1841 | Cornwall | Callington
+/search_records/590293eee9379091b182ed74/joseph-jr-barrett-1841-cornwall-powder-1818- :: Joseph (Jr.) BARRETT | Cornwall | - | 1818 | 1841 | Cornwall | Truro
+/search_records/651d0585f493fd5e57139542/isaac-barrett-1841-cornwall-poughill-1818- :: Isaac BARRETT | Cornwall |  | 1818 | 1841 | Cornwall | Poughill
+/search_records/59029016e9379091b17429b3/eliza-barrett-1841-cornwall-east-1820- :: Eliza BARRETT | Cornwall | - | 1820 | 1841 | Cornwall | Saltash
+/search_records/59029016e9379091b1742aee/elizabeth-barrett-1841-cornwall-east-1820- :: Elizabeth BARRETT | Cornwall | - | 1820 | 1841 | Cornwall | Saltash
+/search_records/66263b50f493fd44569778e2/thomas-barrett-1841-cornwall-lansallos-1820- :: Thomas BARRETT | Cornwall |  | 1820 | 1841 | Cornwall | Duloe
+/search_records/59029335e9379091b1803756/mary-barrett-1841-cornwall-powder-1821- :: Mary BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | St Austell
+/search_records/59028face9379091b1727e64/joseph-barrett-1841-cornwall-east-1821- :: Joseph BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Callington
+/search_records/59028faee9379091b172877f/jane-barrett-1841-cornwall-east-1821- :: Jane BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Callington
+/search_records/59028fb3e9379091b1729e5f/mary-barrett-1841-cornwall-east-1821- :: Mary BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Callington
+/search_records/59028fb3e9379091b1729e6d/henry-barrett-1841-cornwall-east-1821- :: Henry BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Callington
+/search_records/59028fdae9379091b17334d4/thomas-barrett-1841-cornwall-east-1821- :: Thomas BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Launceston
+/search_records/59028fdee9379091b173466f/john-barrett-1841-cornwall-east-1821- :: John BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Launceston
+/search_records/59029010e9379091b1740cc2/jane-barrett-1841-cornwall-east-1821- :: Jane BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Saltash
+/search_records/5902901ce9379091b17447d4/maria-barrett-1841-cornwall-east-1821- :: Maria BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Saltash
+/search_records/5902912ee9379091b1786014/jane-barrett-1841-cornwall-lesnewth-1821- :: Jane BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Lesnewth
+/search_records/5902935be9379091b180db6b/thomas-barrett-1841-cornwall-powder-1821- :: Thomas BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | St Austell
+/search_records/5902935be9379091b180db6d/jane-barrett-1841-cornwall-powder-1821- :: Jane BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | St Austell
+/search_records/5902935fe9379091b180e8ed/william-barrett-1841-cornwall-powder-1821- :: William BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | St Austell
+/search_records/5902935fe9379091b180e8ef/harriot-barrett-1841-cornwall-powder-1821- :: Harriot BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | St Austell
+/search_records/590293ede9379091b182eada/mary-barrett-1841-cornwall-powder-1821- :: Mary BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Truro
+/search_records/5902942be9379091b183d7d6/ann-barrett-1841-cornwall-pydar-1821- :: Ann BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Padstow
+/search_records/5902945ee9379091b18499ae/hercules-barrett-1841-cornwall-pydar-1821- :: Hercules BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Padstow
+/search_records/59029473e9379091b184f688/mary-barrett-1841-cornwall-pydar-1821- :: Mary BARRETT | Cornwall | - | 1821 | 1841 | Cornwall | Padstow
+/search_records/651d0527f493fd5e57137b6e/george-jnr-barrett-1841-cornwall-kilkhampton-1821- :: George (Jnr) BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Kilkhampton
+/search_records/651d05a6f493fd5e5713976f/charles-barrett-1841-cornwall-stratton-1821- :: Charles BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Stratton
+/search_records/651d05b8f493fd5e57139e27/dorcas-barrett-1841-cornwall-stratton-1821- :: Dorcas BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Stratton
+/search_records/66263b33f493fd4456977111/robert-barrett-1841-cornwall-st-keyne-1821- :: Robert BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Duloe
+/search_records/66263c57f493fd4456979015/dorothy-barrett-1841-cornwall-liskeard-1821- :: Dorothy BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Liskeard
+/search_records/66263c57f493fd4456979017/elizabeth-barrett-1841-cornwall-liskeard-1821- :: Elizabeth BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Liskeard
+/search_records/66263cfdf493fd445697ca0a/mary-barrett-1841-cornwall-pelynt-1821- :: Mary BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Pelynt
+/search_records/66263d00f493fd445697cb80/loveday-barrett-1841-cornwall-pelynt-1821- :: Loveday BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Pelynt
+/search_records/66263d31f493fd445697d945/william-barrett-1841-cornwall-talland-1821- :: William BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Talland
+/search_records/66263d31f493fd445697d947/margaret-barrett-1841-cornwall-talland-1821- :: Margaret BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Talland
+/search_records/670ccbbdb18f7ce1fe9da456/james-barrett-1841-cornwall-bodmin-1821- :: James BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Bodmin
+/search_records/6846caa8b18f7c1e088a4efe/ann-barrett-1841-cornwall-launceston-1821- :: Ann BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Launceston
+/search_records/69be793eb18f7c454f59222e/mary-ann-barrett-1841-cornwall-redruth-1821- :: Mary Ann BARRETT | Cornwall |  | 1821 | 1841 | Cornwall | Redruth
+/search_records/651d0542f493fd5e571383d1/maria-barrett-1841-cornwall-launcells-1822- :: Maria BARRETT | Cornwall |  | 1822 | 1841 | Cornwall | Launcells North Side
+/search_records/69be793eb18f7c454f59222a/wm-jane-barrett-1841-cornwall-redruth-1823- :: Wm Jane BARRETT | Cornwall |  | 1823 | 1841 | Cornwall | Redruth
+/search_records/66263b34f493fd445697714c/thomas-barrett-1841-cornwall-st-keyne-1823- :: Thomas BARRETT | Cornwall |  | 1823 | 1841 | Cornwall | Duloe
+/search_records/59029016e9379091b1742919/henry-barrett-1841-cornwall-east-1823- :: Henry BARRETT | Cornwall | - | 1823 | 1841 | Cornwall | Saltash
+/search_records/5902901ce9379091b17447d7/amelia-barrett-1841-cornwall-east-1823- :: Amelia BARRETT | Cornwall | - | 1823 | 1841 | Cornwall | Saltash
+/search_records/651d0585f493fd5e57139544/mary-barrett-1841-cornwall-poughill-1823- :: Mary BARRETT | Cornwall |  | 1823 | 1841 | Cornwall | Poughill
+/search_records/5902909ee9379091b1763e33/ann-barrett-1841-cornwall-kerrier-1823- :: Ann BARRETT | Cornwall | - | 1823 | 1841 | Cornwall | Kerrier
+/search_records/66263c86f493fd445697a211/richard-barrett-1841-cornwall-liskeard-1824- :: Richard BARRETT | Cornwall |  | 1824 | 1841 | Cornwall | Liskeard
+/search_records/5902909ae9379091b1762991/michael-barrett-1841-cornwall-kerrier-1824- :: Michael BARRETT | Cornwall | - | 1824 | 1841 | Cornwall | Kerrier
+/search_records/590293eee9379091b182ec40/hugh-barrett-1841-cornwall-powder-1824- :: Hugh BARRETT | Cornwall | - | 1824 | 1841 | Cornwall | Truro
+/search_records/59029017e9379091b1742c23/honour-barrett-1841-cornwall-east-1824- :: Honour BARRETT | Cornwall | - | 1824 | 1841 | Cornwall | Saltash
+/search_records/5902901ce9379091b17447d9/edward-barrett-1841-cornwall-east-1824- :: Edward BARRETT | Cornwall | - | 1824 | 1841 | Cornwall | Saltash
+/search_records/590293efe9379091b182f2ad/mary-barrett-1841-cornwall-powder-1825- :: Mary BARRETT | Cornwall | - | 1825 | 1841 | Cornwall | Truro
+/search_records/5902901ce9379091b17446ec/grace-barrett-1841-cornwall-east-1825- :: Grace BARRETT | Cornwall | - | 1825 | 1841 | Cornwall | Saltash
+/search_records/59029433e9379091b183f739/james-barrett-1841-cornwall-pydar-1826- :: James BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Padstow
+/search_records/59029433e9379091b183f73b/thomas-barrett-1841-cornwall-pydar-1826- :: Thomas BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Padstow
+/search_records/651d04cdf493fd5e57136b39/frances-barrett-1841-cornwall-boyton-1826- :: Frances BARRETT | Cornwall |  | 1826 | 1841 | Cornwall | Boyton
+/search_records/651d0588f493fd5e57139644/thomas-barrett-1841-cornwall-poughill-1826- :: Thomas BARRETT | Cornwall |  | 1826 | 1841 | Cornwall | Poughill
+/search_records/651d05e1f493fd5e5713a887/richard-barrett-1841-cornwall-north-tamerton-1826- :: Richard BARRETT | Cornwall |  | 1826 | 1841 | Cornwall | North Tamerton
+/search_records/66263b4ff493fd44569778da/robert-barrett-1841-cornwall-lansallos-1826- :: Robert BARRETT | Cornwall |  | 1826 | 1841 | Cornwall | Duloe
+/search_records/66263b4ff493fd44569778dc/phill-barrett-1841-cornwall-lansallos-1826- :: Phill BARRETT | Cornwall |  | 1826 | 1841 | Cornwall | Duloe
+/search_records/66263c57f493fd4456979019/emma-barrett-1841-cornwall-liskeard-1826- :: Emma BARRETT | Cornwall |  | 1826 | 1841 | Cornwall | Liskeard
+/search_records/66263cfcf493fd445697c9b1/susanna-barrett-1841-cornwall-pelynt-1826- :: Susanna BARRETT | Cornwall |  | 1826 | 1841 | Cornwall | Pelynt
+/search_records/66263d06f493fd445697ccfb/rebecca-barrett-1841-cornwall-pelynt-1826- :: Rebecca BARRETT | Cornwall |  | 1826 | 1841 | Cornwall | Pelynt
+/search_records/6846ca5fb18f7c1e088a48ee/joanah-barrett-1841-cornwall-launceston-1826- :: Joanah BARRETT | Cornwall |  | 1826 | 1841 | Cornwall | Launceston
+/search_records/651d0520f493fd5e571378b6/elizabeth-barrett-1841-cornwall-kilkhampton-1826- :: Elizabeth BARRETT | Cornwall |  | 1826 | 1841 | Cornwall | Kilkhampton
+/search_records/59028faee9379091b1728a01/mary-barrett-1841-cornwall-east-1826- :: Mary BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Callington
+/search_records/59028fb3e9379091b1729dfc/edward-barrett-1841-cornwall-east-1826- :: Edward BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Callington
+/search_records/59028fb4e9379091b172a1e6/mary-barrett-1841-cornwall-east-1826- :: Mary BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Callington
+/search_records/5902900ee9379091b1740617/mary-ann-barrett-1841-cornwall-east-1826- :: Mary Ann BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Saltash
+/search_records/5902900ee9379091b17406d4/walter-barrett-1841-cornwall-east-1826- :: Walter BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Saltash
+/search_records/59029087e9379091b175d7f8/elizabeth-barrett-1841-cornwall-kerrier-1826- :: Elizabeth BARRETT | Out of County | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/5902909ae9379091b176299a/elizabeth-barrett-1841-cornwall-kerrier-1826- :: Elizabeth BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/5902909ae9379091b1762bba/richd-barrett-1841-cornwall-kerrier-1826- :: Richd BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Kerrier
+/search_records/590291bae9379091b17a87dd/elizabeth-barrett-1841-cornwall-penwith-1826- :: Elizabeth BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Penwith
+/search_records/590293a7e9379091b181da4c/richard-barrett-1841-cornwall-powder-1826- :: Richard BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Truro
+/search_records/590293b1e9379091b18202c2/elizabeth-barrett-1841-cornwall-powder-1826- :: Elizabeth BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Truro
+/search_records/590293ede9379091b182eadc/amelia-barrett-1841-cornwall-powder-1826- :: Amelia BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Truro
+/search_records/590293ede9379091b182eade/jas-barrett-1841-cornwall-powder-1826- :: Jas. BARRETT | Cornwall | - | 1826 | 1841 | Cornwall | Truro
+/search_records/651d0586f493fd5e57139546/joseph-barrett-1841-cornwall-poughill-1827- :: Joseph BARRETT | Cornwall |  | 1827 | 1841 | Cornwall | Poughill
+/search_records/59029358e9379091b180d189/charlotte-barrett-1841-cornwall-powder-1827- :: Charlotte BARRETT | Cornwall | - | 1827 | 1841 | Cornwall | St Austell
+/search_records/590293a7e9379091b181da4e/charles-barrett-1841-cornwall-powder-1827- :: Charles BARRETT | Cornwall | - | 1827 | 1841 | Cornwall | Truro
+/search_records/590293b1e9379091b18202c4/mary-barrett-1841-cornwall-powder-1827- :: Mary BARRETT | Cornwall | - | 1827 | 1841 | Cornwall | Truro
+/search_records/59029473e9379091b184f37f/jane-barrett-1841-cornwall-pydar-1827- :: Jane BARRETT | Cornwall | - | 1827 | 1841 | Cornwall | Padstow
+/search_records/651d0527f493fd5e57137b61/ann-barrett-1841-cornwall-kilkhampton-1827- :: Ann BARRETT | Cornwall |  | 1827 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0527f493fd5e57137b6f/elizabeth-barrett-1841-cornwall-kilkhampton-1827- :: Elizabeth BARRETT | Cornwall |  | 1827 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0527f493fd5e57137b73/susanna-barrett-1841-cornwall-kilkhampton-1827- :: Susanna BARRETT | Cornwall |  | 1827 | 1841 | Cornwall | Kilkhampton
+/search_records/59029016e9379091b17429d9/selina-barrett-1841-cornwall-east-1827- :: Selina BARRETT | Cornwall | - | 1827 | 1841 | Cornwall | Saltash
+/search_records/590291bae9379091b17a87df/grace-barrett-1841-cornwall-penwith-1828- :: Grace BARRETT | Cornwall | - | 1828 | 1841 | Cornwall | Penwith
+/search_records/59028fb4e9379091b172a1e8/antony-barrett-1841-cornwall-east-1828- :: Antony BARRETT | Cornwall | - | 1828 | 1841 | Cornwall | Callington
+/search_records/59029017e9379091b1742c25/william-barrett-1841-cornwall-east-1828- :: William BARRETT | Cornwall | - | 1828 | 1841 | Cornwall | Saltash
+/search_records/5902909ae9379091b1762993/mark-barrett-1841-cornwall-kerrier-1828- :: Mark BARRETT | Cornwall | - | 1828 | 1841 | Cornwall | Kerrier
+/search_records/590293b5e9379091b182146f/wm-barrett-1841-cornwall-powder-1828- :: Wm BARRETT | Cornwall | - | 1828 | 1841 | Cornwall | Truro
+/search_records/590293cae9379091b1826cba/james-barrett-1841-cornwall-powder-1828- :: James BARRETT | Cornwall | - | 1828 | 1841 | Cornwall | Truro
+/search_records/590293cae9379091b1826cf6/elizabeth-barrett-1841-cornwall-powder-1828- :: Elizabeth BARRETT | Cornwall | - | 1828 | 1841 | Cornwall | Truro
+/search_records/590293f6e9379091b183104d/john-barrett-1841-cornwall-powder-1828- :: John BARRETT | Cornwall | - | 1828 | 1841 | Cornwall | Truro
+/search_records/59029358e9379091b180d187/thomas-barrett-1841-cornwall-powder-1829- :: Thomas BARRETT | Cornwall | - | 1829 | 1841 | Cornwall | St Austell
+/search_records/66263c86f493fd445697a213/benjamin-barrett-1841-cornwall-liskeard-1829- :: Benjamin BARRETT | Cornwall |  | 1829 | 1841 | Cornwall | Liskeard
+/search_records/66263cfcf493fd445697c9b2/elizabeth-barrett-1841-cornwall-pelynt-1829- :: Elizabeth BARRETT | Cornwall |  | 1829 | 1841 | Cornwall | Pelynt
+/search_records/59028fb3e9379091b1729dfe/elizabeth-barrett-1841-cornwall-east-1829- :: Elizabeth BARRETT | Cornwall | - | 1829 | 1841 | Cornwall | Callington
+/search_records/670ccba3b18f7ce1fe9d9af4/mary-barrett-1841-cornwall-bodmin-1829- :: Mary BARRETT | Cornwall |  | 1829 | 1841 | Cornwall | Bodmin
+/search_records/590293a7e9379091b181da50/russell-barrett-1841-cornwall-powder-1829- :: Russell BARRETT | Cornwall | - | 1829 | 1841 | Cornwall | Truro
+/search_records/590293b5e9379091b1821472/elizabeth-barrett-1841-cornwall-powder-1829- :: Elizabeth BARRETT | Cornwall | - | 1829 | 1841 | Cornwall | Truro
+/search_records/59029433e9379091b183f73d/mary-barrett-1841-cornwall-pydar-1829- :: Mary BARRETT | Cornwall | - | 1829 | 1841 | Cornwall | Padstow
+/search_records/66263c57f493fd445697901b/ann-barrett-1841-cornwall-liskeard-1829- :: Ann BARRETT | Cornwall |  | 1829 | 1841 | Cornwall | Liskeard
+/search_records/590293e8e9379091b182d441/james-barrett-1841-cornwall-powder-1830- :: James BARRETT | Cornwall | - | 1830 | 1841 | Cornwall | Truro
+/search_records/651d051ff493fd5e5713785b/john-barrett-1841-cornwall-kilkhampton-1830- :: John BARRETT | Cornwall |  | 1830 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0529f493fd5e57137c12/grace-barrett-1841-cornwall-kilkhampton-1830- :: Grace BARRETT | Cornwall |  | 1830 | 1841 | Cornwall | Kilkhampton
+/search_records/66263b16f493fd44569768ea/william-barrett-1841-cornwall-st-cleer-1830- :: William BARRETT | Cornwall |  | 1830 | 1841 | Cornwall | St. Cleer
+/search_records/59028faee9379091b1728a03/adele-barrett-1841-cornwall-east-1830- :: Adele BARRETT | Cornwall | - | 1830 | 1841 | Cornwall | Callington
+/search_records/59028fb6e9379091b172ab1f/philly-barrett-1841-cornwall-east-1830- :: Philly BARRETT | Cornwall | - | 1830 | 1841 | Cornwall | Callington
+/search_records/59029016e9379091b174295e/william-barrett-1841-cornwall-east-1830- :: William BARRETT | Cornwall | - | 1830 | 1841 | Cornwall | Saltash
+/search_records/5902901ce9379091b17447db/johnathon-barrett-1841-cornwall-east-1830- :: Johnathon BARRETT | Cornwall | - | 1830 | 1841 | Cornwall | Saltash
+/search_records/590291bae9379091b17a87e1/amelia-barrett-1841-cornwall-penwith-1830- :: Amelia BARRETT | Cornwall | - | 1830 | 1841 | Cornwall | Penwith
+/search_records/590293b1e9379091b18202c6/thomas-barrett-1841-cornwall-powder-1830- :: Thomas BARRETT | Cornwall | - | 1830 | 1841 | Cornwall | Truro
+/search_records/590293cae9379091b1826cbc/elizabeth-barrett-1841-cornwall-powder-1830- :: Elizabeth BARRETT | Cornwall | - | 1830 | 1841 | Cornwall | Truro
+/search_records/590293cae9379091b1826cf8/mary-barrett-1841-cornwall-powder-1830- :: Mary BARRETT | Cornwall | - | 1830 | 1841 | Cornwall | Truro
+/search_records/590293b8e9379091b18224be/eliza-barrett-1841-cornwall-powder-1831- :: Eliza BARRETT | Cornwall | - | 1831 | 1841 | Cornwall | Truro
+/search_records/59028fb4e9379091b172a1ea/jane-barrett-1841-cornwall-east-1831- :: Jane BARRETT | Cornwall | - | 1831 | 1841 | Cornwall | Callington
+/search_records/5902900ee9379091b174061b/sampson-barrett-1841-cornwall-east-1831- :: Sampson BARRETT | Cornwall | - | 1831 | 1841 | Cornwall | Saltash
+/search_records/5902900ee9379091b174068d/james-barrett-1841-cornwall-east-1831- :: James BARRETT | Cornwall | - | 1831 | 1841 | Cornwall | Saltash
+/search_records/5902901ce9379091b17446c9/william-barrett-1841-cornwall-east-1831- :: William BARRETT | Cornwall | - | 1831 | 1841 | Cornwall | Saltash
+/search_records/5902901ce9379091b17447dd/henry-barrett-1841-cornwall-east-1831- :: Henry BARRETT | Cornwall | - | 1831 | 1841 | Cornwall | Saltash
+/search_records/5902909ae9379091b1762bbd/saml-barrett-1841-cornwall-kerrier-1831- :: Saml BARRETT | Cornwall | - | 1831 | 1841 | Cornwall | Kerrier
+/search_records/590293a7e9379091b181da52/thomas-barrett-1841-cornwall-powder-1831- :: Thomas BARRETT | Cornwall | - | 1831 | 1841 | Cornwall | Truro
+/search_records/590293f6e9379091b183104f/sarah-barrett-1841-cornwall-powder-1831- :: Sarah BARRETT | Cornwall | - | 1831 | 1841 | Cornwall | Truro
+/search_records/5902942be9379091b183db7a/eliza-barrett-1841-cornwall-pydar-1831- :: Eliza BARRETT | Cornwall | - | 1831 | 1841 | Cornwall | Padstow
+/search_records/62ca8c0bf493fd200c90c77a/reginald-barrett-1841-cornwall-fowey-1831- :: Reginald BARRETT | Cornwall |  | 1831 | 1841 | Cornwall | Fowey
+/search_records/62ca8c65f493fd200c90d3c1/john-barrett-1841-cornwall-st-goran-1831- :: John BARRETT | Cornwall |  | 1831 | 1841 | Cornwall | Gorran
+/search_records/651d055bf493fd5e57138933/thomas-barrett-1841-cornwall-marhamchurch-1831- :: Thomas BARRETT | Cornwall |  | 1831 | 1841 | Cornwall | Marhamchurch
+/search_records/66263cfcf493fd445697c9b4/william-barrett-1841-cornwall-pelynt-1831- :: William BARRETT | Cornwall |  | 1831 | 1841 | Cornwall | Pelynt
+/search_records/670cccbbb18f7ce1fe9df2f9/mary-ann-barrett-1841-cornwall-st-mabyn-1831- :: Mary Ann BARRETT | Cornwall |  | 1831 | 1841 | Cornwall | St Mabyn
+/search_records/66263b50f493fd44569778e4/philley-barrett-1841-cornwall-lansallos-1832- :: Philley BARRETT | Cornwall |  | 1832 | 1841 | Cornwall | Duloe
+/search_records/59029333e9379091b1802e3c/john-barrett-1841-cornwall-powder-1832- :: John BARRETT | Cornwall | - | 1832 | 1841 | Cornwall | St Austell
+/search_records/590293cae9379091b1826cbe/maryann-barrett-1841-cornwall-powder-1832- :: Maryann BARRETT | Cornwall | - | 1832 | 1841 | Cornwall | Truro
+/search_records/590293e8e9379091b182d128/john-barrett-1841-cornwall-powder-1832- :: John BARRETT | Cornwall | - | 1832 | 1841 | Cornwall | Truro
+/search_records/590293e8e9379091b182d443/jane-barrett-1841-cornwall-powder-1832- :: Jane BARRETT | Cornwall | - | 1832 | 1841 | Cornwall | Truro
+/search_records/590293efe9379091b182f2af/susan-barrett-1841-cornwall-powder-1832- :: Susan BARRETT | Cornwall | - | 1832 | 1841 | Cornwall | Truro
+/search_records/651d0529f493fd5e57137c14/william-barrett-1841-cornwall-kilkhampton-1832- :: William BARRETT | Cornwall |  | 1832 | 1841 | Cornwall | Kilkhampton
+/search_records/651d0529f493fd5e57137c2e/fanny-barrett-1841-cornwall-kilkhampton-1832- :: Fanny BARRETT | Cornwall |  | 1832 | 1841 | Cornwall | Kilkhampton
+/search_records/651d052bf493fd5e57137cd3/fanny-barrett-1841-cornwall-kilkhampton-1832- :: Fanny BARRETT | Cornwall |  | 1832 | 1841 | Cornwall | Kilkhampton
+/search_records/66263b34f493fd445697714e/richard-barrett-1841-cornwall-st-keyne-1832- :: Richard BARRETT | Cornwall |  | 1832 | 1841 | Cornwall | Duloe
+/search_records/59029016e9379091b1742960/robert-barrett-1841-cornwall-east-1832- :: Robert BARRETT | Cornwall | - | 1832 | 1841 | Cornwall | Saltash
+/search_records/5902901ce9379091b17446d3/jenepher-barrett-1841-cornwall-east-1833- :: Jenepher BARRETT | Cornwall | - | 1833 | 1841 | Cornwall | Saltash
+/search_records/59028fb4e9379091b172a1ec/william-barrett-1841-cornwall-east-1833- :: William BARRETT | Cornwall | - | 1833 | 1841 | Cornwall | Callington
+/search_records/5902901ce9379091b17446d1/honour-barrett-1841-cornwall-east-1833- :: Honour BARRETT | Cornwall | - | 1833 | 1841 | Cornwall | Saltash
+/search_records/5902909ae9379091b1762bc0/wm-barrett-1841-cornwall-kerrier-1833- :: Wm BARRETT | Cornwall | - | 1833 | 1841 | Cornwall | Kerrier
+/search_records/590291bae9379091b17a87e3/ann-barrett-1841-cornwall-penwith-1833- :: Ann BARRETT | Cornwall | - | 1833 | 1841 | Cornwall | Penwith
+/search_records/59029341e9379091b1806c8c/elizabeth-barrett-1841-cornwall-powder-1833- :: Elizabeth BARRETT | Cornwall | - | 1833 | 1841 | Cornwall | St Austell
+/search_records/59029358e9379091b180d185/william-barrett-1841-cornwall-powder-1833- :: William BARRETT | Cornwall | - | 1833 | 1841 | Cornwall | St Austell
+/search_records/590293a7e9379091b181da54/john-barrett-1841-cornwall-powder-1833- :: John BARRETT | Cornwall | - | 1833 | 1841 | Cornwall | Truro
+/search_records/590293b8e9379091b1822291/elizth-barrett-1841-cornwall-powder-1833- :: Elizth BARRETT | Cornwall | - | 1833 | 1841 | Cornwall | Truro
+/search_records/590293b8e9379091b18224c1/richard-barrett-1841-cornwall-powder-1833- :: Richard BARRETT | Cornwall | - | 1833 | 1841 | Cornwall | Truro
+/search_records/59029473e9379091b184f381/john-barrett-1841-cornwall-pydar-1833- :: John BARRETT | Cornwall | - | 1833 | 1841 | Cornwall | Padstow
+/search_records/651d04def493fd5e57136ebc/william-barrett-1841-cornwall-bridgerule-1833- :: William BARRETT | Out of County |  | 1833 | 1841 | Cornwall | Bridgerule West Of Tamar
+/search_records/670cccbbb18f7ce1fe9df2fa/hannah-barrett-1841-cornwall-st-mabyn-1833- :: Hannah BARRETT | Cornwall |  | 1833 | 1841 | Cornwall | St Mabyn
+/search_records/66263cfcf493fd445697c9b6/john-barrett-1841-cornwall-pelynt-1834- :: John BARRETT | Cornwall |  | 1834 | 1841 | Cornwall | Pelynt
+/search_records/5902901ae9379091b1743dc1/mary-barrett-1841-cornwall-east-1834- :: Mary BARRETT | Cornwall | - | 1834 | 1841 | Cornwall | Saltash
+/search_records/5902909ae9379091b176299c/mary-barrett-1841-cornwall-kerrier-1834- :: Mary BARRETT | Cornwall | - | 1834 | 1841 | Cornwall | Kerrier
+/search_records/590291bae9379091b17a87e5/james-barrett-1841-cornwall-penwith-1834- :: James BARRETT | Cornwall | - | 1834 | 1841 | Cornwall | Penwith
+/search_records/59028fb3e9379091b1729c0f/john-barrett-1841-cornwall-east-1834- :: John BARRETT | Cornwall | - | 1834 | 1841 | Cornwall | Callington
+/search_records/59029341e9379091b1806c8e/mary-barrett-1841-cornwall-powder-1834- :: Mary BARRETT | Cornwall | - | 1834 | 1841 | Cornwall | St Austell
+/search_records/590293cae9379091b1826cfa/sasan-barrett-1841-cornwall-powder-1834- :: Sasan BARRETT | Cornwall | - | 1834 | 1841 | Cornwall | Truro
+/search_records/590293e8e9379091b182d445/elizabeth-barrett-1841-cornwall-powder-1834- :: Elizabeth BARRETT | Cornwall | - | 1834 | 1841 | Cornwall | Truro
+/search_records/590293efe9379091b182f2b2/sarah-barrett-1841-cornwall-powder-1834- :: Sarah BARRETT | Cornwall | - | 1834 | 1841 | Cornwall | Truro
+/search_records/590293f6e9379091b1831051/richard-barrett-1841-cornwall-powder-1834- :: Richard BARRETT | Cornwall | - | 1834 | 1841 | Cornwall | Truro
+/search_records/62ca8c21f493fd200c90ca5a/richard-barrett-1841-cornwall-fowey-1834- :: Richard BARRETT | Cornwall |  | 1834 | 1841 | Cornwall | Fowey
+/search_records/59028faee9379091b1728a05/eliza-barrett-1841-cornwall-east-1834- :: Eliza BARRETT | Cornwall | - | 1834 | 1841 | Cornwall | Callington
+/search_records/651d052bf493fd5e57137cd5/sally-barrett-1841-cornwall-kilkhampton-1834- :: Sally BARRETT | Cornwall |  | 1834 | 1841 | Cornwall | Kilkhampton
+/search_records/59028fb6e9379091b172ab0f/richard-barrett-1841-cornwall-east-1834- :: Richard BARRETT | Cornwall | - | 1834 | 1841 | Cornwall | Callington
+/search_records/590293b8e9379091b18224c3/michael-barrett-1841-cornwall-powder-1835- :: Michael BARRETT | Cornwall | - | 1835 | 1841 | Cornwall | Truro
+/search_records/5902901ce9379091b17446d5/elizabeth-barrett-1841-cornwall-east-1835- :: Elizabeth BARRETT | Cornwall | - | 1835 | 1841 | Cornwall | Saltash
+/search_records/5902935be9379091b180db6f/thomas-barrett-1841-cornwall-powder-1835- :: Thomas BARRETT | Born Overseas | - | 1835 | 1841 | Cornwall | St Austell
+/search_records/590293a7e9379091b181da56/fredrick-barrett-1841-cornwall-powder-1835- :: Fredrick BARRETT | Cornwall | - | 1835 | 1841 | Cornwall | Truro
+/search_records/590293b8e9379091b1822294/maria-barrett-1841-cornwall-powder-1835- :: Maria BARRETT | Cornwall | - | 1835 | 1841 | Cornwall | Truro
+/search_records/590293e8e9379091b182d12a/jonathon-barrett-1841-cornwall-powder-1835- :: Jonathon BARRETT | Cornwall | - | 1835 | 1841 | Cornwall | Truro
+/search_records/62ca8c21f493fd200c90ca5c/william-barrett-1841-cornwall-fowey-1835- :: William BARRETT | Cornwall |  | 1835 | 1841 | Cornwall | Fowey
+/search_records/651d0529f493fd5e57137c19/charles-jnr-barrett-1841-cornwall-kilkhampton-1835- :: Charles (Jnr) BARRETT | Cornwall |  | 1835 | 1841 | Cornwall | Kilkhampton
+/search_records/66263d0af493fd445697cee7/philip-barrett-1841-cornwall-pelynt-1835- :: Philip BARRETT | Cornwall |  | 1835 | 1841 | Cornwall | Pelynt
+/search_records/670cccbbb18f7ce1fe9df2fc/jane-barrett-1841-cornwall-st-mabyn-1835- :: Jane BARRETT | Cornwall |  | 1835 | 1841 | Cornwall | St Mabyn
+/search_records/59028faee9379091b1728a08/caroline-barrett-1841-cornwall-east-1836- :: Caroline BARRETT | Cornwall | - | 1836 | 1841 | Cornwall | Callington
+/search_records/59028fb3e9379091b1729c11/richard-barrett-1841-cornwall-east-1836- :: Richard BARRETT | Cornwall | - | 1836 | 1841 | Cornwall | Callington
+/search_records/59028fb6e9379091b172abd4/elizabeth-barrett-1841-cornwall-east-1836- :: Elizabeth BARRETT | Cornwall | - | 1836 | 1841 | Cornwall | Callington
+/search_records/5902900ee9379091b174061d/anne-barrett-1841-cornwall-east-1836- :: Anne BARRETT | Cornwall | - | 1836 | 1841 | Cornwall | Saltash
+/search_records/5902900ee9379091b174061f/james-barrett-1841-cornwall-east-1836- :: James BARRETT | Cornwall | - | 1836 | 1841 | Cornwall | Saltash
+/search_records/5902900ee9379091b174068f/john-barrett-1841-cornwall-east-1836- :: John BARRETT | Cornwall | - | 1836 | 1841 | Cornwall | Saltash
+/search_records/5902909ae9379091b176299e/nanny-barrett-1841-cornwall-kerrier-1836- :: Nanny BARRETT | Cornwall | - | 1836 | 1841 | Cornwall | Kerrier
+/search_records/590291bae9379091b17a87e7/wm-barrett-1841-cornwall-penwith-1836- :: Wm. BARRETT | Cornwall | - | 1836 | 1841 | Cornwall | Penwith
+/search_records/59029341e9379091b1806c90/john-barrett-1841-cornwall-powder-1836- :: John BARRETT | Cornwall | - | 1836 | 1841 | Cornwall | St Austell
+/search_records/590293a8e9379091b181e018/mary-barrett-1841-cornwall-powder-1836- :: Mary BARRETT | Cornwall | - | 1836 | 1841 | Cornwall | Truro
+/search_records/590293efe9379091b182f2b4/ellen-barrett-1841-cornwall-powder-1836- :: Ellen BARRETT | Cornwall | - | 1836 | 1841 | Cornwall | Truro
+/search_records/62ca8c98f493fd200c90dd03/mary-barrett-1841-cornwall-ladock-1836- :: Mary BARRETT | Cornwall |  | 1836 | 1841 | Cornwall | Ladock
+/search_records/651d04def493fd5e57136ebe/james-barrett-1841-cornwall-bridgerule-1836- :: James BARRETT | Cornwall |  | 1836 | 1841 | Cornwall | Bridgerule West Of Tamar
+/search_records/66263cfcf493fd445697c9b8/jane-barrett-1841-cornwall-pelynt-1837- :: Jane BARRETT | Cornwall |  | 1837 | 1841 | Cornwall | Pelynt
+/search_records/590293b5e9379091b1821474/lavina-barrett-1841-cornwall-powder-1837- :: Lavina BARRETT | Cornwall | - | 1837 | 1841 | Cornwall | Truro
+/search_records/590293b8e9379091b1822297/susan-barrett-1841-cornwall-powder-1837- :: Susan BARRETT | Cornwall | - | 1837 | 1841 | Cornwall | Truro
+/search_records/590293b8e9379091b18224c5/sophia-barrett-1841-cornwall-powder-1837- :: Sophia BARRETT | Cornwall | - | 1837 | 1841 | Cornwall | Truro
+/search_records/590293e8e9379091b182d12c/nicholas-barrett-1841-cornwall-powder-1837- :: Nicholas BARRETT | Cornwall | - | 1837 | 1841 | Cornwall | Truro
+/search_records/590293e8e9379091b182d447/john-barrett-1841-cornwall-powder-1837- :: John BARRETT | Cornwall | - | 1837 | 1841 | Cornwall | Truro
+/search_records/590293f6e9379091b1831053/nicholas-barrett-1841-cornwall-powder-1837- :: Nicholas BARRETT | Cornwall | - | 1837 | 1841 | Cornwall | Truro
+/search_records/59029473e9379091b184f383/louisa-barrett-1841-cornwall-pydar-1837- :: Louisa BARRETT | Cornwall | - | 1837 | 1841 | Cornwall | Padstow
+/search_records/651d0583f493fd5e57139461/thomas-barrett-1841-cornwall-poughill-1837- :: Thomas BARRETT | Cornwall |  | 1837 | 1841 | Cornwall | Poughill
+/search_records/59029014e9379091b17420c5/elizabeth-barrett-1841-cornwall-east-1837- :: Elizabeth BARRETT | Cornwall | - | 1837 | 1841 | Cornwall | Saltash
+/search_records/62ca8c0bf493fd200c90c77c/robert-barrett-1841-cornwall-fowey-1838- :: Robert BARRETT | Cornwall |  | 1838 | 1841 | Cornwall | Fowey
+/search_records/59028fb3e9379091b1729cd4/elizabeth-barrett-1841-cornwall-east-1838- :: Elizabeth BARRETT | Cornwall | - | 1838 | 1841 | Cornwall | Callington
+/search_records/59028fb6e9379091b172abd6/fanny-barrett-1841-cornwall-east-1838- :: Fanny BARRETT | Cornwall | - | 1838 | 1841 | Cornwall | Callington
+/search_records/59029016e9379091b1742962/francis-barrett-1841-cornwall-east-1838- :: Francis BARRETT | Cornwall | - | 1838 | 1841 | Cornwall | Saltash
+/search_records/5902909ae9379091b1762bc3/john-barrett-1841-cornwall-kerrier-1838- :: John BARRETT | Unknown | - | 1838 | 1841 | Cornwall | Kerrier
+/search_records/590291bae9379091b17a87ea/hercules-barrett-1841-cornwall-penwith-1838- :: Hercules BARRETT | Cornwall | - | 1838 | 1841 | Cornwall | Penwith
+/search_records/59029333e9379091b1802e3e/edwin-barrett-1841-cornwall-powder-1838- :: Edwin BARRETT | Cornwall | - | 1838 | 1841 | Cornwall | St Austell
+/search_records/590293a7e9379091b181da58/mary-barrett-1841-cornwall-powder-1838- :: Mary BARRETT | Cornwall | - | 1838 | 1841 | Cornwall | Truro
+/search_records/590293b1e9379091b18202c8/robert-barrett-1841-cornwall-powder-1838- :: Robert BARRETT | Cornwall | - | 1838 | 1841 | Cornwall | Truro
+/search_records/590293efe9379091b182f2b6/emma-barrett-1841-cornwall-powder-1838- :: Emma BARRETT | Cornwall | - | 1838 | 1841 | Cornwall | Truro
+/search_records/59029432e9379091b183f2f3/thomas-barrett-1841-cornwall-pydar-1838- :: Thomas BARRETT | Cornwall | - | 1838 | 1841 | Cornwall | Padstow
+/search_records/59029472e9379091b184ef69/mary-barrett-1841-cornwall-pydar-1838- :: Mary BARRETT | Cornwall | - | 1838 | 1841 | Cornwall | Padstow
+/search_records/62ca8c98f493fd200c90dcff/emma-barrett-1841-cornwall-ladock-1838- :: Emma BARRETT | Cornwall |  | 1838 | 1841 | Cornwall | Ladock
+/search_records/651d051cf493fd5e57137757/elizabeth-barrett-1841-cornwall-kilkhampton-1838- :: Elizabeth BARRETT | Cornwall |  | 1838 | 1841 | Cornwall | Kilkhampton
+/search_records/651d052bf493fd5e57137cd7/william-barrett-1841-cornwall-kilkhampton-1838- :: William BARRETT | Cornwall |  | 1838 | 1841 | Cornwall | Kilkhampton
+/search_records/66263c57f493fd4456979054/jane-barrett-1841-cornwall-liskeard-1838- :: Jane BARRETT | Cornwall |  | 1838 | 1841 | Cornwall | Liskeard
+/search_records/670ccbbdb18f7ce1fe9da458/fanny-barrett-1841-cornwall-bodmin-1838- :: Fanny BARRETT | Out of County |  | 1838 | 1841 | Cornwall | Bodmin
+/search_records/670cccbbb18f7ce1fe9df2fe/mary-barrett-1841-cornwall-st-mabyn-1838- :: Mary BARRETT | Cornwall |  | 1838 | 1841 | Cornwall | St Mabyn
+/search_records/59028faee9379091b1728a0a/maria-barrett-1841-cornwall-east-1839- :: Maria BARRETT | Cornwall | - | 1839 | 1841 | Cornwall | Callington
+/search_records/651d04def493fd5e57136ec0/charles-barrett-1841-cornwall-bridgerule-1839- :: Charles BARRETT | Cornwall |  | 1839 | 1841 | Cornwall | Bridgerule West Of Tamar
+/search_records/651d0583f493fd5e57139463/mary-barrett-1841-cornwall-poughill-1839- :: Mary BARRETT | Cornwall |  | 1839 | 1841 | Cornwall | Poughill
+/search_records/59028fb3e9379091b1729c13/william-barrett-1841-cornwall-east-1839- :: William BARRETT | Cornwall | - | 1839 | 1841 | Cornwall | Callington
+/search_records/5902901ce9379091b17446d7/jane-barrett-1841-cornwall-east-1839- :: Jane BARRETT | Cornwall | - | 1839 | 1841 | Cornwall | Saltash
+/search_records/5902909ae9379091b1762995/wm-barrett-1841-cornwall-kerrier-1839- :: Wm BARRETT | Cornwall | - | 1839 | 1841 | Cornwall | Kerrier
+/search_records/59029335e9379091b1803758/elizabeth-barrett-1841-cornwall-powder-1839- :: Elizabeth BARRETT | Cornwall | - | 1839 | 1841 | Cornwall | St Austell
+/search_records/59029341e9379091b1806c92/selina-barrett-1841-cornwall-powder-1839- :: Selina BARRETT | Cornwall | - | 1839 | 1841 | Cornwall | St Austell
+/search_records/62ca8c98f493fd200c90dd01/john-barrett-1841-cornwall-ladock-1839- :: John BARRETT | Cornwall |  | 1839 | 1841 | Cornwall | Ladock
+/search_records/590293f6e9379091b1831055/elizabeth-barrett-1841-cornwall-powder-1840- :: Elizabeth BARRETT | Cornwall | - | 1840 | 1841 | Cornwall | Truro
+/search_records/59029472e9379091b184ef6b/ann-barrett-1841-cornwall-pydar-1840- :: Ann BARRETT | Cornwall | - | 1840 | 1841 | Cornwall | Padstow
+/search_records/651d0529f493fd5e57137c1a/eliza-barrett-1841-cornwall-kilkhampton-1840- :: Eliza BARRETT | Cornwall |  | 1840 | 1841 | Cornwall | Kilkhampton
+/search_records/66263c58f493fd4456979056/mary-barrett-1841-cornwall-liskeard-1840- :: Mary BARRETT | Cornwall |  | 1840 | 1841 | Cornwall | Liskeard
+/search_records/66263d31f493fd445697d949/richard-barrett-1841-cornwall-talland-1840- :: Richard BARRETT | Cornwall |  | 1840 | 1841 | Cornwall | Talland
+/search_records/6846caa9b18f7c1e088a4f00/william-barrett-1841-cornwall-launceston-1840- :: William BARRETT | Cornwall |  | 1840 | 1841 | Cornwall | Launceston
+/search_records/5902935be9379091b180db71/catharine-barrett-1841-cornwall-powder-1840- :: Catharine BARRETT | Cornwall | - | 1840 | 1841 | Cornwall | St Austell
+/search_records/59028fb3e9379091b1729cd6/james-barrett-1841-cornwall-east-1840- :: James BARRETT | Cornwall | - | 1840 | 1841 | Cornwall | Callington
+/search_records/59028fb6e9379091b172abd8/edward-barrett-1841-cornwall-east-1840- :: Edward BARRETT | Cornwall | - | 1840 | 1841 | Cornwall | Callington
+/search_records/59029016e9379091b1742a92/william-barrett-1841-cornwall-east-1840- :: William BARRETT | Cornwall | - | 1840 | 1841 | Cornwall | Saltash
+/search_records/59029333e9379091b1802e40/william-barrett-1841-cornwall-powder-1840- :: William BARRETT | Cornwall | - | 1840 | 1841 | Cornwall | St Austell
+/search_records/59029341e9379091b1806c94/anna-barrett-1841-cornwall-powder-1840- :: Anna BARRETT | Cornwall | - | 1840 | 1841 | Cornwall | St Austell
+/search_records/590293b8e9379091b18224c7/phillipa-barrett-1841-cornwall-powder-1840- :: Phillipa BARRETT | Cornwall | - | 1840 | 1841 | Cornwall | Truro
+/search_records/590293e8e9379091b182d12e/suzanna-barrett-1841-cornwall-powder-1840- :: Suzanna BARRETT | Cornwall | - | 1840 | 1841 | Cornwall | Truro
+/search_records/590293efe9379091b182f2b8/fanny-barrett-1841-cornwall-powder-1840- :: Fanny BARRETT | Cornwall | - | 1840 | 1841 | Cornwall | Truro
+/search_records/59028fb2e9379091b17296ee/elizabeth-stanton-barrett-1841-cornwall-east-1841- :: Elizabeth Stanton BARRETT | Cornwall | - | 1841 | 1841 | Cornwall | Callington
+/search_records/590291bae9379091b17a87ec/henry-barrett-1841-cornwall-penwith-1841- :: Henry BARRETT | Cornwall | - | 1841 | 1841 | Cornwall | Penwith
+/search_records/5902935fe9379091b180e8f1/elizabeth-barrett-1841-cornwall-powder-1841- :: Elizabeth BARRETT | Cornwall | - | 1841 | 1841 | Cornwall | St Austell
+/search_records/590293e8e9379091b182d449/jeremiah-barrett-1841-cornwall-powder-1841- :: Jeremiah BARRETT | Cornwall | - | 1841 | 1841 | Cornwall | Truro
+/search_records/590293eee9379091b182ebda/edward-barrett-1841-cornwall-powder-1841- :: Edward BARRETT | Cornwall | - | 1841 | 1841 | Cornwall | Truro

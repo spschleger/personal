@@ -1,0 +1,5 @@
+Cornwall OPC database marriages search
+URL: https://www.cornwall-opc-database.org/search-database/marriages/index.php?year_from=1850&year_to=1866&parish=Par&forename1=&surname1=Barrett&t=marriages&bf=Search
+Retrieved 2026-08-19
+
+ROWS (0):

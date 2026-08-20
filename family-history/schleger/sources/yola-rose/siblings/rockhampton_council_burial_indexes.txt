@@ -1,0 +1,65 @@
+# Rockhampton Regional Council burial indexes (free PDFs)
+# Source page: https://www.rockhamptonregion.qld.gov.au/CouncilServices/Cemeteries/Burial-Indexes  accessed 2026-08-19
+# PDFs: nth-rocky-may-2026.pdf (North Rockhampton), mem-gardens-may-2026.pdf (Memorial Gardens, Lakes Creek), sth-rocky-cemetery-may-2026.pdf (South Rockhampton)
+# Columns North/South Rocky: SURNAME GIVEN AGE SEX DATE-OF-DEATH DATE-OF-BURIAL SECTION ROW GRAVE DENOMINATION
+
+## North Rockhampton Cemetery -- JOHNSTONE / JOSEFSKI
+13184:JOHNSTONE   ARTHUR WILLIAM (WALTER)        53     M          31 May 1933          02 June 1933         1          11        816          CE
+13185:JOHNSTONE   CHARLES WILLIAM                75     M        02 August 1986       04 August 1986        16          12         30          UC
+13186:JOHNSTONE   EDWIG GEORGINA (ASHES)                 F         28 June 1987          02 July 1987        A          E          7
+13187:JOHNSTONE   FLORENCE MAY                   79      F        19 March 1968        21 March 1968         1           7         59          CE
+13188:JOHNSTONE   FREDERICK JASON                76     M       25 October 1969      27 October 1969         E          C          20      PRESBYTERIAN
+13189:JOHNSTONE   JACOB WILLIAM                  62     M           03 July 1930         04 July 1930        3           8        502          CE
+13190:JOHNSTONE   JOHN YORKE MILLER              42      F       21 August 1951       23 August 1951        23           0        108          SALV
+13191:JOHNSTONE   ROSE                           81      F    12 November 1974     14 November 1974          E          C          22          RC
+13192:JOHNSTONE   STANLEY CHARLES                52     M          17 May 1970          18 May 1970          A          E          7           CE
+18732:NEWBIGGING   JAMES JOHNSTONE               70     M           20 July 1948         21 July 1948       15           1         50          CE
+
+## North Rockhampton Cemetery -- BARTLEM
+1082:BARTLEM       ALEXANDER                         100     M          23 April 1980        24 April 1980        A          E          37        CE
+1083:BARTLEM       ALICE                             57       F          02 July 1943         03 July 1943        4           6         57        CE
+1084:BARTLEM       ALLEN JAMES                       90      M          22 May 1979          23 May 1979         12           6        64a       BAPT
+1085:BARTLEM       ARTHUR LEWIS                      83      M     02 November 1967     03 November 1967          4          22         41       BAPT
+1089:BARTLEM    BERNARD HENRY CHARLES         81      M           02 July 1965         03 July 1965        4           6         58         BAPT
+1090:BARTLEM    CATHERINE EMILY JANE          82       F     23 February 1967     24 February 1967         4          14        66a          CE
+1091:BARTLEM    COLIN FREDERICK               69      M       30 October 1984      31 October 1984        16          10         37      PRESBYTERIAN
+1092:BARTLEM    EDWARD LEWIS                  58      M     17 December 1982     21 December 1982         H           D          5           CE
+1093:BARTLEM    EILEEN MAUD                   57       F        28 March 1974        30 March 1974         4          24         47          CE
+1094:BARTLEM    ELIZA                         83       F      26 January 1958      28 January 1958         4          21         37          CE
+1095:BARTLEM    ELIZABETH                     72       F    21 November 1953     23 November 1953          A          E          36          CE
+1096:BARTLEM    ETHEL ALBERTA                 71       F       03 August 1958       05 August 1958         4          22         42          CE
+1097:BARTLEM    EVELINE ANN                 16 mths    F      01 October 1950      02 October 1950        C           C          59          RC
+1098:BARTLEM    GAVIN SHAYNE                10 mths   M         03 March 1969        04 March 1969         B          G          12          CE
+1099:BARTLEM    GORDON BERNARD                57      M      10 February 1974     13 February 1974         4          24         14          CE
+1100:BARTLEM    HARRY                         74      M       04 October 1956      05 October 1956         4          14         66          CE
+1101:BARTLEM    KYN MAREE (ASHES)             52       F    08 December 2016          30 June 2017         B          G          12          ANG
+1102:BARTLEM    MAFALDA MARIA (ASHES)         95       F    10 September 2022    10 November 2022         H           D          5           RC
+1103:BARTLEM    MARGARET                      69       F    10 November 1949     10 November 1949          6           5         41          RC
+1104:BARTLEM    MARY ELLEN                    83       F      25 January 2005      28 January 2005        16          10         37      PRESBYTERIAN
+1105:BARTLEM    S/B                          S/B                24 March 1946        25 March 1946         4           4        2548         CE
+1106:BARTLEM    THOMAS MANLY                  54      M       07 October 1941      07 October 1941        12           2         52         METH
+1107:BARTLEM    TRACY MAREE                 12 hrs     F    03 September 1973    04 September 1973        D           D          61          RC
+1108:BARTLEM    VALERIE JUNE (ASHES)          63       F        03 March 2008      15 January 2009         B          G          12          CE
+1109:BARTLEM    VIOLET (ASHES)                         F                           29 October 1964        11           7         12         METH
+1110:BARTLEM    WAYNE EDWARD (ASHES)                  M                                13 July 1994        B          G          12
+
+## Rockhampton Memorial Gardens (Lakes Creek) -- BARTLEM / SCHLEGER / JOHNSTONE / JOSEFSKI
+126:BARTLEM      ALBERT HENRY JAMES        89     M   31/07/2006   31/07/2006       OLIVE GROVE        A      7    UNKNOWN
+127:BARTLEM      BEVERLEY                  82     F   30/03/2025   08/08/2025       OLIVE GROVE        A      7    ROMAN CATHOLIC
+128:BARTLEM      ETHEL                     82     F   14/04/1996   16/04/1996       OLIVE GROVE        A      7    UNKNOWN
+129:BARTLEM      RODNEY JAMES              76     M   17/08/2016   23/08/2016       OLIVE GROVE        A      7    CATHOLIC
+2015:SCHLEGER      ALPHONSUS VINCENT        87     M   29/07/2014   31/07/2019   POMEGRANITE GROVE     C     21    ROMAN CATHOLIC
+2016:SCHLEGER      YOLA ROSE                90     F   23/11/2019   09/12/2019   POMEGRANITE GROVE     C     21    ROMAN CATHOLIC
+
+## South Rockhampton Cemetery -- JOHNSTONE / JOSEFSKI
+9874:JOHNSTONE       Alice                              24 F       Wednesday, 24 August 1921         RC     36X              4812                                Housewife
+9875:JOHNSTONE       Harry                              54 M          Friday, 25 December 1896       RC      44              2210              Aortic regur.     Labourer
+9876:JOHNSTONE       John                           2 days M              Sunday, 31 March 1867      PR      34                63
+9877:JOHNSTONE       John                               73 M              Monday, 7 August 1916      PR     14X              1755
+9878:JOHNSTONE       Margaret Ann                       39 F          Wednesday, 26 July 1916        RC       3              4128                                Housewife
+9879:JOHNSTONE       Mary Elizabeth Dolly               26 F                Tuesday, 3 April 1900    PR       5              1093                   Accident      Spinster
+9880:JOHNSTONE       Maud Taylor            1 year 1 month F              Friday, 5 October 1877     PR       1               319                 Dysentery
+9881:JOHNSTONE       Samuel                             60 M      Saturday, 29 November 1879         RC      17               939        Stricture of Uretha      Labourer
+9882:JOHNSTONE       William                            38 M              Saturday, 13 June 1868     CE      16               543               Consumption        Miner
+9883:JOHNSTONE       William                            81 M       Wednesday, 19 August 1914         RC     14X              3890
+18989:SUTHERLAND      George Johnstone              50 M        Sunday, 20 December 1908         PR      00              1413                        Phthisis      Watchman

@@ -1,0 +1,22 @@
+FreeBMD search births-holmes-louth: {'surname': 'Holmes', 'given': 'Fanny', 'type_': 'Births', 'districtid': '937', 'start': 1837, 'end': 1900}
+Source: https://www.freebmd.org.uk/cgi/search.pl (free index, no login)
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Dec1889
+Holmes
+ Fanny Juliet W 
+Louth 
+7a
+608
+Births  Sep1914
+Holmes
+ Fanny M 
+Jubb 
+Louth 
+7a
+1049

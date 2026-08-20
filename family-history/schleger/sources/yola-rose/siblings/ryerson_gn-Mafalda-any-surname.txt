@@ -1,0 +1,1965 @@
+# Ryerson Index search  https://ryersonindex.org/search.php (POST)
+# query: {'search_gn': 'Mafalda'}
+# accessed: 2026-08-19 18:04 AEST
+# HTTP 200, 101334 bytes
+
+## table rows
+Search for Notices Primary Search Fields: (enter at least one) Surname Sounds like Any Given Name(s) Any Location (must match the notice exactly) Secondary Search Fields: (optional) Year Earliest: Latest: Newspaper or FD FD - AC Raymond Funerals (Kyogle) FD - Academy Funerals (Brisbane) Fd - Allan Drew Funerals (Castle Hill) FD - Allan Pearse Funerals (Tuncurry) FD - Allens Funerals (Cooma) FD - Australian Heritage Funerals (Toowoomba) FD - B & W Deeves (Condobolin) FD - Barossa Funerals (Tanunda) FD - Batemans Bay & Moruya District Funerals FD - Becker Family Funerals (Taree) FD - Bernard Laverty (Macksville) FD - Bethel Funerals (Brisbane Area) FD - Bethany Funerals (Albany) FD - Bethel Funerals (Outer Melbourne) FD - Binney Family Funerals (Lismore) FD - Black's Funerals (Innisfail) FD - Boyne Tannum (Gladstone) FD - Brisbane Valley Funerals (Esk) FD - Broken Hill Crematorium FD - Browns Funerals (Bundaberg) FD - Burke and Douglas (Tamworth) FD - Burnett Regional Funerals (Mundubbera) FD - C R Smyth & Son (Cessnock) FD - Callide Dawson Funerals (Biloela) FD - Carnarvon Funerals (Stanthorpe) FD - Central Highlands Funeral Services (Emerald) FD - Central West Funerals (Parkes) FD - Collier Trenerry (Griffith) FD - Conway Funeral Home (Albury/Wodonga/Myrtleford) FD - Creightons Funeral Services (Central Coast) FD - Curtis Family Funerals (Broken Hill) FD - Daniel Woods Funeral Care (Wagga Wagga) FD - Des Allen & Co (Bundaberg) FD - Dingwall Funerals and Cremation Service (Emerald) FD - Eastons (Tweed Heads) FD - Easy Funerals (Wollongong) FD - Esperance Funeral Services FD - Finlayson and McKenzie (Rockhampton) FD - Fitzgerald's Funerals (Townsville) FD - Fitzroy Funerals (Rockhampton) FD - France Family Funerals (Nelson Bay) FD - Fred J Potter and Son (Broken Hill) FD - Fry Bros (Newcastle) FD - Fulham Funerals (Underdale) FD - Generation Funerals (Bundaberg) FD - George Hartnett Metropolitan Funerals FD - Gladstone Valley Funerals FD - Godfrey Smith Funerals (Bathurst) FD - Great Lakes Funerals (Forster) FD - Gregson and Weight (Sunshine Coast) FD - Griffith Regional Funeral Services FD - Gympie Funerals FD - H Parsons (Wollongong) FD - Hart Family Funerals (Rockhampton) FD - Hutchinson Family Funerals (Taree) FD - Hills Family Funerals (Castle Hill) FD - Ian J Arthur & Son (Castle Hill) FD - J & E Hawley Funerals (Dungog) FD - J J Kell (St Arnaud) FD - J Kirk (Fraser Coast) FD - John R Whyman Funeral Services (Bega) FD - Jonathan Hepner Funerals (Geelong) FD - K M Smith (Brisbane Area) FD - Keith Logue and Sons (Coffs Harbour) FD - Keith Philpott Funerals (Cowra) FD - Kerry Linegar Funerals (Lithgow) FD - Killick Family Funerals (SE Queensland) FD - Len Russell Funerals (Ipswich) FD - Lismore Funeral Services FD - Logan Funerals (Goondiwindi) FD - Logan Funerals (Moree) FD - Logan Funerals (Narrabri) FD - Lovell Meizer (Goulburn) FD - Mackay Family Funerals (Central Coast) FD - Mason Park Funerals (Wangaratta) FD - Maurice R Moroney & Co (Junee) FD - Max Perram (Liverpool) FD - McCartney Family Funerals (Brisbane) FD - McGuiness Funerals (Murwillumbah) FD - McGlynn Hunt (Mildura) FD - Michael Hanley's Funerals (Forbes) FD - Mid West Funerals (Geraldton) FD - Milton-Ulladulla Funeral Services FD - Morleys Funeral Home (Townsville) FD - Mount Alexander Funerals (Castlemaine) FD - Mulqueen Family Funeral Directors (Bendigo) FD - Murphy Family Funerals (Nowra) FD - Muswellbrook and Scone Funeral Services FD - Narooma District Funerals FD - Nepean Valley Funerals (Penrith) FD - Newhaven Funerals (Brisbane) FD - N J Todd (Benalla) FD - North West Funerals (Mildura) FD - Owens Maranoa Funeral Services (Roma) FD - Palmdale Group (Central Coast) FD - Palmdale Western Districts (Dubbo) FD - Parkside Funerals (Devonport) FD - Parkview Funeral Home (Richmond River) FD - Patterson Brothers Funerals FD - Peter Murray Funerals (Bairnsdale) FD - Piddingtons (Armidale) FD - Pinegrove Funerals (Burnie) FD - Quality Cremation Services (Rockhampton) FD - Rankins Funerals (Warrawong) FD - Renshaw's Funeral Service (Bathurst) FD - R J Sidney Craig (Goulburn) FD - Rosedale Funerals (Mount Gambier) FD - Ross Funerals (Fraser Coast) FD - Sacred Earth Funerals (Lismore East) FD - Shaun Hamilton Funerals (Tamworth) FD - Smith and Rinkin (Cootamundra) FD - Southern Highlands Funerals (Bowral) FD - Stan Crapp (Kiama) FD - Stan Crouch and Son (Stawell) FD - Sunraysia Funerals (Mildura) FD - Sylvan Funerals (Ipswich) FD - T J Andrews Funeral Services (Baulkham Hills) FD - Thompson Family Funerals (Castlemaine) FD - Townsville Funerals FD - Townsville Cremations FD - Tribute Funerals (Melbourne) FD - Tucker and Nankivell (Rockhampton) FD - Tuckers (Geelong) FD - Turner Family Funerals (Nowra) FD - United Care (Mid North Coast) FD - Victor Rullis Funeral Services (Coffs Harbour) FD - Walker Funerals (Kempsey) FD - Walsh Funerals (Nyngan) FD - Whitsunday Funerals (Whitsunday Coast) FD - W Larcombe & Son (Dubbo) FD - W T Howard Funerals (Taree) FD - William Barrett & Sons (Bunbury) FD - William Farmer (Bendigo) FD - William R Groves (Picton & Camden) FD - Windsor Funeral Home FD - Wollongong City Funerals (Dapto) FD - Wray Owen (Nowra) Adelaide Advertiser Albany Advertiser Albert and Logan News (Springwood) Alexandra Times Alpine Observer (Myrtleford) Ararat Advertiser Area News (Griffith) Armidale Express Augusta Margaret River Times Australian Jewish News Avon Valley Advocate (Northam) Ayr Advocate Bacchus Marsh Express Ballan Times Ballarat Courier Ballina Shire Advocate Balonne Beacon (St George Qld) Bankstown Canterbury Torch Barossa and Light Herald (Tanunda) Barrier Daily Truth (Broken Hill) Barrier Miner (Broken Hill) Bay Post - Moruya Examiner Bayside Bulletin (Redland) Bega District News Bellinger Courier-Sun Benalla Ensign Bendigo Advertiser Berwick News Blacktown Advocate Blackwater Herald Blackwood Times Blayney Chronicle Blue Mountains Gazette Bombala Times Boorowa News Border Chronicle (Bordertown) Border Mail (Albury) Border Times (Pinnaroo) Bowen Independent Bowraville Guardian and Nambucca Gazette Braidwood Times Broken Hill Times Broome Advertiser Bunbury Herald Bundaberg News Mail Burdekin Advocate (Ayr) Busselton Dunsborough Mail Busselton Dunsborough Times Byron Shire News (Byron Bay) Caboolture Herald Cairns Post Camden Haven Courier Campaspe News (Rochester) Campbelltown District Star Campbelltown Ingleburn News Canberra Times Canowindra News Canowindra Phoenix Canowindra Star Canterbury-Bankstown Express Capricorn Coast Mirror (Rockhampton) Central and North Burnett Times (Mundubbera) Central Coast Express Advocate Central Queensland News (Emerald) Central Telegraph (Biloela) Central Western Daily (Orange) Centralian Advocate (Alice Springs) Cessnock Advertiser Cessnock Eagle Chinchilla News Clarence and Richmond Examiner (Grafton) Clarence River Advocate (Maclean) Clarence Valley Review (Yamba) Coastal Leader (Kingston) Coastal Views (Grafton) Cobram Courier Coffs Coast Advocate Condobolin Argus Cooma-Monaro Express Coonabarabran Times Coonamble Times Cootamundra Herald Cootamundra Times Courier Mail (Brisbane) Cowra Guardian Crookwell Gazette Cumberland Argus Cumberland Free Press Cumberland Mercury Cumberland Times Daily Examiner (Grafton) Daily Telegraph (Sydney) Dalby Herald Dandenong Journal Deniliquin Pastoral Times Diamond Valley Leader District Reporter (Camden) Don Dorrigo Gazette Dubbo Daily Liberal Dubbo Photo News Dungog Chronicle Eastern Riverina Chronicle (Henty) Esperance Express Euroa Gazette Eyre Peninsula Tribune (Cleve) Fairfield Advance Fairfield Champion Forbes Advocate Forbes Times Fraser Coast Chronicle (Hervey Bay) Gatton Star Geelong Advertiser Geraldton Guardian Gilgandra Weekly Gippsland Times (Sale) Gladstone Observer Glen Innes Examiner Gloucester Advocate Gold Coast Bulletin Goondiwindi Argus Gosford Times and Wyong District Advocate Goulburn Post Grafton Argus Great Lakes Advocate (Forster) Great Southern Herald (Katanning) Grenfell Record Guardian Gazette (Macksville) Guardian News (Nambucca Heads) Gundagai Independent Gunnedah Times Gympie Times Harden-Murrumburrah Express Hawkesbury Advocate (Windsor) Hawkesbury Chronicle and Farmers Advocate (Windsor) Hawkesbury Courier (Windsor) Hawkesbury Gazette (Richmond) Hawkesbury Herald (Windsor) Heidelberg Leader Herald Sun (Melbourne) Herbert River Express (Ingham) Hervey Bay City Independent Hervey Bay Observer High Country Herald (Highfields) Hills Shire Times (Castle Hill) Hills News (Castle Hill) Hillston-Ivanhoe Spectator Hobart Mercury Hornsby Advocate Hunter River Gazette (Maitland) Hunter Valley News Il Globo (Melbourne) Innisfail Advocate Illawarra Mercury Inner West Courier (Sydney) Inverell Times Isis Town and Country (Childers) Island and Mainland News (Bribie Island) Junee Independent Junee Southern Cross Kalgoorlie Miner Kempsy Midcoast Observer Kenneally's Funerals (Campbelltown) Kiama Examiner Kiama Independent Kiama Reporter Kilcoy Sentinel Kimberley Echo (Kununurra) Kowree Advocate (Edenhope) Kyabram Free Press Kyogle Examiner La Fiamma (Sydney) Lake Macquarie News Lakes Mail (Lake Macquarie) Latrobe Valley Express (Traralgon) Launceston Examiner Leeton Irrigator Leongatha Star Limestone Coast Today (Naracoorte) Lithgow Mercury Liverpool Champion Liverpool Leader Liverpool News Lockyer & Somerset Independent (Gatton) Longreach Leader Loxton News Macarthur Advertiser (Campbelltown) Macarthur Chronicle (Campbelltown) Mackay Daily Mercury Mackay Telegraph Macksville Elevator Macleay Argus (Kempsey) Magnet (Eden) Maitland Mercury Maitland Weekly Mercury Mandurah Mail Manilla Express Manjimup-Bridgetown Times Manjimup-Warren Times Manning Great Lakes Extra (Taree) Manning River Times (Taree) Mansfield Courier Mareeba Express McIvor Times (Heathcote) Merimbula News Weekly Mid Western Times (Geraldton) Midland Express (Kyneton) Milton-Ulladulla Express Milton-Ulladulla Times Monaro Post (Cooma) Moree Champion Mosman Daily Mt Druitt - St Marys Standard Mt Gambier Border Watch Mudgee Guardian Murray Pioneer (Renmark) Murray Valley Standard (Murray Bridge) Muswellbrook Chronicle Myrtleford Times Nambucca and Bellinger News (Macksville) Nambucca and District News Nambucca Heads Coaster Nambucca News (Bowraville) Namoi Valley Independent (Gunnedah) Naracoorte Herald Narooma News Narrandera Argus Narrogin Observer National Advocate (Bathurst) Newcastle Chronicle Newcastle Herald Newcastle Star News Corp Digital Notices North Central News (St Arnaud) North Coast Times (Fernmount) North Queensland Register (Townsville) North Shore Times North West Telegraph (Port Hedland) North-West Champion (Moree) North-West Star (Mt Isa) North Western Courier (Narrabri) Northern Argus (Clare) Northern Daily Leader (Tamworth) Northern District Times (Ryde) Northern Downs News (Dalby) Northern Miner (Charters Towers) Northern Rivers Times (Casino) Northern Standard (Darwin) Northern Star (Lismore) Northern Territory News Northern Territory Probate Index NOTA - Camden Haven NOTA - Coffs Coast NOTA - Myall Coast NOTA - Nambucca Valley NOTA - Port Macquarie NOTA - Port Stephens NSW Probate Index Oberon Review Ovens and Murray Advertiser (Beechworth) Pakenham Gazette Parkes Champion Post Parramatta Advertiser Penola Pennant Penrith City Gazette Penrith Press Penrith Star Picton Post Pilbara News (Karratha) Pittsworth Sentinel Plains Producer (Balaklava) Port Douglas and Mossman Gazette Port Lincoln Times Port Macquarie Express Port Macquarie News Port Melbourne Standard Port Stephens Examiner Portland Guardian Queanbeyan Age Queensland Country Life Queensland Probate Index Queensland Times (Ipswich) Redcliffe Herald Redland Bayside News Redland City Bulletin Redland City News Redland Times River News (Waikerie) Riverine Grazier (Hay) Riverine Herald (Echuca) Rockhampton Morning Bulletin Rouse Hill Times Ryde Weekly Times Scone Advocate SE Voice (Mt Gambier) Sentinel-Times (South Gippsland) Seymour Telegraph Shepparton News Shoalhaven & Nowra News Singleton Argus South Burnett Times (Kingaroy) South Coast Register (Nowra) South Eastern Times (Millicent) South Western Times (Bunbury) Southern Argus (Strathalbyn) Southern Courier (Randwick) Southern Highlands News (Bowral) Southern Mail (Bowral) Southern Riverina News (Finley) Southern Star (Moruya) St George & Sutherland Leader Stanthorpe Border Post Stawell Times-News Summit Sun (Jindabyne) Sun News-Pictorial (Melbourne) Sunraysia Daily (Mildura) Sunshine Coast Daily (Maroochydore) Sydney Gazette Sydney Mail Sydney Monitor Sydney Morning Herald Tablelands Advertiser (Mareeba) Tatura Guardian Taylor'd Funerals (Smeaton Grange) Temora Independent Tenterfield Star The Advocate (Burnie) The Age (Melbourne) The Argus (Melbourne) The Australian (1824-1848) The Australian (1964-present) The Bunyip (Gawler) The Catholic Weekly (Sydney) The Chronicle (Toowoomba) The Courier (Mt Barker) The Empire The Extra (Albany) The Flinders News (Port Pirie) The Free Press (Corowa) The Islander (King Island) The Lachlander (Condobolin) The Leader (Angaston) The Manly Daily The Methodist The News (Naracoorte) The Recorder (Port Pirie) The Somerset (Brisbane Valley) The Spectator (Hamilton) The Times (Victor Harbor) The Transcontinental (Port Augusta) The Weekly (Mudgee) The Weekly Advertiser (Horsham) The West Australian The Western Herald (Bourke) Townsville Bulletin Tully Times Tumbarumba Times Tumut and Adelong Times Tweed Daily News Tweed Southern Sun Tweed Valley Weekly (Murwillumbah) Twin Town Times (Harden-Murrumburrah) Wagga Wagga Daily Advertiser Wagin Argus Wangaratta Chronicle Warragul and Drouin Gazette Warren-Blackwood Times Warrnambool Standard Warwick Daily News Wauchope Gazette Wee Waa News Wellington Times Wentworth Courier (Waverley) Werribee Banner West Coast Sentinel (Ceduna) West Wyalong Advocate Western Advocate (Bathurst) Western Champion (Parkes) Western Downs Town and Country Western Star (Roma) Western Times (Bathurst) Western Times (Charleville) West Wimmera Advocate (Edenhope) Whitsunday Times (Airlie Beach) Whittlesea Leader Whyalla News Windsor Express and Richmond Advertiser Wingham Chronicle Wynnum Herald Wyong and Lakes District Advocate Wyong and Tuggerah Lakes News Yarrawonga Chronicle Yass Tribune Young Witness State ACT NSW NT QLD SA TAS VIC WA Updated since Show Search Tips The Ryerson Index contains 10,143,848 notices from 530 different Australian newspapers, publisher websites and funeral director websites. 163 notices found Surname Given Names Notice Type Date Event Age Other Details Publication Published ABELA Mafalda Death notice 20SEP2013 Death 83 late of Matraville Daily Telegraph (Sydney) 24SEP2013 ABELA Mafalda Death notice 20SEP2013 Death 83 late of Matraville Sydney Morning Herald 24SEP2013 ADAMI Daniela Mafalda Death notice 06AUG2017 Death 38 Adelaide Advertiser 09AUG2017 ADAMI Daniela Mafalda Death notice 16AUG2017 Funeral Adelaide Advertiser 12AUG2017 AMADIO Mafalda see CAPRIOTTI, Mafalda The West Australian 07NOV2013 AMADIO Mafalda see CAPRIOTTI, Mafalda The West Australian 06NOV2013 ARACE Mafalda Death notice 24MAR2014 Death 79 formerly of Benevento, Italy Adelaide Advertiser 26MAR2014 ARCOBELLI Mafalda see PLUTINO, Mafalda Adelaide Advertiser 25JAN2023 ARICO Maria Mafalda Death notice 07JUN2022 Death 92 late of Grafton Sydney Morning Herald 09JUN2022 ARICO Maria Mafalda Probate notice 07JUN2022 Death late of Grafton NSW Probate Index 24AUG2022 AVOLIO Mafalda Death notice 24JUN1972 Death at Marooba, Qld (born 14 Sep 1925 Fagnano Castello, Cosenza) Il Globo (Melbourne) 18JUL1972 BAYNE Zeterieine Yoland Mafalda (Zettie) Death notice 03OCT2001 Death 72 Herald Sun (Melbourne) 05OCT2001 BEGHE Mafalda Death notice 22AUG1996 Death The Age (Melbourne) 23AUG1996 BEGHE Mafalda Funeral notice 29AUG1996 Funeral The Age (Melbourne) 29AUG1996 BELLEFEMINE Mafalda Death notice 23MAY2003 Death Herald Sun (Melbourne) 26MAY2003 BELLEFEMINE Mafalda Death notice 27MAY2003 Publication Herald Sun (Melbourne) 27MAY2003 BENCI Mafalda Probate notice 04JUN2022 Death late of Chipping Norton NSW Probate Index 28JUN2022 BENCI Mafalda Regina Probate notice 04JUN2022 Death late of Chipping Norton NSW Probate Index 16SEP2022 BERNARDESCHI Mafalda Funeral notice 04JAN2024 Funeral Ballarat Courier 30DEC2023 BERNARDESCHI Mafalda (Alda) Death notice 20DEC2023 Death 98 (born 03 Jun 1925 Pola, Italy) Ballarat Courier 30DEC2023 BLANCO Mafalda Death notice 23APR2016 Death 81 formerly of Italy Adelaide Advertiser 26APR2016 BRAIOTTA Mafalda Lina Death notice 23AUG2003 Death 76 at QEH, SA Adelaide Advertiser 25AUG2003 BRAIOTTA Mafalda Lina Death notice 27AUG2003 Funeral Adelaide Advertiser 26AUG2003 BRUSAMARELLO Mafalda Death notice 14FEB2011 Death 91 Herald Sun (Melbourne) 23FEB2011 BUCCINO Mafalda Death notice 06NOV1986 Death at Melbourne (born 12 Jan 1906 Italy) Il Globo (Melbourne) 10NOV1986 BURRAZIN Mafalda Funeral notice 21JAN2022 Funeral FD - Palmdale Group (Central Coast) 21JAN2022 BUZZAI Marisa Mafalda Death notice 08FEB2024 Death at Bexley, NSW, Australia, late of North Turramurra (born 02 Oct 1931) La Fiamma (Sydney) 09FEB2024 CAIA Mafalda see STRANO, Mafalda Herald Sun (Melbourne) 15NOV2013 CAPRIOTTI Mafalda Death notice 03NOV2013 Death 85 formerly of Italy The West Australian 05NOV2013 CAPRIOTTI Mafalda Funeral notice 07NOV2013 Funeral late of Girrawheen The West Australian 07NOV2013 CAPRIOTTI Mafalda Funeral notice 07NOV2013 Funeral late of Girrawheen The West Australian 06NOV2013 CARTURAN Mafalda see DARIO, Mafalda Deniliquin Pastoral Times 19AUG2016 CASAROTTO Mafalda (Lina) see GIGLIOTTI, Mafalda (Lina) Alpine Observer (Myrtleford) 10APR2019 CASAROTTO Mafalda (Lina) see GIGLIOTTI, Mafalda (Lina) Myrtleford Times 10APR2019 CENTOFANTI Mafalda see D'ANGELICA, Mafalda Adelaide Advertiser 01APR2015 CESTA-INCANI Mafalda Other 13NOV1990 Memorial Service Illawarra Mercury 12NOV1990 CICCHINO Giuseppina Mafalda Funeral notice 19MAY2025 Funeral The West Australian 14MAY2025 CICCHINO Giuseppina Mafalda Death notice 08MAY2025 Death The West Australian 10MAY2025 CICCHINO Giuseppina Mafalda Funeral notice 19MAY2025 Funeral The West Australian 17MAY2025 CICUTTO Mafalda Funeral notice 03JUL2021 Death late of Hammondville, formerly of Condell Park (born 12 Oct 1930) Daily Telegraph (Sydney) 10JUL2021 CICUTTO Mafalda Probate notice 03JUL2021 Death late of Hammondville NSW Probate Index 06AUG2021 COLLINA Mafalda Death notice 07JAN2019 Death 89 (born 15 Mar 1929) Herald Sun (Melbourne) 21JAN2019 CORALLO Mafalda Ida Death notice 25MAY2020 Death (born 15 Mar 1926) Herald Sun (Melbourne) 28MAY2020 CORALLO Mafalda Ida Death notice 25MAY2020 Death at Melbourne, Victoria (born 15 Mar 1936 Rovolon, Veneto, Italy) Il Globo (Melbourne) 02JUN2020 COVINO Andreina Mafalda Death notice 24JUN2019 Publication The West Australian 24JUN2019 COVINO Andreina Mafalda Funeral notice 05JUL2019 Funeral late of Nedlands The West Australian 29JUN2019 COVINO Mafalda Arcangela Death notice 15NOV2014 Death 82 at T.Q.E.H., formerly of Beltiglio, Ceppaloni, Pr. Benevento, Italy Adelaide Advertiser 17NOV2014 COVINO Mafalda Arcangela Funeral notice 20NOV2014 Funeral Adelaide Advertiser 18NOV2014 CREA Daniela Mafalda see ADAMI, Daniela Mafalda Adelaide Advertiser 09AUG2017 CREA Daniela Mafalda see ADAMI, Daniela Mafalda Adelaide Advertiser 12AUG2017 D'ALOIA Mafalda see LANDOLFI, Mafalda Adelaide Advertiser 27APR2024 D'ALOIA Mafalda see LANDOLFI, Mafalda Adelaide Advertiser 27APR2024 D'ANGELICA Mafalda Death notice 01APR2015 Publication 74 Adelaide Advertiser 01APR2015 D'ANGELICA Mafalda (Miffy) Death notice 09APR2015 Funeral Adelaide Advertiser 04APR2015 DALLA-COSTA Mafalda (Muffy) see MICHAEL, Mafalda (Muffy) The West Australian 27JUN2022 DALLARMI Enrichetta Mafalda Probate notice 17OCT2023 Death late of Kogarah NSW Probate Index 06MAR2024 DARIO Mafalda Death notice 15AUG2016 Death 84 late of Deniliquin Deniliquin Pastoral Times 19AUG2016 DARIO Mafalda Probate notice 15AUG2016 Death late of Deniliquin NSW Probate Index 17OCT2016 De LOSA Mafalda Death notice 12MAR2010 Death 84 at Jessie Mcpherson Hospital Herald Sun (Melbourne) 15MAR2010 DE MENNA Mafalda Death notice 07SEP1978 Death (born 22 Feb 1930 Corfino, L'Aquila) Il Globo (Melbourne) 11SEP1978 DE TONI Gema Mafalda (Gemma) Funeral notice 25MAY2025 Death late of Kepnock (born 28 May 1938) FD - Generation Funerals (Bundaberg) 05FEB2026 DEL VECCHIO Mafalda Death notice 31MAY2005 Death 82 at Waverley, late of Bondi Beach, formerly of Italy Sydney Morning Herald 02JUN2005 DELBELLO Mafalda Probate notice 12JUL2020 Death late of Liverpool NSW Probate Index 13AUG2020 DELLA-VERDE Mafalda Death notice 07FEB2010 Death 86 formerly of Montefredane, Prov. Avellino, Italy Adelaide Advertiser 09FEB2010 DELLA-VERDE Mafalda Funeral notice 12FEB2010 Funeral Adelaide Advertiser 10FEB2010 DONISI Mafalda Death notice 27JUN2014 Death 94 at Catherine McAuley Aged Care, Wembley, late of North Perth, formerly of San Leucio del Sannio The West Australian 30JUN2014 DONISI Mafalda Funeral notice 04JUL2014 Funeral late of North Perth The West Australian 02JUL2014 FABBRO Mafalda Probate notice 11OCT2019 Death late of Waterfall NSW Probate Index 16NOV2019 FALCHETTO Mafalda see PARISOTTO, Mafalda Macleay Argus (Kempsey) 22MAY1980 FALCHETTO Mafalda see PARISOTTO, Mafalda Guardian News (Nambucca Heads) 27JUN1980 FANTASIA Mafalda Death notice 25AUG2025 Death 85 at Adelaide (born 17 Dec 1939 Altavilla Irpina, Prov Avellino, Italy) Adelaide Advertiser 30AUG2025 FANTASIA Mafalda Funeral notice 04SEP2025 Funeral Adelaide Advertiser 30AUG2025 FOLGHERA Mafalda see BUCCINO, Mafalda Il Globo (Melbourne) 10NOV1986 FORNER Mafalda Eugenia Probate notice 23NOV2007 Publication late of Scalabrini Village, Yoogali Area News (Griffith) 23NOV2007 FORTE Mafalda Death notice 22FEB2013 Death 81 at Mary Potter Hospice, formerly of Italy Adelaide Advertiser 23FEB2013 GIGLIOTTI Mafalda (Lina) Death notice 01APR2019 Death at Myrtleford Lodge Alpine Observer (Myrtleford) 10APR2019 GIGLIOTTI Mafalda (Lina) Death notice 01APR2019 Death at Myrtleford Lodge Myrtleford Times 10APR2019 GIGLIOTTI Mafalda (Lina) Death notice 01APR2019 Death at Myrtleford Lodge Border Mail (Albury) 04APR2019 GRIMALDI Carolina Mafalda Death notice 13SEP2002 Death 94 late of Lugarno Sydney Morning Herald 17SEP2002 GUERRA Mafalda Death notice 28MAY2015 Death 88 late of Samson, formerly of Fremantle The West Australian 30MAY2015 IENNA Mafalda Probate notice 24JUL2016 Death late of Fairfield NSW Probate Index 07OCT2016 IENNA Mafalda Probate notice 24JUL2016 Death late of Fairfield NSW Probate Index 31AUG2016 INGLEY Iolanda Mafalda Maria Death notice 05MAR2010 Death The Age (Melbourne) 10MAR2010 INGLEY Iolanda Mafalda Maria Funeral notice 12MAR2010 Funeral Herald Sun (Melbourne) 09MAR2010 INGLEY Iolanda Mafalda Maria Death notice 05MAR2010 Death Herald Sun (Melbourne) 10MAR2010 INGLEY Jolanda Mafalda Maria Funeral notice 12MAR2010 Funeral The Age (Melbourne) 09MAR2010 JAGER Zeterieine Yoland Mafalda (Zettie) see BAYNE, Zeterieine Yoland Mafalda (Zettie) Herald Sun (Melbourne) 05OCT2001 KEARY Ouida Mafalda (Peg) Death notice 13MAR1995 Death 83 late of The Entrance Central Coast Express Advocate 15MAR1995 LANDOLFI Mafalda Death notice 20APR2024 Death 86 (born 27 Jul 1937 Beltiglio) Adelaide Advertiser 27APR2024 LANDOLFI Mafalda Funeral notice 30APR2024 Funeral Adelaide Advertiser 27APR2024 LEGOVICH Mafalda Violet Funeral notice 11JUN2018 Death 100 late of Elermore Vale Newcastle Herald 16JUN2018 LEGOVICH Mafalda Violet Probate notice 11JUN2018 Death late of Elermore Vale NSW Probate Index 24AUG2018 LEPORE Mafalda Death notice 30SEP2001 Death Herald Sun (Melbourne) 02OCT2001 LIBERATO Mafalda Death notice 18JAN2019 Death Herald Sun (Melbourne) 28JAN2019 LOVRICH Mafalda Probate notice 12DEC2025 Publication late of Kelvin Grove, Qld Queensland Probate Index 12DEC2025 LUCA Mafalda Funeral notice 04MAR2016 Funeral Herald Sun (Melbourne) 02MAR2016 MAIORANA Maria Mafalda Death notice 07JUN2022 Death 92 at Sydney, NSW, Australia, late of Grafton, formerly of Gladesville La Fiamma (Sydney) 09JUN2022 MARASCO Mafalda Adelaide Death notice 30OCT2024 Death at Frenchs Forest, NSW, Australia (born 30 Sep 1927 Martirano, Calabria, Italy) La Fiamma (Sydney) 04NOV2024 MARASCO Mafalda Adelaide Probate notice 30OCT2024 Death late of Brookvale NSW Probate Index 04JUL2025 MARINI Mafalda (May) Death notice 18SEP2009 Death 80 late of Greenacre Daily Telegraph (Sydney) 22SEP2009 MARULLI Mafalda Death notice 28JAN2009 Death Herald Sun (Melbourne) 31JAN2009 MERLINO Mafalda Death notice 25DEC1999 Death 76 late of Elizabeth Bay Sydney Morning Herald 29DEC1999 MICHAEL Mafalda (Muffy) Death notice 23JUN2022 Death 90 (born 16 Apr 1932) The West Australian 27JUN2022 MIELE Mafalda see FORTE, Mafalda Adelaide Advertiser 23FEB2013 MILNE Olive Mafalda May Death notice 30DEC2001 Death 94 at Jharmbi Nursing Home, Inala Village, Blackburn Herald Sun (Melbourne) 02JAN2002 MIRABILE Mafalda Death notice 14NOV1983 Death 57 at St Vincent's Hospital, late of Drummoyne Sydney Morning Herald 16NOV1983 MIRABILE Mafalda Funeral notice 18NOV1983 Funeral Sydney Morning Herald 16NOV1983 MISINO Mafalda Death notice 06MAY2017 Death 90 Herald Sun (Melbourne) 10MAY2017 MODESTO Mafalda Death notice 24APR2018 Death The West Australian 01MAY2018 MODESTO Mafalda Funeral notice 05MAY2018 Funeral The West Australian 01MAY2018 MOODY Dorothy Mafalda Probate notice 06AUG1997 Publication late of Crana Nursing Home, Herston, formerly of Ashgrove Courier Mail (Brisbane) 06AUG1997 MOODY Dorothy Mafalda Josephine see MOODY, Dorothy Mafalda Courier Mail (Brisbane) 06AUG1997 MOODY Dorothy Mafalda Josephine Funeral notice 09JUL1997 Funeral late of Crana Nursing Home, Herston, formerly of Ashgrove Courier Mail (Brisbane) 07JUL1997 MORETTA Mafalda Death notice 21DEC1984 Death (born 29 Mar 1939 Vill'Alfonsina, CH) Il Globo (Melbourne) 07JAN1985 MORETTI Mafalda Probate notice 07DEC2001 Death late of St Agnes Adelaide Advertiser 28FEB2002 MORETTI Mafalda Death notice 07DEC2001 Death 89 Adelaide Advertiser 10DEC2001 PALMATO Mafalda Arcangela see COVINO, Mafalda Arcangela Adelaide Advertiser 17NOV2014 PALMATO Mafalda Arcangela see COVINO, Mafalda Arcangela Adelaide Advertiser 18NOV2014 PALMERINI Mafalda Death notice 13JUL2019 Death (born 21 July 1940) Herald Sun (Melbourne) 17JUL2019 PALONE Mafalda Death notice 15OCT2011 Death 82 Herald Sun (Melbourne) 18OCT2011 PALONE Mafalda Death notice 19OCT2011 Publication Herald Sun (Melbourne) 19OCT2011 PARISOTTO Mafalda Death notice 19MAY1980 Death 77 late of Kempsey Sydney Morning Herald 24MAY1980 PARISOTTO Mafalda Probate notice 26JUN1980 Publication late of East Kempsey Macleay Argus (Kempsey) 26JUN1980 PARISOTTO Mafalda Obituary 20MAY1980 Death 77 late of Kempsey, formerly of Grassy Head Macleay Argus (Kempsey) 22MAY1980 PARISOTTO Mafalda Obituary 20MAY1980 Death late of Kempsey Guardian News (Nambucca Heads) 27JUN1980 PENGUE Mafalda Funeral notice 05AUG2025 Funeral Adelaide Advertiser 02AUG2025 PERISSA Mafalda Funeral notice 02SEP2010 Death 87 at Sir William Hudson Memorial Centre FD - Allens Funerals (Cooma) 30SEP2010 PETTERLIN Mafalda Ida see CORALLO, Mafalda Ida Il Globo (Melbourne) 02JUN2020 PLUTINO Mafalda Death notice 21JAN2023 Death 87 at Adelaide (born 15 Feb 1935 Beltiglio, Pr Ceppaluni, Italy) Adelaide Advertiser 25JAN2023 PLUTINO Mafalda Funeral notice 27JAN2023 Funeral Adelaide Advertiser 25JAN2023 PORTELLI Mafalda (Mary) Death notice 22APR2020 Death (born 04 Mar 1947) Herald Sun (Melbourne) 25APR2020 PRIMUS Yolanda Mafalda (Yole) Funeral notice 24FEB2022 Death 93 late of Toowoomba The Chronicle (Toowoomba) 05MAR2022 RAZZI Mafalda Death notice 01AUG2013 Funeral Herald Sun (Melbourne) 29JUL2013 RUGGIERO Mafalda Death notice 14NOV2001 Death 79 late of Murray Bridge (born Buonalbergo, Benevento, Italy) Adelaide Advertiser 15NOV2001 RUGGIERO Mafalda Death notice 14NOV2001 Death 79 late of Murray Bridge (born Buonalbergo, Benevento, Italy) Adelaide Advertiser 16NOV2001 RUGGIERO Mafalda Death notice 17NOV2001 Publication Adelaide Advertiser 17NOV2001 SCHONSTEIN Mafalda Tecla Probate notice 22JAN2014 Death late of Rose Bay NSW Probate Index 28JAN2014 SCHONSTEIN Mafalda22 Death notice 22JAN2014 Death 90 late of Rose Bay Sydney Morning Herald 25JAN2014 SCOGNAMIGLIO Mafalda Funeral notice 28SEP2002 Death 76 late of Chermside Courier Mail (Brisbane) 01OCT2002 SINICCO Mafalda Death notice 14JAN1993 Death The Age (Melbourne) 16JAN1993 SPAGNUOLO Mafalda see DELLA-VERDE, Mafalda Adelaide Advertiser 09FEB2010 SPAGNUOLO Mafalda see DELLA-VERDE, Mafalda Adelaide Advertiser 10FEB2010 SPESSOT Mafalda see ZOTTI, Mafalda La Fiamma (Sydney) 08MAY2021 SPESSOT Mafalda Death notice 28APR2021 Death (born 25 Nov 1934) Sydney Morning Herald 08MAY2021 STARC Mafalda Funeral notice 17MAR2024 Death (born 28 May 1942) Herald Sun (Melbourne) 22MAR2024 STRAND Mafalda Funeral notice 18NOV2013 Funeral Herald Sun (Melbourne) 14NOV2013 STRANO Mafalda Death notice 12NOV2013 Death 87 Herald Sun (Melbourne) 15NOV2013 TAMIOZZO Onorina Mafalda see TARCA, Onorina Mafalda (Rina) Adelaide Advertiser 22JAN2022 TAMIOZZO Ororina Mafalda (Rina) see TARCA, Onorina Mafalda (Rina) The Leader (Angaston) 19JAN2022 TARCA Onorina Mafalda (Rina) Death notice 16JAN2022 Death 93 at Barossa Village Adelaide Advertiser 22JAN2022 TARCA Onorina Mafalda (Rina) Funeral notice 27JAN2022 Funeral Adelaide Advertiser 22JAN2022 TARCA Onorina Mafalda (Rina) Death notice 16JAN2022 Death 93 at Barossa Village The Leader (Angaston) 19JAN2022 TRIOLO Mafalda Probate notice 23JUL2024 Death late of Sans Souci NSW Probate Index 09SEP2024 VENIER Mafalda Oliva Probate notice 10JUL1989 Publication late of Carlton The Age (Melbourne) 10JUL1989 VILLELLA Mafalda Death notice 30AUG2005 Publication Herald Sun (Melbourne) 30AUG2005 VILLELLA Mafalda Probate notice 19APR2007 Publication late of Wonthaggi The Age (Melbourne) 19APR2007 VISCUSO Mafalda Death notice 17MAR1996 Death at Melbourne (born 23 Jun 1913 San Ferdinando, Rosarno, Reggio Calabria) Il Globo (Melbourne) 25MAR1996 VOLPATO Maria Mafalda Death notice 02FEB2012 Death 85 at Adelaide SA (born 10 Apr 1926, Mestre, Italy) Adelaide Advertiser 04FEB2012 YACCARINI Mafalda Death notice 12APR2006 Death Herald Sun (Melbourne) 17APR2006 YACCARINI Mafalda Death notice 18APR2006 Publication Herald Sun (Melbourne) 18APR2006 YACCARINI Mafalda (Mafi) Probate notice 03JUL2006 Publication late of Glenroy The Age (Melbourne) 03JUL2006 ZANIBELLATO Maria Mafalda see VOLPATO, Maria Mafalda Adelaide Advertiser 04FEB2012 ZOTTI Mafalda Death notice 28APR2021 Death at Merrylands, NSW, Australia (born 25 Nov 1931 Gorizia, Friuli-Venezia Giulia, Italy) La Fiamma (Sydney) 08MAY2021 | Primary Search Fields: (enter at least one) | Surname | Sounds like | Any Given Name(s) |  | Any Location | (must match the notice exactly) |  | Secondary Search Fields: (optional) | Year | Earliest: Latest: | Newspaper or FD | FD - AC Raymond Funerals (Kyogle) FD - Academy Funerals (Brisbane) Fd - Allan Drew Funerals (Castle Hill) FD - Allan Pearse Funerals (Tuncurry) FD - Allens Funerals (Cooma) FD - Australian Heritage Funerals (Toowoomba) FD - B & W Deeves (Condobolin) FD - Barossa Funerals (Tanunda) FD - Batemans Bay & Moruya District Funerals FD - Becker Family Funerals (Taree) FD - Bernard Laverty (Macksville) FD - Bethel Funerals (Brisbane Area) FD - Bethany Funerals (Albany) FD - Bethel Funerals (Outer Melbourne) FD - Binney Family Funerals (Lismore) FD - Black's Funerals (Innisfail) FD - Boyne Tannum (Gladstone) FD - Brisbane Valley Funerals (Esk) FD - Broken Hill Crematorium FD - Browns Funerals (Bundaberg) FD - Burke and Douglas (Tamworth) FD - Burnett Regional Funerals (Mundubbera) FD - C R Smyth & Son (Cessnock) FD - Callide Dawson Funerals (Biloela) FD - Carnarvon Funerals (Stanthorpe) FD - Central Highlands Funeral Services (Emerald) FD - Central West Funerals (Parkes) FD - Collier Trenerry (Griffith) FD - Conway Funeral Home (Albury/Wodonga/Myrtleford) FD - Creightons Funeral Services (Central Coast) FD - Curtis Family Funerals (Broken Hill) FD - Daniel Woods Funeral Care (Wagga Wagga) FD - Des Allen & Co (Bundaberg) FD - Dingwall Funerals and Cremation Service (Emerald) FD - Eastons (Tweed Heads) FD - Easy Funerals (Wollongong) FD - Esperance Funeral Services FD - Finlayson and McKenzie (Rockhampton) FD - Fitzgerald's Funerals (Townsville) FD - Fitzroy Funerals (Rockhampton) FD - France Family Funerals (Nelson Bay) FD - Fred J Potter and Son (Broken Hill) FD - Fry Bros (Newcastle) FD - Fulham Funerals (Underdale) FD - Generation Funerals (Bundaberg) FD - George Hartnett Metropolitan Funerals FD - Gladstone Valley Funerals FD - Godfrey Smith Funerals (Bathurst) FD - Great Lakes Funerals (Forster) FD - Gregson and Weight (Sunshine Coast) FD - Griffith Regional Funeral Services FD - Gympie Funerals FD - H Parsons (Wollongong) FD - Hart Family Funerals (Rockhampton) FD - Hutchinson Family Funerals (Taree) FD - Hills Family Funerals (Castle Hill) FD - Ian J Arthur & Son (Castle Hill) FD - J & E Hawley Funerals (Dungog) FD - J J Kell (St Arnaud) FD - J Kirk (Fraser Coast) FD - John R Whyman Funeral Services (Bega) FD - Jonathan Hepner Funerals (Geelong) FD - K M Smith (Brisbane Area) FD - Keith Logue and Sons (Coffs Harbour) FD - Keith Philpott Funerals (Cowra) FD - Kerry Linegar Funerals (Lithgow) FD - Killick Family Funerals (SE Queensland) FD - Len Russell Funerals (Ipswich) FD - Lismore Funeral Services FD - Logan Funerals (Goondiwindi) FD - Logan Funerals (Moree) FD - Logan Funerals (Narrabri) FD - Lovell Meizer (Goulburn) FD - Mackay Family Funerals (Central Coast) FD - Mason Park Funerals (Wangaratta) FD - Maurice R Moroney & Co (Junee) FD - Max Perram (Liverpool) FD - McCartney Family Funerals (Brisbane) FD - McGuiness Funerals (Murwillumbah) FD - McGlynn Hunt (Mildura) FD - Michael Hanley's Funerals (Forbes) FD - Mid West Funerals (Geraldton) FD - Milton-Ulladulla Funeral Services FD - Morleys Funeral Home (Townsville) FD - Mount Alexander Funerals (Castlemaine) FD - Mulqueen Family Funeral Directors (Bendigo) FD - Murphy Family Funerals (Nowra) FD - Muswellbrook and Scone Funeral Services FD - Narooma District Funerals FD - Nepean Valley Funerals (Penrith) FD - Newhaven Funerals (Brisbane) FD - N J Todd (Benalla) FD - North West Funerals (Mildura) FD - Owens Maranoa Funeral Services (Roma) FD - Palmdale Group (Central Coast) FD - Palmdale Western Districts (Dubbo) FD - Parkside Funerals (Devonport) FD - Parkview Funeral Home (Richmond River) FD - Patterson Brothers Funerals FD - Peter Murray Funerals (Bairnsdale) FD - Piddingtons (Armidale) FD - Pinegrove Funerals (Burnie) FD - Quality Cremation Services (Rockhampton) FD - Rankins Funerals (Warrawong) FD - Renshaw's Funeral Service (Bathurst) FD - R J Sidney Craig (Goulburn) FD - Rosedale Funerals (Mount Gambier) FD - Ross Funerals (Fraser Coast) FD - Sacred Earth Funerals (Lismore East) FD - Shaun Hamilton Funerals (Tamworth) FD - Smith and Rinkin (Cootamundra) FD - Southern Highlands Funerals (Bowral) FD - Stan Crapp (Kiama) FD - Stan Crouch and Son (Stawell) FD - Sunraysia Funerals (Mildura) FD - Sylvan Funerals (Ipswich) FD - T J Andrews Funeral Services (Baulkham Hills) FD - Thompson Family Funerals (Castlemaine) FD - Townsville Funerals FD - Townsville Cremations FD - Tribute Funerals (Melbourne) FD - Tucker and Nankivell (Rockhampton) FD - Tuckers (Geelong) FD - Turner Family Funerals (Nowra) FD - United Care (Mid North Coast) FD - Victor Rullis Funeral Services (Coffs Harbour) FD - Walker Funerals (Kempsey) FD - Walsh Funerals (Nyngan) FD - Whitsunday Funerals (Whitsunday Coast) FD - W Larcombe & Son (Dubbo) FD - W T Howard Funerals (Taree) FD - William Barrett & Sons (Bunbury) FD - William Farmer (Bendigo) FD - William R Groves (Picton & Camden) FD - Windsor Funeral Home FD - Wollongong City Funerals (Dapto) FD - Wray Owen (Nowra) Adelaide Advertiser Albany Advertiser Albert and Logan News (Springwood) Alexandra Times Alpine Observer (Myrtleford) Ararat Advertiser Area News (Griffith) Armidale Express Augusta Margaret River Times Australian Jewish News Avon Valley Advocate (Northam) Ayr Advocate Bacchus Marsh Express Ballan Times Ballarat Courier Ballina Shire Advocate Balonne Beacon (St George Qld) Bankstown Canterbury Torch Barossa and Light Herald (Tanunda) Barrier Daily Truth (Broken Hill) Barrier Miner (Broken Hill) Bay Post - Moruya Examiner Bayside Bulletin (Redland) Bega District News Bellinger Courier-Sun Benalla Ensign Bendigo Advertiser Berwick News Blacktown Advocate Blackwater Herald Blackwood Times Blayney Chronicle Blue Mountains Gazette Bombala Times Boorowa News Border Chronicle (Bordertown) Border Mail (Albury) Border Times (Pinnaroo) Bowen Independent Bowraville Guardian and Nambucca Gazette Braidwood Times Broken Hill Times Broome Advertiser Bunbury Herald Bundaberg News Mail Burdekin Advocate (Ayr) Busselton Dunsborough Mail Busselton Dunsborough Times Byron Shire News (Byron Bay) Caboolture Herald Cairns Post Camden Haven Courier Campaspe News (Rochester) Campbelltown District Star Campbelltown Ingleburn News Canberra Times Canowindra News Canowindra Phoenix Canowindra Star Canterbury-Bankstown Express Capricorn Coast Mirror (Rockhampton) Central and North Burnett Times (Mundubbera) Central Coast Express Advocate Central Queensland News (Emerald) Central Telegraph (Biloela) Central Western Daily (Orange) Centralian Advocate (Alice Springs) Cessnock Advertiser Cessnock Eagle Chinchilla News Clarence and Richmond Examiner (Grafton) Clarence River Advocate (Maclean) Clarence Valley Review (Yamba) Coastal Leader (Kingston) Coastal Views (Grafton) Cobram Courier Coffs Coast Advocate Condobolin Argus Cooma-Monaro Express Coonabarabran Times Coonamble Times Cootamundra Herald Cootamundra Times Courier Mail (Brisbane) Cowra Guardian Crookwell Gazette Cumberland Argus Cumberland Free Press Cumberland Mercury Cumberland Times Daily Examiner (Grafton) Daily Telegraph (Sydney) Dalby Herald Dandenong Journal Deniliquin Pastoral Times Diamond Valley Leader District Reporter (Camden) Don Dorrigo Gazette Dubbo Daily Liberal Dubbo Photo News Dungog Chronicle Eastern Riverina Chronicle (Henty) Esperance Express Euroa Gazette Eyre Peninsula Tribune (Cleve) Fairfield Advance Fairfield Champion Forbes Advocate Forbes Times Fraser Coast Chronicle (Hervey Bay) Gatton Star Geelong Advertiser Geraldton Guardian Gilgandra Weekly Gippsland Times (Sale) Gladstone Observer Glen Innes Examiner Gloucester Advocate Gold Coast Bulletin Goondiwindi Argus Gosford Times and Wyong District Advocate Goulburn Post Grafton Argus Great Lakes Advocate (Forster) Great Southern Herald (Katanning) Grenfell Record Guardian Gazette (Macksville) Guardian News (Nambucca Heads) Gundagai Independent Gunnedah Times Gympie Times Harden-Murrumburrah Express Hawkesbury Advocate (Windsor) Hawkesbury Chronicle and Farmers Advocate (Windsor) Hawkesbury Courier (Windsor) Hawkesbury Gazette (Richmond) Hawkesbury Herald (Windsor) Heidelberg Leader Herald Sun (Melbourne) Herbert River Express (Ingham) Hervey Bay City Independent Hervey Bay Observer High Country Herald (Highfields) Hills Shire Times (Castle Hill) Hills News (Castle Hill) Hillston-Ivanhoe Spectator Hobart Mercury Hornsby Advocate Hunter River Gazette (Maitland) Hunter Valley News Il Globo (Melbourne) Innisfail Advocate Illawarra Mercury Inner West Courier (Sydney) Inverell Times Isis Town and Country (Childers) Island and Mainland News (Bribie Island) Junee Independent Junee Southern Cross Kalgoorlie Miner Kempsy Midcoast Observer Kenneally's Funerals (Campbelltown) Kiama Examiner Kiama Independent Kiama Reporter Kilcoy Sentinel Kimberley Echo (Kununurra) Kowree Advocate (Edenhope) Kyabram Free Press Kyogle Examiner La Fiamma (Sydney) Lake Macquarie News Lakes Mail (Lake Macquarie) Latrobe Valley Express (Traralgon) Launceston Examiner Leeton Irrigator Leongatha Star Limestone Coast Today (Naracoorte) Lithgow Mercury Liverpool Champion Liverpool Leader Liverpool News Lockyer & Somerset Independent (Gatton) Longreach Leader Loxton News Macarthur Advertiser (Campbelltown) Macarthur Chronicle (Campbelltown) Mackay Daily Mercury Mackay Telegraph Macksville Elevator Macleay Argus (Kempsey) Magnet (Eden) Maitland Mercury Maitland Weekly Mercury Mandurah Mail Manilla Express Manjimup-Bridgetown Times Manjimup-Warren Times Manning Great Lakes Extra (Taree) Manning River Times (Taree) Mansfield Courier Mareeba Express McIvor Times (Heathcote) Merimbula News Weekly Mid Western Times (Geraldton) Midland Express (Kyneton) Milton-Ulladulla Express Milton-Ulladulla Times Monaro Post (Cooma) Moree Champion Mosman Daily Mt Druitt - St Marys Standard Mt Gambier Border Watch Mudgee Guardian Murray Pioneer (Renmark) Murray Valley Standard (Murray Bridge) Muswellbrook Chronicle Myrtleford Times Nambucca and Bellinger News (Macksville) Nambucca and District News Nambucca Heads Coaster Nambucca News (Bowraville) Namoi Valley Independent (Gunnedah) Naracoorte Herald Narooma News Narrandera Argus Narrogin Observer National Advocate (Bathurst) Newcastle Chronicle Newcastle Herald Newcastle Star News Corp Digital Notices North Central News (St Arnaud) North Coast Times (Fernmount) North Queensland Register (Townsville) North Shore Times North West Telegraph (Port Hedland) North-West Champion (Moree) North-West Star (Mt Isa) North Western Courier (Narrabri) Northern Argus (Clare) Northern Daily Leader (Tamworth) Northern District Times (Ryde) Northern Downs News (Dalby) Northern Miner (Charters Towers) Northern Rivers Times (Casino) Northern Standard (Darwin) Northern Star (Lismore) Northern Territory News Northern Territory Probate Index NOTA - Camden Haven NOTA - Coffs Coast NOTA - Myall Coast NOTA - Nambucca Valley NOTA - Port Macquarie NOTA - Port Stephens NSW Probate Index Oberon Review Ovens and Murray Advertiser (Beechworth) Pakenham Gazette Parkes Champion Post Parramatta Advertiser Penola Pennant Penrith City Gazette Penrith Press Penrith Star Picton Post Pilbara News (Karratha) Pittsworth Sentinel Plains Producer (Balaklava) Port Douglas and Mossman Gazette Port Lincoln Times Port Macquarie Express Port Macquarie News Port Melbourne Standard Port Stephens Examiner Portland Guardian Queanbeyan Age Queensland Country Life Queensland Probate Index Queensland Times (Ipswich) Redcliffe Herald Redland Bayside News Redland City Bulletin Redland City News Redland Times River News (Waikerie) Riverine Grazier (Hay) Riverine Herald (Echuca) Rockhampton Morning Bulletin Rouse Hill Times Ryde Weekly Times Scone Advocate SE Voice (Mt Gambier) Sentinel-Times (South Gippsland) Seymour Telegraph Shepparton News Shoalhaven & Nowra News Singleton Argus South Burnett Times (Kingaroy) South Coast Register (Nowra) South Eastern Times (Millicent) South Western Times (Bunbury) Southern Argus (Strathalbyn) Southern Courier (Randwick) Southern Highlands News (Bowral) Southern Mail (Bowral) Southern Riverina News (Finley) Southern Star (Moruya) St George & Sutherland Leader Stanthorpe Border Post Stawell Times-News Summit Sun (Jindabyne) Sun News-Pictorial (Melbourne) Sunraysia Daily (Mildura) Sunshine Coast Daily (Maroochydore) Sydney Gazette Sydney Mail Sydney Monitor Sydney Morning Herald Tablelands Advertiser (Mareeba) Tatura Guardian Taylor'd Funerals (Smeaton Grange) Temora Independent Tenterfield Star The Advocate (Burnie) The Age (Melbourne) The Argus (Melbourne) The Australian (1824-1848) The Australian (1964-present) The Bunyip (Gawler) The Catholic Weekly (Sydney) The Chronicle (Toowoomba) The Courier (Mt Barker) The Empire The Extra (Albany) The Flinders News (Port Pirie) The Free Press (Corowa) The Islander (King Island) The Lachlander (Condobolin) The Leader (Angaston) The Manly Daily The Methodist The News (Naracoorte) The Recorder (Port Pirie) The Somerset (Brisbane Valley) The Spectator (Hamilton) The Times (Victor Harbor) The Transcontinental (Port Augusta) The Weekly (Mudgee) The Weekly Advertiser (Horsham) The West Australian The Western Herald (Bourke) Townsville Bulletin Tully Times Tumbarumba Times Tumut and Adelong Times Tweed Daily News Tweed Southern Sun Tweed Valley Weekly (Murwillumbah) Twin Town Times (Harden-Murrumburrah) Wagga Wagga Daily Advertiser Wagin Argus Wangaratta Chronicle Warragul and Drouin Gazette Warren-Blackwood Times Warrnambool Standard Warwick Daily News Wauchope Gazette Wee Waa News Wellington Times Wentworth Courier (Waverley) Werribee Banner West Coast Sentinel (Ceduna) West Wyalong Advocate Western Advocate (Bathurst) Western Champion (Parkes) Western Downs Town and Country Western Star (Roma) Western Times (Bathurst) Western Times (Charleville) West Wimmera Advocate (Edenhope) Whitsunday Times (Airlie Beach) Whittlesea Leader Whyalla News Windsor Express and Richmond Advertiser Wingham Chronicle Wynnum Herald Wyong and Lakes District Advocate Wyong and Tuggerah Lakes News Yarrawonga Chronicle Yass Tribune Young Witness | State | ACT NSW NT QLD SA TAS VIC WA | Updated since |  | Surname | Given Names | Notice Type | Date | Event | Age | Other Details | Publication | Published | ABELA | Mafalda | Death notice | 20SEP2013 | Death | 83 | late of Matraville | Daily Telegraph (Sydney) | 24SEP2013 |  | ABELA | Mafalda | Death notice | 20SEP2013 | Death | 83 | late of Matraville | Sydney Morning Herald | 24SEP2013 |  | ADAMI | Daniela Mafalda | Death notice | 06AUG2017 | Death | 38 |  | Adelaide Advertiser | 09AUG2017 |  | ADAMI | Daniela Mafalda | Death notice | 16AUG2017 | Funeral |  |  | Adelaide Advertiser | 12AUG2017 |  | AMADIO | Mafalda |  |  |  |  | see CAPRIOTTI, Mafalda | The West Australian | 07NOV2013 |  | AMADIO | Mafalda |  |  |  |  | see CAPRIOTTI, Mafalda | The West Australian | 06NOV2013 |  | ARACE | Mafalda | Death notice | 24MAR2014 | Death | 79 | formerly of Benevento, Italy | Adelaide Advertiser | 26MAR2014 |  | ARCOBELLI | Mafalda |  |  |  |  | see PLUTINO, Mafalda | Adelaide Advertiser | 25JAN2023 |  | ARICO | Maria Mafalda | Death notice | 07JUN2022 | Death | 92 | late of Grafton | Sydney Morning Herald | 09JUN2022 |  | ARICO | Maria Mafalda | Probate notice | 07JUN2022 | Death |  | late of Grafton | NSW Probate Index | 24AUG2022 |  | AVOLIO | Mafalda | Death notice | 24JUN1972 | Death |  | at Marooba, Qld (born 14 Sep 1925 Fagnano Castello, Cosenza) | Il Globo (Melbourne) | 18JUL1972 |  | BAYNE | Zeterieine Yoland Mafalda (Zettie) | Death notice | 03OCT2001 | Death | 72 |  | Herald Sun (Melbourne) | 05OCT2001 |  | BEGHE | Mafalda | Death notice | 22AUG1996 | Death |  |  | The Age (Melbourne) | 23AUG1996 |  | BEGHE | Mafalda | Funeral notice | 29AUG1996 | Funeral |  |  | The Age (Melbourne) | 29AUG1996 |  | BELLEFEMINE | Mafalda | Death notice | 23MAY2003 | Death |  |  | Herald Sun (Melbourne) | 26MAY2003 |  | BELLEFEMINE | Mafalda | Death notice | 27MAY2003 | Publication |  |  | Herald Sun (Melbourne) | 27MAY2003 |  | BENCI | Mafalda | Probate notice | 04JUN2022 | Death |  | late of Chipping Norton | NSW Probate Index | 28JUN2022 |  | BENCI | Mafalda Regina | Probate notice | 04JUN2022 | Death |  | late of Chipping Norton | NSW Probate Index | 16SEP2022 |  | BERNARDESCHI | Mafalda | Funeral notice | 04JAN2024 | Funeral |  |  | Ballarat Courier | 30DEC2023 |  | BERNARDESCHI | Mafalda (Alda) | Death notice | 20DEC2023 | Death | 98 | (born 03 Jun 1925 Pola, Italy) | Ballarat Courier | 30DEC2023 |  | BLANCO | Mafalda | Death notice | 23APR2016 | Death | 81 | formerly of Italy | Adelaide Advertiser | 26APR2016 |  | BRAIOTTA | Mafalda Lina | Death notice | 23AUG2003 | Death | 76 | at QEH, SA | Adelaide Advertiser | 25AUG2003 |  | BRAIOTTA | Mafalda Lina | Death notice | 27AUG2003 | Funeral |  |  | Adelaide Advertiser | 26AUG2003 |  | BRUSAMARELLO | Mafalda | Death notice | 14FEB2011 | Death | 91 |  | Herald Sun (Melbourne) | 23FEB2011 |  | BUCCINO | Mafalda | Death notice | 06NOV1986 | Death |  | at Melbourne (born 12 Jan 1906 Italy) | Il Globo (Melbourne) | 10NOV1986 |  | BURRAZIN | Mafalda | Funeral notice | 21JAN2022 | Funeral |  |  | FD - Palmdale Group (Central Coast) | 21JAN2022 |  | BUZZAI | Marisa Mafalda | Death notice | 08FEB2024 | Death |  | at Bexley, NSW, Australia, late of North Turramurra (born 02 Oct 1931) | La Fiamma (Sydney) | 09FEB2024 |  | CAIA | Mafalda |  |  |  |  | see STRANO, Mafalda | Herald Sun (Melbourne) | 15NOV2013 |  | CAPRIOTTI | Mafalda | Death notice | 03NOV2013 | Death | 85 | formerly of Italy | The West Australian | 05NOV2013 |  | CAPRIOTTI | Mafalda | Funeral notice | 07NOV2013 | Funeral |  | late of Girrawheen | The West Australian | 07NOV2013 |  | CAPRIOTTI | Mafalda | Funeral notice | 07NOV2013 | Funeral |  | late of Girrawheen | The West Australian | 06NOV2013 |  | CARTURAN | Mafalda |  |  |  |  | see DARIO, Mafalda | Deniliquin Pastoral Times | 19AUG2016 |  | CASAROTTO | Mafalda (Lina) |  |  |  |  | see GIGLIOTTI, Mafalda (Lina) | Alpine Observer (Myrtleford) | 10APR2019 |  | CASAROTTO | Mafalda (Lina) |  |  |  |  | see GIGLIOTTI, Mafalda (Lina) | Myrtleford Times | 10APR2019 |  | CENTOFANTI | Mafalda |  |  |  |  | see D'ANGELICA, Mafalda | Adelaide Advertiser | 01APR2015 |  | CESTA-INCANI | Mafalda | Other | 13NOV1990 | Memorial Service |  |  | Illawarra Mercury | 12NOV1990 |  | CICCHINO | Giuseppina Mafalda | Funeral notice | 19MAY2025 | Funeral |  |  | The West Australian | 14MAY2025 |  | CICCHINO | Giuseppina Mafalda | Death notice | 08MAY2025 | Death |  |  | The West Australian | 10MAY2025 |  | CICCHINO | Giuseppina Mafalda | Funeral notice | 19MAY2025 | Funeral |  |  | The West Australian | 17MAY2025 |  | CICUTTO | Mafalda | Funeral notice | 03JUL2021 | Death |  | late of Hammondville, formerly of Condell Park (born 12 Oct 1930) | Daily Telegraph (Sydney) | 10JUL2021 |  | CICUTTO | Mafalda | Probate notice | 03JUL2021 | Death |  | late of Hammondville | NSW Probate Index | 06AUG2021 |  | COLLINA | Mafalda | Death notice | 07JAN2019 | Death | 89 | (born 15 Mar 1929) | Herald Sun (Melbourne) | 21JAN2019 |  | CORALLO | Mafalda Ida | Death notice | 25MAY2020 | Death |  | (born 15 Mar 1926) | Herald Sun (Melbourne) | 28MAY2020 |  | CORALLO | Mafalda Ida | Death notice | 25MAY2020 | Death |  | at Melbourne, Victoria (born 15 Mar 1936 Rovolon, Veneto, Italy) | Il Globo (Melbourne) | 02JUN2020 |  | COVINO | Andreina Mafalda | Death notice | 24JUN2019 | Publication |  |  | The West Australian | 24JUN2019 |  | COVINO | Andreina Mafalda | Funeral notice | 05JUL2019 | Funeral |  | late of Nedlands | The West Australian | 29JUN2019 |  | COVINO | Mafalda Arcangela | Death notice | 15NOV2014 | Death | 82 | at T.Q.E.H., formerly of Beltiglio, Ceppaloni, Pr. Benevento, Italy | Adelaide Advertiser | 17NOV2014 |  | COVINO | Mafalda Arcangela | Funeral notice | 20NOV2014 | Funeral |  |  | Adelaide Advertiser | 18NOV2014 |  | CREA | Daniela Mafalda |  |  |  |  | see ADAMI, Daniela Mafalda | Adelaide Advertiser | 09AUG2017 |  | CREA | Daniela Mafalda |  |  |  |  | see ADAMI, Daniela Mafalda | Adelaide Advertiser | 12AUG2017 |  | D'ALOIA | Mafalda |  |  |  |  | see LANDOLFI, Mafalda | Adelaide Advertiser | 27APR2024 |  | D'ALOIA | Mafalda |  |  |  |  | see LANDOLFI, Mafalda | Adelaide Advertiser | 27APR2024 |  | D'ANGELICA | Mafalda | Death notice | 01APR2015 | Publication | 74 |  | Adelaide Advertiser | 01APR2015 |  | D'ANGELICA | Mafalda (Miffy) | Death notice | 09APR2015 | Funeral |  |  | Adelaide Advertiser | 04APR2015 |  | DALLA-COSTA | Mafalda (Muffy) |  |  |  |  | see MICHAEL, Mafalda (Muffy) | The West Australian | 27JUN2022 |  | DALLARMI | Enrichetta Mafalda | Probate notice | 17OCT2023 | Death |  | late of Kogarah | NSW Probate Index | 06MAR2024 |  | DARIO | Mafalda | Death notice | 15AUG2016 | Death | 84 | late of Deniliquin | Deniliquin Pastoral Times | 19AUG2016 |  | DARIO | Mafalda | Probate notice | 15AUG2016 | Death |  | late of Deniliquin | NSW Probate Index | 17OCT2016 |  | De LOSA | Mafalda | Death notice | 12MAR2010 | Death | 84 | at Jessie Mcpherson Hospital | Herald Sun (Melbourne) | 15MAR2010 |  | DE MENNA | Mafalda | Death notice | 07SEP1978 | Death |  | (born 22 Feb 1930 Corfino, L'Aquila) | Il Globo (Melbourne) | 11SEP1978 |  | DE TONI | Gema Mafalda (Gemma) | Funeral notice | 25MAY2025 | Death |  | late of Kepnock (born 28 May 1938) | FD - Generation Funerals (Bundaberg) | 05FEB2026 |  | DEL VECCHIO | Mafalda | Death notice | 31MAY2005 | Death | 82 | at Waverley, late of Bondi Beach, formerly of Italy | Sydney Morning Herald | 02JUN2005 |  | DELBELLO | Mafalda | Probate notice | 12JUL2020 | Death |  | late of Liverpool | NSW Probate Index | 13AUG2020 |  | DELLA-VERDE | Mafalda | Death notice | 07FEB2010 | Death | 86 | formerly of Montefredane, Prov. Avellino, Italy | Adelaide Advertiser | 09FEB2010 |  | DELLA-VERDE | Mafalda | Funeral notice | 12FEB2010 | Funeral |  |  | Adelaide Advertiser | 10FEB2010 |  | DONISI | Mafalda | Death notice | 27JUN2014 | Death | 94 | at Catherine McAuley Aged Care, Wembley, late of North Perth, formerly of San Leucio del Sannio | The West Australian | 30JUN2014 |  | DONISI | Mafalda | Funeral notice | 04JUL2014 | Funeral |  | late of North Perth | The West Australian | 02JUL2014 |  | FABBRO | Mafalda | Probate notice | 11OCT2019 | Death |  | late of Waterfall | NSW Probate Index | 16NOV2019 |  | FALCHETTO | Mafalda |  |  |  |  | see PARISOTTO, Mafalda | Macleay Argus (Kempsey) | 22MAY1980 |  | FALCHETTO | Mafalda |  |  |  |  | see PARISOTTO, Mafalda | Guardian News (Nambucca Heads) | 27JUN1980 |  | FANTASIA | Mafalda | Death notice | 25AUG2025 | Death | 85 | at Adelaide (born 17 Dec 1939 Altavilla Irpina, Prov Avellino, Italy) | Adelaide Advertiser | 30AUG2025 |  | FANTASIA | Mafalda | Funeral notice | 04SEP2025 | Funeral |  |  | Adelaide Advertiser | 30AUG2025 |  | FOLGHERA | Mafalda |  |  |  |  | see BUCCINO, Mafalda | Il Globo (Melbourne) | 10NOV1986 |  | FORNER | Mafalda Eugenia | Probate notice | 23NOV2007 | Publication |  | late of Scalabrini Village, Yoogali | Area News (Griffith) | 23NOV2007 |  | FORTE | Mafalda | Death notice | 22FEB2013 | Death | 81 | at Mary Potter Hospice, formerly of Italy | Adelaide Advertiser | 23FEB2013 |  | GIGLIOTTI | Mafalda (Lina) | Death notice | 01APR2019 | Death |  | at Myrtleford Lodge | Alpine Observer (Myrtleford) | 10APR2019 |  | GIGLIOTTI | Mafalda (Lina) | Death notice | 01APR2019 | Death |  | at Myrtleford Lodge | Myrtleford Times | 10APR2019 |  | GIGLIOTTI | Mafalda (Lina) | Death notice | 01APR2019 | Death |  | at Myrtleford Lodge | Border Mail (Albury) | 04APR2019 |  | GRIMALDI | Carolina Mafalda | Death notice | 13SEP2002 | Death | 94 | late of Lugarno | Sydney Morning Herald | 17SEP2002 |  | GUERRA | Mafalda | Death notice | 28MAY2015 | Death | 88 | late of Samson, formerly of Fremantle | The West Australian | 30MAY2015 |  | IENNA | Mafalda | Probate notice | 24JUL2016 | Death |  | late of Fairfield | NSW Probate Index | 07OCT2016 |  | IENNA | Mafalda | Probate notice | 24JUL2016 | Death |  | late of Fairfield | NSW Probate Index | 31AUG2016 |  | INGLEY | Iolanda Mafalda Maria | Death notice | 05MAR2010 | Death |  |  | The Age (Melbourne) | 10MAR2010 |  | INGLEY | Iolanda Mafalda Maria | Funeral notice | 12MAR2010 | Funeral |  |  | Herald Sun (Melbourne) | 09MAR2010 |  | INGLEY | Iolanda Mafalda Maria | Death notice | 05MAR2010 | Death |  |  | Herald Sun (Melbourne) | 10MAR2010 |  | INGLEY | Jolanda Mafalda Maria | Funeral notice | 12MAR2010 | Funeral |  |  | The Age (Melbourne) | 09MAR2010 |  | JAGER | Zeterieine Yoland Mafalda (Zettie) |  |  |  |  | see BAYNE, Zeterieine Yoland Mafalda (Zettie) | Herald Sun (Melbourne) | 05OCT2001 |  | KEARY | Ouida Mafalda (Peg) | Death notice | 13MAR1995 | Death | 83 | late of The Entrance | Central Coast Express Advocate | 15MAR1995 |  | LANDOLFI | Mafalda | Death notice | 20APR2024 | Death | 86 | (born 27 Jul 1937 Beltiglio) | Adelaide Advertiser | 27APR2024 |  | LANDOLFI | Mafalda | Funeral notice | 30APR2024 | Funeral |  |  | Adelaide Advertiser | 27APR2024 |  | LEGOVICH | Mafalda Violet | Funeral notice | 11JUN2018 | Death | 100 | late of Elermore Vale | Newcastle Herald | 16JUN2018 |  | LEGOVICH | Mafalda Violet | Probate notice | 11JUN2018 | Death |  | late of Elermore Vale | NSW Probate Index | 24AUG2018 |  | LEPORE | Mafalda | Death notice | 30SEP2001 | Death |  |  | Herald Sun (Melbourne) | 02OCT2001 |  | LIBERATO | Mafalda | Death notice | 18JAN2019 | Death |  |  | Herald Sun (Melbourne) | 28JAN2019 |  | LOVRICH | Mafalda | Probate notice | 12DEC2025 | Publication |  | late of Kelvin Grove, Qld | Queensland Probate Index | 12DEC2025 |  | LUCA | Mafalda | Funeral notice | 04MAR2016 | Funeral |  |  | Herald Sun (Melbourne) | 02MAR2016 |  | MAIORANA | Maria Mafalda | Death notice | 07JUN2022 | Death | 92 | at Sydney, NSW, Australia, late of Grafton, formerly of Gladesville | La Fiamma (Sydney) | 09JUN2022 |  | MARASCO | Mafalda Adelaide | Death notice | 30OCT2024 | Death |  | at Frenchs Forest, NSW, Australia (born 30 Sep 1927 Martirano, Calabria, Italy) | La Fiamma (Sydney) | 04NOV2024 |  | MARASCO | Mafalda Adelaide | Probate notice | 30OCT2024 | Death |  | late of Brookvale | NSW Probate Index | 04JUL2025 |  | MARINI | Mafalda (May) | Death notice | 18SEP2009 | Death | 80 | late of Greenacre | Daily Telegraph (Sydney) | 22SEP2009 |  | MARULLI | Mafalda | Death notice | 28JAN2009 | Death |  |  | Herald Sun (Melbourne) | 31JAN2009 |  | MERLINO | Mafalda | Death notice | 25DEC1999 | Death | 76 | late of Elizabeth Bay | Sydney Morning Herald | 29DEC1999 |  | MICHAEL | Mafalda (Muffy) | Death notice | 23JUN2022 | Death | 90 | (born 16 Apr 1932) | The West Australian | 27JUN2022 |  | MIELE | Mafalda |  |  |  |  | see FORTE, Mafalda | Adelaide Advertiser | 23FEB2013 |  | MILNE | Olive Mafalda May | Death notice | 30DEC2001 | Death | 94 | at Jharmbi Nursing Home, Inala Village, Blackburn | Herald Sun (Melbourne) | 02JAN2002 |  | MIRABILE | Mafalda | Death notice | 14NOV1983 | Death | 57 | at St Vincent's Hospital, late of Drummoyne | Sydney Morning Herald | 16NOV1983 |  | MIRABILE | Mafalda | Funeral notice | 18NOV1983 | Funeral |  |  | Sydney Morning Herald | 16NOV1983 |  | MISINO | Mafalda | Death notice | 06MAY2017 | Death | 90 |  | Herald Sun (Melbourne) | 10MAY2017 |  | MODESTO | Mafalda | Death notice | 24APR2018 | Death |  |  | The West Australian | 01MAY2018 |  | MODESTO | Mafalda | Funeral notice | 05MAY2018 | Funeral |  |  | The West Australian | 01MAY2018 |  | MOODY | Dorothy Mafalda | Probate notice | 06AUG1997 | Publication |  | late of Crana Nursing Home, Herston, formerly of Ashgrove | Courier Mail (Brisbane) | 06AUG1997 |  | MOODY | Dorothy Mafalda Josephine |  |  |  |  | see MOODY, Dorothy Mafalda | Courier Mail (Brisbane) | 06AUG1997 |  | MOODY | Dorothy Mafalda Josephine | Funeral notice | 09JUL1997 | Funeral |  | late of Crana Nursing Home, Herston, formerly of Ashgrove | Courier Mail (Brisbane) | 07JUL1997 |  | MORETTA | Mafalda | Death notice | 21DEC1984 | Death |  | (born 29 Mar 1939 Vill'Alfonsina, CH) | Il Globo (Melbourne) | 07JAN1985 |  | MORETTI | Mafalda | Probate notice | 07DEC2001 | Death |  | late of St Agnes | Adelaide Advertiser | 28FEB2002 |  | MORETTI | Mafalda | Death notice | 07DEC2001 | Death | 89 |  | Adelaide Advertiser | 10DEC2001 |  | PALMATO | Mafalda Arcangela |  |  |  |  | see COVINO, Mafalda Arcangela | Adelaide Advertiser | 17NOV2014 |  | PALMATO | Mafalda Arcangela |  |  |  |  | see COVINO, Mafalda Arcangela | Adelaide Advertiser | 18NOV2014 |  | PALMERINI | Mafalda | Death notice | 13JUL2019 | Death |  | (born 21 July 1940) | Herald Sun (Melbourne) | 17JUL2019 |  | PALONE | Mafalda | Death notice | 15OCT2011 | Death | 82 |  | Herald Sun (Melbourne) | 18OCT2011 |  | PALONE | Mafalda | Death notice | 19OCT2011 | Publication |  |  | Herald Sun (Melbourne) | 19OCT2011 |  | PARISOTTO | Mafalda | Death notice | 19MAY1980 | Death | 77 | late of Kempsey | Sydney Morning Herald | 24MAY1980 |  | PARISOTTO | Mafalda | Probate notice | 26JUN1980 | Publication |  | late of East Kempsey | Macleay Argus (Kempsey) | 26JUN1980 |  | PARISOTTO | Mafalda | Obituary | 20MAY1980 | Death | 77 | late of Kempsey, formerly of Grassy Head | Macleay Argus (Kempsey) | 22MAY1980 |  | PARISOTTO | Mafalda | Obituary | 20MAY1980 | Death |  | late of Kempsey | Guardian News (Nambucca Heads) | 27JUN1980 |  | PENGUE | Mafalda | Funeral notice | 05AUG2025 | Funeral |  |  | Adelaide Advertiser | 02AUG2025 |  | PERISSA | Mafalda | Funeral notice | 02SEP2010 | Death | 87 | at Sir William Hudson Memorial Centre | FD - Allens Funerals (Cooma) | 30SEP2010 |  | PETTERLIN | Mafalda Ida |  |  |  |  | see CORALLO, Mafalda Ida | Il Globo (Melbourne) | 02JUN2020 |  | PLUTINO | Mafalda | Death notice | 21JAN2023 | Death | 87 | at Adelaide (born 15 Feb 1935 Beltiglio, Pr Ceppaluni, Italy) | Adelaide Advertiser | 25JAN2023 |  | PLUTINO | Mafalda | Funeral notice | 27JAN2023 | Funeral |  |  | Adelaide Advertiser | 25JAN2023 |  | PORTELLI | Mafalda (Mary) | Death notice | 22APR2020 | Death |  | (born 04 Mar 1947) | Herald Sun (Melbourne) | 25APR2020 |  | PRIMUS | Yolanda Mafalda (Yole) | Funeral notice | 24FEB2022 | Death | 93 | late of Toowoomba | The Chronicle (Toowoomba) | 05MAR2022 |  | RAZZI | Mafalda | Death notice | 01AUG2013 | Funeral |  |  | Herald Sun (Melbourne) | 29JUL2013 |  | RUGGIERO | Mafalda | Death notice | 14NOV2001 | Death | 79 | late of Murray Bridge (born Buonalbergo, Benevento, Italy) | Adelaide Advertiser | 15NOV2001 |  | RUGGIERO | Mafalda | Death notice | 14NOV2001 | Death | 79 | late of Murray Bridge (born Buonalbergo, Benevento, Italy) | Adelaide Advertiser | 16NOV2001 |  | RUGGIERO | Mafalda | Death notice | 17NOV2001 | Publication |  |  | Adelaide Advertiser | 17NOV2001 |  | SCHONSTEIN | Mafalda Tecla | Probate notice | 22JAN2014 | Death |  | late of Rose Bay | NSW Probate Index | 28JAN2014 |  | SCHONSTEIN | Mafalda22 | Death notice | 22JAN2014 | Death | 90 | late of Rose Bay | Sydney Morning Herald | 25JAN2014 |  | SCOGNAMIGLIO | Mafalda | Funeral notice | 28SEP2002 | Death | 76 | late of Chermside | Courier Mail (Brisbane) | 01OCT2002 |  | SINICCO | Mafalda | Death notice | 14JAN1993 | Death |  |  | The Age (Melbourne) | 16JAN1993 |  | SPAGNUOLO | Mafalda |  |  |  |  | see DELLA-VERDE, Mafalda | Adelaide Advertiser | 09FEB2010 |  | SPAGNUOLO | Mafalda |  |  |  |  | see DELLA-VERDE, Mafalda | Adelaide Advertiser | 10FEB2010 |  | SPESSOT | Mafalda |  |  |  |  | see ZOTTI, Mafalda | La Fiamma (Sydney) | 08MAY2021 |  | SPESSOT | Mafalda | Death notice | 28APR2021 | Death |  | (born 25 Nov 1934) | Sydney Morning Herald | 08MAY2021 |  | STARC | Mafalda | Funeral notice | 17MAR2024 | Death |  | (born 28 May 1942) | Herald Sun (Melbourne) | 22MAR2024 |  | STRAND | Mafalda | Funeral notice | 18NOV2013 | Funeral |  |  | Herald Sun (Melbourne) | 14NOV2013 |  | STRANO | Mafalda | Death notice | 12NOV2013 | Death | 87 |  | Herald Sun (Melbourne) | 15NOV2013 |  | TAMIOZZO | Onorina Mafalda |  |  |  |  | see TARCA, Onorina Mafalda (Rina) | Adelaide Advertiser | 22JAN2022 |  | TAMIOZZO | Ororina Mafalda (Rina) |  |  |  |  | see TARCA, Onorina Mafalda (Rina) | The Leader (Angaston) | 19JAN2022 |  | TARCA | Onorina Mafalda (Rina) | Death notice | 16JAN2022 | Death | 93 | at Barossa Village | Adelaide Advertiser | 22JAN2022 |  | TARCA | Onorina Mafalda (Rina) | Funeral notice | 27JAN2022 | Funeral |  |  | Adelaide Advertiser | 22JAN2022 |  | TARCA | Onorina Mafalda (Rina) | Death notice | 16JAN2022 | Death | 93 | at Barossa Village | The Leader (Angaston) | 19JAN2022 |  | TRIOLO | Mafalda | Probate notice | 23JUL2024 | Death |  | late of Sans Souci | NSW Probate Index | 09SEP2024 |  | VENIER | Mafalda Oliva | Probate notice | 10JUL1989 | Publication |  | late of Carlton | The Age (Melbourne) | 10JUL1989 |  | VILLELLA | Mafalda | Death notice | 30AUG2005 | Publication |  |  | Herald Sun (Melbourne) | 30AUG2005 |  | VILLELLA | Mafalda | Probate notice | 19APR2007 | Publication |  | late of Wonthaggi | The Age (Melbourne) | 19APR2007 |  | VISCUSO | Mafalda | Death notice | 17MAR1996 | Death |  | at Melbourne (born 23 Jun 1913 San Ferdinando, Rosarno, Reggio Calabria) | Il Globo (Melbourne) | 25MAR1996 |  | VOLPATO | Maria Mafalda | Death notice | 02FEB2012 | Death | 85 | at Adelaide SA (born 10 Apr 1926, Mestre, Italy) | Adelaide Advertiser | 04FEB2012 |  | YACCARINI | Mafalda | Death notice | 12APR2006 | Death |  |  | Herald Sun (Melbourne) | 17APR2006 |  | YACCARINI | Mafalda | Death notice | 18APR2006 | Publication |  |  | Herald Sun (Melbourne) | 18APR2006 |  | YACCARINI | Mafalda (Mafi) | Probate notice | 03JUL2006 | Publication |  | late of Glenroy | The Age (Melbourne) | 03JUL2006 |  | ZANIBELLATO | Maria Mafalda |  |  |  |  | see VOLPATO, Maria Mafalda | Adelaide Advertiser | 04FEB2012 |  | ZOTTI | Mafalda | Death notice | 28APR2021 | Death |  | at Merrylands, NSW, Australia (born 25 Nov 1931 Gorizia, Friuli-Venezia Giulia, Italy) | La Fiamma (Sydney) | 08MAY2021 | 
+Surname | Given Names | Notice Type | Date | Event | Age | Other Details | Publication | Published
+ABELA | Mafalda | Death notice | 20SEP2013 | Death | 83 | late of Matraville | Daily Telegraph (Sydney) | 24SEP2013 | 
+ABELA | Mafalda | Death notice | 20SEP2013 | Death | 83 | late of Matraville | Sydney Morning Herald | 24SEP2013 | 
+ADAMI | Daniela Mafalda | Death notice | 06AUG2017 | Death | 38 |  | Adelaide Advertiser | 09AUG2017 | 
+ADAMI | Daniela Mafalda | Death notice | 16AUG2017 | Funeral |  |  | Adelaide Advertiser | 12AUG2017 | 
+AMADIO | Mafalda |  |  |  |  | see CAPRIOTTI, Mafalda | The West Australian | 07NOV2013 | 
+AMADIO | Mafalda |  |  |  |  | see CAPRIOTTI, Mafalda | The West Australian | 06NOV2013 | 
+ARACE | Mafalda | Death notice | 24MAR2014 | Death | 79 | formerly of Benevento, Italy | Adelaide Advertiser | 26MAR2014 | 
+ARCOBELLI | Mafalda |  |  |  |  | see PLUTINO, Mafalda | Adelaide Advertiser | 25JAN2023 | 
+ARICO | Maria Mafalda | Death notice | 07JUN2022 | Death | 92 | late of Grafton | Sydney Morning Herald | 09JUN2022 | 
+ARICO | Maria Mafalda | Probate notice | 07JUN2022 | Death |  | late of Grafton | NSW Probate Index | 24AUG2022 | 
+AVOLIO | Mafalda | Death notice | 24JUN1972 | Death |  | at Marooba, Qld (born 14 Sep 1925 Fagnano Castello, Cosenza) | Il Globo (Melbourne) | 18JUL1972 | 
+BAYNE | Zeterieine Yoland Mafalda (Zettie) | Death notice | 03OCT2001 | Death | 72 |  | Herald Sun (Melbourne) | 05OCT2001 | 
+BEGHE | Mafalda | Death notice | 22AUG1996 | Death |  |  | The Age (Melbourne) | 23AUG1996 | 
+BEGHE | Mafalda | Funeral notice | 29AUG1996 | Funeral |  |  | The Age (Melbourne) | 29AUG1996 | 
+BELLEFEMINE | Mafalda | Death notice | 23MAY2003 | Death |  |  | Herald Sun (Melbourne) | 26MAY2003 | 
+BELLEFEMINE | Mafalda | Death notice | 27MAY2003 | Publication |  |  | Herald Sun (Melbourne) | 27MAY2003 | 
+BENCI | Mafalda | Probate notice | 04JUN2022 | Death |  | late of Chipping Norton | NSW Probate Index | 28JUN2022 | 
+BENCI | Mafalda Regina | Probate notice | 04JUN2022 | Death |  | late of Chipping Norton | NSW Probate Index | 16SEP2022 | 
+BERNARDESCHI | Mafalda | Funeral notice | 04JAN2024 | Funeral |  |  | Ballarat Courier | 30DEC2023 | 
+BERNARDESCHI | Mafalda (Alda) | Death notice | 20DEC2023 | Death | 98 | (born 03 Jun 1925 Pola, Italy) | Ballarat Courier | 30DEC2023 | 
+BLANCO | Mafalda | Death notice | 23APR2016 | Death | 81 | formerly of Italy | Adelaide Advertiser | 26APR2016 | 
+BRAIOTTA | Mafalda Lina | Death notice | 23AUG2003 | Death | 76 | at QEH, SA | Adelaide Advertiser | 25AUG2003 | 
+BRAIOTTA | Mafalda Lina | Death notice | 27AUG2003 | Funeral |  |  | Adelaide Advertiser | 26AUG2003 | 
+BRUSAMARELLO | Mafalda | Death notice | 14FEB2011 | Death | 91 |  | Herald Sun (Melbourne) | 23FEB2011 | 
+BUCCINO | Mafalda | Death notice | 06NOV1986 | Death |  | at Melbourne (born 12 Jan 1906 Italy) | Il Globo (Melbourne) | 10NOV1986 | 
+BURRAZIN | Mafalda | Funeral notice | 21JAN2022 | Funeral |  |  | FD - Palmdale Group (Central Coast) | 21JAN2022 | 
+BUZZAI | Marisa Mafalda | Death notice | 08FEB2024 | Death |  | at Bexley, NSW, Australia, late of North Turramurra (born 02 Oct 1931) | La Fiamma (Sydney) | 09FEB2024 | 
+CAIA | Mafalda |  |  |  |  | see STRANO, Mafalda | Herald Sun (Melbourne) | 15NOV2013 | 
+CAPRIOTTI | Mafalda | Death notice | 03NOV2013 | Death | 85 | formerly of Italy | The West Australian | 05NOV2013 | 
+CAPRIOTTI | Mafalda | Funeral notice | 07NOV2013 | Funeral |  | late of Girrawheen | The West Australian | 07NOV2013 | 
+CAPRIOTTI | Mafalda | Funeral notice | 07NOV2013 | Funeral |  | late of Girrawheen | The West Australian | 06NOV2013 | 
+CARTURAN | Mafalda |  |  |  |  | see DARIO, Mafalda | Deniliquin Pastoral Times | 19AUG2016 | 
+CASAROTTO | Mafalda (Lina) |  |  |  |  | see GIGLIOTTI, Mafalda (Lina) | Alpine Observer (Myrtleford) | 10APR2019 | 
+CASAROTTO | Mafalda (Lina) |  |  |  |  | see GIGLIOTTI, Mafalda (Lina) | Myrtleford Times | 10APR2019 | 
+CENTOFANTI | Mafalda |  |  |  |  | see D'ANGELICA, Mafalda | Adelaide Advertiser | 01APR2015 | 
+CESTA-INCANI | Mafalda | Other | 13NOV1990 | Memorial Service |  |  | Illawarra Mercury | 12NOV1990 | 
+CICCHINO | Giuseppina Mafalda | Funeral notice | 19MAY2025 | Funeral |  |  | The West Australian | 14MAY2025 | 
+CICCHINO | Giuseppina Mafalda | Death notice | 08MAY2025 | Death |  |  | The West Australian | 10MAY2025 | 
+CICCHINO | Giuseppina Mafalda | Funeral notice | 19MAY2025 | Funeral |  |  | The West Australian | 17MAY2025 | 
+CICUTTO | Mafalda | Funeral notice | 03JUL2021 | Death |  | late of Hammondville, formerly of Condell Park (born 12 Oct 1930) | Daily Telegraph (Sydney) | 10JUL2021 | 
+CICUTTO | Mafalda | Probate notice | 03JUL2021 | Death |  | late of Hammondville | NSW Probate Index | 06AUG2021 | 
+COLLINA | Mafalda | Death notice | 07JAN2019 | Death | 89 | (born 15 Mar 1929) | Herald Sun (Melbourne) | 21JAN2019 | 
+CORALLO | Mafalda Ida | Death notice | 25MAY2020 | Death |  | (born 15 Mar 1926) | Herald Sun (Melbourne) | 28MAY2020 | 
+CORALLO | Mafalda Ida | Death notice | 25MAY2020 | Death |  | at Melbourne, Victoria (born 15 Mar 1936 Rovolon, Veneto, Italy) | Il Globo (Melbourne) | 02JUN2020 | 
+COVINO | Andreina Mafalda | Death notice | 24JUN2019 | Publication |  |  | The West Australian | 24JUN2019 | 
+COVINO | Andreina Mafalda | Funeral notice | 05JUL2019 | Funeral |  | late of Nedlands | The West Australian | 29JUN2019 | 
+COVINO | Mafalda Arcangela | Death notice | 15NOV2014 | Death | 82 | at T.Q.E.H., formerly of Beltiglio, Ceppaloni, Pr. Benevento, Italy | Adelaide Advertiser | 17NOV2014 | 
+COVINO | Mafalda Arcangela | Funeral notice | 20NOV2014 | Funeral |  |  | Adelaide Advertiser | 18NOV2014 | 
+CREA | Daniela Mafalda |  |  |  |  | see ADAMI, Daniela Mafalda | Adelaide Advertiser | 09AUG2017 | 
+CREA | Daniela Mafalda |  |  |  |  | see ADAMI, Daniela Mafalda | Adelaide Advertiser | 12AUG2017 | 
+D'ALOIA | Mafalda |  |  |  |  | see LANDOLFI, Mafalda | Adelaide Advertiser | 27APR2024 | 
+D'ALOIA | Mafalda |  |  |  |  | see LANDOLFI, Mafalda | Adelaide Advertiser | 27APR2024 | 
+D'ANGELICA | Mafalda | Death notice | 01APR2015 | Publication | 74 |  | Adelaide Advertiser | 01APR2015 | 
+D'ANGELICA | Mafalda (Miffy) | Death notice | 09APR2015 | Funeral |  |  | Adelaide Advertiser | 04APR2015 | 
+DALLA-COSTA | Mafalda (Muffy) |  |  |  |  | see MICHAEL, Mafalda (Muffy) | The West Australian | 27JUN2022 | 
+DALLARMI | Enrichetta Mafalda | Probate notice | 17OCT2023 | Death |  | late of Kogarah | NSW Probate Index | 06MAR2024 | 
+DARIO | Mafalda | Death notice | 15AUG2016 | Death | 84 | late of Deniliquin | Deniliquin Pastoral Times | 19AUG2016 | 
+DARIO | Mafalda | Probate notice | 15AUG2016 | Death |  | late of Deniliquin | NSW Probate Index | 17OCT2016 | 
+De LOSA | Mafalda | Death notice | 12MAR2010 | Death | 84 | at Jessie Mcpherson Hospital | Herald Sun (Melbourne) | 15MAR2010 | 
+DE MENNA | Mafalda | Death notice | 07SEP1978 | Death |  | (born 22 Feb 1930 Corfino, L'Aquila) | Il Globo (Melbourne) | 11SEP1978 | 
+DE TONI | Gema Mafalda (Gemma) | Funeral notice | 25MAY2025 | Death |  | late of Kepnock (born 28 May 1938) | FD - Generation Funerals (Bundaberg) | 05FEB2026 | 
+DEL VECCHIO | Mafalda | Death notice | 31MAY2005 | Death | 82 | at Waverley, late of Bondi Beach, formerly of Italy | Sydney Morning Herald | 02JUN2005 | 
+DELBELLO | Mafalda | Probate notice | 12JUL2020 | Death |  | late of Liverpool | NSW Probate Index | 13AUG2020 | 
+DELLA-VERDE | Mafalda | Death notice | 07FEB2010 | Death | 86 | formerly of Montefredane, Prov. Avellino, Italy | Adelaide Advertiser | 09FEB2010 | 
+DELLA-VERDE | Mafalda | Funeral notice | 12FEB2010 | Funeral |  |  | Adelaide Advertiser | 10FEB2010 | 
+DONISI | Mafalda | Death notice | 27JUN2014 | Death | 94 | at Catherine McAuley Aged Care, Wembley, late of North Perth, formerly of San Leucio del Sannio | The West Australian | 30JUN2014 | 
+DONISI | Mafalda | Funeral notice | 04JUL2014 | Funeral |  | late of North Perth | The West Australian | 02JUL2014 | 
+FABBRO | Mafalda | Probate notice | 11OCT2019 | Death |  | late of Waterfall | NSW Probate Index | 16NOV2019 | 
+FALCHETTO | Mafalda |  |  |  |  | see PARISOTTO, Mafalda | Macleay Argus (Kempsey) | 22MAY1980 | 
+FALCHETTO | Mafalda |  |  |  |  | see PARISOTTO, Mafalda | Guardian News (Nambucca Heads) | 27JUN1980 | 
+FANTASIA | Mafalda | Death notice | 25AUG2025 | Death | 85 | at Adelaide (born 17 Dec 1939 Altavilla Irpina, Prov Avellino, Italy) | Adelaide Advertiser | 30AUG2025 | 
+FANTASIA | Mafalda | Funeral notice | 04SEP2025 | Funeral |  |  | Adelaide Advertiser | 30AUG2025 | 
+FOLGHERA | Mafalda |  |  |  |  | see BUCCINO, Mafalda | Il Globo (Melbourne) | 10NOV1986 | 
+FORNER | Mafalda Eugenia | Probate notice | 23NOV2007 | Publication |  | late of Scalabrini Village, Yoogali | Area News (Griffith) | 23NOV2007 | 
+FORTE | Mafalda | Death notice | 22FEB2013 | Death | 81 | at Mary Potter Hospice, formerly of Italy | Adelaide Advertiser | 23FEB2013 | 
+GIGLIOTTI | Mafalda (Lina) | Death notice | 01APR2019 | Death |  | at Myrtleford Lodge | Alpine Observer (Myrtleford) | 10APR2019 | 
+GIGLIOTTI | Mafalda (Lina) | Death notice | 01APR2019 | Death |  | at Myrtleford Lodge | Myrtleford Times | 10APR2019 | 
+GIGLIOTTI | Mafalda (Lina) | Death notice | 01APR2019 | Death |  | at Myrtleford Lodge | Border Mail (Albury) | 04APR2019 | 
+GRIMALDI | Carolina Mafalda | Death notice | 13SEP2002 | Death | 94 | late of Lugarno | Sydney Morning Herald | 17SEP2002 | 
+GUERRA | Mafalda | Death notice | 28MAY2015 | Death | 88 | late of Samson, formerly of Fremantle | The West Australian | 30MAY2015 | 
+IENNA | Mafalda | Probate notice | 24JUL2016 | Death |  | late of Fairfield | NSW Probate Index | 07OCT2016 | 
+IENNA | Mafalda | Probate notice | 24JUL2016 | Death |  | late of Fairfield | NSW Probate Index | 31AUG2016 | 
+INGLEY | Iolanda Mafalda Maria | Death notice | 05MAR2010 | Death |  |  | The Age (Melbourne) | 10MAR2010 | 
+INGLEY | Iolanda Mafalda Maria | Funeral notice | 12MAR2010 | Funeral |  |  | Herald Sun (Melbourne) | 09MAR2010 | 
+INGLEY | Iolanda Mafalda Maria | Death notice | 05MAR2010 | Death |  |  | Herald Sun (Melbourne) | 10MAR2010 | 
+INGLEY | Jolanda Mafalda Maria | Funeral notice | 12MAR2010 | Funeral |  |  | The Age (Melbourne) | 09MAR2010 | 
+JAGER | Zeterieine Yoland Mafalda (Zettie) |  |  |  |  | see BAYNE, Zeterieine Yoland Mafalda (Zettie) | Herald Sun (Melbourne) | 05OCT2001 | 
+KEARY | Ouida Mafalda (Peg) | Death notice | 13MAR1995 | Death | 83 | late of The Entrance | Central Coast Express Advocate | 15MAR1995 | 
+LANDOLFI | Mafalda | Death notice | 20APR2024 | Death | 86 | (born 27 Jul 1937 Beltiglio) | Adelaide Advertiser | 27APR2024 | 
+LANDOLFI | Mafalda | Funeral notice | 30APR2024 | Funeral |  |  | Adelaide Advertiser | 27APR2024 | 
+LEGOVICH | Mafalda Violet | Funeral notice | 11JUN2018 | Death | 100 | late of Elermore Vale | Newcastle Herald | 16JUN2018 | 
+LEGOVICH | Mafalda Violet | Probate notice | 11JUN2018 | Death |  | late of Elermore Vale | NSW Probate Index | 24AUG2018 | 
+LEPORE | Mafalda | Death notice | 30SEP2001 | Death |  |  | Herald Sun (Melbourne) | 02OCT2001 | 
+LIBERATO | Mafalda | Death notice | 18JAN2019 | Death |  |  | Herald Sun (Melbourne) | 28JAN2019 | 
+LOVRICH | Mafalda | Probate notice | 12DEC2025 | Publication |  | late of Kelvin Grove, Qld | Queensland Probate Index | 12DEC2025 | 
+LUCA | Mafalda | Funeral notice | 04MAR2016 | Funeral |  |  | Herald Sun (Melbourne) | 02MAR2016 | 
+MAIORANA | Maria Mafalda | Death notice | 07JUN2022 | Death | 92 | at Sydney, NSW, Australia, late of Grafton, formerly of Gladesville | La Fiamma (Sydney) | 09JUN2022 | 
+MARASCO | Mafalda Adelaide | Death notice | 30OCT2024 | Death |  | at Frenchs Forest, NSW, Australia (born 30 Sep 1927 Martirano, Calabria, Italy) | La Fiamma (Sydney) | 04NOV2024 | 
+MARASCO | Mafalda Adelaide | Probate notice | 30OCT2024 | Death |  | late of Brookvale | NSW Probate Index | 04JUL2025 | 
+MARINI | Mafalda (May) | Death notice | 18SEP2009 | Death | 80 | late of Greenacre | Daily Telegraph (Sydney) | 22SEP2009 | 
+MARULLI | Mafalda | Death notice | 28JAN2009 | Death |  |  | Herald Sun (Melbourne) | 31JAN2009 | 
+MERLINO | Mafalda | Death notice | 25DEC1999 | Death | 76 | late of Elizabeth Bay | Sydney Morning Herald | 29DEC1999 | 
+MICHAEL | Mafalda (Muffy) | Death notice | 23JUN2022 | Death | 90 | (born 16 Apr 1932) | The West Australian | 27JUN2022 | 
+MIELE | Mafalda |  |  |  |  | see FORTE, Mafalda | Adelaide Advertiser | 23FEB2013 | 
+MILNE | Olive Mafalda May | Death notice | 30DEC2001 | Death | 94 | at Jharmbi Nursing Home, Inala Village, Blackburn | Herald Sun (Melbourne) | 02JAN2002 | 
+MIRABILE | Mafalda | Death notice | 14NOV1983 | Death | 57 | at St Vincent's Hospital, late of Drummoyne | Sydney Morning Herald | 16NOV1983 | 
+MIRABILE | Mafalda | Funeral notice | 18NOV1983 | Funeral |  |  | Sydney Morning Herald | 16NOV1983 | 
+MISINO | Mafalda | Death notice | 06MAY2017 | Death | 90 |  | Herald Sun (Melbourne) | 10MAY2017 | 
+MODESTO | Mafalda | Death notice | 24APR2018 | Death |  |  | The West Australian | 01MAY2018 | 
+MODESTO | Mafalda | Funeral notice | 05MAY2018 | Funeral |  |  | The West Australian | 01MAY2018 | 
+MOODY | Dorothy Mafalda | Probate notice | 06AUG1997 | Publication |  | late of Crana Nursing Home, Herston, formerly of Ashgrove | Courier Mail (Brisbane) | 06AUG1997 | 
+MOODY | Dorothy Mafalda Josephine |  |  |  |  | see MOODY, Dorothy Mafalda | Courier Mail (Brisbane) | 06AUG1997 | 
+MOODY | Dorothy Mafalda Josephine | Funeral notice | 09JUL1997 | Funeral |  | late of Crana Nursing Home, Herston, formerly of Ashgrove | Courier Mail (Brisbane) | 07JUL1997 | 
+MORETTA | Mafalda | Death notice | 21DEC1984 | Death |  | (born 29 Mar 1939 Vill'Alfonsina, CH) | Il Globo (Melbourne) | 07JAN1985 | 
+MORETTI | Mafalda | Probate notice | 07DEC2001 | Death |  | late of St Agnes | Adelaide Advertiser | 28FEB2002 | 
+MORETTI | Mafalda | Death notice | 07DEC2001 | Death | 89 |  | Adelaide Advertiser | 10DEC2001 | 
+PALMATO | Mafalda Arcangela |  |  |  |  | see COVINO, Mafalda Arcangela | Adelaide Advertiser | 17NOV2014 | 
+PALMATO | Mafalda Arcangela |  |  |  |  | see COVINO, Mafalda Arcangela | Adelaide Advertiser | 18NOV2014 | 
+PALMERINI | Mafalda | Death notice | 13JUL2019 | Death |  | (born 21 July 1940) | Herald Sun (Melbourne) | 17JUL2019 | 
+PALONE | Mafalda | Death notice | 15OCT2011 | Death | 82 |  | Herald Sun (Melbourne) | 18OCT2011 | 
+PALONE | Mafalda | Death notice | 19OCT2011 | Publication |  |  | Herald Sun (Melbourne) | 19OCT2011 | 
+PARISOTTO | Mafalda | Death notice | 19MAY1980 | Death | 77 | late of Kempsey | Sydney Morning Herald | 24MAY1980 | 
+PARISOTTO | Mafalda | Probate notice | 26JUN1980 | Publication |  | late of East Kempsey | Macleay Argus (Kempsey) | 26JUN1980 | 
+PARISOTTO | Mafalda | Obituary | 20MAY1980 | Death | 77 | late of Kempsey, formerly of Grassy Head | Macleay Argus (Kempsey) | 22MAY1980 | 
+PARISOTTO | Mafalda | Obituary | 20MAY1980 | Death |  | late of Kempsey | Guardian News (Nambucca Heads) | 27JUN1980 | 
+PENGUE | Mafalda | Funeral notice | 05AUG2025 | Funeral |  |  | Adelaide Advertiser | 02AUG2025 | 
+PERISSA | Mafalda | Funeral notice | 02SEP2010 | Death | 87 | at Sir William Hudson Memorial Centre | FD - Allens Funerals (Cooma) | 30SEP2010 | 
+PETTERLIN | Mafalda Ida |  |  |  |  | see CORALLO, Mafalda Ida | Il Globo (Melbourne) | 02JUN2020 | 
+PLUTINO | Mafalda | Death notice | 21JAN2023 | Death | 87 | at Adelaide (born 15 Feb 1935 Beltiglio, Pr Ceppaluni, Italy) | Adelaide Advertiser | 25JAN2023 | 
+PLUTINO | Mafalda | Funeral notice | 27JAN2023 | Funeral |  |  | Adelaide Advertiser | 25JAN2023 | 
+PORTELLI | Mafalda (Mary) | Death notice | 22APR2020 | Death |  | (born 04 Mar 1947) | Herald Sun (Melbourne) | 25APR2020 | 
+PRIMUS | Yolanda Mafalda (Yole) | Funeral notice | 24FEB2022 | Death | 93 | late of Toowoomba | The Chronicle (Toowoomba) | 05MAR2022 | 
+RAZZI | Mafalda | Death notice | 01AUG2013 | Funeral |  |  | Herald Sun (Melbourne) | 29JUL2013 | 
+RUGGIERO | Mafalda | Death notice | 14NOV2001 | Death | 79 | late of Murray Bridge (born Buonalbergo, Benevento, Italy) | Adelaide Advertiser | 15NOV2001 | 
+RUGGIERO | Mafalda | Death notice | 14NOV2001 | Death | 79 | late of Murray Bridge (born Buonalbergo, Benevento, Italy) | Adelaide Advertiser | 16NOV2001 | 
+RUGGIERO | Mafalda | Death notice | 17NOV2001 | Publication |  |  | Adelaide Advertiser | 17NOV2001 | 
+SCHONSTEIN | Mafalda Tecla | Probate notice | 22JAN2014 | Death |  | late of Rose Bay | NSW Probate Index | 28JAN2014 | 
+SCHONSTEIN | Mafalda22 | Death notice | 22JAN2014 | Death | 90 | late of Rose Bay | Sydney Morning Herald | 25JAN2014 | 
+SCOGNAMIGLIO | Mafalda | Funeral notice | 28SEP2002 | Death | 76 | late of Chermside | Courier Mail (Brisbane) | 01OCT2002 | 
+SINICCO | Mafalda | Death notice | 14JAN1993 | Death |  |  | The Age (Melbourne) | 16JAN1993 | 
+SPAGNUOLO | Mafalda |  |  |  |  | see DELLA-VERDE, Mafalda | Adelaide Advertiser | 09FEB2010 | 
+SPAGNUOLO | Mafalda |  |  |  |  | see DELLA-VERDE, Mafalda | Adelaide Advertiser | 10FEB2010 | 
+SPESSOT | Mafalda |  |  |  |  | see ZOTTI, Mafalda | La Fiamma (Sydney) | 08MAY2021 | 
+SPESSOT | Mafalda | Death notice | 28APR2021 | Death |  | (born 25 Nov 1934) | Sydney Morning Herald | 08MAY2021 | 
+STARC | Mafalda | Funeral notice | 17MAR2024 | Death |  | (born 28 May 1942) | Herald Sun (Melbourne) | 22MAR2024 | 
+STRAND | Mafalda | Funeral notice | 18NOV2013 | Funeral |  |  | Herald Sun (Melbourne) | 14NOV2013 | 
+STRANO | Mafalda | Death notice | 12NOV2013 | Death | 87 |  | Herald Sun (Melbourne) | 15NOV2013 | 
+TAMIOZZO | Onorina Mafalda |  |  |  |  | see TARCA, Onorina Mafalda (Rina) | Adelaide Advertiser | 22JAN2022 | 
+TAMIOZZO | Ororina Mafalda (Rina) |  |  |  |  | see TARCA, Onorina Mafalda (Rina) | The Leader (Angaston) | 19JAN2022 | 
+TARCA | Onorina Mafalda (Rina) | Death notice | 16JAN2022 | Death | 93 | at Barossa Village | Adelaide Advertiser | 22JAN2022 | 
+TARCA | Onorina Mafalda (Rina) | Funeral notice | 27JAN2022 | Funeral |  |  | Adelaide Advertiser | 22JAN2022 | 
+TARCA | Onorina Mafalda (Rina) | Death notice | 16JAN2022 | Death | 93 | at Barossa Village | The Leader (Angaston) | 19JAN2022 | 
+TRIOLO | Mafalda | Probate notice | 23JUL2024 | Death |  | late of Sans Souci | NSW Probate Index | 09SEP2024 | 
+VENIER | Mafalda Oliva | Probate notice | 10JUL1989 | Publication |  | late of Carlton | The Age (Melbourne) | 10JUL1989 | 
+VILLELLA | Mafalda | Death notice | 30AUG2005 | Publication |  |  | Herald Sun (Melbourne) | 30AUG2005 | 
+VILLELLA | Mafalda | Probate notice | 19APR2007 | Publication |  | late of Wonthaggi | The Age (Melbourne) | 19APR2007 | 
+VISCUSO | Mafalda | Death notice | 17MAR1996 | Death |  | at Melbourne (born 23 Jun 1913 San Ferdinando, Rosarno, Reggio Calabria) | Il Globo (Melbourne) | 25MAR1996 | 
+VOLPATO | Maria Mafalda | Death notice | 02FEB2012 | Death | 85 | at Adelaide SA (born 10 Apr 1926, Mestre, Italy) | Adelaide Advertiser | 04FEB2012 | 
+YACCARINI | Mafalda | Death notice | 12APR2006 | Death |  |  | Herald Sun (Melbourne) | 17APR2006 | 
+YACCARINI | Mafalda | Death notice | 18APR2006 | Publication |  |  | Herald Sun (Melbourne) | 18APR2006 | 
+YACCARINI | Mafalda (Mafi) | Probate notice | 03JUL2006 | Publication |  | late of Glenroy | The Age (Melbourne) | 03JUL2006 | 
+ZANIBELLATO | Maria Mafalda |  |  |  |  | see VOLPATO, Maria Mafalda | Adelaide Advertiser | 04FEB2012 | 
+ZOTTI | Mafalda | Death notice | 28APR2021 | Death |  | at Merrylands, NSW, Australia (born 25 Nov 1931 Gorizia, Friuli-Venezia Giulia, Italy) | La Fiamma (Sydney) | 08MAY2021 | 
+
+## page text
+Search for Notices
+The Ryerson Index
+to death notices and obituaries in Australian newspapers
+IMPORTANT NOTICE: 
+Ryerson is a free service, but we use advertising on this page to cover operating costs. Any requests for money or credit card details are nothing to do with Ryerson, which has always been, and always will be, a FREE service. 
+Please ignore any requests for payment from anywhere on the Ryerson site.
+Search for Notices
+Primary Search Fields:
+ (enter at least one)
+Surname
+ Sounds like
+Any Given Name(s)
+Any Location
+ (must match the notice exactly)
+Secondary Search Fields:
+ (optional)
+Year
+Earliest: 
+Latest: 
+Newspaper or FD
+FD - AC Raymond Funerals (Kyogle)
+FD - Academy Funerals (Brisbane)
+Fd - Allan Drew Funerals (Castle Hill)
+FD - Allan Pearse Funerals (Tuncurry)
+FD - Allens Funerals (Cooma)
+FD - Australian Heritage Funerals (Toowoomba)
+FD - B & W Deeves (Condobolin)
+FD - Barossa Funerals (Tanunda)
+FD - Batemans Bay & Moruya District Funerals
+FD - Becker Family Funerals (Taree)
+FD - Bernard Laverty (Macksville)
+FD - Bethel Funerals (Brisbane Area)
+FD - Bethany Funerals (Albany)
+FD - Bethel Funerals (Outer Melbourne)
+FD - Binney Family Funerals (Lismore)
+FD - Black's Funerals (Innisfail)
+FD - Boyne Tannum (Gladstone)
+FD - Brisbane Valley Funerals (Esk)
+FD - Broken Hill Crematorium
+FD - Browns Funerals (Bundaberg)
+FD - Burke and Douglas (Tamworth)
+FD - Burnett Regional Funerals (Mundubbera)
+FD - C R Smyth & Son (Cessnock)
+FD - Callide Dawson Funerals (Biloela)
+FD - Carnarvon Funerals (Stanthorpe)
+FD - Central Highlands Funeral Services (Emerald)
+FD - Central West Funerals (Parkes)
+FD - Collier Trenerry (Griffith)
+FD - Conway Funeral Home (Albury/Wodonga/Myrtleford)
+FD - Creightons Funeral Services (Central Coast)
+FD - Curtis Family Funerals (Broken Hill)
+FD - Daniel Woods Funeral Care (Wagga Wagga)
+FD - Des Allen & Co (Bundaberg)
+FD - Dingwall Funerals and Cremation Service (Emerald)
+FD - Eastons (Tweed Heads)
+FD - Easy Funerals (Wollongong)
+FD - Esperance Funeral Services
+FD - Finlayson and McKenzie (Rockhampton)
+FD - Fitzgerald's Funerals (Townsville)
+FD - Fitzroy Funerals (Rockhampton)
+FD - France Family Funerals (Nelson Bay)
+FD - Fred J Potter and Son (Broken Hill)
+FD - Fry Bros (Newcastle)
+FD - Fulham Funerals (Underdale)
+FD - Generation Funerals (Bundaberg)
+FD - George Hartnett Metropolitan Funerals
+FD - Gladstone Valley Funerals
+FD - Godfrey Smith Funerals (Bathurst)
+FD - Great Lakes Funerals (Forster)
+FD - Gregson and Weight (Sunshine Coast)
+FD - Griffith Regional Funeral Services
+FD - Gympie Funerals
+FD - H Parsons (Wollongong)
+FD - Hart Family Funerals (Rockhampton)
+FD - Hutchinson Family Funerals (Taree)
+FD - Hills Family Funerals (Castle Hill)
+FD - Ian J Arthur & Son (Castle Hill)
+FD - J & E Hawley Funerals (Dungog)
+FD - J J Kell (St Arnaud)
+FD - J Kirk (Fraser Coast)
+FD - John R Whyman Funeral Services (Bega)
+FD - Jonathan Hepner Funerals (Geelong)
+FD - K M Smith (Brisbane Area)
+FD - Keith Logue and Sons (Coffs Harbour)
+FD - Keith Philpott Funerals (Cowra)
+FD - Kerry Linegar Funerals (Lithgow)
+FD - Killick Family Funerals (SE Queensland)
+FD - Len Russell Funerals (Ipswich)
+FD - Lismore Funeral Services
+FD - Logan Funerals (Goondiwindi)
+FD - Logan Funerals (Moree)
+FD - Logan Funerals (Narrabri)
+FD - Lovell Meizer (Goulburn)
+FD - Mackay Family Funerals (Central Coast)
+FD - Mason Park Funerals (Wangaratta)
+FD - Maurice R Moroney & Co (Junee)
+FD - Max Perram (Liverpool)
+FD - McCartney Family Funerals (Brisbane)
+FD - McGuiness Funerals (Murwillumbah)
+FD - McGlynn Hunt (Mildura)
+FD - Michael Hanley's Funerals (Forbes)
+FD - Mid West Funerals (Geraldton)
+FD - Milton-Ulladulla Funeral Services
+FD - Morleys Funeral Home (Townsville)
+FD - Mount Alexander Funerals (Castlemaine)
+FD - Mulqueen Family Funeral Directors (Bendigo)
+FD - Murphy Family Funerals (Nowra)
+FD - Muswellbrook and Scone Funeral Services
+FD - Narooma District Funerals
+FD - Nepean Valley Funerals (Penrith)
+FD - Newhaven Funerals (Brisbane)
+FD - N J Todd (Benalla)
+FD - North West Funerals (Mildura)
+FD - Owens Maranoa Funeral Services (Roma)
+FD - Palmdale Group (Central Coast)
+FD - Palmdale Western Districts (Dubbo)
+FD - Parkside Funerals (Devonport)
+FD - Parkview Funeral Home (Richmond River)
+FD - Patterson Brothers Funerals
+FD - Peter Murray Funerals (Bairnsdale)
+FD - Piddingtons (Armidale)
+FD - Pinegrove Funerals (Burnie)
+FD - Quality Cremation Services (Rockhampton)
+FD - Rankins Funerals (Warrawong)
+FD - Renshaw's Funeral Service (Bathurst)
+FD - R J Sidney Craig (Goulburn)
+FD - Rosedale Funerals (Mount Gambier)
+FD - Ross Funerals (Fraser Coast)
+FD - Sacred Earth Funerals (Lismore East)
+FD - Shaun Hamilton Funerals (Tamworth)
+FD - Smith and Rinkin (Cootamundra)
+FD - Southern Highlands Funerals (Bowral)
+FD - Stan Crapp (Kiama)
+FD - Stan Crouch and Son (Stawell)
+FD - Sunraysia Funerals (Mildura)
+FD - Sylvan Funerals (Ipswich)
+FD - T J Andrews Funeral Services (Baulkham Hills)
+FD - Thompson Family Funerals (Castlemaine)
+FD - Townsville Funerals
+FD - Townsville Cremations
+FD - Tribute Funerals (Melbourne)
+FD - Tucker and Nankivell (Rockhampton)
+FD - Tuckers (Geelong)
+FD - Turner Family Funerals (Nowra)
+FD - United Care (Mid North Coast)
+FD - Victor Rullis Funeral Services (Coffs Harbour)
+FD - Walker Funerals (Kempsey)
+FD - Walsh Funerals (Nyngan)
+FD - Whitsunday Funerals (Whitsunday Coast)
+FD - W Larcombe & Son (Dubbo)
+FD - W T Howard Funerals (Taree)
+FD - William Barrett & Sons (Bunbury)
+FD - William Farmer (Bendigo)
+FD - William R Groves (Picton & Camden)
+FD - Windsor Funeral Home
+FD - Wollongong City Funerals (Dapto)
+FD - Wray Owen (Nowra)
+Adelaide Advertiser
+Albany Advertiser
+Albert and Logan News (Springwood)
+Alexandra Times
+Alpine Observer (Myrtleford)
+Ararat Advertiser
+Area News (Griffith)
+Armidale Express
+Augusta Margaret River Times
+Australian Jewish News
+Avon Valley Advocate (Northam)
+Ayr Advocate
+Bacchus Marsh Express
+Ballan Times
+Ballarat Courier
+Ballina Shire Advocate
+Balonne Beacon (St George Qld)
+Bankstown Canterbury Torch
+Barossa and Light Herald (Tanunda)
+Barrier Daily Truth (Broken Hill)
+Barrier Miner (Broken Hill)
+Bay Post - Moruya Examiner
+Bayside Bulletin (Redland)
+Bega District News
+Bellinger Courier-Sun
+Benalla Ensign
+Bendigo Advertiser
+Berwick News
+Blacktown Advocate
+Blackwater Herald
+Blackwood Times
+Blayney Chronicle
+Blue Mountains Gazette
+Bombala Times
+Boorowa News
+Border Chronicle (Bordertown)
+Border Mail (Albury)
+Border Times (Pinnaroo)
+Bowen Independent
+Bowraville Guardian and Nambucca Gazette
+Braidwood Times
+Broken Hill Times
+Broome Advertiser
+Bunbury Herald
+Bundaberg News Mail
+Burdekin Advocate (Ayr)
+Busselton Dunsborough Mail
+Busselton Dunsborough Times
+Byron Shire News (Byron Bay)
+Caboolture Herald
+Cairns Post
+Camden Haven Courier
+Campaspe News (Rochester)
+Campbelltown District Star
+Campbelltown Ingleburn News
+Canberra Times
+Canowindra News
+Canowindra Phoenix
+Canowindra Star
+Canterbury-Bankstown Express
+Capricorn Coast Mirror (Rockhampton)
+Central and North Burnett Times (Mundubbera)
+Central Coast Express Advocate
+Central Queensland News (Emerald)
+Central Telegraph (Biloela)
+Central Western Daily (Orange)
+Centralian Advocate (Alice Springs)
+Cessnock Advertiser
+Cessnock Eagle
+Chinchilla News
+Clarence and Richmond Examiner (Grafton)
+Clarence River Advocate (Maclean)
+Clarence Valley Review (Yamba)
+Coastal Leader (Kingston)
+Coastal Views (Grafton)
+Cobram Courier
+Coffs Coast Advocate
+Condobolin Argus
+Cooma-Monaro Express
+Coonabarabran Times
+Coonamble Times
+Cootamundra Herald
+Cootamundra Times
+Courier Mail (Brisbane)
+Cowra Guardian
+Crookwell Gazette
+Cumberland Argus
+Cumberland Free Press
+Cumberland Mercury
+Cumberland Times
+Daily Examiner (Grafton)
+Daily Telegraph (Sydney)
+Dalby Herald
+Dandenong Journal
+Deniliquin Pastoral Times
+Diamond Valley Leader
+District Reporter (Camden)
+Don Dorrigo Gazette
+Dubbo Daily Liberal
+Dubbo Photo News
+Dungog Chronicle
+Eastern Riverina Chronicle (Henty)
+Esperance Express
+Euroa Gazette
+Eyre Peninsula Tribune (Cleve)
+Fairfield Advance
+Fairfield Champion
+Forbes Advocate
+Forbes Times
+Fraser Coast Chronicle (Hervey Bay)
+Gatton Star
+Geelong Advertiser
+Geraldton Guardian
+Gilgandra Weekly
+Gippsland Times (Sale)
+Gladstone Observer
+Glen Innes Examiner
+Gloucester Advocate
+Gold Coast Bulletin
+Goondiwindi Argus
+Gosford Times and Wyong District Advocate
+Goulburn Post
+Grafton Argus
+Great Lakes Advocate (Forster)
+Great Southern Herald (Katanning)
+Grenfell Record
+Guardian Gazette (Macksville)
+Guardian News (Nambucca Heads)
+Gundagai Independent
+Gunnedah Times
+Gympie Times
+Harden-Murrumburrah Express
+Hawkesbury Advocate (Windsor)
+Hawkesbury Chronicle and Farmers Advocate (Windsor)
+Hawkesbury Courier (Windsor)
+Hawkesbury Gazette (Richmond)
+Hawkesbury Herald (Windsor)
+Heidelberg Leader
+Herald Sun (Melbourne)
+Herbert River Express (Ingham)
+Hervey Bay City Independent
+Hervey Bay Observer
+High Country Herald (Highfields)
+Hills Shire Times (Castle Hill)
+Hills News (Castle Hill)
+Hillston-Ivanhoe Spectator
+Hobart Mercury
+Hornsby Advocate
+Hunter River Gazette (Maitland)
+Hunter Valley News
+Il Globo (Melbourne)
+Innisfail Advocate
+Illawarra Mercury
+Inner West Courier (Sydney)
+Inverell Times
+Isis Town and Country (Childers)
+Island and Mainland News (Bribie Island)
+Junee Independent
+Junee Southern Cross
+Kalgoorlie Miner
+Kempsy Midcoast Observer
+Kenneally's Funerals (Campbelltown)
+Kiama Examiner
+Kiama Independent
+Kiama Reporter
+Kilcoy Sentinel
+Kimberley Echo (Kununurra)
+Kowree Advocate (Edenhope)
+Kyabram Free Press
+Kyogle Examiner
+La Fiamma (Sydney)
+Lake Macquarie News
+Lakes Mail (Lake Macquarie)
+Latrobe Valley Express (Traralgon)
+Launceston Examiner
+Leeton Irrigator
+Leongatha Star
+Limestone Coast Today (Naracoorte)
+Lithgow Mercury
+Liverpool Champion
+Liverpool Leader
+Liverpool News
+Lockyer & Somerset Independent (Gatton)
+Longreach Leader
+Loxton News
+Macarthur Advertiser (Campbelltown)
+Macarthur Chronicle (Campbelltown)
+Mackay Daily Mercury
+Mackay Telegraph
+Macksville Elevator
+Macleay Argus (Kempsey)
+Magnet (Eden)
+Maitland Mercury
+Maitland Weekly Mercury
+Mandurah Mail
+Manilla Express
+Manjimup-Bridgetown Times
+Manjimup-Warren Times
+Manning Great Lakes Extra (Taree)
+Manning River Times (Taree)
+Mansfield Courier
+Mareeba Express
+McIvor Times (Heathcote)
+Merimbula News Weekly
+Mid Western Times (Geraldton)
+Midland Express (Kyneton)
+Milton-Ulladulla Express
+Milton-Ulladulla Times
+Monaro Post (Cooma)
+Moree Champion
+Mosman Daily
+Mt Druitt - St Marys Standard
+Mt Gambier Border Watch
+Mudgee Guardian
+Murray Pioneer (Renmark)
+Murray Valley Standard (Murray Bridge)
+Muswellbrook Chronicle
+Myrtleford Times
+Nambucca and Bellinger News (Macksville)
+Nambucca and District News
+Nambucca Heads Coaster
+Nambucca News (Bowraville)
+Namoi Valley Independent (Gunnedah)
+Naracoorte Herald
+Narooma News
+Narrandera Argus
+Narrogin Observer
+National Advocate (Bathurst)
+Newcastle Chronicle
+Newcastle Herald
+Newcastle Star
+News Corp Digital Notices
+North Central News (St Arnaud)
+North Coast Times (Fernmount)
+North Queensland Register (Townsville)
+North Shore Times
+North West Telegraph (Port Hedland)
+North-West Champion (Moree)
+North-West Star (Mt Isa)
+North Western Courier (Narrabri)
+Northern Argus (Clare)
+Northern Daily Leader (Tamworth)
+Northern District Times (Ryde)
+Northern Downs News (Dalby)
+Northern Miner (Charters Towers)
+Northern Rivers Times (Casino)
+Northern Standard (Darwin)
+Northern Star (Lismore)
+Northern Territory News
+Northern Territory Probate Index
+NOTA - Camden Haven
+NOTA - Coffs Coast
+NOTA - Myall Coast
+NOTA - Nambucca Valley
+NOTA - Port Macquarie
+NOTA - Port Stephens
+NSW Probate Index
+Oberon Review
+Ovens and Murray Advertiser (Beechworth)
+Pakenham Gazette
+Parkes Champion Post
+Parramatta Advertiser
+Penola Pennant
+Penrith City Gazette
+Penrith Press
+Penrith Star
+Picton Post
+Pilbara News (Karratha)
+Pittsworth Sentinel
+Plains Producer (Balaklava)
+Port Douglas and Mossman Gazette
+Port Lincoln Times
+Port Macquarie Express
+Port Macquarie News
+Port Melbourne Standard
+Port Stephens Examiner
+Portland Guardian
+Queanbeyan Age
+Queensland Country Life
+Queensland Probate Index
+Queensland Times (Ipswich)
+Redcliffe Herald
+Redland Bayside News
+Redland City Bulletin
+Redland City News
+Redland Times
+River News (Waikerie)
+Riverine Grazier (Hay)
+Riverine Herald (Echuca)
+Rockhampton Morning Bulletin
+Rouse Hill Times
+Ryde Weekly Times
+Scone Advocate
+SE Voice (Mt Gambier)
+Sentinel-Times (South Gippsland)
+Seymour Telegraph
+Shepparton News
+Shoalhaven & Nowra News
+Singleton Argus
+South Burnett Times (Kingaroy)
+South Coast Register (Nowra)
+South Eastern Times (Millicent)
+South Western Times (Bunbury)
+Southern Argus (Strathalbyn)
+Southern Courier (Randwick)
+Southern Highlands News (Bowral)
+Southern Mail (Bowral)
+Southern Riverina News (Finley)
+Southern Star (Moruya)
+St George & Sutherland Leader
+Stanthorpe Border Post
+Stawell Times-News
+Summit Sun (Jindabyne)
+Sun News-Pictorial (Melbourne)
+Sunraysia Daily (Mildura)
+Sunshine Coast Daily (Maroochydore)
+Sydney Gazette
+Sydney Mail
+Sydney Monitor
+Sydney Morning Herald
+Tablelands Advertiser (Mareeba)
+Tatura Guardian
+Taylor'd Funerals (Smeaton Grange)
+Temora Independent
+Tenterfield Star
+The Advocate (Burnie)
+The Age (Melbourne)
+The Argus (Melbourne)
+The Australian (1824-1848)
+The Australian (1964-present)
+The Bunyip (Gawler)
+The Catholic Weekly (Sydney)
+The Chronicle (Toowoomba)
+The Courier (Mt Barker)
+The Empire
+The Extra (Albany)
+The Flinders News (Port Pirie)
+The Free Press (Corowa)
+The Islander (King Island)
+The Lachlander (Condobolin)
+The Leader (Angaston)
+The Manly Daily
+The Methodist
+The News (Naracoorte)
+The Recorder (Port Pirie)
+The Somerset (Brisbane Valley)
+The Spectator (Hamilton)
+The Times (Victor Harbor)
+The Transcontinental (Port Augusta)
+The Weekly (Mudgee)
+The Weekly Advertiser (Horsham)
+The West Australian
+The Western Herald (Bourke)
+Townsville Bulletin
+Tully Times
+Tumbarumba Times
+Tumut and Adelong Times
+Tweed Daily News
+Tweed Southern Sun
+Tweed Valley Weekly (Murwillumbah)
+Twin Town Times (Harden-Murrumburrah)
+Wagga Wagga Daily Advertiser
+Wagin Argus
+Wangaratta Chronicle
+Warragul and Drouin Gazette
+Warren-Blackwood Times
+Warrnambool Standard
+Warwick Daily News
+Wauchope Gazette
+Wee Waa News
+Wellington Times
+Wentworth Courier (Waverley)
+Werribee Banner
+West Coast Sentinel (Ceduna)
+West Wyalong Advocate
+Western Advocate (Bathurst)
+Western Champion (Parkes)
+Western Downs Town and Country
+Western Star (Roma)
+Western Times (Bathurst)
+Western Times (Charleville)
+West Wimmera Advocate (Edenhope)
+Whitsunday Times (Airlie Beach)
+Whittlesea Leader
+Whyalla News
+Windsor Express and Richmond Advertiser
+Wingham Chronicle
+Wynnum Herald
+Wyong and Lakes District Advocate
+Wyong and Tuggerah Lakes News
+Yarrawonga Chronicle
+Yass Tribune
+Young Witness
+State
+ACT
+NSW
+NT
+QLD
+SA
+TAS
+VIC
+WA
+Updated since
+Show Search Tips
+The Ryerson Index contains 10,143,848 notices from 530 different Australian newspapers, publisher websites and funeral director websites.
+163 notices found
+Surname
+Given Names
+Notice Type
+Date
+Event
+Age
+Other Details
+Publication
+Published
+ABELA
+Mafalda
+Death notice
+20SEP2013
+Death
+83  
+late of Matraville
+Daily Telegraph (Sydney)
+24SEP2013
+ABELA
+Mafalda
+Death notice
+20SEP2013
+Death
+83  
+late of Matraville
+Sydney Morning Herald
+24SEP2013
+ADAMI
+Daniela Mafalda
+Death notice
+06AUG2017
+Death
+38  
+Adelaide Advertiser
+09AUG2017
+ADAMI
+Daniela Mafalda
+Death notice
+16AUG2017
+Funeral
+Adelaide Advertiser
+12AUG2017
+AMADIO
+Mafalda
+see CAPRIOTTI, Mafalda
+The West Australian
+07NOV2013
+AMADIO
+Mafalda
+see CAPRIOTTI, Mafalda
+The West Australian
+06NOV2013
+ARACE
+Mafalda
+Death notice
+24MAR2014
+Death
+79  
+formerly of Benevento, Italy
+Adelaide Advertiser
+26MAR2014
+ARCOBELLI
+Mafalda
+see PLUTINO, Mafalda
+Adelaide Advertiser
+25JAN2023
+ARICO
+Maria Mafalda
+Death notice
+07JUN2022
+Death
+92  
+late of Grafton
+Sydney Morning Herald
+09JUN2022
+ARICO
+Maria Mafalda
+Probate notice
+07JUN2022
+Death
+late of Grafton
+NSW Probate Index
+24AUG2022
+AVOLIO
+Mafalda
+Death notice
+24JUN1972
+Death
+at Marooba, Qld (born 14 Sep 1925 Fagnano Castello, Cosenza)
+Il Globo (Melbourne)
+18JUL1972
+BAYNE
+Zeterieine Yoland Mafalda (Zettie)
+Death notice
+03OCT2001
+Death
+72  
+Herald Sun (Melbourne)
+05OCT2001
+BEGHE
+Mafalda
+Death notice
+22AUG1996
+Death
+The Age (Melbourne)
+23AUG1996
+BEGHE
+Mafalda
+Funeral notice
+29AUG1996
+Funeral
+The Age (Melbourne)
+29AUG1996
+BELLEFEMINE
+Mafalda
+Death notice
+23MAY2003
+Death
+Herald Sun (Melbourne)
+26MAY2003
+BELLEFEMINE
+Mafalda
+Death notice
+27MAY2003
+Publication
+Herald Sun (Melbourne)
+27MAY2003
+BENCI
+Mafalda
+Probate notice
+04JUN2022
+Death
+late of Chipping Norton
+NSW Probate Index
+28JUN2022
+BENCI
+Mafalda Regina
+Probate notice
+04JUN2022
+Death
+late of Chipping Norton
+NSW Probate Index
+16SEP2022
+BERNARDESCHI
+Mafalda
+Funeral notice
+04JAN2024
+Funeral
+Ballarat Courier
+30DEC2023
+BERNARDESCHI
+Mafalda (Alda)
+Death notice
+20DEC2023
+Death
+98  
+(born 03 Jun 1925 Pola, Italy)
+Ballarat Courier
+30DEC2023
+BLANCO
+Mafalda
+Death notice
+23APR2016
+Death
+81  
+formerly of Italy
+Adelaide Advertiser
+26APR2016
+BRAIOTTA
+Mafalda Lina
+Death notice
+23AUG2003
+Death
+76  
+at QEH, SA
+Adelaide Advertiser
+25AUG2003
+BRAIOTTA
+Mafalda Lina
+Death notice
+27AUG2003
+Funeral
+Adelaide Advertiser
+26AUG2003
+BRUSAMARELLO
+Mafalda
+Death notice
+14FEB2011
+Death
+91  
+Herald Sun (Melbourne)
+23FEB2011
+BUCCINO
+Mafalda
+Death notice
+06NOV1986
+Death
+at Melbourne (born 12 Jan 1906 Italy)
+Il Globo (Melbourne)
+10NOV1986
+BURRAZIN
+Mafalda
+Funeral notice
+21JAN2022
+Funeral
+FD - Palmdale Group (Central Coast)
+21JAN2022
+BUZZAI
+Marisa Mafalda
+Death notice
+08FEB2024
+Death
+at Bexley, NSW, Australia, late of North Turramurra (born 02 Oct 1931)
+La Fiamma (Sydney)
+09FEB2024
+CAIA
+Mafalda
+see STRANO, Mafalda
+Herald Sun (Melbourne)
+15NOV2013
+CAPRIOTTI
+Mafalda
+Death notice
+03NOV2013
+Death
+85  
+formerly of Italy
+The West Australian
+05NOV2013
+CAPRIOTTI
+Mafalda
+Funeral notice
+07NOV2013
+Funeral
+late of Girrawheen
+The West Australian
+07NOV2013
+CAPRIOTTI
+Mafalda
+Funeral notice
+07NOV2013
+Funeral
+late of Girrawheen
+The West Australian
+06NOV2013
+CARTURAN
+Mafalda
+see DARIO, Mafalda
+Deniliquin Pastoral Times
+19AUG2016
+CASAROTTO
+Mafalda (Lina)
+see GIGLIOTTI, Mafalda (Lina)
+Alpine Observer (Myrtleford)
+10APR2019
+CASAROTTO
+Mafalda (Lina)
+see GIGLIOTTI, Mafalda (Lina)
+Myrtleford Times
+10APR2019
+CENTOFANTI
+Mafalda
+see D'ANGELICA, Mafalda
+Adelaide Advertiser
+01APR2015
+CESTA-INCANI
+Mafalda
+Other
+13NOV1990
+Memorial Service
+Illawarra Mercury
+12NOV1990
+CICCHINO
+Giuseppina Mafalda
+Funeral notice
+19MAY2025
+Funeral
+The West Australian
+14MAY2025
+CICCHINO
+Giuseppina Mafalda
+Death notice
+08MAY2025
+Death
+The West Australian
+10MAY2025
+CICCHINO
+Giuseppina Mafalda
+Funeral notice
+19MAY2025
+Funeral
+The West Australian
+17MAY2025
+CICUTTO
+Mafalda
+Funeral notice
+03JUL2021
+Death
+late of Hammondville, formerly of Condell Park (born 12 Oct 1930)
+Daily Telegraph (Sydney)
+10JUL2021
+CICUTTO
+Mafalda
+Probate notice
+03JUL2021
+Death
+late of Hammondville
+NSW Probate Index
+06AUG2021
+COLLINA
+Mafalda
+Death notice
+07JAN2019
+Death
+89  
+(born 15 Mar 1929)
+Herald Sun (Melbourne)
+21JAN2019
+CORALLO
+Mafalda Ida
+Death notice
+25MAY2020
+Death
+(born 15 Mar 1926)
+Herald Sun (Melbourne)
+28MAY2020
+CORALLO
+Mafalda Ida
+Death notice
+25MAY2020
+Death
+at Melbourne, Victoria (born 15 Mar 1936 Rovolon, Veneto, Italy)
+Il Globo (Melbourne)
+02JUN2020
+COVINO
+Andreina Mafalda
+Death notice
+24JUN2019
+Publication
+The West Australian
+24JUN2019
+COVINO
+Andreina Mafalda
+Funeral notice
+05JUL2019
+Funeral
+late of Nedlands
+The West Australian
+29JUN2019
+COVINO
+Mafalda Arcangela
+Death notice
+15NOV2014
+Death
+82  
+at T.Q.E.H., formerly of Beltiglio, Ceppaloni, Pr. Benevento, Italy
+Adelaide Advertiser
+17NOV2014
+COVINO
+Mafalda Arcangela
+Funeral notice
+20NOV2014
+Funeral
+Adelaide Advertiser
+18NOV2014
+CREA
+Daniela Mafalda
+see ADAMI, Daniela Mafalda
+Adelaide Advertiser
+09AUG2017
+CREA
+Daniela Mafalda
+see ADAMI, Daniela Mafalda
+Adelaide Advertiser
+12AUG2017
+D'ALOIA
+Mafalda
+see LANDOLFI, Mafalda
+Adelaide Advertiser
+27APR2024
+D'ALOIA
+Mafalda
+see LANDOLFI, Mafalda
+Adelaide Advertiser
+27APR2024
+D'ANGELICA
+Mafalda
+Death notice
+01APR2015
+Publication
+74  
+Adelaide Advertiser
+01APR2015
+D'ANGELICA
+Mafalda (Miffy)
+Death notice
+09APR2015
+Funeral
+Adelaide Advertiser
+04APR2015
+DALLA-COSTA
+Mafalda (Muffy)
+see MICHAEL, Mafalda (Muffy)
+The West Australian
+27JUN2022
+DALLARMI
+Enrichetta Mafalda
+Probate notice
+17OCT2023
+Death
+late of Kogarah
+NSW Probate Index
+06MAR2024
+DARIO
+Mafalda
+Death notice
+15AUG2016
+Death
+84  
+late of Deniliquin
+Deniliquin Pastoral Times
+19AUG2016
+DARIO
+Mafalda
+Probate notice
+15AUG2016
+Death
+late of Deniliquin
+NSW Probate Index
+17OCT2016
+De LOSA
+Mafalda
+Death notice
+12MAR2010
+Death
+84  
+at Jessie Mcpherson Hospital
+Herald Sun (Melbourne)
+15MAR2010
+DE MENNA
+Mafalda
+Death notice
+07SEP1978
+Death
+(born 22 Feb 1930 Corfino, L'Aquila)
+Il Globo (Melbourne)
+11SEP1978
+DE TONI
+Gema Mafalda (Gemma)
+Funeral notice
+25MAY2025
+Death
+late of Kepnock (born 28 May 1938)
+FD - Generation Funerals (Bundaberg)
+05FEB2026
+DEL VECCHIO
+Mafalda
+Death notice
+31MAY2005
+Death
+82  
+at Waverley, late of Bondi Beach, formerly of Italy
+Sydney Morning Herald
+02JUN2005
+DELBELLO
+Mafalda
+Probate notice
+12JUL2020
+Death
+late of Liverpool
+NSW Probate Index
+13AUG2020
+DELLA-VERDE
+Mafalda
+Death notice
+07FEB2010
+Death
+86  
+formerly of Montefredane, Prov. Avellino, Italy
+Adelaide Advertiser
+09FEB2010
+DELLA-VERDE
+Mafalda
+Funeral notice
+12FEB2010
+Funeral
+Adelaide Advertiser
+10FEB2010
+DONISI
+Mafalda
+Death notice
+27JUN2014
+Death
+94  
+at Catherine McAuley Aged Care, Wembley, late of North Perth, formerly of San Leucio del Sannio
+The West Australian
+30JUN2014
+DONISI
+Mafalda
+Funeral notice
+04JUL2014
+Funeral
+late of North Perth
+The West Australian
+02JUL2014
+FABBRO
+Mafalda
+Probate notice
+11OCT2019
+Death
+late of Waterfall
+NSW Probate Index
+16NOV2019
+FALCHETTO
+Mafalda
+see PARISOTTO, Mafalda
+Macleay Argus (Kempsey)
+22MAY1980
+FALCHETTO
+Mafalda
+see PARISOTTO, Mafalda
+Guardian News (Nambucca Heads)
+27JUN1980
+FANTASIA
+Mafalda
+Death notice
+25AUG2025
+Death
+85  
+at Adelaide (born 17 Dec 1939 Altavilla Irpina, Prov Avellino, Italy)
+Adelaide Advertiser
+30AUG2025
+FANTASIA
+Mafalda
+Funeral notice
+04SEP2025
+Funeral
+Adelaide Advertiser
+30AUG2025
+FOLGHERA
+Mafalda
+see BUCCINO, Mafalda
+Il Globo (Melbourne)
+10NOV1986
+FORNER
+Mafalda Eugenia
+Probate notice
+23NOV2007
+Publication
+late of Scalabrini Village, Yoogali
+Area News (Griffith)
+23NOV2007
+FORTE
+Mafalda
+Death notice
+22FEB2013
+Death
+81  
+at Mary Potter Hospice, formerly of Italy
+Adelaide Advertiser
+23FEB2013
+GIGLIOTTI
+Mafalda (Lina)
+Death notice
+01APR2019
+Death
+at Myrtleford Lodge
+Alpine Observer (Myrtleford)
+10APR2019
+GIGLIOTTI
+Mafalda (Lina)
+Death notice
+01APR2019
+Death
+at Myrtleford Lodge
+Myrtleford Times
+10APR2019
+GIGLIOTTI
+Mafalda (Lina)
+Death notice
+01APR2019
+Death
+at Myrtleford Lodge
+Border Mail (Albury)
+04APR2019
+GRIMALDI
+Carolina Mafalda
+Death notice
+13SEP2002
+Death
+94  
+late of Lugarno
+Sydney Morning Herald
+17SEP2002
+GUERRA
+Mafalda
+Death notice
+28MAY2015
+Death
+88  
+late of Samson, formerly of Fremantle
+The West Australian
+30MAY2015
+IENNA
+Mafalda
+Probate notice
+24JUL2016
+Death
+late of Fairfield
+NSW Probate Index
+07OCT2016
+IENNA
+Mafalda
+Probate notice
+24JUL2016
+Death
+late of Fairfield
+NSW Probate Index
+31AUG2016
+INGLEY
+Iolanda Mafalda Maria
+Death notice
+05MAR2010
+Death
+The Age (Melbourne)
+10MAR2010
+INGLEY
+Iolanda Mafalda Maria
+Funeral notice
+12MAR2010
+Funeral
+Herald Sun (Melbourne)
+09MAR2010
+INGLEY
+Iolanda Mafalda Maria
+Death notice
+05MAR2010
+Death
+Herald Sun (Melbourne)
+10MAR2010
+INGLEY
+Jolanda Mafalda Maria
+Funeral notice
+12MAR2010
+Funeral
+The Age (Melbourne)
+09MAR2010
+JAGER
+Zeterieine Yoland Mafalda (Zettie)
+see BAYNE, Zeterieine Yoland Mafalda (Zettie)
+Herald Sun (Melbourne)
+05OCT2001
+KEARY
+Ouida Mafalda (Peg)
+Death notice
+13MAR1995
+Death
+83  
+late of The Entrance
+Central Coast Express Advocate
+15MAR1995
+LANDOLFI
+Mafalda
+Death notice
+20APR2024
+Death
+86  
+(born 27 Jul 1937 Beltiglio)
+Adelaide Advertiser
+27APR2024
+LANDOLFI
+Mafalda
+Funeral notice
+30APR2024
+Funeral
+Adelaide Advertiser
+27APR2024
+LEGOVICH
+Mafalda Violet
+Funeral notice
+11JUN2018
+Death
+100  
+late of Elermore Vale
+Newcastle Herald
+16JUN2018
+LEGOVICH
+Mafalda Violet
+Probate notice
+11JUN2018
+Death
+late of Elermore Vale
+NSW Probate Index
+24AUG2018
+LEPORE
+Mafalda
+Death notice
+30SEP2001
+Death
+Herald Sun (Melbourne)
+02OCT2001
+LIBERATO
+Mafalda
+Death notice
+18JAN2019
+Death
+Herald Sun (Melbourne)
+28JAN2019
+LOVRICH
+Mafalda
+Probate notice
+12DEC2025
+Publication
+late of Kelvin Grove, Qld
+Queensland Probate Index
+12DEC2025
+LUCA
+Mafalda
+Funeral notice
+04MAR2016
+Funeral
+Herald Sun (Melbourne)
+02MAR2016
+MAIORANA
+Maria Mafalda
+Death notice
+07JUN2022
+Death
+92  
+at Sydney, NSW, Australia, late of Grafton, formerly of Gladesville
+La Fiamma (Sydney)
+09JUN2022
+MARASCO
+Mafalda Adelaide
+Death notice
+30OCT2024
+Death
+at Frenchs Forest, NSW, Australia (born 30 Sep 1927 Martirano, Calabria, Italy)
+La Fiamma (Sydney)
+04NOV2024
+MARASCO
+Mafalda Adelaide
+Probate notice
+30OCT2024
+Death
+late of Brookvale
+NSW Probate Index
+04JUL2025
+MARINI
+Mafalda (May)
+Death notice
+18SEP2009
+Death
+80  
+late of Greenacre
+Daily Telegraph (Sydney)
+22SEP2009
+MARULLI
+Mafalda
+Death notice
+28JAN2009
+Death
+Herald Sun (Melbourne)
+31JAN2009
+MERLINO
+Mafalda
+Death notice
+25DEC1999
+Death
+76  
+late of Elizabeth Bay
+Sydney Morning Herald
+29DEC1999
+MICHAEL
+Mafalda (Muffy)
+Death notice
+23JUN2022
+Death
+90  
+(born 16 Apr 1932)
+The West Australian
+27JUN2022
+MIELE
+Mafalda
+see FORTE, Mafalda
+Adelaide Advertiser
+23FEB2013
+MILNE
+Olive Mafalda May
+Death notice
+30DEC2001
+Death
+94  
+at Jharmbi Nursing Home, Inala Village, Blackburn
+Herald Sun (Melbourne)
+02JAN2002
+MIRABILE
+Mafalda
+Death notice
+14NOV1983
+Death
+57  
+at St Vincent's Hospital, late of Drummoyne
+Sydney Morning Herald
+16NOV1983
+MIRABILE
+Mafalda
+Funeral notice
+18NOV1983
+Funeral
+Sydney Morning Herald
+16NOV1983
+MISINO
+Mafalda
+Death notice
+06MAY2017
+Death
+90  
+Herald Sun (Melbourne)
+10MAY2017
+MODESTO
+Mafalda
+Death notice
+24APR2018
+Death
+The West Australian
+01MAY2018
+MODESTO
+Mafalda
+Funeral notice
+05MAY2018
+Funeral
+The West Australian
+01MAY2018
+MOODY
+Dorothy Mafalda
+Probate notice
+06AUG1997
+Publication
+late of Crana Nursing Home, Herston, formerly of Ashgrove
+Courier Mail (Brisbane)
+06AUG1997
+MOODY
+Dorothy Mafalda Josephine
+see MOODY, Dorothy Mafalda
+Courier Mail (Brisbane)
+06AUG1997
+MOODY
+Dorothy Mafalda Josephine
+Funeral notice
+09JUL1997
+Funeral
+late of Crana Nursing Home, Herston, formerly of Ashgrove
+Courier Mail (Brisbane)
+07JUL1997
+MORETTA
+Mafalda
+Death notice
+21DEC1984
+Death
+(born 29 Mar 1939 Vill'Alfonsina, CH)
+Il Globo (Melbourne)
+07JAN1985
+MORETTI
+Mafalda
+Probate notice
+07DEC2001
+Death
+late of St Agnes
+Adelaide Advertiser
+28FEB2002
+MORETTI
+Mafalda
+Death notice
+07DEC2001
+Death
+89  
+Adelaide Advertiser
+10DEC2001
+PALMATO
+Mafalda Arcangela
+see COVINO, Mafalda Arcangela
+Adelaide Advertiser
+17NOV2014
+PALMATO
+Mafalda Arcangela
+see COVINO, Mafalda Arcangela
+Adelaide Advertiser
+18NOV2014
+PALMERINI
+Mafalda
+Death notice
+13JUL2019
+Death
+(born 21 July 1940)
+Herald Sun (Melbourne)
+17JUL2019
+PALONE
+Mafalda
+Death notice
+15OCT2011
+Death
+82  
+Herald Sun (Melbourne)
+18OCT2011
+PALONE
+Mafalda
+Death notice
+19OCT2011
+Publication
+Herald Sun (Melbourne)
+19OCT2011
+PARISOTTO
+Mafalda
+Death notice
+19MAY1980
+Death
+77  
+late of Kempsey
+Sydney Morning Herald
+24MAY1980
+PARISOTTO
+Mafalda
+Probate notice
+26JUN1980
+Publication
+late of East Kempsey
+Macleay Argus (Kempsey)
+26JUN1980
+PARISOTTO
+Mafalda
+Obituary
+20MAY1980
+Death
+77  
+late of Kempsey, formerly of Grassy Head
+Macleay Argus (Kempsey)
+22MAY1980
+PARISOTTO
+Mafalda
+Obituary
+20MAY1980
+Death
+late of Kempsey
+Guardian News (Nambucca Heads)
+27JUN1980
+PENGUE
+Mafalda
+Funeral notice
+05AUG2025
+Funeral
+Adelaide Advertiser
+02AUG2025
+PERISSA
+Mafalda
+Funeral notice
+02SEP2010
+Death
+87  
+at Sir William Hudson Memorial Centre
+FD - Allens Funerals (Cooma)
+30SEP2010
+PETTERLIN
+Mafalda Ida
+see CORALLO, Mafalda Ida
+Il Globo (Melbourne)
+02JUN2020
+PLUTINO
+Mafalda
+Death notice
+21JAN2023
+Death
+87  
+at Adelaide (born 15 Feb 1935 Beltiglio, Pr Ceppaluni, Italy)
+Adelaide Advertiser
+25JAN2023
+PLUTINO
+Mafalda
+Funeral notice
+27JAN2023
+Funeral
+Adelaide Advertiser
+25JAN2023
+PORTELLI
+Mafalda (Mary)
+Death notice
+22APR2020
+Death
+(born 04 Mar 1947)
+Herald Sun (Melbourne)
+25APR2020
+PRIMUS
+Yolanda Mafalda (Yole)
+Funeral notice
+24FEB2022
+Death
+93  
+late of Toowoomba
+The Chronicle (Toowoomba)
+05MAR2022
+RAZZI
+Mafalda
+Death notice
+01AUG2013
+Funeral
+Herald Sun (Melbourne)
+29JUL2013
+RUGGIERO
+Mafalda
+Death notice
+14NOV2001
+Death
+79  
+late of Murray Bridge (born Buonalbergo, Benevento, Italy)
+Adelaide Advertiser
+15NOV2001
+RUGGIERO
+Mafalda
+Death notice
+14NOV2001
+Death
+79  
+late of Murray Bridge (born Buonalbergo, Benevento, Italy)
+Adelaide Advertiser
+16NOV2001
+RUGGIERO
+Mafalda
+Death notice
+17NOV2001
+Publication
+Adelaide Advertiser
+17NOV2001
+SCHONSTEIN
+Mafalda Tecla
+Probate notice
+22JAN2014
+Death
+late of Rose Bay
+NSW Probate Index
+28JAN2014
+SCHONSTEIN
+Mafalda22
+Death notice
+22JAN2014
+Death
+90  
+late of Rose Bay
+Sydney Morning Herald
+25JAN2014
+SCOGNAMIGLIO
+Mafalda
+Funeral notice
+28SEP2002
+Death
+76  
+late of Chermside
+Courier Mail (Brisbane)
+01OCT2002
+SINICCO
+Mafalda
+Death notice
+14JAN1993
+Death
+The Age (Melbourne)
+16JAN1993
+SPAGNUOLO
+Mafalda
+see DELLA-VERDE, Mafalda
+Adelaide Advertiser
+09FEB2010
+SPAGNUOLO
+Mafalda
+see DELLA-VERDE, Mafalda
+Adelaide Advertiser
+10FEB2010
+SPESSOT
+Mafalda
+see ZOTTI, Mafalda
+La Fiamma (Sydney)
+08MAY2021
+SPESSOT
+Mafalda
+Death notice
+28APR2021
+Death
+(born 25 Nov 1934)
+Sydney Morning Herald
+08MAY2021
+STARC
+Mafalda
+Funeral notice
+17MAR2024
+Death
+(born 28 May 1942)
+Herald Sun (Melbourne)
+22MAR2024
+STRAND
+Mafalda
+Funeral notice
+18NOV2013
+Funeral
+Herald Sun (Melbourne)
+14NOV2013
+STRANO
+Mafalda
+Death notice
+12NOV2013
+Death
+87  
+Herald Sun (Melbourne)
+15NOV2013
+TAMIOZZO
+Onorina Mafalda
+see TARCA, Onorina Mafalda (Rina)
+Adelaide Advertiser
+22JAN2022
+TAMIOZZO
+Ororina Mafalda (Rina)
+see TARCA, Onorina Mafalda (Rina)
+The Leader (Angaston)
+19JAN2022
+TARCA
+Onorina Mafalda (Rina)
+Death notice
+16JAN2022
+Death
+93  
+at Barossa Village
+Adelaide Advertiser
+22JAN2022
+TARCA
+Onorina Mafalda (Rina)
+Funeral notice
+27JAN2022
+Funeral
+Adelaide Advertiser
+22JAN2022
+TARCA
+Onorina Mafalda (Rina)
+Death notice
+16JAN2022
+Death
+93  
+at Barossa Village
+The Leader (Angaston)
+19JAN2022
+TRIOLO
+Mafalda
+Probate notice
+23JUL2024
+Death
+late of Sans Souci
+NSW Probate Index
+09SEP2024
+VENIER
+Mafalda Oliva
+Probate notice
+10JUL1989
+Publication
+late of Carlton
+The Age (Melbourne)
+10JUL1989
+VILLELLA
+Mafalda
+Death notice
+30AUG2005
+Publication
+Herald Sun (Melbourne)
+30AUG2005
+VILLELLA
+Mafalda
+Probate notice
+19APR2007
+Publication
+late of Wonthaggi
+The Age (Melbourne)
+19APR2007
+VISCUSO
+Mafalda
+Death notice
+17MAR1996
+Death
+at Melbourne (born 23 Jun 1913 San Ferdinando, Rosarno, Reggio Calabria)
+Il Globo (Melbourne)
+25MAR1996
+VOLPATO
+Maria Mafalda
+Death notice
+02FEB2012
+Death
+85  
+at Adelaide SA (born 10 Apr 1926, Mestre, Italy)
+Adelaide Advertiser
+04FEB2012
+YACCARINI
+Mafalda
+Death notice
+12APR2006
+Death
+Herald Sun (Melbourne)
+17APR2006
+YACCARINI
+Mafalda
+Death notice
+18APR2006
+Publication
+Herald Sun (Melbourne)
+18APR2006
+YACCARINI
+Mafalda (Mafi)
+Probate notice
+03JUL2006
+Publication
+late of Glenroy
+The Age (Melbourne)
+03JUL2006
+ZANIBELLATO
+Maria Mafalda
+see VOLPATO, Maria Mafalda
+Adelaide Advertiser
+04FEB2012
+ZOTTI
+Mafalda
+Death notice
+28APR2021
+Death
+at Merrylands, NSW, Australia (born 25 Nov 1931 Gorizia, Friuli-Venezia Giulia, Italy)
+La Fiamma (Sydney)
+08MAY2021

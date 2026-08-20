@@ -1,0 +1,1408 @@
+FreeBMD search: {'surname': 'Barrett', 'type_': 'Births', 'districtid': '118', 'start': 1837, 'end': 1850}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Sep1837
+BARRETT
+ Edwin 
+St Austell 
+9
+4
+Births  Mar1838
+BARRETT
+ Leonora Charity Tuppin 
+St Austell 
+9
+2
+Births  Jun1838
+BARRETT
+ Robert James 
+St Austell 
+9
+16
+Births  Mar1840
+Barrett
+ William 
+St. Austell 
+9
+2
+Barrett
+ William 
+St Austell 
+9
+_{0,1}2_{0,1}
+Births  Mar1841
+Barrett
+ Elizabeth Ann 
+St Austell 
+9
+20
+Births  Jun1841
+Barrett
+ John 
+St.Austell 
+9
+11
+Births  Mar1842
+BARRETT
+ Elizabeth 
+St Austell 
+9
+4
+Births  Jun1843
+BARRETT
+ Samuel Jacobs 
+St Austell 
+9
+10
+Births  Mar1844
+Barrett
+ William 
+St.Austel 
+9
+13
+Births  Jun1844
+Barrett
+ Caroline 
+St Austell 
+9
+24
+Births  Mar1846
+Barrett
+ Emma 
+St Austell 
+9
+3
+Births  Dec1846
+Barrett
+ Hellen 
+St Austell 
+9
+6
+Births  Jun1848
+Barrett
+ William Henry 
+St Austell 
+9
+20
+Births  Sep1848
+BARRETT
+ Samuel 
+St Austell 
+9
+9
+Births  Sep1850
+Barrett
+ Peter 
+St. Austel 
+9
+15
+Births  Jun1851
+Barrett
+ Luscinda 
+S Austell 
+9
+33
+Barrett
+ Lusenida 
+S. Austell 
+9
+33
+Births  Dec1852
+BARRETT
+ John 
+St Austell 
+5c
+128
+Births  Dec1854
+BARRETT
+ John 
+St Austell 
+5c
+153
+BARRETT
+ Mary Jane 
+St Austell 
+5c
+128
+Births  Mar1855
+Barrett
+ Jane 
+St Austell 
+5c
+166
+Barrett
+ Tom 
+St Austell 
+5c
+150
+Births  Mar1856
+BARRETT
+ Jacob 
+St Austell 
+5c
+166
+BARRETT
+ James 
+St Austell 
+5c
+142
+Births  Dec1857
+Barrett
+ Mary 
+St. Austell 
+5c
+119
+Births  Jun1858
+Barrett
+ Joshua 
+St Austell 
+5c
+161
+Births  Sep1858
+Barrett
+ Joseph Samuel 
+St Austell 
+5c
+136
+Births  Jun1859
+BARRETT
+ Harry 
+St Austell 
+5c
+151
+Births  Mar1860
+BARRETT
+ Louisa 
+St Austell 
+5c
+146
+Births  Dec1860
+BARRETT
+ Mary Matilda 
+St Austell 
+5c
+133
+Births  Mar1861
+BARRETT
+ Tufphena 
+St Austell 
+5c
+138
+BARRETT
+ Tufphera 
+St Austell 
+5c
+138
+Births  Sep1861
+BARRETT
+ Louisa 
+St Austell 
+5c
+133
+Births  Dec1861
+Barrett
+ Thirza Grace 
+St Austell 
+5c
+128
+Births  Sep1862
+BARRETT
+ Emma Jane 
+St Austell 
+5c
+115
+Births  Mar1863
+BARRETT
+ William 
+St Austell 
+5c
+157
+Births  Sep1863
+BARRETT
+ Ellen 
+St Austell 
+5c
+128
+BARRETT
+ John Charles 
+St Austell 
+5c
+128
+BARRETT
+ Lottie Rebecca 
+St Austell 
+5c
+128
+Births  Mar1864
+Barrett
+ Esther Jane 
+St Austell 
+5c
+145
+Births  Jun1865
+BARRETT
+ Elizabeth Ann 
+St. Austell 
+5C
+141
+Births  Sep1865
+BARRETT
+ Charles 
+St. Austell 
+5c
+130
+Births  Dec1865
+BARRETT
+ Mary Ellen 
+St. Austell 
+5c
+129
+Births  Mar1866
+Barrett
+ Sidney S 
+St. Austell 
+5c
+161
+Births  Jun1866
+BARRETT
+ William S R 
+St. Austell 
+5c
+138
+Births  Sep1866
+Barrett
+ John B 
+St. Austell 
+5c
+116
+Births  Sep1867
+Barrett
+ William Alfred 
+St. Austell 
+5c
+117
+Births  Dec1867
+Barrett
+ Ellen 
+St. Austell 
+5c
+128
+Barrett
+ William John 
+St. Austell 
+5c
+117
+Births  Jun1869
+BARRETT
+ Thomas 
+St. Austell 
+5c
+125
+Births  Sep1869
+BARRETT
+ Elizabeth Ann 
+St. Austell 
+5c
+121
+Births  Mar1870
+Barrett
+ Mary Ann 
+St. Austell 
+5c
+128
+BARRETT
+ Mary Ann 
+St. Austell 
+5c
+129
+Births  Sep1870
+Barrett
+ William John 
+St. Austell 
+5c
+132
+Births  Dec1870
+BARRETT
+ Geneva 
+St Austell 
+5c
+127
+BARRETT
+ Thirza Grace 
+St Austell 
+5c
+120
+Births  Sep1871
+Barrett
+ Samuel 
+St. Austell 
+5c
+106
+Births  Dec1871
+Barrett
+ Edith Jenkins 
+St. Austell 
+5c
+116
+Births  Mar1873
+Barrett
+ Mary 
+St. Austell 
+5c
+139
+Births  Jun1873
+Barrett
+ Eliza Jane 
+St. Austell 
+5c
+122
+Barrett
+ Emma 
+St. Austell 
+5c
+141
+Barrett
+ Fred 
+St. Austell 
+5c
+143
+Births  Jun1874
+BARRETT
+ Cleopus 
+St. Austell 
+5c
+119
+Births  Dec1874
+BARRETT
+ William John 
+St. Austell 
+5c
+114
+Births  Jun1875
+Barrett
+ Percy 
+St. Austell 
+5c
+122
+Births  Sep1876
+BARRETT
+ Henry Ernest 
+St. Austell 
+5c
+106
+Births  Dec1876
+BARRETT
+ John 
+St. Austell 
+5c
+104
+Births  Sep1877
+BARRETT
+ John 
+St. Austell 
+5c
+137
+Births  Dec1877
+BARRETT
+ Jonathan 
+St.Austell 
+5c
+131
+Births  Sep1878
+BARRETT
+ Eliza Jane 
+St. Austell 
+5c
+109
+Births  Dec1878
+BARRETT
+ Arthur Henry 
+St. Austell 
+5c
+111
+Births  Jun1879
+Barrett
+ Richard 
+St. Austell 
+5c
+128
+Births  Sep1879
+Barrett
+ Sarah Grace 
+St. Austell 
+5c
+129
+Births  Dec1880
+BARRETT
+ Laura 
+St. Austell 
+5c
+104
+Births  Jun1881
+BARRETT
+ Lily 
+St. Austell 
+5c
+120
+Births  Sep1883
+BARRETT
+ Richard Thomas D 
+St. Austell 
+5c
+98
+BARRETT
+ William Charles 
+St. Austell 
+5c
+95
+Births  Dec1883
+BARRETT
+ John 
+St. Austell 
+5c
+106
+Births  Dec1885
+BARRETT
+ George Bovey 
+St. Austell 
+5c
+100
+Births  Mar1886
+BARRETT
+ Edith 
+St Austell 
+5c
+121
+BARRETT
+ Edith Maud 
+St Austell 
+5c
+101
+Births  Mar1887
+BARRETT
+ David 
+St. Austell 
+5c
+97
+Births  Mar1888
+BARRETT
+ Archibald 
+St. Austell 
+5c
+101
+Births  Dec1888
+BARRETT
+ Edith 
+St Austell 
+5c
+114
+Births  Jun1891
+Barrett
+ Benjamin John 
+St Austell 
+5c
+94
+Births  Dec1891
+Barrett
+ Percy 
+St. Austell 
+5c
+97
+Barrett
+ Prynn 
+St. Austell 
+5c
+121
+Births  Jun1892
+Barrett
+ Arthur 
+St. Austell 
+5c
+86a
+Births  Sep1892
+Barrett
+ Reginald 
+St. Austell 
+5c
+98
+Births  Jun1893
+BARRETT
+ Joseph 
+St. Austell 
+5c
+119
+Births  Mar1894
+Barrett
+ Violet 
+St. Austell 
+5c
+91
+Births  Sep1894
+Barrett
+ Myrtle Annie 
+St. Austell 
+5c
+93
+Births  Dec1894
+Barrett
+ Emma Grace 
+St. Austell 
+5c
+107
+Births  Jun1895
+Barrett
+ Amelia 
+St. Austell 
+5c
+89
+Barrett
+ James Henry 
+St. Austell 
+5c
+96
+Births  Sep1895
+Barrett
+ Ruby Ruth 
+St. Austell 
+5c
+91
+Births  Dec1896
+Barrett
+ Frederick John 
+St. Austell 
+5c
+90
+Births  Mar1897
+Barrett
+ Maud 
+St. Austell 
+5c
+89
+Births  Jun1898
+Barrett
+ Florence Amelia J N 
+St. Austell 
+5c
+87
+Barrett
+ Sydney Bovey 
+St. Austell 
+5c
+88
+Barrett
+ William Charles 
+St. Austell 
+5c
+95
+Births  Mar1899
+Barrett
+ Leah 
+St. Austell 
+5c
+89
+Births  Jun1899
+Barrett
+ William Francis 
+St. Austell 
+5c
+88
+Births  Dec1900
+Barrett
+ Audrey Annie 
+St. Austell 
+5c
+84
+Births  Jun1902
+Barrett
+ Thomas John 
+St. Austell 
+5c
+77
+Births  Mar1903
+Barrett
+ Richard 
+St Austell 
+5c
+98
+Barrett
+ William Charles 
+St Austell 
+5c
+86
+Births  Dec1903
+Barrett
+ Bessie Ellen 
+St. Austell 
+5c
+85
+Births  Mar1905
+Barrett
+ Evan 
+St. Austell 
+5c
+86
+Births  Dec1905
+Barrett
+ James Howard 
+St. Austell 
+5c
+87
+Births  Mar1906
+Barrett
+ Lilian Hester 
+St. Austell 
+5c
+95
+Births  Sep1906
+Barrett
+ Ruby 
+St. Austell 
+5c
+83
+Births  Mar1907
+Barrett
+ Alma Vera 
+St. Austell 
+5c
+86
+Births  Dec1907
+BARRETT
+ Monica Alice 
+St. Austell 
+5c
+81
+Births  Jun1908
+Barrett
+ Geraldine Sylvia 
+St. Austell 
+5c
+87
+Births  Dec1909
+BARRETT
+ William Charles 
+St. Austell 
+5c
+83
+BARRETT
+ Winifred Grace 
+St. Austell 
+5c
+89
+Births  Jun1910
+BARRETT
+ Evelyn Claudine 
+St Austell 
+5c
+91
+Births  Jun1911
+Barrett
+ Percival G 
+St.Austell 
+5c
+87
+Births  Dec1911
+Barrett
+ John C F 
+Clements 
+St.Austell 
+5c
+159
+Births  Jun1913
+Barrett
+ Henry T 
+Moyses 
+St.Austell 
+5c
+143
+Births  Sep1913
+Barrett
+ Coventry 
+Richards 
+St. Austell 
+5c
+179
+Births  Dec1914
+BARRETT
+ William L 
+Moyle 
+St. Austell 
+5c
+173
+Births  Mar1915
+BARRETT
+ Norman P 
+Clements 
+St. Austell 
+5c
+144
+Births  Dec1915
+Barrett
+ Olive C 
+Tuck 
+St. Austell 
+5c
+132
+Births  Mar1916
+Barrett
+ Minneaplis A 
+Moyses 
+St.Austell 
+5c
+129
+Births  Jun1916
+Barrett
+ Sidnaw 
+[M_]oyl[e_] 
+St.Austell 
+5c
+181
+Births  Dec1916
+Barrett
+ William K 
+Clements 
+St.Austell 
+5c
+149
+Births  Jun1918
+Barrett
+ Margaret E 
+Grose 
+St. Austell 
+5c
+136
+Births  Jun1919
+Barrett
+ May P 
+Moyse 
+St Austell 
+5c
+114
+Births  Jun1921
+Barrett
+ Daisy P 
+Moyle 
+St.Austell 
+5c
+180
+Barrett
+ Reginald 
+Clements 
+St.Austell 
+5c
+181
+Births  Dec1921
+Barrett
+ Kathleen A 
+Rowe 
+St.Austell 
+5c
+129
+Births  Mar1923
+Barrett
+ Betty L 
+Hawkins 
+St.Austell 
+5c
+122
+Births  Jun1923
+Barrett
+ Everett J 
+Normington 
+St.Austell 
+5c
+176
+Births  Mar1924
+Barrett
+ James H B G 
+Rowe 
+St Austell 
+5c
+133
+Births  Sep1925
+Barrett
+ Harold 
+Normington 
+St. Austell 
+5c
+150
+Births  Jun1926
+Barrett
+ Leyland 
+Rowe 
+St.Austell 
+5c
+132
+Births  Mar1927
+Barrett
+ Joyce C R 
+Rouchetti 
+St.Austell 
+5c
+109
+Births  Mar1929
+Barrett
+ Leah 
+Rowe 
+St.Austell 
+5c
+109
+Births  Jun1930
+Barrett
+ Patricia M 
+Snell 
+St.Austell 
+5c
+116
+Births  Dec1930
+Barrett
+ Gwendoline M 
+Ronchetti 
+St.Austell 
+5c
+113
+Births  Jun1931
+Barrett
+ William J 
+Snell 
+St.Austell 
+5c
+117
+Births  Dec1933
+Barrett
+ Derek C 
+Snell 
+St Austell 
+5c
+93
+Births  Dec1934
+Barrett
+ Samuel G 
+Philp 
+St.Austell 
+5c
+109
+Births  Mar1937
+Barrett
+ Mary E 
+Rouchetti 
+St Austell 
+5c
+67
+Births  Jun1937
+Barrett
+ Elisabeth J 
+Coombe 
+St.Austell 
+5c
+86
+Barrett
+ Teresa 
+Snell 
+St.Austell 
+5c
+74
+Births  Dec1938
+Barrett
+ Carolena A R 
+Rouchetti 
+St.Austell 
+5c
+72
+Births  Sep1939
+Barrett
+ John A 
+Kaye 
+St.Austell 
+5c
+140
+Births  Dec1940
+Barrett
+ Yvonne L 
+Martyn 
+St.Austell 
+5c
+271
+Births  Mar1941
+Barrett
+ Peter K 
+Kaye 
+St.Austell 
+5c
+292
+Barrett
+ Sheila V 
+Philp 
+St.Austell 
+5c
+251
+Births  Sep1941
+Barrett
+ Peter 
+Snell 
+St.Austell 
+5c
+218
+Barrett
+ William J R 
+Pratt 
+St.Austell 
+5c
+257
+Births  Dec1941
+Barrett
+ Hilary K 
+Kent 
+St Austell 
+5c
+274
+Births  Mar1942
+Barrett
+ Michael J 
+Myers 
+St.Austell 
+5c
+245
+Births  Jun1942
+Barrett
+ Teresa K 
+Kaye 
+St.Austell 
+5c
+195
+Births  Sep1942
+Barrett
+ Roger C 
+Coombe 
+St.Austell 
+5c
+125
+Births  Jun1943
+Barrett
+ Wendy M 
+Kent 
+St Austell 
+5c
+140
+Births  Mar1944
+Barrett
+ Kenneth J 
+Teppall 
+St.Austell 
+5c
+115
+Births  Jun1944
+Barrett
+ Ernest F 
+Snell 
+St.Austell 
+5c
+117
+Barrett
+ Richard D D 
+Eastlake 
+St.Austell 
+5c
+151
+Births  Dec1944
+Barrett
+ Christine E M 
+Williams 
+St.Austell 
+5c
+151
+Births  Mar1945
+BARRETT
+ Carol A 
+Philp 
+St Austell 
+5c
+96
+BARRETT
+ Gillian M 
+Pearce 
+St Austell 
+5c
+121
+Births  Mar1946
+Barrett
+ Margaret E 
+Musgrave 
+St.Austell 
+5c
+92
+Births  Jun1946
+Barrett
+ Hugh P 
+Pratt 
+St.Austell 
+5c
+123
+Births  Sep1946
+Barrett
+ Dawn A 
+Eastlake 
+St.Austell 
+7a
+See S47
+Barrett
+ Dawn A 
+Eastlake 
+St. Austell 
+7a
+See S'47
+Births  Mar1947
+Barrett
+ Weldon K 
+Pearce 
+St.Austell 
+7a
+296
+Births  Jun1947
+Barrett
+ Owen C 
+Rowe 
+St.Austell 
+7a
+260
+Births  Sep1947
+Barrett
+ Dawn A 
+Eastlake 
+St.Austell 
+7a
+262
+Births  Dec1947
+Barrett
+ Gerald M 
+Eastlake 
+St.Austell 
+7a
+241
+Births  Jun1948
+Barrett
+ Susan M 
+Martyn 
+St Austell 
+7a
+218
+Births  Mar1949
+Barrett
+ Karen C 
+Middleton 
+St.Austell 
+7a
+214
+Barrett
+ Raymond W 
+Tretheway 
+St.Austell 
+7a
+215
+Births  Dec1949
+Barrett
+ Philip G 
+Burt 
+St. Austell 
+7a
+214
+Births  Mar1951
+BARRETT
+ Ernest S 
+MALLETT 
+St.Austell 
+7a
+201
+Births  Jun1951
+BARRETT
+ Janice P 
+MIDDLETON 
+St.Austell 
+7a
+208
+Births  Sep1953
+BARRETT
+ Colleen G 
+HENWOOD 
+St.Austell 
+7a
+224
+BARRETT
+ Richard J 
+PEARCE 
+St.Austell 
+7a
+219
+Births  Dec1954
+BARRETT
+ Brian M 
+TRETHEWEY 
+St.Austell 
+7a
+196
+BARRETT
+ Nigel P 
+KENT 
+St.Austell 
+7a
+196
+Births  Mar1955
+BARRETT
+ Kevin M 
+HINGSTON 
+St.Austell 
+7a
+176
+Births  Mar1956
+BARRETT
+ Nigel D 
+HINGSTON 
+St.Austell 
+7a
+190
+Births  Sep1956
+Barrett
+ Paul D 
+Vyvyan 
+St.Austell 
+7a
+203
+Births  Dec1956
+Barrett
+ Maria C 
+Burt 
+St.Austell 
+7a
+189
+Births  Mar1957
+BARRETT
+ Leonard A 
+VERCOE 
+St.Austell 
+7a
+199
+Births  Sep1958
+BARRETT
+ Steven G 
+VERCOE 
+St.Austell 
+7a
+204
+Births  Dec1958
+BARRETT
+ William J 
+MARTYN 
+St.Austell 
+7a
+197
+Births  Mar1960
+BARRETT
+ Mervyn C 
+VERCOE 
+St. Austell 
+7a
+204
+Births  Sep1961
+BARRETT
+ Beverley M 
+EASTLAKE 
+St. Austell 
+7a
+215
+Births  Dec1961
+BARRETT
+ Carol L 
+PENNINGTON 
+St.Austell 
+7a
+210
+Births  Dec1963
+BARRETT
+ ANDREW J 
+BERTHO 
+ST.AUSTELL 
+7A
+198
+Births  Mar1964
+BARRETT
+ CAROL A 
+PENNINGTON 
+ST.AUSTELL 
+7A
+229
+Births  Jun1965
+BARRETT
+ PHILIP L 
+CLEMENCE 
+ST.AUSTELL 
+7A
+234
+Births  Dec1965
+BARRETT
+ MARK A 
+WELLAND 
+ST.AUSTELL 
+7A
+200
+BARRETT
+ PAULA T 
+BURCHELL 
+ST.AUSTELL 
+7A
+194
+Births  Jun1966
+BARRETT
+ JEANETTE 
+GREGORY 
+ST.AUSTELL 
+7A
+233
+Births  Jun1967
+Barrett
+ Gary Charles 
+Burchell 
+St.Austell 
+7a
+207
+Births  Dec1967
+Barrett
+ Alison Claire 
+Bertho 
+St. Austell 
+7a
+178
+Births  Jun1969
+BARRETT
+ Andrea Lynn 
+HATTELL 
+St.Austell 
+7a
+339
+Births  Sep1969
+BARRETT
+ Joanne 
+GREGORY 
+St.Austell 
+7a
+320
+Births  Dec1969
+BARRETT
+ Michelle Jeanette 
+DOWLING 
+St.Austell 
+7a
+239
+Births  Jun1971
+BARRETT
+ Craig 
+BARRETT 
+St.Austell 
+7a
+2591s
+Births  Jun1976
+BARRETT
+ CAROL ANNE 
+PENGELLEY 
+ST AUSTELL 
+21
+135
+Births  Mar1977
+BARRETT
+ VANESSA RUTH 
+HOUSE 
+ST AUSTELL 
+21
+136
+Births  Sep1978
+BARRETT
+ NATHAN PAUL 
+POMEROY 
+ST.AUSTELL 
+21
+S'79
+Births  Sep1979
+BARRETT
+ NATHAN PAUL 
+POMEROY 
+ST AUSTELL 
+21
+89
+BARRETT
+ ZOE LORETTA 
+HOUSE 
+ST AUSTELL 
+21
+109
+Births 1985
+BARRETT
+ WAYNE 
+PENGELLY 
+ST AUSTELL 
+21
+72
+Births 1989
+BARRETT
+ ZOE 
+PENGELLY 
+ST AUSTELL 
+21
+44
+Births 1990
+BARRETT
+ JAMES ALEXANDER J 
+COLE 
+ST AUSTELL 
+21
+52
+Births 1993
+BARRETT
+ CHRISTOPHER STEPHEN R 
+COLE 
+ST AUSTELL 
+3673
+119
+Births 1994
+BARRETT
+ CAITLIN EMILY 
+BARRETT 
+ST AUSTELL 
+3673
+140
+Births 1995
+BARRETT
+ ADRIEANNA MARIE 
+BARRETT 
+ST AUSTELL 
+3671C
+21
+BARRETT
+ AMELIA PARKIN 
+PARKIN 
+ST AUSTELL 
+3672
+1
+Births 1996
+BARRETT
+ ALEX 
+BARRETT 
+ST AUSTELL 
+3671C
+46
+BARRETT
+ DESMOND STEWART 
+BARRETT 
+ST AUSTELL 
+3671C
+45
+BARRETT
+ ROBIN ANGELA 
+BUIST 
+ST AUSTELL 
+3671C
+34

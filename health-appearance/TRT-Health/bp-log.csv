@@ -1,0 +1,20 @@
+Date,Time of day (AM/PM),Reading 1 SYS,Reading 1 DIA,Reading 1 Pulse,Reading 2 SYS,Reading 2 DIA,Reading 2 Pulse,Reading 3 SYS,Reading 3 DIA,Reading 3 Pulse,Avg SYS (R2+R3),Avg DIA (R2+R3),Notes (sleep/caffeine/stress)
+# Protocol: upper-arm cuff | seated 5min rest | bare arm at heart level | no caffeine/food/exercise 30min prior | empty bladder | no talking. 3 readings 1min apart; discard R1; average R2+R3. AM = within 1hr waking before food/caffeine/pin. PM = before dinner/bed. Run 7 consecutive days; discard day 1; average days 2-7. Home HTN threshold >=135/85.
+# --- BASELINE SERIES (pre-CPAP) ---
+,AM,,,,,,,,,,,,
+,PM,,,,,,,,,,,,
+,AM,,,,,,,,,,,,
+,PM,,,,,,,,,,,,
+,AM,,,,,,,,,,,,
+,PM,,,,,,,,,,,,
+,AM,,,,,,,,,,,,
+,PM,,,,,,,,,,,,
+,AM,,,,,,,,,,,,
+,PM,,,,,,,,,,,,
+,AM,,,,,,,,,,,,
+,PM,,,,,,,,,,,,
+,AM,,,,,,,,,,,,
+,PM,,,,,,,,,,,,
+# --- POST-CPAP SERIES (~3 months, identical protocol) ---
+# --- WEEKLY SPOT-CHECK (post-candesartan, from 13 Jul) — one reading Mon AM pre-dose (trough); BP controlled, surveillance only ---
+2026-07-13,AM,132,79,71,127,74,70,125,80,73,126,77,Candesartan 8mg — controlled; pre-dose trough; first weekly spot-check; BP now under control

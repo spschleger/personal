@@ -1,0 +1,32 @@
+GenealogySA (SAGHS) online database search
+Query: {'surname': 'Barrett', 'year': '1863', 'acc': '3', 'coll': 'shipping'}
+URL: https://www.genealogysa.org.au/index.php?option=com_gsa&view=gsa&layout=essearch&Itemid=193&collection_id=shipping&page_no=1&sort_by=&sort_direction=asc&Surname=Barrett&GivenName=&year_from=1863&accuracy=3&ShipName=
+Retrieved 2026-08-19
+
+ROWS (26):
+BDM Registrations | Birth Registrations | 40 results
+Death Registrations | 19 results
+Marriage Registrations | 10 results
+Newspaper Notices | Newspaper Births | 1 results
+Newspaper Death Notices | 3 results
+Newspaper Marriages | 1 results
+Newspaper Divorces | 0 results
+Cemeteries Burial Records | South Australia Cemeteries | 2 results
+Church Records | South Australian Church records - Burials | 0 results
+South Australian Church records - Baptisms | 5 results
+South Australian Church records - Marriages | 1 results
+South Australian Church Records - Other | 0 results
+Admission Records | South Australian School Admissions | 0 results
+Other Records | All Other Records | 65 results
+Biographical Index of South Australians | 11 results
+Biographical Index of South Australians - Supplementary | 0 results
+Certificates-Australia and Overseas | 0 results
+Irish Born South Australians (IBSA) | 3 results
+Ship Passenger Arrivals in South Australia | 3 results
+Ships to South Australia | 0 results
+Shipping Passenger Departures from South Australia | 0 results
+South Australian Public Trustees/Deceased Estates | 0 results
+Surname | Given Names | Arrival Year | Action
+BARRETT | J S | 1865 | View Details
+BARRETT | Bridget | 1865 | View Details
+BARRETT | Elizabeth | 1860 | View Details

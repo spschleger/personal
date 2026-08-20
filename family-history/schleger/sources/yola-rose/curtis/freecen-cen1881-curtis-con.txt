@@ -1,0 +1,465 @@
+FreeCEN2 search: last_name=Curtis chapman=CON record_type=1881
+URL: https://www.freecen.org.uk/search_queries
+Retrieved 2026-08-19
+
+HITS (460):
+/search_records/5902aa88e9379091b1dee72d/elizabeth-curtis-1881-cornwall-fowey-1791- :: Elizabeth CURTIS | Cornwall | St Breward | 1791 | 1881 | Cornwall | Fowey
+/search_records/5902ac00e9379091b1e4ee48/elizabeth-curtis-1881-cornwall-penryn-1798- :: Elizabeth CURTIS | Cornwall | Penryn | 1798 | 1881 | Cornwall | Penryn
+/search_records/5902ada8e9379091b1ebe483/james-curtis-1881-cornwall-marazion-1799- :: James CURTIS | Cornwall | Grade | 1799 | 1881 | Cornwall | Marazion
+/search_records/5902ac00e9379091b1e4ee46/edward-curtis-1881-cornwall-penryn-1801- :: Edward CURTIS | Cornwall | Penryn | 1801 | 1881 | Cornwall | Penryn
+/search_records/5902ababe9379091b1e38c94/thomas-curtis-1881-cornwall-mylor-1802- :: Thomas CURTIS | Cornwall | Flushing | 1802 | 1881 | Cornwall | Mylor
+/search_records/5902ad74e9379091b1eb0d59/ralph-curtis-1881-cornwall-uny-lelant-1804- :: Ralph CURTIS | Cornwall | St Hilary (or St Hilery) | 1804 | 1881 | Cornwall | Lelant
+/search_records/5902ab78e9379091b1e2c14e/charles-curtis-1881-cornwall-kenwyn-1804- :: Charles CURTIS | Cornwall | Mullion | 1804 | 1881 | Cornwall | Kenwyn
+/search_records/5902a9c3e9379091b1dbb066/mary-curtis-1881-cornwall-lerrin-1805- :: Mary CURTIS | Cornwall | Polperro | 1805 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c7e9379091b1dbc885/mary-curtis-1881-cornwall-lerrin-1805- :: Mary CURTIS | Cornwall | Morval | 1805 | 1881 | Cornwall | Lerryn
+/search_records/5902aab7e9379091b1dfa4a3/mary-curtis-1881-cornwall-st-austell-1805- :: Mary CURTIS | Cornwall | St Blazey | 1805 | 1881 | Cornwall | St Austell
+/search_records/5902ac8ee9379091b1e7467c/christian-curtis-1881-cornwall-gwennap-1805- :: Christian CURTIS | Cornwall | Tomperrow (or Tomperrow Nr Truro) | 1805 | 1881 | Cornwall | Gwennap
+/search_records/5902aa5be9379091b1de2c1b/mary-curtis-1881-cornwall-st-columb-1807- :: Mary CURTIS | Cornwall | Roche | 1807 | 1881 | Cornwall | St Columb Major
+/search_records/5902a9c3e9379091b1dbb17e/mary-curtis-1881-cornwall-lerrin-1808- :: Mary CURTIS | Cornwall | Lansallos | 1808 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb0b8/ann-curtis-1881-cornwall-lerrin-1808- :: Ann CURTIS | Cornwall | Talland | 1808 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c5e9379091b1dbbba5/william-curtis-1881-cornwall-lerrin-1808- :: William CURTIS | Cornwall | Lanteglos | 1808 | 1881 | Cornwall | Lerryn
+/search_records/5902ada8e9379091b1ebe485/mary-curtis-1881-cornwall-marazion-1809- :: Mary CURTIS | Cornwall | Crowan | 1809 | 1881 | Cornwall | Marazion
+/search_records/5902ada6e9379091b1ebdb02/jane-curtis-1881-cornwall-marazion-1809- :: Jane CURTIS | Cornwall | St Hilary | 1809 | 1881 | Cornwall | Marazion
+/search_records/5902a9c5e9379091b1dbbba7/johanna-curtis-1881-cornwall-lerrin-1811- :: Johanna CURTIS | Cornwall | Lanteglos | 1811 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c7e9379091b1dbc883/william-curtis-1881-cornwall-lerrin-1811- :: William CURTIS | Cornwall | St Veep | 1811 | 1881 | Cornwall | Lerryn
+/search_records/5902ababe9379091b1e38c96/jane-curtis-1881-cornwall-mylor-1811- :: Jane CURTIS | Cornwall | Sheviock (or Sheviock Parish) | 1811 | 1881 | Cornwall | Mylor
+/search_records/5902ac13e9379091b1e54197/grace-curtis-1881-cornwall-constantine-1811- :: Grace CURTIS | Cornwall | Constantine | 1811 | 1881 | Cornwall | Constantine
+/search_records/5902a88fe9379091b1d6c93b/john-curtis-1881-cornwall-boscastle-1811- :: John CURTIS | Devon | Hartland | 1811 | 1881 | Cornwall | Boscastle
+/search_records/5902ab2ae9379091b1e181f3/william-sr-curtis-1881-cornwall-st-agnes-1812- :: William Sr CURTIS | Cornwall | Perranzabuloe | 1812 | 1881 | Cornwall | St Agnes
+/search_records/5902ab4de9379091b1e2139e/jane-curtis-1881-cornwall-st-clements-1812- :: Jane CURTIS | Cornwall | St Allen | 1812 | 1881 | Cornwall | St Clement
+/search_records/5902ab99e9379091b1e3470d/josiah-curtis-1881-cornwall-kenwyn-1812- :: Josiah CURTIS | Cornwall | Kenwyn | 1812 | 1881 | Cornwall | Kea
+/search_records/5902ab99e9379091b1e3470f/mary-curtis-1881-cornwall-kenwyn-1812- :: Mary CURTIS | Cornwall | St Austell | 1812 | 1881 | Cornwall | Kea
+/search_records/5902ada8e9379091b1ebe507/elizabeth-curtis-1881-cornwall-marazion-1812- :: Elizabeth CURTIS | Cornwall | Ludgvan | 1812 | 1881 | Cornwall | Marazion
+/search_records/5902ac95e9379091b1e767e7/john-curtis-1881-cornwall-gwennap-1813- :: John CURTIS | Cornwall | Mylor | 1813 | 1881 | Cornwall | Gwennap
+/search_records/5902ac8ee9379091b1e7467a/robert-curtis-1881-cornwall-gwennap-1813- :: Robert CURTIS | Cornwall | Kenwyn | 1813 | 1881 | Cornwall | Gwennap
+/search_records/5902aca3e9379091b1e79e9e/ann-curtis-1881-cornwall-gwennap-1814- :: Ann CURTIS | Cornwall | Gwennap | 1814 | 1881 | Cornwall | Gwennap
+/search_records/5902a939e9379091b1d9825c/ann-dyer-curtis-1881-cornwall-saltash-1814- :: Ann Dyer CURTIS | Devon | Stoke Damerel | 1814 | 1881 | Cornwall | Saltash
+/search_records/5902a937e9379091b1d975e7/grace-curtis-1881-cornwall-saltash-1815- :: Grace CURTIS | Devon | St Budeaux | 1815 | 1881 | Cornwall | Saltash
+/search_records/5902aa5be9379091b1de2d67/george-curtis-1881-cornwall-st-columb-1815- :: George CURTIS | Cornwall | St Wenn | 1815 | 1881 | Cornwall | St Columb Major
+/search_records/5902aab0e9379091b1df8380/john-curtis-1881-cornwall-st-austell-1815- :: John CURTIS | Cornwall | Falmouth | 1815 | 1881 | Cornwall | St Austell
+/search_records/5902ad74e9379091b1eb0d5b/sarah-curtis-1881-cornwall-uny-lelant-1815- :: Sarah CURTIS | Cornwall | Ludgvan | 1815 | 1881 | Cornwall | Lelant
+/search_records/5902aa4ae9379091b1dde2a0/ann-curtis-1881-cornwall-st-columb-1816- :: Ann CURTIS | Cornwall | St Wenn | 1816 | 1881 | Cornwall | St Columb Major
+/search_records/5902aa4ae9379091b1dde29e/john-curtis-1881-cornwall-st-columb-1816- :: John CURTIS | Cornwall | St Wenn | 1816 | 1881 | Cornwall | St Columb Major
+/search_records/5902ac76e9379091b1e6ea35/jane-curtis-1881-cornwall-breage-1816- :: Jane CURTIS | Cornwall | Scilly Isles St Agnes (or Scilly Isle St Agnes) | 1816 | 1881 | Cornwall | Breage
+/search_records/5902a981e9379091b1daaa4c/elizabeth-curtis-1881-cornwall-liskeard-1817- :: Elizabeth CURTIS | Cornwall | Liskeard | 1817 | 1881 | Cornwall | Liskeard
+/search_records/5902a9c3e9379091b1dbb1c3/charles-curtis-1881-cornwall-lerrin-1817- :: Charles CURTIS | Cornwall | Lansallos | 1817 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb1c5/mary-curtis-1881-cornwall-lerrin-1817- :: Mary CURTIS | Cornwall | Lansallos | 1817 | 1881 | Cornwall | Lerryn
+/search_records/5902a939e9379091b1d9825a/william-curtis-1881-cornwall-saltash-1818- :: William CURTIS | Devon | Stoke Damerel | 1818 | 1881 | Cornwall | Saltash
+/search_records/5902ac76e9379091b1e6ea11/william-curtis-1881-cornwall-breage-1818- :: William CURTIS | Cornwall | Breage | 1818 | 1881 | Cornwall | Breage
+/search_records/5902a9aee9379091b1db5d05/elizabeth-curtis-1881-cornwall-looe-1819- :: Elizabeth CURTIS | Cornwall | Polperro | 1819 | 1881 | Cornwall | Looe
+/search_records/5902aa78e9379091b1dea3e3/joseph-curtis-1881-cornwall-fowey-1819- :: Joseph CURTIS | Devon | Devonport | 1819 | 1881 | Cornwall | Fowey
+/search_records/5902ab4de9379091b1e211be/henry-curtis-1881-cornwall-st-clements-1819- :: Henry CURTIS | Cornwall | Kenwyn | 1819 | 1881 | Cornwall | St Clement
+/search_records/5902ac95e9379091b1e767e9/louisa-curtis-1881-cornwall-gwennap-1820- :: Louisa CURTIS | Cornwall | Gwennap | 1820 | 1881 | Cornwall | Gwennap
+/search_records/5902aab0e9379091b1df8382/susanna-curtis-1881-cornwall-st-austell-1820- :: Susanna CURTIS | Cornwall | St Austell | 1820 | 1881 | Cornwall | St Austell
+/search_records/5902aa6ae9379091b1de68fd/margaretta-curtis-1881-cornwall-newlyn-1821- :: Margaretta CURTIS | Cornwall | Newlyn East | 1821 | 1881 | Cornwall | Newlyn
+/search_records/5902ab4de9379091b1e211c0/emma-curtis-1881-cornwall-st-clements-1821- :: Emma CURTIS | Cornwall | Kenwyn | 1821 | 1881 | Cornwall | St Clement
+/search_records/5902adbae9379091b1ec2ae9/henry-curtis-1881-cornwall-penzance-1821- :: Henry CURTIS | Cornwall | Falmouth | 1821 | 1881 | Cornwall | Penzance
+/search_records/5902a9aee9379091b1db5cc5/elizth-curtis-1881-cornwall-looe-1822- :: Elizth. CURTIS | Cornwall | Polperro | 1822 | 1881 | Cornwall | Looe
+/search_records/5902a88fe9379091b1d6c93d/harriet-curtis-1881-cornwall-boscastle-1823- :: Harriet CURTIS | Cornwall | Trevena | 1823 | 1881 | Cornwall | Boscastle
+/search_records/5902ababe9379091b1e390a5/robert-j-curtis-1881-cornwall-mylor-1823- :: Robert J. CURTIS | Cornwall | Flushing | 1823 | 1881 | Cornwall | Mylor
+/search_records/5902ac70e9379091b1e6cc89/jeremiah-curtis-1881-cornwall-breage-1823- :: Jeremiah CURTIS | Cornwall | St Erth | 1823 | 1881 | Cornwall | Breage
+/search_records/5902ac76e9379091b1e6ea13/grace-curtis-1881-cornwall-breage-1823- :: Grace CURTIS | Cornwall | Breage | 1823 | 1881 | Cornwall | Breage
+/search_records/5902adf4e9379091b1ed2978/elizabeth-curtis-1881-cornwall-penzance-1823- :: Elizabeth CURTIS | Devon | Tiverton | 1823 | 1881 | Cornwall | Penzance
+/search_records/5902a911e9379091b1d8de72/william-curtis-1881-cornwall-antony-1824- :: William CURTIS | Cornwall | Polperro | 1824 | 1881 | Cornwall | Antony St Jacob
+/search_records/5902aa5be9379091b1de2d69/mary-curtis-1881-cornwall-st-columb-1824- :: Mary CURTIS | Cornwall | St Ervan | 1824 | 1881 | Cornwall | St Columb Major
+/search_records/5902ac76e9379091b1e6e8c3/john-curtis-1881-cornwall-breage-1824- :: John CURTIS | Cornwall | Breage | 1824 | 1881 | Cornwall | Breage
+/search_records/5902adf4e9379091b1ed2976/william-curtis-1881-cornwall-penzance-1824- :: William CURTIS | Devon | Tiverton | 1824 | 1881 | Cornwall | Penzance
+/search_records/5902a9aee9379091b1db5cbd/catherine-curtis-1881-cornwall-looe-1825- :: Catherine CURTIS | Cornwall | Polperro | 1825 | 1881 | Cornwall | Looe
+/search_records/5902a93be9379091b1d989b0/thomas-curtis-1881-cornwall-saltash-1826- :: Thomas CURTIS | Cornwall | Saltash | 1826 | 1881 | Cornwall | Saltash
+/search_records/5902abc5e9379091b1e3f359/ann-curtis-1881-cornwall-falmouth-1826- :: Ann CURTIS | Cornwall | Chacewater | 1826 | 1881 | Cornwall | Falmouth
+/search_records/5902ac76e9379091b1e6e8c5/selina-curtis-1881-cornwall-breage-1826- :: Selina CURTIS | Cornwall | Breage | 1826 | 1881 | Cornwall | Breage
+/search_records/5902ad49e9379091b1ea55d6/mary-curtis-1881-cornwall-phillack-1826- :: Mary CURTIS | Cornwall | Phillack (or Phillick) | 1826 | 1881 | Cornwall | Phillack
+/search_records/5902aac8e9379091b1dfed06/jane-curtis-1881-cornwall-st-austell-1827- :: Jane CURTIS | Cornwall | Roche | 1827 | 1881 | Cornwall | St Austell
+/search_records/5902a9aee9379091b1db5d07/richard-curtis-1881-cornwall-looe-1827- :: Richard CURTIS | Cornwall | Polperro | 1827 | 1881 | Cornwall | Looe
+/search_records/5902ada7e9379091b1ebdf1c/francis-curtis-1881-cornwall-marazion-1827- :: Francis CURTIS | Cornwall | Breage | 1827 | 1881 | Cornwall | Marazion
+/search_records/5902aa2fe9379091b1dd7523/mathew-curtis-1881-cornwall-padstow-1828- :: Mathew CURTIS | Cornwall | St Wenn | 1828 | 1881 | Cornwall | Padstow
+/search_records/5902ad0de9379091b1e95bbb/jinnafer-curtis-1881-cornwall-camborne-1828- :: Jinnafer CURTIS | Cornwall | St Hilary | 1828 | 1881 | Cornwall | Camborne
+/search_records/5902ad49e9379091b1ea55d4/wllhm-curtis-1881-cornwall-phillack-1829- :: Wllhm. CURTIS | Cornwall | Phillack (or Phillick) | 1829 | 1881 | Cornwall | Phillack
+/search_records/5902ada7e9379091b1ebdf1e/elizabeth-curtis-1881-cornwall-marazion-1829- :: Elizabeth CURTIS | Cornwall | Perranuthnoe (or St Perranuthnoe) | 1829 | 1881 | Cornwall | Marazion
+/search_records/62b5a7c5f493fdafb5c7f717/henry-curtis-1881-cornwall-penzance-1829- :: Henry CURTIS | Cornwall | Polperro | 1829 | 1881 | Cornwall | Penzance
+/search_records/5902a9aee9379091b1db5d46/james-curtis-1881-cornwall-looe-1830- :: James CURTIS | Cornwall | Polperro | 1830 | 1881 | Cornwall | Looe
+/search_records/5902ab3ce9379091b1e1cc88/ann-curtis-1881-cornwall-st-agnes-1830- :: Ann CURTIS | Cornwall | Perranzabuloe | 1830 | 1881 | Cornwall | St Agnes
+/search_records/5902ac81e9379091b1e717fd/mary-curtis-1881-cornwall-crowan-1830- :: Mary CURTIS | Cornwall | Crowan | 1830 | 1881 | Cornwall | Crowan
+/search_records/5902adc4e9379091b1ec5c55/james-curtis-1881-cornwall-penzance-1830- :: James CURTIS | Cornwall | Breage | 1830 | 1881 | Cornwall | Penzance
+/search_records/5902a9c3e9379091b1dbb03b/margaret-curtis-1881-cornwall-lerrin-1831- :: Margaret CURTIS | Cornwall | Polperro | 1831 | 1881 | Cornwall | Lerryn
+/search_records/5902abffe9379091b1e4ed48/edward-curtis-1881-cornwall-penryn-1831- :: Edward CURTIS | London (City) | - | 1831 | 1881 | Cornwall | Penryn
+/search_records/5902abe6e9379091b1e48b1a/eliza-curtis-1881-cornwall-falmouth-1831- :: Eliza CURTIS | Cornwall | Bodmin | 1831 | 1881 | Cornwall | Falmouth
+/search_records/5902ab38e9379091b1e1b8cf/nanny-curtis-1881-cornwall-st-agnes-1832- :: Nanny CURTIS | Cornwall | St Agnes | 1832 | 1881 | Cornwall | St Agnes
+/search_records/5902aab7e9379091b1dfa85f/cordelia-curtis-1881-cornwall-st-austell-1832- :: Cordelia CURTIS | Cornwall | St Stephen in Brannel (or St Stephens) | 1832 | 1881 | Cornwall | St Austell
+/search_records/5902a9c3e9379091b1dbb037/hugh-f-curtis-1881-cornwall-lerrin-1832- :: Hugh F. CURTIS | Cornwall | Polperro | 1832 | 1881 | Cornwall | Lerryn
+/search_records/5902ab38e9379091b1e1b8cd/john-curtis-1881-cornwall-st-agnes-1832- :: John CURTIS | Cornwall | Kenwyn | 1832 | 1881 | Cornwall | St Agnes
+/search_records/5902ada4e9379091b1ebd09f/sarah-curtis-1881-cornwall-marazion-1833- :: Sarah CURTIS | Cornwall | St Hilary | 1833 | 1881 | Cornwall | Marazion
+/search_records/5902adbae9379091b1ec2aeb/ann-curtis-1881-cornwall-penzance-1833- :: Ann CURTIS | Cornwall | St Agnes | 1833 | 1881 | Cornwall | Penzance
+/search_records/5902a937e9379091b1d975af/edward-curtis-1881-cornwall-saltash-1834- :: Edward CURTIS | Cornwall | Saltash | 1834 | 1881 | Cornwall | Saltash
+/search_records/5902a9aee9379091b1db5d48/celinea-curtis-1881-cornwall-looe-1834- :: Celinea CURTIS | Cornwall | Polperro | 1834 | 1881 | Cornwall | Looe
+/search_records/5902ac13e9379091b1e54187/william-curtis-1881-cornwall-constantine-1834- :: William CURTIS | Cornwall | Constantine | 1834 | 1881 | Cornwall | Constantine
+/search_records/5902adc4e9379091b1ec5c57/catherine-curtis-1881-cornwall-penzance-1834- :: Catherine CURTIS | Cornwall | Germoe | 1834 | 1881 | Cornwall | Penzance
+/search_records/5902ac70e9379091b1e6cc8b/peggy-curtis-1881-cornwall-breage-1835- :: Peggy CURTIS | Cornwall | St Breage | 1835 | 1881 | Cornwall | Breage
+/search_records/5902aa2fe9379091b1dd7526/johanna-curtis-1881-cornwall-padstow-1835- :: Johanna CURTIS | Cornwall | St Mawgan | 1835 | 1881 | Cornwall | Padstow
+/search_records/5902aa5ce9379091b1de2e22/mary-jane-curtis-1881-cornwall-st-columb-1835- :: Mary Jane CURTIS | Cornwall | Grampound | 1835 | 1881 | Cornwall | St Columb Major
+/search_records/5902a9c3e9379091b1dbb019/william-h-curtis-1881-cornwall-lerrin-1835- :: William H. CURTIS | Cornwall | Polperro | 1835 | 1881 | Cornwall | Lerryn
+/search_records/5902aaa2e9379091b1df4d4d/jno-curtis-1881-cornwall-st-austell-1835- :: Jno CURTIS | Cornwall | Grampound | 1835 | 1881 | Cornwall | St Austell
+/search_records/5902ac00e9379091b1e4ef0d/ann-curtis-1881-cornwall-penryn-1835- :: Ann CURTIS | Cornwall | Penryn | 1835 | 1881 | Cornwall | Penryn
+/search_records/5902ac57e9379091b1e663f2/mary-j-curtis-1881-cornwall-st-keverne-1835- :: Mary J CURTIS | Cornwall | Gwennap (or Gwenape) | 1835 | 1881 | Cornwall | St Keverne
+/search_records/5902a9c6e9379091b1dbc169/mary-c-curtis-1881-cornwall-lerrin-1835- :: Mary C. CURTIS | Cornwall | Lanteglos | 1835 | 1881 | Cornwall | Lerryn
+/search_records/5902ac13e9379091b1e54189/elizabeth-curtis-1881-cornwall-constantine-1836- :: Elizabeth CURTIS | Cornwall | Breage | 1836 | 1881 | Cornwall | Constantine
+/search_records/5902aa5ae9379091b1de265e/may-curtis-1881-cornwall-st-columb-1836- :: May CURTIS | Dorset | Hilfield (or Hillfield) | 1836 | 1881 | Cornwall | St Columb Major
+/search_records/5902aa65e9379091b1de50f0/nicholas-curtis-1881-cornwall-newlyn-1836- :: Nicholas CURTIS | Cornwall | Newlyn | 1836 | 1881 | Cornwall | Newlyn
+/search_records/5902aa65e9379091b1de50f2/tabitha-curtis-1881-cornwall-newlyn-1836- :: Tabitha CURTIS | Cornwall | St Wenn | 1836 | 1881 | Cornwall | Newlyn
+/search_records/5902ad0de9379091b1e95bb7/charles-j-curtis-1881-cornwall-camborne-1836- :: Charles J. CURTIS | Cornwall | St Hilary | 1836 | 1881 | Cornwall | Camborne
+/search_records/5902abffe9379091b1e4ed4a/mary-curtis-1881-cornwall-penryn-1837- :: Mary CURTIS | Cornwall | Penryn | 1837 | 1881 | Cornwall | Penryn
+/search_records/5902aa1de9379091b1dd2a51/william-curtis-1881-cornwall-egloshayle-1837- :: William CURTIS | Cornwall | St Breock | 1837 | 1881 | Cornwall | Egloshayle
+/search_records/5902ac00e9379091b1e4ef0b/richard-curtis-1881-cornwall-penryn-1837- :: Richard CURTIS | Cornwall | Penryn | 1837 | 1881 | Cornwall | Penryn
+/search_records/5902ad32e9379091b1e9f48a/james-curtis-1881-cornwall-camborne-1837- :: James CURTIS | Cornwall | Cury | 1837 | 1881 | Cornwall | Camborne
+/search_records/5902a9c3e9379091b1dbb10e/james-curtis-1881-cornwall-lerrin-1838- :: James CURTIS | Cornwall | Lansallos | 1838 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb0ba/richard-curtis-1881-cornwall-lerrin-1838- :: Richard CURTIS | Cornwall | Talland | 1838 | 1881 | Cornwall | Lerryn
+/search_records/5902abe6e9379091b1e48b18/james-curtis-1881-cornwall-falmouth-1838- :: James CURTIS | Cornwall | St Austell | 1838 | 1881 | Cornwall | Falmouth
+/search_records/5902a93ce9379091b1d98d00/alice-j-curtis-1881-cornwall-saltash-1839- :: Alice J. CURTIS | Cornwall | Saltash | 1839 | 1881 | Cornwall | Saltash
+/search_records/5902a9c3e9379091b1dbb01d/matilda-curtis-1881-cornwall-lerrin-1839- :: Matilda CURTIS | Cornwall | Polperro | 1839 | 1881 | Cornwall | Lerryn
+/search_records/5902acd2e9379091b1e86939/samuel-curtis-1881-cornwall-redruth-1839- :: Samuel CURTIS | Cornwall | Redruth | 1839 | 1881 | Cornwall | Redruth
+/search_records/5902a9c3e9379091b1dbb11e/william-curtis-1881-cornwall-lerrin-1840- :: William CURTIS | Cornwall | Lansallos | 1840 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c5e9379091b1dbbbaa/charles-curtis-1881-cornwall-lerrin-1840- :: Charles CURTIS | Cornwall | Lanteglos | 1840 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c5e9379091b1dbbbac/catherine-curtis-1881-cornwall-lerrin-1840- :: Catherine CURTIS | Cornwall | Mawnan | 1840 | 1881 | Cornwall | Lerryn
+/search_records/5902ac57e9379091b1e663f0/thomas-curtis-1881-cornwall-st-keverne-1840- :: Thomas CURTIS | Cornwall | Cury | 1840 | 1881 | Cornwall | St Keverne
+/search_records/5902acd2e9379091b1e8693b/elizabeth-curtis-1881-cornwall-redruth-1840- :: Elizabeth CURTIS | Cornwall | Redruth | 1840 | 1881 | Cornwall | Redruth
+/search_records/5902a9c3e9379091b1dbb110/emma-curtis-1881-cornwall-lerrin-1841- :: Emma CURTIS | Cornwall | Lansallos | 1841 | 1881 | Cornwall | Lerryn
+/search_records/5902a93be9379091b1d989b2/mary-curtis-1881-cornwall-saltash-1841- :: Mary CURTIS | Cornwall | Burraton | 1841 | 1881 | Cornwall | Saltash
+/search_records/5902a9c3e9379091b1dbb120/sophia-curtis-1881-cornwall-lerrin-1841- :: Sophia CURTIS | Cornwall | Talland | 1841 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb122/sophia-curtis-1881-cornwall-lerrin-1841- :: Sophia CURTIS | Cornwall | Talland | 1841 | 1881 | Cornwall | Lerryn
+/search_records/5902aa49e9379091b1dddfa5/mary-a-curtis-1881-cornwall-st-columb-1841- :: Mary A. CURTIS | Cornwall | Roche | 1841 | 1881 | Cornwall | St Columb Major
+/search_records/5902aa5ce9379091b1de3209/jane-curtis-1881-cornwall-st-columb-1841- :: Jane CURTIS | Cornwall | Withiel | 1841 | 1881 | Cornwall | St Columb Major
+/search_records/5902a961e9379091b1da234e/james-curtis-1881-cornwall-callington-1841- :: James CURTIS | Cornwall | Linkinhorne | 1841 | 1881 | Cornwall | Callington
+/search_records/5902aa5ce9379091b1de3207/william-curtis-1881-cornwall-st-columb-1841- :: William CURTIS | Cornwall | St Wenn | 1841 | 1881 | Cornwall | St Columb Major
+/search_records/5902ad32e9379091b1e9f48c/jane-curtis-1881-cornwall-camborne-1841- :: Jane CURTIS | Cornwall | Cury | 1841 | 1881 | Cornwall | Camborne
+/search_records/5902aaa2e9379091b1df4d50/mary-a-curtis-1881-cornwall-st-austell-1842- :: Mary A. CURTIS | Cornwall | St Austell | 1842 | 1881 | Cornwall | St Austell
+/search_records/5902ac27e9379091b1e598e0/elizabeth-curtis-1881-cornwall-wendron-1842- :: Elizabeth CURTIS | Cornwall | Wendron | 1842 | 1881 | Cornwall | Wendron
+/search_records/5902ad74e9379091b1eb0f15/martha-curtis-1881-cornwall-uny-lelant-1842- :: Martha CURTIS | Cornwall | Lelant | 1842 | 1881 | Cornwall | Lelant
+/search_records/5902ada5e9379091b1ebd703/jane-curtis-1881-cornwall-marazion-1842- :: Jane CURTIS | Cornwall | St Hilary | 1842 | 1881 | Cornwall | Marazion
+/search_records/5902a939e9379091b1d98260/matilda-venning-curtis-1881-cornwall-saltash-1843- :: Matilda Venning CURTIS | Devon | Plymouth | 1843 | 1881 | Cornwall | Saltash
+/search_records/5902a93be9379091b1d98cfe/henry-curtis-1881-cornwall-saltash-1843- :: Henry CURTIS | Hampshire | Fareham | 1843 | 1881 | Cornwall | Saltash
+/search_records/5902aa75e9379091b1de95c7/ann-curtis-1881-cornwall-fowey-1843- :: Ann CURTIS | Cornwall | St Wenn (or St Wen) | 1843 | 1881 | Cornwall | Fowey
+/search_records/5902ad09e9379091b1e946f3/mary-curtis-1881-cornwall-camborne-1843- :: Mary CURTIS | Cornwall | Mevagissey | 1843 | 1881 | Cornwall | Camborne
+/search_records/62b5a7d1f493fdafb5c7fa4e/thomas-curtis-1881-cornwall-penzance-1844- :: Thomas CURTIS | Cornwall | Polperro | 1844 | 1881 | Cornwall | Penzance
+/search_records/5902a9aee9379091b1db5cfe/maria-v-curtis-1881-cornwall-looe-1844- :: Maria V. CURTIS | Cornwall | Polperro | 1844 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5bce/william-curtis-1881-cornwall-looe-1844- :: William CURTIS | Cornwall | Polperro | 1844 | 1881 | Cornwall | Looe
+/search_records/5902aaede9379091b1e07fb6/john-curtis-1881-cornwall-grampound-1845- :: John CURTIS | Devon | Week St Pancras (or Weeks St Pancrass) | 1845 | 1881 | Cornwall | Grampound
+/search_records/5902aaede9379091b1e07fb8/mary-curtis-1881-cornwall-grampound-1845- :: Mary CURTIS | Devon | Sourton | 1845 | 1881 | Cornwall | Grampound
+/search_records/5902ab4ee9379091b1e2198c/nichs-o-curtis-1881-cornwall-st-clements-1845- :: Nichs O CURTIS | Cornwall | Truro | 1845 | 1881 | Cornwall | St Clement
+/search_records/5902ad74e9379091b1eb0bb9/elizebeth-curtis-1881-cornwall-uny-lelant-1845- :: Elizebeth CURTIS | Cornwall | Uny Lelant | 1845 | 1881 | Cornwall | Lelant
+/search_records/5902a937e9379091b1d975b1/harriett-curtis-1881-cornwall-saltash-1845- :: Harriett CURTIS | Cornwall | Saltash | 1845 | 1881 | Cornwall | Saltash
+/search_records/5902a9b2e9379091b1db71bd/eliz-curtis-1881-cornwall-looe-1845- :: Eliz. CURTIS | Devon | Buckland Monachorum (or Buckland Monochorum) | 1845 | 1881 | Cornwall | Looe
+/search_records/5902ab2ae9379091b1e181f7/mary-curtis-1881-cornwall-st-agnes-1846- :: Mary CURTIS | Cornwall | St Agnes | 1846 | 1881 | Cornwall | St Agnes
+/search_records/5902a9aee9379091b1db5a9d/henry-curtis-1881-cornwall-looe-1846- :: Henry CURTIS | Cornwall | Polperro | 1846 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5d6d/sarah-j-curtis-1881-cornwall-looe-1846- :: Sarah J. CURTIS | Cornwall | Polperro | 1846 | 1881 | Cornwall | Looe
+/search_records/5902a9d8e9379091b1dc0c5a/levi-curtis-1881-cornwall-lanlivery-1846- :: Levi CURTIS | Devon | North Devon | 1846 | 1881 | Cornwall | Lanlivery
+/search_records/5902a9d8e9379091b1dc0c5c/agnes-curtis-1881-cornwall-lanlivery-1846- :: Agnes CURTIS | Devon | Plymouth | 1846 | 1881 | Cornwall | Lanlivery
+/search_records/5902aa49e9379091b1dddd22/joseph-curtis-1881-cornwall-st-columb-1846- :: Joseph CURTIS | Unknown | - | 1846 | 1881 | Cornwall | St Columb Major
+/search_records/5902aa4ae9379091b1dde2a2/ann-curtis-1881-cornwall-st-columb-1846- :: Ann CURTIS | Cornwall | St Wenn | 1846 | 1881 | Cornwall | St Columb Major
+/search_records/5902acbde9379091b1e812b5/phillipa-curtis-1881-cornwall-redruth-1846- :: Phillipa CURTIS | Cornwall | Newlyn East | 1846 | 1881 | Cornwall | Redruth
+/search_records/5902aa1de9379091b1dd2a53/ellen-curtis-1881-cornwall-egloshayle-1847- :: Ellen CURTIS | Cornwall | St Breock | 1847 | 1881 | Cornwall | Egloshayle
+/search_records/5902aaaee9379091b1df7cc8/james-curtis-1881-cornwall-st-austell-1847- :: James CURTIS | Cornwall | St Austell | 1847 | 1881 | Cornwall | St Austell
+/search_records/5902aaf5e9379091b1e0a51d/hart-c-curtis-1881-cornwall-grampound-1847- :: Hart C. CURTIS | Cornwall | St Wenn | 1847 | 1881 | Cornwall | Grampound
+/search_records/5902ab4ee9379091b1e21991/mary-ann-curtis-1881-cornwall-st-clements-1847- :: Mary Ann CURTIS | Cornwall | Truro | 1847 | 1881 | Cornwall | St Clement
+/search_records/5902ad09e9379091b1e946f1/william-curtis-1881-cornwall-camborne-1847- :: William CURTIS | Cornwall | Gwennap | 1847 | 1881 | Cornwall | Camborne
+/search_records/5902ada8e9379091b1ebe369/caroline-curtis-1881-cornwall-marazion-1847- :: Caroline CURTIS | Cornwall | St Hilary | 1847 | 1881 | Cornwall | Marazion
+/search_records/5902a939e9379091b1d98266/mary-venning-curtis-1881-cornwall-saltash-1848- :: Mary Venning CURTIS | Devon | Plymouth | 1848 | 1881 | Cornwall | Saltash
+/search_records/5902a9aee9379091b1db5bd0/elizth-a-curtis-1881-cornwall-looe-1848- :: Elizth.A. CURTIS | Devon | Exmouth | 1848 | 1881 | Cornwall | Looe
+/search_records/5902ab2ae9379091b1e181f9/william-jr-curtis-1881-cornwall-st-agnes-1848- :: William Jr CURTIS | Cornwall | St Agnes | 1848 | 1881 | Cornwall | St Agnes
+/search_records/5902a9aee9379091b1db5a9f/amelia-curtis-1881-cornwall-looe-1849- :: Amelia CURTIS | Cornwall | Polperro | 1849 | 1881 | Cornwall | Looe
+/search_records/5902a9c3e9379091b1dbb041/john-curtis-1881-cornwall-lerrin-1849- :: John CURTIS | Cornwall | Polperro | 1849 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb043/elizabeth-r-curtis-1881-cornwall-lerrin-1849- :: Elizabeth R. CURTIS | Cornwall | Polperro | 1849 | 1881 | Cornwall | Lerryn
+/search_records/5902aaf5e9379091b1e0a521/martha-curtis-1881-cornwall-grampound-1850- :: Martha CURTIS | Cornwall | St Enoder | 1850 | 1881 | Cornwall | Grampound
+/search_records/5902a9c3e9379091b1dbb16e/catherine-curtis-1881-cornwall-lerrin-1850- :: Catherine CURTIS | Cornwall | Lansallos | 1850 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb16c/william-curtis-1881-cornwall-lerrin-1850- :: William CURTIS | Cornwall | Talland | 1850 | 1881 | Cornwall | Lerryn
+/search_records/5902a9aee9379091b1db591a/ann-curtis-1881-cornwall-looe-1850- :: Ann CURTIS | Cornwall | Polperro | 1850 | 1881 | Cornwall | Looe
+/search_records/5902ab49e9379091b1e20108/elizabeth-curtis-1881-cornwall-st-clements-1850- :: Elizabeth CURTIS | Cornwall | St Allen | 1850 | 1881 | Cornwall | St Clement
+/search_records/5902a900e9379091b1d89620/louisa-m-curtis-1881-cornwall-antony-1851- :: Louisa M. CURTIS | Sussex | Brighton | 1851 | 1881 | Cornwall | Antony St Jacob
+/search_records/5902ab2ae9379091b1e181fe/catherine-curtis-1881-cornwall-st-agnes-1851- :: Catherine CURTIS | Cornwall | St Agnes | 1851 | 1881 | Cornwall | St Agnes
+/search_records/5902aa6ae9379091b1de68f9/william-curtis-1881-cornwall-newlyn-1852- :: William CURTIS | Cornwall | Newlyn East | 1852 | 1881 | Cornwall | Newlyn
+/search_records/5902aa3be9379091b1dda8de/george-m-curtis-1881-cornwall-padstow-1852- :: George M. CURTIS | Cornwall | St Wenn | 1852 | 1881 | Cornwall | Padstow
+/search_records/5902aa3be9379091b1dda8e2/mary-h-curtis-1881-cornwall-padstow-1852- :: Mary H. CURTIS | Cornwall | St Breock | 1852 | 1881 | Cornwall | Padstow
+/search_records/5902aaaee9379091b1df7cca/jane-curtis-1881-cornwall-st-austell-1852- :: Jane CURTIS | Cornwall | St Austell | 1852 | 1881 | Cornwall | St Austell
+/search_records/5902a9aee9379091b1db5cfa/william-h-curtis-1881-cornwall-looe-1853- :: William H. CURTIS | Cornwall | Polperro | 1853 | 1881 | Cornwall | Looe
+/search_records/5902ab01e9379091b1e0d3e6/mary-curtis-1881-cornwall-probus-1853- :: Mary CURTIS | Cornwall | Probus | 1853 | 1881 | Cornwall | Probus
+/search_records/5902ad28e9379091b1e9cfdc/catherine-curtis-1881-cornwall-camborne-1853- :: Catherine CURTIS | Cornwall | Helston | 1853 | 1881 | Cornwall | Camborne
+/search_records/5902ac76e9379091b1e6ea15/francis-curtis-1881-cornwall-breage-1853- :: Francis CURTIS | Cornwall | Breage | 1853 | 1881 | Cornwall | Breage
+/search_records/5902ac8fe9379091b1e74cfd/eliz-j-curtis-1881-cornwall-gwennap-1854- :: Eliz.J. CURTIS | Cornwall | Gwennap | 1854 | 1881 | Cornwall | Gwennap
+/search_records/5902acc0e9379091b1e81e1c/elizabeth-a-curtis-1881-cornwall-redruth-1854- :: Elizabeth A. CURTIS | Cornwall | Gwennap | 1854 | 1881 | Cornwall | Redruth
+/search_records/5902ad28e9379091b1e9cfd8/william-h-curtis-1881-cornwall-camborne-1854- :: William H. CURTIS | Cornwall | Constantine | 1854 | 1881 | Cornwall | Camborne
+/search_records/5902ad74e9379091b1eb0d5d/william-curtis-1881-cornwall-uny-lelant-1854- :: William CURTIS | Cornwall | Uny Lelant | 1854 | 1881 | Cornwall | Lelant
+/search_records/5902ab4de9379091b1e211c2/emily-curtis-1881-cornwall-st-clements-1854- :: Emily CURTIS | Cornwall | Kenwyn | 1854 | 1881 | Cornwall | St Clement
+/search_records/5902abe5e9379091b1e48679/mary-a-curtis-1881-cornwall-falmouth-1854- :: Mary A. CURTIS | Cornwall | St Blazey | 1854 | 1881 | Cornwall | Falmouth
+/search_records/5902ac11e9379091b1e535c8/william-h-curtis-1881-cornwall-constantine-1854- :: William H. CURTIS | Cornwall | Constantine | 1854 | 1881 | Cornwall | Constantine
+/search_records/5902abe5e9379091b1e48677/thomas-curtis-1881-cornwall-falmouth-1855- :: Thomas CURTIS | Essex | Stansted (or Stanstead) | 1855 | 1881 | Cornwall | Falmouth
+/search_records/5902a9c3e9379091b1dbb1c7/charles-curtis-1881-cornwall-lerrin-1855- :: Charles CURTIS | Cornwall | Lansallos | 1855 | 1881 | Cornwall | Lerryn
+/search_records/5902acf4e9379091b1e8f03a/john-curtis-1881-cornwall-illogan-1855- :: John CURTIS | Cornwall | Ludgvan | 1855 | 1881 | Cornwall | Illogan
+/search_records/5902ad23e9379091b1e9b89f/thomas-curtis-1881-cornwall-camborne-1855- :: Thomas CURTIS | Cornwall | Crowan | 1855 | 1881 | Cornwall | Camborne
+/search_records/5902add1e9379091b1ec8c97/elizth-j-curtis-1881-cornwall-penzance-1855- :: Elizth. J. CURTIS | Cornwall | Breage | 1855 | 1881 | Cornwall | Penzance
+/search_records/5902ad23e9379091b1e9b8a1/mary-curtis-1881-cornwall-camborne-1856- :: Mary CURTIS | Cornwall | Camborne | 1856 | 1881 | Cornwall | Camborne
+/search_records/62b5a7cff493fdafb5c7f9db/fredrich-curtis-1881-cornwall-penzance-1856- :: Fredrich CURTIS | Hampshire | Southampton | 1856 | 1881 | Cornwall | Penzance
+/search_records/5902abcee9379091b1e424d2/margaret-curtis-1881-cornwall-falmouth-1856- :: Margaret CURTIS | Cornwall | St Wenn | 1856 | 1881 | Cornwall | Falmouth
+/search_records/5902ab4de9379091b1e211c4/alice-l-curtis-1881-cornwall-st-clements-1856- :: Alice L CURTIS | Cornwall | Kenwyn | 1856 | 1881 | Cornwall | St Clement
+/search_records/5902ac76e9379091b1e6e8c7/john-curtis-1881-cornwall-breage-1857- :: John CURTIS | Cornwall | Breage | 1857 | 1881 | Cornwall | Breage
+/search_records/5902acbee9379091b1e81619/alma-curtis-1881-cornwall-redruth-1857- :: Alma CURTIS | Cornwall | Helston | 1857 | 1881 | Cornwall | Redruth
+/search_records/5902aa1ee9379091b1dd2d78/titus-curtis-1881-cornwall-egloshayle-1857- :: Titus CURTIS | Cornwall | Kilkhampton | 1857 | 1881 | Cornwall | Egloshayle
+/search_records/5902ab74e9379091b1e2ab45/elizabeth-a-curtis-1881-cornwall-kenwyn-1857- :: Elizabeth A. CURTIS | Cornwall | - | 1857 | 1881 | Cornwall | Kenwyn
+/search_records/5902abf3e9379091b1e4c216/charles-curtis-1881-cornwall-falmouth-1857- :: Charles CURTIS | Suffolk | Kessingland | 1857 | 1881 | Cornwall | Falmouth
+/search_records/5902adbae9379091b1ec2aed/william-curtis-1881-cornwall-penzance-1858- :: William CURTIS | Cornwall | St Agnes | 1858 | 1881 | Cornwall | Penzance
+/search_records/5902a9aee9379091b1db5c38/james-curtis-1881-cornwall-looe-1858- :: James CURTIS | Cornwall | Callington | 1858 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5c3a/mary-jane-curtis-1881-cornwall-looe-1858- :: Mary Jane CURTIS | Cornwall | Polperro | 1858 | 1881 | Cornwall | Looe
+/search_records/5902aa7ce9379091b1deb74e/elizabeth-curtis-1881-cornwall-fowey-1858- :: Elizabeth CURTIS | Cornwall | St Austell | 1858 | 1881 | Cornwall | Fowey
+/search_records/5902abc4e9379091b1e3f30f/ellen-curtis-1881-cornwall-falmouth-1858- :: Ellen CURTIS | Cornwall | St Ive | 1858 | 1881 | Cornwall | Falmouth
+/search_records/5902abe6e9379091b1e48b1d/odessa-curtis-1881-cornwall-falmouth-1858- :: Odessa CURTIS | Cornwall | St Austell | 1858 | 1881 | Cornwall | Falmouth
+/search_records/5902acc0e9379091b1e81e20/richard-b-curtis-1881-cornwall-redruth-1858- :: Richard B. CURTIS | Cornwall | Gwennap | 1858 | 1881 | Cornwall | Redruth
+/search_records/5902ada4e9379091b1ebd30e/george-curtis-1881-cornwall-marazion-1858- :: George CURTIS | Cornwall | Marazion | 1858 | 1881 | Cornwall | Marazion
+/search_records/5902a890e9379091b1d6c9a3/william-curtis-1881-cornwall-boscastle-1859- :: William CURTIS | Cornwall | Tintagel | 1859 | 1881 | Cornwall | Boscastle
+/search_records/5902ad0de9379091b1e95bbd/charles-curtis-1881-cornwall-camborne-1859- :: Charles CURTIS | Cornwall | St Hilary | 1859 | 1881 | Cornwall | Camborne
+/search_records/5902ad33e9379091b1e9f84b/john-curtis-1881-cornwall-camborne-1859- :: John CURTIS | Cornwall | Probus | 1859 | 1881 | Cornwall | Camborne
+/search_records/5902add1e9379091b1ec8c8b/ann-curtis-1881-cornwall-penzance-1859- :: Ann CURTIS | Cornwall | Breage | 1859 | 1881 | Cornwall | Penzance
+/search_records/5902ae00e9379091b1ed5918/leah-curtis-1881-cornwall-penzance-1859- :: Leah CURTIS | Cornwall | Germoe | 1859 | 1881 | Cornwall | Penzance
+/search_records/62b5a7c5f493fdafb5c7f71b/william-curtis-1881-cornwall-penzance-1859- :: William CURTIS | Cornwall | Polperro | 1859 | 1881 | Cornwall | Penzance
+/search_records/5902a9aee9379091b1db5d09/susan-curtis-1881-cornwall-looe-1859- :: Susan CURTIS | Cornwall | Polperro | 1859 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5cc8/susanna-curtis-1881-cornwall-looe-1859- :: Susanna CURTIS | Cornwall | Polperro | 1859 | 1881 | Cornwall | Looe
+/search_records/5902aa49e9379091b1dddd24/matilda-curtis-1881-cornwall-st-columb-1859- :: Matilda CURTIS | Cornwall | St Columb | 1859 | 1881 | Cornwall | St Columb Major
+/search_records/5902ac81e9379091b1e717f1/alfred-h-curtis-1881-cornwall-crowan-1860- :: Alfred H CURTIS | Cornwall | - | 1860 | 1881 | Cornwall | Crowan
+/search_records/5902ada8e9379091b1ebe4c3/william-curtis-1881-cornwall-marazion-1860- :: William CURTIS | Cornwall | St Hilary | 1860 | 1881 | Cornwall | Marazion
+/search_records/5902adf3e9379091b1ed260b/annie-curtis-1881-cornwall-penzance-1860- :: Annie CURTIS | Cornwall | Breage | 1860 | 1881 | Cornwall | Penzance
+/search_records/5902a869e9379091b1d62641/e-curtis-1881-cornwall-kilkhampton-1860- :: E. CURTIS | Cornwall | Kilkhampton | 1860 | 1881 | Cornwall | Kilkhampton
+/search_records/5902a93be9379091b1d989b4/thomas-curtis-1881-cornwall-saltash-1860- :: Thomas CURTIS | Cornwall | Burraton | 1860 | 1881 | Cornwall | Saltash
+/search_records/5902a9aee9379091b1db5ccd/francis-curtis-1881-cornwall-looe-1860- :: Francis CURTIS | Cornwall | Polperro | 1860 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5ccf/alice-curtis-1881-cornwall-looe-1860- :: Alice CURTIS | Cornwall | Polperro | 1860 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5d4a/james-curtis-1881-cornwall-looe-1860- :: James CURTIS | Cornwall | Polperro | 1860 | 1881 | Cornwall | Looe
+/search_records/5902aa5be9379091b1de2d6b/john-curtis-1881-cornwall-st-columb-1860- :: John CURTIS | Cornwall | St Wenn | 1860 | 1881 | Cornwall | St Columb Major
+/search_records/5902ac64e9379091b1e69d8e/lavina-curtis-1881-cornwall-st-keverne-1860- :: Lavina CURTIS | Cornwall | Constantine | 1860 | 1881 | Cornwall | St Keverne
+/search_records/5902ac76e9379091b1e6e8c9/georgina-curtis-1881-cornwall-breage-1860- :: Georgina CURTIS | Cornwall | Breage | 1860 | 1881 | Cornwall | Breage
+/search_records/5902a9aee9379091b1db5ccb/ann-curtis-1881-cornwall-looe-1861- :: Ann CURTIS | Cornwall | Polperro | 1861 | 1881 | Cornwall | Looe
+/search_records/5902a88ee9379091b1d6c132/henry-curtis-1881-cornwall-boscastle-1861- :: Henry CURTIS | Cornwall | Tintagel | 1861 | 1881 | Cornwall | Boscastle
+/search_records/5902aa2fe9379091b1dd7529/william-curtis-1881-cornwall-padstow-1861- :: William CURTIS | Cornwall | St Eval | 1861 | 1881 | Cornwall | Padstow
+/search_records/5902ac57e9379091b1e663f6/james-curtis-1881-cornwall-st-keverne-1861- :: James CURTIS | Cornwall | St Martin in Meneage (or St Martin) | 1861 | 1881 | Cornwall | St Keverne
+/search_records/5902ada4e9379091b1ebd0a1/william-j-curtis-1881-cornwall-marazion-1861- :: William J. CURTIS | Cornwall | Marazion | 1861 | 1881 | Cornwall | Marazion
+/search_records/5902ada4e9379091b1ebd310/james-h-curtis-1881-cornwall-marazion-1861- :: James H. CURTIS | Cornwall | Marazion | 1861 | 1881 | Cornwall | Marazion
+/search_records/5902ada7e9379091b1ebe016/louisa-curtis-1881-cornwall-marazion-1861- :: Louisa CURTIS | Cornwall | Breage | 1861 | 1881 | Cornwall | Marazion
+/search_records/5902adbae9379091b1ec2aef/ammy-curtis-1881-cornwall-penzance-1861- :: Ammy CURTIS | Cornwall | Perranporth | 1861 | 1881 | Cornwall | Penzance
+/search_records/5902ae01e9379091b1ed5ae3/eliza-j-curtis-1881-cornwall-penzance-1861- :: Eliza J CURTIS | Cornwall | St Austell | 1861 | 1881 | Cornwall | Penzance
+/search_records/5902ac70e9379091b1e6cc8d/jeremiah-m-curtis-1881-cornwall-breage-1862- :: Jeremiah M CURTIS | Cornwall | St Breage | 1862 | 1881 | Cornwall | Breage
+/search_records/5902ac81e9379091b1e717f5/mary-a-curtis-1881-cornwall-crowan-1862- :: Mary A CURTIS | Cornwall | St Erth | 1862 | 1881 | Cornwall | Crowan
+/search_records/5902a9aee9379091b1db5cbf/henry-curtis-1881-cornwall-looe-1862- :: Henry CURTIS | Cornwall | Polperro | 1862 | 1881 | Cornwall | Looe
+/search_records/5902acd2e9379091b1e8693d/samuel-curtis-1881-cornwall-redruth-1862- :: Samuel CURTIS | Cornwall | Redruth | 1862 | 1881 | Cornwall | Redruth
+/search_records/5902adbae9379091b1ec2af1/albert-curtis-1881-cornwall-penzance-1862- :: Albert CURTIS | Cornwall | Perranporth | 1862 | 1881 | Cornwall | Penzance
+/search_records/5902adc4e9379091b1ec5c59/james-curtis-1881-cornwall-penzance-1862- :: James CURTIS | Cornwall | Breage | 1862 | 1881 | Cornwall | Penzance
+/search_records/5902a9aee9379091b1db5d4c/mary-e-curtis-1881-cornwall-looe-1862- :: Mary E. CURTIS | Cornwall | Polperro | 1862 | 1881 | Cornwall | Looe
+/search_records/66827ebbb18f7c3ea3192d09/selina-curtis-1881-cornwall-lawhitton-1862- :: Selina CURTIS | Devon | Holsworthy | 1862 | 1881 | Cornwall | Lawhitton
+/search_records/5902aa3be9379091b1dda8e6/james-curtis-1881-cornwall-padstow-1862- :: James CURTIS | Cornwall | St Wenn | 1862 | 1881 | Cornwall | Padstow
+/search_records/5902adf3e9379091b1ed2699/joseph-p-curtis-1881-cornwall-penzance-1863- :: Joseph P. CURTIS | Cornwall | - | 1863 | 1881 | Cornwall | Penzance
+/search_records/5902a88fe9379091b1d6c93f/emma-curtis-1881-cornwall-boscastle-1863- :: Emma CURTIS | Cornwall | Trevena | 1863 | 1881 | Cornwall | Boscastle
+/search_records/5902a937e9379091b1d975b3/william-w-curtis-1881-cornwall-saltash-1863- :: William W. CURTIS | Cornwall | Saltash | 1863 | 1881 | Cornwall | Saltash
+/search_records/5902a9aee9379091b1db5988/mary-a-curtis-1881-cornwall-looe-1863- :: Mary A. CURTIS | Cornwall | Polperro | 1863 | 1881 | Cornwall | Looe
+/search_records/5902a9c4e9379091b1dbb480/james-curtis-1881-cornwall-lerrin-1863- :: James CURTIS | Cornwall | Lansallos | 1863 | 1881 | Cornwall | Lerryn
+/search_records/5902ad32e9379091b1e9f48e/alfred-curtis-1881-cornwall-camborne-1863- :: Alfred CURTIS | Cornwall | Cury | 1863 | 1881 | Cornwall | Camborne
+/search_records/5902ad55e9379091b1ea879e/frederic-curtis-1881-cornwall-phillack-1863- :: Frederic CURTIS | Cornwall | Crowan | 1863 | 1881 | Cornwall | Phillack
+/search_records/5902aa7ce9379091b1deb750/john-curtis-1881-cornwall-fowey-1864- :: John CURTIS | Cornwall | St Austell | 1864 | 1881 | Cornwall | Fowey
+/search_records/5902a9aee9379091b1db5d50/selina-curtis-1881-cornwall-looe-1864- :: Selina CURTIS | Cornwall | Polperro | 1864 | 1881 | Cornwall | Looe
+/search_records/5902a9c3e9379091b1dbb03d/ann-curtis-1881-cornwall-lerrin-1864- :: Ann CURTIS | Cornwall | Polperro | 1864 | 1881 | Cornwall | Lerryn
+/search_records/5902ac01e9379091b1e4f4a5/catherine-curtis-1881-cornwall-penryn-1864- :: Catherine CURTIS | Cornwall | Wendron | 1864 | 1881 | Cornwall | Penryn
+/search_records/5902ac70e9379091b1e6cc91/william-curtis-1881-cornwall-breage-1864- :: William CURTIS | Cornwall | St Breage | 1864 | 1881 | Cornwall | Breage
+/search_records/5902ac76e9379091b1e6ea17/william-j-curtis-1881-cornwall-breage-1864- :: William J CURTIS | Cornwall | Breage | 1864 | 1881 | Cornwall | Breage
+/search_records/5902ad0de9379091b1e95bbf/annie-j-curtis-1881-cornwall-camborne-1864- :: Annie J. CURTIS | Cornwall | St Hilary | 1864 | 1881 | Cornwall | Camborne
+/search_records/5902ada4e9379091b1ebd0a5/thomasine-curtis-1881-cornwall-marazion-1864- :: Thomasine CURTIS | Cornwall | Marazion | 1864 | 1881 | Cornwall | Marazion
+/search_records/5902ada4e9379091b1ebd314/thomas-f-curtis-1881-cornwall-marazion-1864- :: Thomas F. CURTIS | Cornwall | Marazion | 1864 | 1881 | Cornwall | Marazion
+/search_records/5902adc4e9379091b1ec5c5b/jane-curtis-1881-cornwall-penzance-1864- :: Jane CURTIS | Cornwall | Breage | 1864 | 1881 | Cornwall | Penzance
+/search_records/5902a9aee9379091b1db5cc1/charles-curtis-1881-cornwall-looe-1865- :: Charles CURTIS | Cornwall | Polperro | 1865 | 1881 | Cornwall | Looe
+/search_records/5902aa5be9379091b1de2d6d/bessie-curtis-1881-cornwall-st-columb-1865- :: Bessie CURTIS | Cornwall | St Wenn | 1865 | 1881 | Cornwall | St Columb Major
+/search_records/5902aa65e9379091b1de50f4/bessie-curtis-1881-cornwall-newlyn-1865- :: Bessie CURTIS | Cornwall | Kenwyn | 1865 | 1881 | Cornwall | Newlyn
+/search_records/5902aa65e9379091b1de528b/emma-curtis-1881-cornwall-newlyn-1865- :: Emma CURTIS | Cornwall | Colan | 1865 | 1881 | Cornwall | Newlyn
+/search_records/5902abffe9379091b1e4ed4c/edward-curtis-1881-cornwall-penryn-1865- :: Edward CURTIS | Cornwall | Penryn | 1865 | 1881 | Cornwall | Penryn
+/search_records/5902ac57e9379091b1e663f8/john-h-curtis-1881-cornwall-st-keverne-1865- :: John H CURTIS | Cornwall | St Martin in Meneage (or St Martin) | 1865 | 1881 | Cornwall | St Keverne
+/search_records/5902ac76e9379091b1e6e8cb/stephen-curtis-1881-cornwall-breage-1865- :: Stephen CURTIS | Cornwall | Breage | 1865 | 1881 | Cornwall | Breage
+/search_records/5902ad33e9379091b1e9f4fb/zaccheus-curtis-1881-cornwall-camborne-1865- :: Zaccheus CURTIS | Cornwall | St Erth | 1865 | 1881 | Cornwall | Camborne
+/search_records/5902ad74e9379091b1eb0bbb/elizebeth-a-curtis-1881-cornwall-uny-lelant-1865- :: Elizebeth A. CURTIS | Cornwall | Uny Lelant | 1865 | 1881 | Cornwall | Lelant
+/search_records/5902a9c3e9379091b1dbb01f/william-curtis-1881-cornwall-lerrin-1865- :: William CURTIS | Cornwall | Polperro | 1865 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb112/charles-curtis-1881-cornwall-lerrin-1865- :: Charles CURTIS | Cornwall | Lansallos | 1865 | 1881 | Cornwall | Lerryn
+/search_records/5902ad49e9379091b1ea55d8/katie-curtis-1881-cornwall-phillack-1866- :: Katie CURTIS | Cornwall | Penzance | 1866 | 1881 | Cornwall | Phillack
+/search_records/5902add9e9379091b1ecb54a/keturah-curtis-1881-cornwall-penzance-1866- :: Keturah CURTIS | Cornwall | St Hilary | 1866 | 1881 | Cornwall | Penzance
+/search_records/5902a937e9379091b1d975b7/caroline-kitt-curtis-1881-cornwall-saltash-1866- :: Caroline Kitt CURTIS | Cornwall | Saltash | 1866 | 1881 | Cornwall | Saltash
+/search_records/5902a93be9379091b1d989b6/w-john-curtis-1881-cornwall-saltash-1866- :: W. John CURTIS | Cornwall | Burraton | 1866 | 1881 | Cornwall | Saltash
+/search_records/5902a93ce9379091b1d98d04/william-h-curtis-1881-cornwall-saltash-1866- :: William H. CURTIS | Cornwall | Saltash | 1866 | 1881 | Cornwall | Saltash
+/search_records/5902aa2fe9379091b1dd7515/thomas-curtis-1881-cornwall-padstow-1866- :: Thomas CURTIS | Cornwall | St Eval | 1866 | 1881 | Cornwall | Padstow
+/search_records/5902aa4be9379091b1dde924/thomas-curtis-1881-cornwall-st-columb-1866- :: Thomas CURTIS | Cornwall | St Columb | 1866 | 1881 | Cornwall | St Columb Major
+/search_records/5902abffe9379091b1e4ed4e/george-curtis-1881-cornwall-penryn-1866- :: George CURTIS | Cornwall | Penryn | 1866 | 1881 | Cornwall | Penryn
+/search_records/5902ac13e9379091b1e5418b/jane-curtis-1881-cornwall-constantine-1866- :: Jane CURTIS | Cornwall | Constantine | 1866 | 1881 | Cornwall | Constantine
+/search_records/5902ac27e9379091b1e598e2/francis-curtis-1881-cornwall-wendron-1866- :: Francis CURTIS | Cornwall | Wendron | 1866 | 1881 | Cornwall | Wendron
+/search_records/5902ac76e9379091b1e6e8cd/mary-f-curtis-1881-cornwall-breage-1866- :: Mary F CURTIS | Cornwall | Breage | 1866 | 1881 | Cornwall | Breage
+/search_records/5902acd2e9379091b1e8693f/william-curtis-1881-cornwall-redruth-1866- :: William CURTIS | Cornwall | Redruth | 1866 | 1881 | Cornwall | Redruth
+/search_records/5902a9aee9379091b1db5d52/philippa-curtis-1881-cornwall-looe-1867- :: Philippa CURTIS | Cornwall | Polperro | 1867 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5cc3/philippa-curtis-1881-cornwall-looe-1867- :: Philippa CURTIS | Cornwall | Polperro | 1867 | 1881 | Cornwall | Looe
+/search_records/5902a9c3e9379091b1dbb150/helen-curtis-1881-cornwall-lerrin-1867- :: Helen CURTIS | Cornwall | Lansallos | 1867 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c5e9379091b1dbbb8f/ethelbert-curtis-1881-cornwall-lerrin-1867- :: Ethelbert CURTIS | Cornwall | Lanteglos | 1867 | 1881 | Cornwall | Lerryn
+/search_records/5902aa65e9379091b1de5289/charles-curtis-1881-cornwall-newlyn-1867- :: Charles CURTIS | Cornwall | Colan | 1867 | 1881 | Cornwall | Newlyn
+/search_records/5902ab4ee9379091b1e21995/elizth-ann-curtis-1881-cornwall-st-clements-1867- :: Elizth Ann CURTIS | Cornwall | Truro | 1867 | 1881 | Cornwall | St Clement
+/search_records/5902ac27e9379091b1e598e4/dorothy-curtis-1881-cornwall-wendron-1867- :: Dorothy CURTIS | Cornwall | Wendron | 1867 | 1881 | Cornwall | Wendron
+/search_records/5902ac76e9379091b1e6ea1b/clara-b-curtis-1881-cornwall-breage-1867- :: Clara B CURTIS | Cornwall | Breage | 1867 | 1881 | Cornwall | Breage
+/search_records/5902ad32e9379091b1e9f490/thos-curtis-1881-cornwall-camborne-1867- :: Thos. CURTIS | Cornwall | St Erth | 1867 | 1881 | Cornwall | Camborne
+/search_records/5902ad74e9379091b1eb0f17/grace-thomas-curtis-1881-cornwall-uny-lelant-1867- :: Grace Thomas CURTIS | Cornwall | Lelant | 1867 | 1881 | Cornwall | Lelant
+/search_records/6677fdd7b18f7c8d6a4c1ef5/william-curtis-1881-cornwall-lanteglos-by-camelford-1867- :: William CURTIS | Cornwall | Newhall Green | 1867 | 1881 | Cornwall | Lanteglos By Camelford
+/search_records/5902a93be9379091b1d989ba/clara-curtis-1881-cornwall-saltash-1868- :: Clara CURTIS | Cornwall | Burraton | 1868 | 1881 | Cornwall | Saltash
+/search_records/5902ab4ee9379091b1e2199a/emma-jane-curtis-1881-cornwall-st-clements-1868- :: Emma Jane CURTIS | Cornwall | Truro | 1868 | 1881 | Cornwall | St Clement
+/search_records/5902ac00e9379091b1e4ef0f/richard-john-curtis-1881-cornwall-penryn-1868- :: Richard John CURTIS | Cornwall | Penryn | 1868 | 1881 | Cornwall | Penryn
+/search_records/5902accee9379091b1e85593/jane-curtis-1881-cornwall-redruth-1868- :: Jane CURTIS | Cornwall | Gwennap | 1868 | 1881 | Cornwall | Redruth
+/search_records/5902ad09e9379091b1e946f5/william-curtis-1881-cornwall-camborne-1868- :: William CURTIS | Cornwall | Camborne | 1868 | 1881 | Cornwall | Camborne
+/search_records/5902ada7e9379091b1ebdf20/francis-curtis-1881-cornwall-marazion-1868- :: Francis CURTIS | Cornwall | St Hilary | 1868 | 1881 | Cornwall | Marazion
+/search_records/5902a9c3e9379091b1dbb124/richard-curtis-1881-cornwall-lerrin-1868- :: Richard CURTIS | Cornwall | Talland | 1868 | 1881 | Cornwall | Lerryn
+/search_records/5902aa65e9379091b1de50f6/thomas-curtis-1881-cornwall-newlyn-1868- :: Thomas CURTIS | Cornwall | - | 1868 | 1881 | Cornwall | Newlyn
+/search_records/5902aaf3e9379091b1e09aaf/mary-curtis-1881-cornwall-grampound-1868- :: Mary CURTIS | Cornwall | St Wenn | 1868 | 1881 | Cornwall | Grampound
+/search_records/5902acd2e9379091b1e86941/bessie-curtis-1881-cornwall-redruth-1869- :: Bessie CURTIS | Cornwall | Redruth | 1869 | 1881 | Cornwall | Redruth
+/search_records/5902adc4e9379091b1ec5c5d/elizabeth-curtis-1881-cornwall-penzance-1869- :: Elizabeth CURTIS | Cornwall | Germoe | 1869 | 1881 | Cornwall | Penzance
+/search_records/6677fdd7b18f7c8d6a4c1ef7/thomas-curtis-1881-cornwall-lanteglos-by-camelford-1869- :: Thomas CURTIS | Cornwall | St Teath | 1869 | 1881 | Cornwall | Lanteglos By Camelford
+/search_records/5902a93ce9379091b1d98d08/alice-m-m-curtis-1881-cornwall-saltash-1869- :: Alice M.M. CURTIS | Cornwall | Saltash | 1869 | 1881 | Cornwall | Saltash
+/search_records/5902a9aee9379091b1db5d54/john-curtis-1881-cornwall-looe-1869- :: John CURTIS | Cornwall | Polperro | 1869 | 1881 | Cornwall | Looe
+/search_records/5902a9c3e9379091b1dbb021/robert-m-curtis-1881-cornwall-lerrin-1869- :: Robert M. CURTIS | Cornwall | Polperro | 1869 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb047/john-curtis-1881-cornwall-lerrin-1869- :: John CURTIS | Cornwall | Polperro | 1869 | 1881 | Cornwall | Lerryn
+/search_records/5902aa2fe9379091b1dd752b/mary-c-curtis-1881-cornwall-padstow-1869- :: Mary C. CURTIS | Cornwall | St Eval | 1869 | 1881 | Cornwall | Padstow
+/search_records/5902aa49e9379091b1dddd26/henry-curtis-1881-cornwall-st-columb-1869- :: Henry CURTIS | Cornwall | Wadebridge | 1869 | 1881 | Cornwall | St Columb Major
+/search_records/5902aa5ce9379091b1de320b/mary-m-curtis-1881-cornwall-st-columb-1869- :: Mary M. CURTIS | Cornwall | Withiel | 1869 | 1881 | Cornwall | St Columb Major
+/search_records/5902ac57e9379091b1e663fc/charls-curtis-1881-cornwall-st-keverne-1869- :: Charls CURTIS | Cornwall | St Martin in Meneage (or St Martin) | 1869 | 1881 | Cornwall | St Keverne
+/search_records/5902a93be9379091b1d989bd/wallace-curtis-1881-cornwall-saltash-1870- :: Wallace CURTIS | Cornwall | Saltash | 1870 | 1881 | Cornwall | Saltash
+/search_records/5902a9c3e9379091b1dbb170/mary-k-curtis-1881-cornwall-lerrin-1870- :: Mary K. CURTIS | Cornwall | Lansallos | 1870 | 1881 | Cornwall | Lerryn
+/search_records/5902ab4ee9379091b1e2199e/harriott-l-curtis-1881-cornwall-st-clements-1870- :: Harriott L CURTIS | Cornwall | Truro | 1870 | 1881 | Cornwall | St Clement
+/search_records/5902ac27e9379091b1e598e6/william-curtis-1881-cornwall-wendron-1870- :: William CURTIS | Cornwall | Wendron | 1870 | 1881 | Cornwall | Wendron
+/search_records/5902acbde9379091b1e812b7/selina-curtis-1881-cornwall-redruth-1870- :: Selina CURTIS | Cornwall | Redruth | 1870 | 1881 | Cornwall | Redruth
+/search_records/5902ad74e9379091b1eb0f1b/martha-kate-curtis-1881-cornwall-uny-lelant-1870- :: Martha Kate CURTIS | Cornwall | Lelant | 1870 | 1881 | Cornwall | Lelant
+/search_records/5902adc4e9379091b1ec5c5f/-unreadable-f-curtis-1881-cornwall-penzance-1871- :: (Unreadable) F. CURTIS | Cornwall | St Erth (or S Erth) | 1871 | 1881 | Cornwall | Penzance
+/search_records/5902a9aee9379091b1db5d71/elizth-m-curtis-1881-cornwall-looe-1871- :: Elizth. M. CURTIS | Cornwall | Polperro | 1871 | 1881 | Cornwall | Looe
+/search_records/5902a9c3e9379091b1dbb049/jane-a-curtis-1881-cornwall-lerrin-1871- :: Jane A. CURTIS | Cornwall | Polperro | 1871 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb114/edward-curtis-1881-cornwall-lerrin-1871- :: Edward CURTIS | Cornwall | Lansallos | 1871 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb126/elizabeth-curtis-1881-cornwall-lerrin-1871- :: Elizabeth CURTIS | Cornwall | Talland | 1871 | 1881 | Cornwall | Lerryn
+/search_records/5902aa49e9379091b1dddd28/bessie-curtis-1881-cornwall-st-columb-1871- :: Bessie CURTIS | Cornwall | Wadebridge | 1871 | 1881 | Cornwall | St Columb Major
+/search_records/5902aaa2e9379091b1df4d54/georgina-curtis-1881-cornwall-st-austell-1871- :: Georgina CURTIS | Cornwall | St Cleer | 1871 | 1881 | Cornwall | St Austell
+/search_records/5902aac8e9379091b1dfed08/thomas-curtis-1881-cornwall-st-austell-1871- :: Thomas CURTIS | Cornwall | Roche | 1871 | 1881 | Cornwall | St Austell
+/search_records/5902ac00e9379091b1e4ef13/william-george-curtis-1881-cornwall-penryn-1871- :: William George CURTIS | Cornwall | Penryn | 1871 | 1881 | Cornwall | Penryn
+/search_records/5902ac57e9379091b1e663ff/lora-curtis-1881-cornwall-st-keverne-1871- :: Lora CURTIS | Cornwall | St Martin in Meneage (or St Martin) | 1871 | 1881 | Cornwall | St Keverne
+/search_records/5902acd2e9379091b1e86943/martin-curtis-1881-cornwall-redruth-1871- :: Martin CURTIS | Cornwall | Redruth | 1871 | 1881 | Cornwall | Redruth
+/search_records/5902ad09e9379091b1e946f7/thomas-curtis-1881-cornwall-camborne-1871- :: Thomas CURTIS | Cornwall | Camborne | 1871 | 1881 | Cornwall | Camborne
+/search_records/5902ad49e9379091b1ea55da/eliza-curtis-1881-cornwall-phillack-1871- :: Eliza CURTIS | Cornwall | Phillack (or Phillick) | 1871 | 1881 | Cornwall | Phillack
+/search_records/5902a937e9379091b1d975e9/cassandra-curtis-1881-cornwall-saltash-1871- :: Cassandra CURTIS | Cornwall | Saltash | 1871 | 1881 | Cornwall | Saltash
+/search_records/5902ac27e9379091b1e598e8/charles-curtis-1881-cornwall-wendron-1872- :: Charles CURTIS | Cornwall | Wendron | 1872 | 1881 | Cornwall | Wendron
+/search_records/5902a9c3e9379091b1dbb025/richard-curtis-1881-cornwall-lerrin-1872- :: Richard CURTIS | Cornwall | Polperro | 1872 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb116/richard-curtis-1881-cornwall-lerrin-1872- :: Richard CURTIS | Cornwall | Lansallos | 1872 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c5e9379091b1dbbb91/avilla-l-curtis-1881-cornwall-lerrin-1872- :: Avilla L. CURTIS | Cornwall | Lanteglos | 1872 | 1881 | Cornwall | Lerryn
+/search_records/5902a9d8e9379091b1dc0c5e/william-john-curtis-1881-cornwall-lanlivery-1872- :: William John CURTIS | Cornwall | Lostwithiel | 1872 | 1881 | Cornwall | Lanlivery
+/search_records/5902aa2fe9379091b1dd752f/john-curtis-1881-cornwall-padstow-1872- :: John CURTIS | Cornwall | St Eval | 1872 | 1881 | Cornwall | Padstow
+/search_records/5902aa5ce9379091b1de2e26/tom-curtis-1881-cornwall-st-columb-1872- :: Tom CURTIS | Cornwall | St Wenn | 1872 | 1881 | Cornwall | St Columb Major
+/search_records/5902aa5ce9379091b1de320f/john-curtis-1881-cornwall-st-columb-1872- :: John CURTIS | Cornwall | Lanivet | 1872 | 1881 | Cornwall | St Columb Major
+/search_records/5902aaf5e9379091b1e0a523/annie-curtis-1881-cornwall-grampound-1872- :: Annie CURTIS | Cornwall | Ladock | 1872 | 1881 | Cornwall | Grampound
+/search_records/5902ab4ee9379091b1e219a2/francis-h-curtis-1881-cornwall-st-clements-1872- :: Francis H CURTIS | Cornwall | Truro | 1872 | 1881 | Cornwall | St Clement
+/search_records/5902abffe9379091b1e4ed50/elizabeth-curtis-1881-cornwall-penryn-1872- :: Elizabeth CURTIS | Cornwall | Penryn | 1872 | 1881 | Cornwall | Penryn
+/search_records/5902ac13e9379091b1e5418d/charles-curtis-1881-cornwall-constantine-1872- :: Charles CURTIS | Cornwall | Constantine | 1872 | 1881 | Cornwall | Constantine
+/search_records/5902acbde9379091b1e812b9/ellen-curtis-1881-cornwall-redruth-1872- :: Ellen CURTIS | Cornwall | Redruth | 1872 | 1881 | Cornwall | Redruth
+/search_records/5902accee9379091b1e85595/bessie-curtis-1881-cornwall-redruth-1872- :: Bessie CURTIS | Cornwall | Redruth | 1872 | 1881 | Cornwall | Redruth
+/search_records/5902ad74e9379091b1eb0bbf/joseph-curtis-1881-cornwall-uny-lelant-1872- :: Joseph CURTIS | Cornwall | St Ives | 1872 | 1881 | Cornwall | Lelant
+/search_records/5902ad74e9379091b1eb0f1f/emanuel-curtis-1881-cornwall-uny-lelant-1872- :: Emanuel CURTIS | Cornwall | Lelant | 1872 | 1881 | Cornwall | Lelant
+/search_records/5902a9c3e9379091b1dbb027/matilda-curtis-1881-cornwall-lerrin-1873- :: Matilda CURTIS | Cornwall | Polperro | 1873 | 1881 | Cornwall | Lerryn
+/search_records/5902a937e9379091b1d975bb/elizabeth-sergeant-curtis-1881-cornwall-saltash-1873- :: Elizabeth Sergeant CURTIS | Cornwall | Saltash | 1873 | 1881 | Cornwall | Saltash
+/search_records/5902aa49e9379091b1dddd2a/charley-curtis-1881-cornwall-st-columb-1873- :: Charley CURTIS | Cornwall | Wadebridge | 1873 | 1881 | Cornwall | St Columb Major
+/search_records/5902aa7ce9379091b1deb6d4/frederick-curtis-1881-cornwall-fowey-1873- :: Frederick CURTIS | Cornwall | St Blazey | 1873 | 1881 | Cornwall | Fowey
+/search_records/5902ab2ae9379091b1e18200/thomas-h-curtis-1881-cornwall-st-agnes-1873- :: Thomas H CURTIS | Cornwall | St Agnes | 1873 | 1881 | Cornwall | St Agnes
+/search_records/5902ab4ee9379091b1e219a6/emily-curtis-1881-cornwall-st-clements-1873- :: Emily CURTIS | Cornwall | Truro | 1873 | 1881 | Cornwall | St Clement
+/search_records/5902ac00e9379091b1e4ef17/mary-alice-curtis-1881-cornwall-penryn-1873- :: Mary Alice CURTIS | Cornwall | Penryn | 1873 | 1881 | Cornwall | Penryn
+/search_records/5902ad74e9379091b1eb0f21/samuel-curtis-1881-cornwall-uny-lelant-1873- :: Samuel CURTIS | Cornwall | Lelant | 1873 | 1881 | Cornwall | Lelant
+/search_records/5902a93be9379091b1d989bf/josephine-curtis-1881-cornwall-saltash-1873- :: Josephine CURTIS | Cornwall | Saltash | 1873 | 1881 | Cornwall | Saltash
+/search_records/5902adc4e9379091b1ec5c63/-unreadable-j-curtis-1881-cornwall-penzance-1873- :: (Unreadable) J. CURTIS | Cornwall | Perranarworthal (or Perran) | 1873 | 1881 | Cornwall | Penzance
+/search_records/5902a9c3e9379091b1dbb174/mary-p-curtis-1881-cornwall-lerrin-1873- :: Mary P. CURTIS | Cornwall | Lansallos | 1873 | 1881 | Cornwall | Lerryn
+/search_records/5902acd2e9379091b1e86945/selena-curtis-1881-cornwall-redruth-1874- :: Selena CURTIS | Cornwall | Redruth | 1874 | 1881 | Cornwall | Redruth
+/search_records/5902a9aee9379091b1db5d56/richard-curtis-1881-cornwall-looe-1874- :: Richard CURTIS | Cornwall | Polperro | 1874 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5d76/john-fowler-curtis-1881-cornwall-looe-1874- :: John Fowler CURTIS | Cornwall | Polperro | 1874 | 1881 | Cornwall | Looe
+/search_records/5902a9c3e9379091b1dbb03f/richard-curtis-1881-cornwall-lerrin-1874- :: Richard CURTIS | Cornwall | Polperro | 1874 | 1881 | Cornwall | Lerryn
+/search_records/5902aa2fe9379091b1dd7531/james-curtis-1881-cornwall-padstow-1874- :: James CURTIS | Cornwall | St Eval | 1874 | 1881 | Cornwall | Padstow
+/search_records/5902aa5ce9379091b1de3211/william-h-curtis-1881-cornwall-st-columb-1874- :: William H. CURTIS | Cornwall | St Wenn | 1874 | 1881 | Cornwall | St Columb Major
+/search_records/5902aaf5e9379091b1e0a525/lilly-curtis-1881-cornwall-grampound-1874- :: Lilly CURTIS | Cornwall | St Stephen in Brannel (or St Stephens) | 1874 | 1881 | Cornwall | Grampound
+/search_records/5902ac13e9379091b1e5418f/edith-curtis-1881-cornwall-constantine-1874- :: Edith CURTIS | Cornwall | Constantine | 1874 | 1881 | Cornwall | Constantine
+/search_records/5902ac27e9379091b1e598ea/john-curtis-1881-cornwall-wendron-1874- :: John CURTIS | Cornwall | Wendron | 1874 | 1881 | Cornwall | Wendron
+/search_records/5902ac70e9379091b1e6cc93/mary-j-curtis-1881-cornwall-breage-1874- :: Mary J CURTIS | Cornwall | St Breage | 1874 | 1881 | Cornwall | Breage
+/search_records/5902acbde9379091b1e812bb/hetty-curtis-1881-cornwall-redruth-1874- :: Hetty CURTIS | Cornwall | Redruth | 1874 | 1881 | Cornwall | Redruth
+/search_records/5902ac27e9379091b1e598ec/grace-curtis-1881-cornwall-wendron-1875- :: Grace CURTIS | Cornwall | Wendron | 1875 | 1881 | Cornwall | Wendron
+/search_records/5902a93ce9379091b1d98d0c/eliza-a-curtis-1881-cornwall-saltash-1875- :: Eliza A. CURTIS | Cornwall | Saltash | 1875 | 1881 | Cornwall | Saltash
+/search_records/5902a9aee9379091b1db5d03/martha-curtis-1881-cornwall-looe-1875- :: Martha CURTIS | Cornwall | Polperro | 1875 | 1881 | Cornwall | Looe
+/search_records/5902a9c3e9379091b1dbb118/catherine-curtis-1881-cornwall-lerrin-1875- :: Catherine CURTIS | Cornwall | Lansallos | 1875 | 1881 | Cornwall | Lerryn
+/search_records/5902aa49e9379091b1dddd2c/lilly-curtis-1881-cornwall-st-columb-1875- :: Lilly CURTIS | Cornwall | Wadebridge | 1875 | 1881 | Cornwall | St Columb Major
+/search_records/5902aa6ae9379091b1de68fb/william-curtis-1881-cornwall-newlyn-1875- :: William CURTIS | Cornwall | Newlyn East | 1875 | 1881 | Cornwall | Newlyn
+/search_records/5902aa7ce9379091b1deb6d6/alice-curtis-1881-cornwall-fowey-1875- :: Alice CURTIS | Cornwall | St Blazey | 1875 | 1881 | Cornwall | Fowey
+/search_records/5902aaede9379091b1e07fba/edith-m-curtis-1881-cornwall-grampound-1875- :: Edith M. CURTIS | Devon | Okehampton | 1875 | 1881 | Cornwall | Grampound
+/search_records/5902abffe9379091b1e4ed52/evelyn-curtis-1881-cornwall-penryn-1875- :: Evelyn CURTIS | Cornwall | Penryn | 1875 | 1881 | Cornwall | Penryn
+/search_records/5902ac00e9379091b1e4ef1b/charles-curtis-1881-cornwall-penryn-1875- :: Charles CURTIS | Cornwall | Penryn | 1875 | 1881 | Cornwall | Penryn
+/search_records/5902ac57e9379091b1e66401/joanah-curtis-1881-cornwall-st-keverne-1875- :: Joanah CURTIS | Cornwall | St Martin in Meneage (or St Martin) | 1875 | 1881 | Cornwall | St Keverne
+/search_records/5902ac8fe9379091b1e74cff/richd-j-curtis-1881-cornwall-gwennap-1875- :: Richd.J. CURTIS | Cornwall | Gwennap | 1875 | 1881 | Cornwall | Gwennap
+/search_records/5902ad09e9379091b1e946f9/francis-curtis-1881-cornwall-camborne-1875- :: Francis CURTIS | Cornwall | Camborne | 1875 | 1881 | Cornwall | Camborne
+/search_records/5902ad23e9379091b1e9b8a3/francis-m-curtis-1881-cornwall-camborne-1875- :: Francis M. CURTIS | Cornwall | Camborne | 1875 | 1881 | Cornwall | Camborne
+/search_records/5902ad32e9379091b1e9f493/mary-curtis-1881-cornwall-camborne-1875- :: Mary CURTIS | Cornwall | Camborne | 1875 | 1881 | Cornwall | Camborne
+/search_records/5902ad23e9379091b1e9b8a7/florence-curtis-1881-cornwall-camborne-1876- :: Florence CURTIS | Cornwall | Camborne | 1876 | 1881 | Cornwall | Camborne
+/search_records/5902a93be9379091b1d989c1/florence-m-curtis-1881-cornwall-saltash-1876- :: Florence M. CURTIS | Cornwall | Saltash | 1876 | 1881 | Cornwall | Saltash
+/search_records/5902a9aee9379091b1db5aa1/fred-h-curtis-1881-cornwall-looe-1876- :: Fred H. CURTIS | Cornwall | Polperro | 1876 | 1881 | Cornwall | Looe
+/search_records/5902a9b2e9379091b1db71c0/charles-curtis-1881-cornwall-looe-1876- :: Charles CURTIS | Cornwall | East Looe (or E Looe) | 1876 | 1881 | Cornwall | Looe
+/search_records/5902a9c3e9379091b1dbb029/john-curtis-1881-cornwall-lerrin-1876- :: John CURTIS | Cornwall | Polperro | 1876 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb128/phil-curtis-1881-cornwall-lerrin-1876- :: Phil CURTIS | Cornwall | Talland | 1876 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb178/bessie-curtis-1881-cornwall-lerrin-1876- :: Bessie CURTIS | Cornwall | Lansallos | 1876 | 1881 | Cornwall | Lerryn
+/search_records/5902aa5be9379091b1de2d6f/susan-jane-curtis-1881-cornwall-st-columb-1876- :: Susan Jane CURTIS | Cornwall | St Wenn | 1876 | 1881 | Cornwall | St Columb Major
+/search_records/5902aa5ce9379091b1de3215/fred-curtis-1881-cornwall-st-columb-1876- :: Fred CURTIS | Cornwall | Colan | 1876 | 1881 | Cornwall | St Columb Major
+/search_records/5902ab2ae9379091b1e18204/john-curtis-1881-cornwall-st-agnes-1876- :: John CURTIS | Cornwall | St Agnes | 1876 | 1881 | Cornwall | St Agnes
+/search_records/5902ac13e9379091b1e54191/cornelius-curtis-1881-cornwall-constantine-1876- :: Cornelius CURTIS | Cornwall | Constantine | 1876 | 1881 | Cornwall | Constantine
+/search_records/5902ad09e9379091b1e946fb/edith-m-curtis-1881-cornwall-camborne-1876- :: Edith M. CURTIS | Cornwall | Camborne | 1876 | 1881 | Cornwall | Camborne
+/search_records/5902a937e9379091b1d975bf/amelia-grace-chapman-curtis-1881-cornwall-saltash-1876- :: Amelia Grace Chapman CURTIS | Cornwall | Saltash | 1876 | 1881 | Cornwall | Saltash
+/search_records/5902a9aee9379091b1db5d7a/charles-e-curtis-1881-cornwall-looe-1877- :: Charles E. CURTIS | Cornwall | Polperro | 1877 | 1881 | Cornwall | Looe
+/search_records/5902a88fe9379091b1d6c941/matilda-s-curtis-1881-cornwall-boscastle-1877- :: Matilda S. CURTIS | Cornwall | Trevena | 1877 | 1881 | Cornwall | Boscastle
+/search_records/5902a9aee9379091b1db5aa6/beatrice-curtis-1881-cornwall-looe-1877- :: Beatrice CURTIS | Cornwall | Polperro | 1877 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5bd2/agness-a-curtis-1881-cornwall-looe-1877- :: Agness A. CURTIS | Cornwall | Polperro | 1877 | 1881 | Cornwall | Looe
+/search_records/5902a9c3e9379091b1dbb11a/thomas-curtis-1881-cornwall-lerrin-1877- :: Thomas CURTIS | Cornwall | Lansallos | 1877 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c5e9379091b1dbbbae/bessie-l-curtis-1881-cornwall-lerrin-1877- :: Bessie L. CURTIS | Cornwall | Lanteglos | 1877 | 1881 | Cornwall | Lerryn
+/search_records/5902aa1de9379091b1dd2a55/mary-e-curtis-1881-cornwall-egloshayle-1877- :: Mary E CURTIS | Cornwall | Egloshayle | 1877 | 1881 | Cornwall | Egloshayle
+/search_records/5902aa2fe9379091b1dd7533/albert-twin-curtis-1881-cornwall-padstow-1877- :: Albert(Twin) CURTIS | Cornwall | St Eval | 1877 | 1881 | Cornwall | Padstow
+/search_records/5902aa2fe9379091b1dd7535/alfred-twin-curtis-1881-cornwall-padstow-1877- :: Alfred (Twin) CURTIS | Cornwall | St Eval | 1877 | 1881 | Cornwall | Padstow
+/search_records/5902aa49e9379091b1dddd2e/joseph-curtis-1881-cornwall-st-columb-1877- :: Joseph CURTIS | Cornwall | St Columb | 1877 | 1881 | Cornwall | St Columb Major
+/search_records/5902abffe9379091b1e4ed54/william-curtis-1881-cornwall-penryn-1877- :: William CURTIS | Cornwall | Penryn | 1877 | 1881 | Cornwall | Penryn
+/search_records/5902ad23e9379091b1e9b8a9/ellen-curtis-1881-cornwall-camborne-1877- :: Ellen CURTIS | Cornwall | Camborne | 1877 | 1881 | Cornwall | Camborne
+/search_records/5902acd2e9379091b1e86947/john-curtis-1881-cornwall-redruth-1878- :: John CURTIS | Cornwall | Redruth | 1878 | 1881 | Cornwall | Redruth
+/search_records/5902a9aee9379091b1db5aa8/loues-curtis-1881-cornwall-looe-1878- :: Loues CURTIS | Cornwall | Polperro | 1878 | 1881 | Cornwall | Looe
+/search_records/5902a9c3e9379091b1dbb12a/william-curtis-1881-cornwall-lerrin-1878- :: William CURTIS | Cornwall | Talland | 1878 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb17a/william-curtis-1881-cornwall-lerrin-1878- :: William CURTIS | Cornwall | Lansallos | 1878 | 1881 | Cornwall | Lerryn
+/search_records/5902a9d8e9379091b1dc0c62/bessie-curtis-1881-cornwall-lanlivery-1878- :: Bessie CURTIS | Cornwall | Lostwithiel | 1878 | 1881 | Cornwall | Lanlivery
+/search_records/5902a93be9379091b1d989c5/edwin-curtis-1881-cornwall-saltash-1878- :: Edwin CURTIS | Cornwall | Saltash | 1878 | 1881 | Cornwall | Saltash
+/search_records/5902aaaee9379091b1df7ccc/james-h-curtis-1881-cornwall-st-austell-1878- :: James H. CURTIS | Cornwall | St Austell | 1878 | 1881 | Cornwall | St Austell
+/search_records/5902aaede9379091b1e07fbe/william-j-curtis-1881-cornwall-grampound-1878- :: William J. CURTIS | Devon | Okehampton | 1878 | 1881 | Cornwall | Grampound
+/search_records/5902ab4ee9379091b1e219a8/ernest-curtis-1881-cornwall-st-clements-1878- :: Ernest CURTIS | Cornwall | Truro | 1878 | 1881 | Cornwall | St Clement
+/search_records/5902ac13e9379091b1e54193/samuel-j-curtis-1881-cornwall-constantine-1878- :: Samuel J. CURTIS | Cornwall | Constantine | 1878 | 1881 | Cornwall | Constantine
+/search_records/5902acbde9379091b1e812bd/samuel-curtis-1881-cornwall-redruth-1878- :: Samuel CURTIS | Cornwall | Redruth | 1878 | 1881 | Cornwall | Redruth
+/search_records/5902a93ce9379091b1d98d11/ernest-v-curtis-1881-cornwall-saltash-1878- :: Ernest V. CURTIS | Cornwall | Saltash | 1878 | 1881 | Cornwall | Saltash
+/search_records/5902aaede9379091b1e07fc2/thomas-b-curtis-1881-cornwall-grampound-1879- :: Thomas B. CURTIS | Cornwall | Grampound | 1879 | 1881 | Cornwall | Grampound
+/search_records/5902a93be9379091b1d989c7/sydney-curtis-1881-cornwall-saltash-1879- :: Sydney CURTIS | Cornwall | Saltash | 1879 | 1881 | Cornwall | Saltash
+/search_records/5902a9aee9379091b1db5d7e/frederick-w-curtis-1881-cornwall-looe-1879- :: Frederick W. CURTIS | Cornwall | Polperro | 1879 | 1881 | Cornwall | Looe
+/search_records/5902a9d8e9379091b1dc0c64/john-curtis-1881-cornwall-lanlivery-1879- :: John CURTIS | Cornwall | Lostwithiel | 1879 | 1881 | Cornwall | Lanlivery
+/search_records/5902aa1de9379091b1dd2a59/william-curtis-1881-cornwall-egloshayle-1879- :: William CURTIS | Cornwall | Egloshayle | 1879 | 1881 | Cornwall | Egloshayle
+/search_records/5902aa49e9379091b1dddd30/roger-curtis-1881-cornwall-st-columb-1879- :: Roger CURTIS | Cornwall | St Columb | 1879 | 1881 | Cornwall | St Columb Major
+/search_records/5902ab01e9379091b1e0d3e8/susan-m-curtis-1881-cornwall-probus-1879- :: Susan M. CURTIS | Cornwall | Probus | 1879 | 1881 | Cornwall | Probus
+/search_records/5902ab2ae9379091b1e18206/annie-curtis-1881-cornwall-st-agnes-1879- :: Annie CURTIS | Cornwall | St Agnes | 1879 | 1881 | Cornwall | St Agnes
+/search_records/5902ad09e9379091b1e946ff/earnest-curtis-1881-cornwall-camborne-1879- :: Earnest CURTIS | Cornwall | Camborne | 1879 | 1881 | Cornwall | Camborne
+/search_records/5902ad23e9379091b1e9b8ab/louisa-curtis-1881-cornwall-camborne-1879- :: Louisa CURTIS | Cornwall | Camborne | 1879 | 1881 | Cornwall | Camborne
+/search_records/5902ad28e9379091b1e9cfde/elizebeth-m-curtis-1881-cornwall-camborne-1879- :: Elizebeth M. CURTIS | Cornwall | Constantine | 1879 | 1881 | Cornwall | Camborne
+/search_records/5902a93ce9379091b1d98d15/ida-e-curtis-1881-cornwall-saltash-1880- :: Ida E. CURTIS | Cornwall | Saltash | 1880 | 1881 | Cornwall | Saltash
+/search_records/5902a9aee9379091b1db5aaa/jesse-curtis-1881-cornwall-looe-1880- :: Jesse CURTIS | Cornwall | Polperro | 1880 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5c3e/john-curtis-1881-cornwall-looe-1880- :: John CURTIS | Cornwall | Polperro | 1880 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5cd1/john-f-curtis-1881-cornwall-looe-1880- :: John F. CURTIS | Cornwall | Polperro | 1880 | 1881 | Cornwall | Looe
+/search_records/5902a9c3e9379091b1dbb11c/john-curtis-1881-cornwall-lerrin-1880- :: John CURTIS | Cornwall | Lansallos | 1880 | 1881 | Cornwall | Lerryn
+/search_records/5902a9c3e9379091b1dbb17c/harry-curtis-1881-cornwall-lerrin-1880- :: Harry CURTIS | Cornwall | Lansallos | 1880 | 1881 | Cornwall | Lerryn
+/search_records/5902a9d8e9379091b1dc0c66/annie-curtis-1881-cornwall-lanlivery-1880- :: Annie CURTIS | Cornwall | Lostwithiel | 1880 | 1881 | Cornwall | Lanlivery
+/search_records/5902aa49e9379091b1dddd32/samp-curtis-1881-cornwall-st-columb-1880- :: Samp CURTIS | Cornwall | St Columb | 1880 | 1881 | Cornwall | St Columb Major
+/search_records/5902aa66e9379091b1de5589/henry-curtis-1881-cornwall-newlyn-1880- :: Henry CURTIS | Gloucestershire | Henbury | 1880 | 1881 | Cornwall | Newlyn
+/search_records/5902aaa2e9379091b1df4d56/thomas-j-curtis-1881-cornwall-st-austell-1880- :: Thomas J. CURTIS | Cornwall | St Austell | 1880 | 1881 | Cornwall | St Austell
+/search_records/5902aaf5e9379091b1e0a527/harry-curtis-1881-cornwall-grampound-1880- :: Harry CURTIS | Cornwall | St Stephen in Brannel (or St Stephens) | 1880 | 1881 | Cornwall | Grampound
+/search_records/5902abffe9379091b1e4ed56/asenith-curtis-1881-cornwall-penryn-1880- :: Asenith CURTIS | Cornwall | Penryn | 1880 | 1881 | Cornwall | Penryn
+/search_records/5902ac81e9379091b1e717f9/thomas-t-curtis-1881-cornwall-crowan-1880- :: Thomas T CURTIS | Cornwall | Crowan | 1880 | 1881 | Cornwall | Crowan
+/search_records/5902ad23e9379091b1e9b8ad/george-curtis-1881-cornwall-camborne-1880- :: George CURTIS | Cornwall | Camborne | 1880 | 1881 | Cornwall | Camborne
+/search_records/5902ad28e9379091b1e9cfe2/martha-curtis-1881-cornwall-camborne-1880- :: Martha CURTIS | Cornwall | Constantine | 1880 | 1881 | Cornwall | Camborne
+/search_records/5902ad74e9379091b1eb0bc1/ralph-curtis-1881-cornwall-uny-lelant-1880- :: Ralph CURTIS | Cornwall | Uny Lelant | 1880 | 1881 | Cornwall | Lelant
+/search_records/5902a9aee9379091b1db5bd6/philippa-curtis-1881-cornwall-looe-1881- :: Philippa CURTIS | Cornwall | Polperro | 1881 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5c40/minnie-curtis-1881-cornwall-looe-1881- :: Minnie CURTIS | Cornwall | Polperro | 1881 | 1881 | Cornwall | Looe
+/search_records/5902a9aee9379091b1db5d82/florence-p-curtis-1881-cornwall-looe-1881- :: Florence P. CURTIS | Cornwall | Polperro | 1881 | 1881 | Cornwall | Looe
+/search_records/5902aaede9379091b1e07fc6/beatrice-m-curtis-1881-cornwall-grampound-1881- :: Beatrice M. CURTIS | Cornwall | Grampound | 1881 | 1881 | Cornwall | Grampound
+/search_records/5902ad09e9379091b1e94701/harriet-a-curtis-1881-cornwall-camborne-1881- :: Harriet A. CURTIS | Cornwall | Camborne | 1881 | 1881 | Cornwall | Camborne

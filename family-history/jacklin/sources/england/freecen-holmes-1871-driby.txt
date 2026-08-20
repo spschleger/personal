@@ -1,0 +1,23 @@
+FreeCEN https://www.freecen.org.uk/search_records/6477796df493fd6e319a40cc/langley-holmes-1871-lincolnshire-driby-1844-
+
+Census Year | 1871
+County | Lincolnshire (LIN)
+Census District | Spilsby
+Enumeration District | 1
+Civil Parish | Driby
+Ecclesiastical Parish | Driby
+Where Census Taken | Driby
+Piece | RG10_3395
+Ward | -
+Constituency | -
+Page | 8
+Dwelling Number | 45
+Schedule | 43
+House Number | 
+House or Street Name | -
+Surname | Forenames | Relationship | Marital Status | Sex | Age | Occupation | Nationality | Birth County | Birth Place | Disability | Notes
+the person found in your search HOLMES | Langley | Head | M | M | 27y | Ag Lab |  | Lincolnshire | Hogsthorpe |  | 
+HOLMES | Fanny | Wife | M | F | 34y |  |  | Lincolnshire | Bilsby |  | 
+HOLMES | Fanny M | Dau | U | F | 12y | Scholar |  | Lincolnshire | Bilsby |  | 
+HOLMES | John J | Son | - | M | 7y | Scholar |  | Lincolnshire | Bilsby |  | 
+HOLMES | Mary J | Dau | - | F | 1y |  |  | Lincolnshire | Driby |  | 

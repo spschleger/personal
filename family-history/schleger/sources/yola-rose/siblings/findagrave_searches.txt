@@ -1,0 +1,77 @@
+
+
+===== JOHNSTONE-Frederick-Qld
+https://www.findagrave.com/memorial/search?lastname=Johnstone&firstname=Frederick&location=Queensland%2C+Australia&locationId=state_2166
+accessed 2026-08-19 HTTP 200
+matching records: n/a
+/memorial/11446916/leslie-searcy :: Honoring Leslie Searcy Birth 1979 Death 2000
+
+
+===== JOHNSTONE-Rose-Qld
+https://www.findagrave.com/memorial/search?lastname=Johnstone&firstname=Rose&location=Queensland%2C+Australia&locationId=state_2166
+accessed 2026-08-19 HTTP 200
+matching records: n/a
+/memorial/59295463/carrie-herrington :: Honoring Carrie Herrington Birth 1966 Death 2010
+
+
+===== JOHNSTONE-Mafalda-any
+https://www.findagrave.com/memorial/search?lastname=Johnstone&firstname=Mafalda&location=&locationId=
+accessed 2026-08-19 HTTP 200
+matching records: 15
+/memorial/95523436/m-johnstone :: M Johnstone Flowers have been left. 2 Aug 1803 – 24 Oct 1864
+/memorial/211582235/m-johnstone :: No grave photo M Johnstone • No grave photo Birth and death dates unknown.
+/memorial/166554397/m-johnstone :: No grave photo M Johnstone • No grave photo unknown – 1937
+/memorial/115580650/m-anna-johnstone :: M Anna Wilson Johnstone 1913 – 2005
+/memorial/166285725/m-c-johnstone :: No grave photo M C Johnstone • No grave photo unknown – 1925
+/memorial/180111255/m-e-johnstone :: M E “Kit” Johnstone unknown – 24 Jul 1982
+/memorial/123811163/m-felix-johnstone :: No grave photo Sr M Felix Johnstone • No grave photo 1894 – 8 Dec 1922
+/memorial/201334153/m-j-johnstone :: No grave photo M J Johnstone • No grave photo unknown – 10 Sep 1860
+/memorial/279225234/m-j-johnstone :: No grave photo M J Johnstone • No grave photo Birth and death dates unknown.
+/memorial/301115381/m-jean-johnstone :: No grave photo M Jean Johnstone • No grave photo unknown – 1927
+/memorial/113750340/m-louise-johnstone :: M Louise Johnstone Flowers have been left. 11 Oct 1870 – 11 Oct 1870
+/memorial/215494280/m-norma-johnstone :: M Norma Ramsay Johnstone 1939 – 2020
+/memorial/192778990/m-josephine-johnstone :: SR M Josephine “Nelly” JOHNSTONE unknown – 2 Oct 1907
+/memorial/157959113/m-l-johnstone :: M. L. Johnstone 1892 – 1974
+/memorial/235580035/m-r-johnstone :: M. R. Johnstone Birth and death dates unknown.
+/memorial/11147769/gordon-baxter :: Honoring Gordon Baxter Birth 1923 Death 2005
+
+
+===== firstname-Mafalda-Qld
+https://www.findagrave.com/memorial/search?firstname=Mafalda&lastname=&location=Queensland%2C+Australia&locationId=state_2166
+accessed 2026-08-19 HTTP 200
+matching records: n/a
+/memorial/26517018/donald-green :: Honoring Donald Green Birth 1926 Death 2008
+
+
+===== JOHNSTONE-Jacqueline-Qld
+https://www.findagrave.com/memorial/search?lastname=Johnstone&firstname=Jacqueline&location=Queensland%2C+Australia&locationId=state_2166
+accessed 2026-08-19 HTTP 200
+matching records: n/a
+/memorial/5521611/louise-armstrong :: Honoring Louise Armstrong Birth 1847 Death 1932
+
+
+===== JOSEFSKI-any
+https://www.findagrave.com/memorial/search?lastname=Josefski&firstname=&location=&locationId=
+accessed 2026-08-19 HTTP 200
+matching records: 59
+/memorial/192704086/adam-j-josefski :: No grave photo Adam J. Josefski • No grave photo 19 Feb 1915 – 29 Oct 1918
+/memorial/124068385/alfred-josefski :: Alfred Josefski 1914 – 1983
+/memorial/261357449/alma-rowe-josefski :: Alma Rowe “Josie” Last Josefski Flowers have been left. 18 Dec 1924 – 19 Dec 2000
+/memorial/124068388/august-josefski :: August Josefski Flowers have been left. 1 Jun 1896 – 24 Mar 1940
+/memorial/124068390/august-josefski :: August Josefski Flowers have been left. 13 May 1864 – 12 Oct 1954
+/memorial/138436395/auguste-josefski :: Auguste Pukallus Josefski Flowers have been left. 30 Nov 1868 – 13 Sep 1918
+/memorial/124068393/bertha-josefski :: Bertha Gollschewsky Josefski 20 Apr 1889 – 1971
+/memorial/195183516/bevan-wayne-josefski :: Bevan Wayne Josefski 9 Mar 1948 – 9 Jan 2017
+/memorial/236770173/cecilia-josefski :: No grave photo Cecilia Josefski • No grave photo 31 Oct 1895 – 29 Aug 1951
+/memorial/195135788/daniel-robert-josefski :: Daniel Robert Josefski unknown – 8 Jul 2016
+/memorial/151143732/delia-josefski :: Delia Heeb Josefski 18 Jun 1896 – 16 Sep 1917
+/memorial/200227320/denis-leslie-josefski :: Denis Leslie Josefski Flowers have been left. 27 Jun 1927 – 13 Jul 2004
+/memorial/179888069/dianne-gail-josefski :: Dianne Gail Josefski Flowers have been left. 6 Apr 1955 – 12 Oct 2012
+/memorial/103415327/doris-mitchell-josefski :: Doris Mitchell Edge Josefski Flowers have been left. 25 Jan 1924 – 14 Sep 2012
+/memorial/262145872/else-josefski :: No grave photo Else Josefski • No grave photo 1907 – 1998
+/memorial/189792727/elsie-josefski :: No grave photo Elsie Josefski • No grave photo 1902 – 22 Aug 1986
+/memorial/124068395/enoch-josefski :: Enoch Josefski 5 May 1905 – 8 Jan 1983
+/memorial/124084609/ernst-josefski :: Ernst Josefski Flowers have been left. 28 Apr 1900 – 13 Jun 1900
+/memorial/124068397/ethel-may_agnes-josefski :: Ethel May Agnes Wills Josefski Flowers have been left. 4 Mar 1914 – 28 Dec 2004
+/memorial/139076471/friedrich-wilhelm-josefski :: Friedrich Wilhelm “Wilhelm” Josefski 31 Jan 1874 – 16 Oct 1923
+/memorial/43615322/mary-howe :: Honoring Mary Howe Birth 1920 Death 2003

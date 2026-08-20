@@ -1,0 +1,51 @@
+
+
+===== Johnstone-all-Qld
+https://www.findagrave.com/memorial/search?lastname=Johnstone&location=Queensland%2C+Australia&locationId=state_2166
+accessed 2026-08-19 HTTP 200
+matching records: n/a
+
+
+===== Johnstone-Frederick-noloc
+https://www.findagrave.com/memorial/search?lastname=Johnstone&firstname=Frederick&deathyear=1969&deathyearfilter=10
+accessed 2026-08-19 HTTP 200
+matching records: 32
+/memorial/188941248/frederick-johnstone :: No grave photo Frederick Johnstone • No grave photo unknown – 31 Dec 1971
+/memorial/159681161/frederick-johnstone :: Frederick Johnstone V Veteran Flowers have been left. unknown – 15 Feb 1966
+/memorial/156706808/frederick-johnstone :: No grave photo Frederick Johnstone • No grave photo unknown – 14 Aug 1973
+/memorial/123674101/frederick-a-johnstone :: No grave photo Frederick A Johnstone • No grave photo 1905 – May 1967
+/memorial/110093908/frederick-barry-johnstone :: Frederick Barry Johnstone 1919 – 19 Feb 1959
+/memorial/135932074/frederick-bruce-johnstone :: Frederick Bruce Johnstone 25 Sep 1876 – 1 Jul 1967
+/memorial/304684631/frederick-charles-johnstone :: No grave photo Frederick Charles Johnstone • No grave photo 1904 – 29 Oct 1973
+/memorial/3028140/frederick-e-johnstone :: Frederick E Johnstone V Veteran Flowers have been left. 14 Feb 1913 – 30 Mar 1979
+/memorial/113545163/frederick-e_j-johnstone :: Frederick E. J. Johnstone 1883 – 1971
+/memorial/73981288/frederick-ensign-johnstone :: Frederick Ensign Johnstone V Veteran 30 Jul 1897 – 14 Nov 1961
+/memorial/250978198/frederick-george-johnstone :: Frederick George Johnstone 26 Sep 1906 – 13 Jan 1976
+/memorial/240091201/frederick-george_stanley-johnstone :: Frederick George Stanley “Stan” Johnstone Flowers have been left. 1905 – Feb 1975
+/memorial/22850770/frederick-graff-johnstone :: Frederick Graff Johnstone V Veteran 1923 – 1977
+/memorial/83130324/frederick-h-johnstone :: Frederick H Johnstone 1918 – 1977
+/memorial/160453306/frederick-jason-johnstone :: Frederick Jason Johnstone V Veteran Flowers have been left. 28 Dec 1892 – 25 Oct 1969
+/memorial/228247092/frederick-john_finlay-johnstone :: Frederick John Finlay Johnstone 1897 – 1975
+/memorial/78194781/frederick-mackay-johnstone :: Frederick MacKay Johnstone 13 Nov 1903 – 16 Dec 1962
+/memorial/214427859/frederick-oliver-johnstone :: Frederick Oliver Johnstone 1883 – 15 Jun 1960
+/memorial/301199256/frederick-robert_thomas-johnstone :: No grave photo Frederick Robert Thomas Johnstone • No grave photo unknown – 20 Dec 1975
+/memorial/284776290/frederick-t-johnstone :: Frederick T. Johnstone 1916 – 1970
+
+
+===== Josefski-Lawrence
+https://www.findagrave.com/memorial/search?lastname=Josefski&firstname=Lawrence
+accessed 2026-08-19 HTTP 200
+matching records: n/a
+/memorial/167643881/lawrence-aubrey-josefski :: Lawrence Aubrey Josefski V Veteran Flowers have been left. 16 Jun 1920 – 10 Sep 1974
+
+
+===== Josefski-Laurence
+https://www.findagrave.com/memorial/search?lastname=Josefski&firstname=Laurence
+accessed 2026-08-19 HTTP 200
+matching records: n/a
+
+
+===== Josefski-Jacqueline
+https://www.findagrave.com/memorial/search?lastname=Josefski&firstname=Jacqueline
+accessed 2026-08-19 HTTP 200
+matching records: n/a

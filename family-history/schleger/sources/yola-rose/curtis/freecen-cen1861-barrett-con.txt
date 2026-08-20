@@ -1,0 +1,516 @@
+FreeCEN2 search: last_name=Barrett chapman=CON record_type=1861
+URL: https://www.freecen.org.uk/search_queries
+Retrieved 2026-08-19
+
+HITS (511):
+/search_records/59029d5be9379091b1a84767/jane-barrett-1861-cornwall-bodmin-1772- :: Jane BARRETT | Cornwall | St Austell | 1772 | 1861 | Cornwall | Bodmin
+/search_records/59029c74e9379091b1a48aef/ann-barrett-1861-cornwall-st-germans-1781- :: Ann BARRETT | Cornwall | St Germans | 1781 | 1861 | Cornwall | St Germans
+/search_records/59029ec4e9379091b1ae15e2/ann-barrett-1861-cornwall-truro-1781- :: Ann BARRETT | Cornwall | Kea | 1781 | 1861 | Cornwall | St Clement
+/search_records/59029bb9e9379091b1a1880f/ann-barrett-1861-cornwall-stratton-1783- :: Ann BARRETT | Devon | Holsworthy | 1783 | 1861 | Cornwall | Kilkhampton
+/search_records/59029ce9e9379091b1a67697/charlotte-barrett-1861-cornwall-liskeard-1785- :: Charlotte BARRETT | Devon | Kenton | 1785 | 1861 | Cornwall | Liskeard
+/search_records/59029ee7e9379091b1aeaa90/mary-barrett-1861-cornwall-truro-1786- :: Mary BARRETT | Cornwall | Truro | 1786 | 1861 | Cornwall | Kenwyn
+/search_records/59029d25e9379091b1a76bc0/elizabeth-barrett-1861-cornwall-liskeard-1787- :: Elizabeth BARRETT | Cornwall | Polperro | 1787 | 1861 | Cornwall | Lerryn
+/search_records/59029c8ae9379091b1a4e715/jane-barrett-1861-cornwall-st-germans-1787- :: Jane BARRETT | Cornwall | St Stephens by Saltash (or St Stephens) | 1787 | 1861 | Cornwall | Saltash
+/search_records/59029ee7e9379091b1aea965/joseph-barrett-1861-cornwall-truro-1787- :: Joseph BARRETT | Cornwall | Truro St Mary (or St Mary) | 1787 | 1861 | Cornwall | Kenwyn
+/search_records/59029f04e9379091b1af1ee0/agnes-barrett-1861-cornwall-truro-1787- :: Agnes BARRETT | Cornwall | Kenwyn | 1787 | 1861 | Cornwall | Kenwyn
+/search_records/5902a070e9379091b1b50b37/elizabeth-barrett-1861-cornwall-redruth-1787- :: Elizabeth BARRETT | Cornwall | Ruan (Major) | 1787 | 1861 | Cornwall | Redruth
+/search_records/59029c89e9379091b1a4e120/susan-barrett-1861-cornwall-st-germans-1788- :: Susan BARRETT | Cornwall | Landrake | 1788 | 1861 | Cornwall | Saltash
+/search_records/59029c8ae9379091b1a4e693/judith-barrett-1861-cornwall-st-germans-1788- :: Judith BARRETT | Cornwall | Landulph | 1788 | 1861 | Cornwall | Saltash
+/search_records/59029d5ae9379091b1a840e6/william-barrett-1861-cornwall-bodmin-1788- :: William BARRETT | Cornwall | Bodmin | 1788 | 1861 | Cornwall | Bodmin
+/search_records/59029c87e9379091b1a4db94/mary-barrett-1861-cornwall-st-germans-1789- :: Mary BARRETT | Cornwall | St Ive | 1789 | 1861 | Cornwall | Saltash
+/search_records/59029c8ae9379091b1a4e801/ann-barrett-1861-cornwall-st-germans-1789- :: Ann BARRETT | Cornwall | Landulph | 1789 | 1861 | Cornwall | Saltash
+/search_records/5902a070e9379091b1b50b35/william-barrett-1861-cornwall-redruth-1790- :: William BARRETT | Cornwall | Gwennap | 1790 | 1861 | Cornwall | Redruth
+/search_records/59029c66e9379091b1a45219/john-barrett-1861-cornwall-st-germans-1791- :: John BARRETT | Cornwall | Landulph | 1791 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c66e9379091b1a4522e/william-barrett-1861-cornwall-st-germans-1791- :: William BARRETT | Cornwall | Landulph | 1791 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c69e9379091b1a461ba/john-barrett-1861-cornwall-st-germans-1791- :: John BARRETT | Cornwall | Landulph | 1791 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c69e9379091b1a461ce/william-barrett-1861-cornwall-st-germans-1791- :: William BARRETT | Cornwall | Landulph | 1791 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c8ae9379091b1a4e7e9/dorothea-barrett-1861-cornwall-st-germans-1791- :: Dorothea BARRETT | Cornwall | Landulph | 1791 | 1861 | Cornwall | Saltash
+/search_records/59029bc5e9379091b1a1b92d/george-barrett-1861-cornwall-stratton-1792- :: George BARRETT | Cornwall | Launceston | 1792 | 1861 | Cornwall | Stratton
+/search_records/59029c87e9379091b1a4db92/james-barrett-1861-cornwall-st-germans-1792- :: James BARRETT | Cornwall | Landulph | 1792 | 1861 | Cornwall | Saltash
+/search_records/59029d6be9379091b1a88f5b/william-barrett-1861-cornwall-bodmin-1793- :: William BARRETT | Cornwall | Withiel | 1793 | 1861 | Cornwall | Bodmin
+/search_records/59029ee4e9379091b1ae9a46/catharine-barrett-1861-cornwall-truro-1793- :: Catharine BARRETT | Cornwall | Truro | 1793 | 1861 | Cornwall | Kenwyn
+/search_records/59029ee7e9379091b1aea967/susan-barrett-1861-cornwall-truro-1793- :: Susan BARRETT | Devon | Ilfracombe | 1793 | 1861 | Cornwall | Kenwyn
+/search_records/5902a02ee9379091b1b3fb4d/james-barrett-1861-cornwall-redruth-1793- :: James BARRETT | Cornwall | - | 1793 | 1861 | Cornwall | Gwennap
+/search_records/59029d6be9379091b1a88f5d/elizabeth-barrett-1861-cornwall-bodmin-1795- :: Elizabeth BARRETT | Cornwall | Withiel | 1795 | 1861 | Cornwall | Bodmin
+/search_records/59029d13e9379091b1a71e6a/william-barrett-1861-cornwall-liskeard-1795- :: William BARRETT | Cornwall | Lansallos | 1795 | 1861 | Cornwall | Looe
+/search_records/59029d5ae9379091b1a840e8/ann-barrett-1861-cornwall-bodmin-1796- :: Ann BARRETT | Cornwall | Bodmin | 1796 | 1861 | Cornwall | Bodmin
+/search_records/59029c87e9379091b1a4dbd6/ann-barrett-1861-cornwall-st-germans-1797- :: Ann BARRETT | Cornwall | Cargreen | 1797 | 1861 | Cornwall | Saltash
+/search_records/59029c8ae9379091b1a4e764/mary-barrett-1861-cornwall-st-germans-1797- :: Mary BARRETT | Cornwall | South Hill | 1797 | 1861 | Cornwall | Saltash
+/search_records/59029d6ae9379091b1a88d65/ann-barrett-1861-cornwall-bodmin-1797- :: Ann BARRETT | Cornwall | Withiel | 1797 | 1861 | Cornwall | Bodmin
+/search_records/59029bb8e9379091b1a18534/fanny-barrett-1861-cornwall-stratton-1798- :: Fanny BARRETT | Cornwall | Kilkhampton | 1798 | 1861 | Cornwall | Kilkhampton
+/search_records/59029bb8e9379091b1a18532/william-barrett-1861-cornwall-stratton-1798- :: William BARRETT | Cornwall | Kilkhampton | 1798 | 1861 | Cornwall | Kilkhampton
+/search_records/59029dd7e9379091b1aa410f/reginald-barrett-1861-cornwall-st-austell-1798- :: Reginald BARRETT | Cornwall | Talland | 1798 | 1861 | Cornwall | Fowey
+/search_records/59029dd7e9379091b1aa4111/elizabeth-barrett-1861-cornwall-st-austell-1799- :: Elizabeth BARRETT | Cornwall | St Just | 1799 | 1861 | Cornwall | Fowey
+/search_records/59029f1fe9379091b1af94e9/mary-ann-barrett-1861-cornwall-truro-1799- :: Mary Ann BARRETT | Devon | Plymouth | 1799 | 1861 | Cornwall | Kea
+/search_records/5902a02ee9379091b1b3fb4f/catherine-barrett-1861-cornwall-redruth-1799- :: Catherine BARRETT | Cornwall | - | 1799 | 1861 | Cornwall | Gwennap
+/search_records/59029ccbe9379091b1a5f2ba/ann-barrett-1861-cornwall-liskeard-1800- :: Ann BARRETT | Cornwall | Menheniot | 1800 | 1861 | Cornwall | Liskeard
+/search_records/59029d6ae9379091b1a88d63/james-barrett-1861-cornwall-bodmin-1800- :: James BARRETT | Cornwall | St Breock | 1800 | 1861 | Cornwall | Bodmin
+/search_records/59029ed0e9379091b1ae47ef/richard-barrett-1861-cornwall-truro-1800- :: Richard BARRETT | Cornwall | Polperro | 1800 | 1861 | Cornwall | St Clement
+/search_records/59029f05e9379091b1af2465/william-barrett-1861-cornwall-truro-1800- :: William BARRETT | Cornwall | Gwennap | 1800 | 1861 | Cornwall | Kenwyn
+/search_records/59029c89e9379091b1a4e1a1/mary-a-barrett-1861-cornwall-st-germans-1801- :: Mary A BARRETT | Cornwall | St Germans | 1801 | 1861 | Cornwall | Saltash
+/search_records/59029ccbe9379091b1a5f2b8/anthony-barrett-1861-cornwall-liskeard-1801- :: Anthony BARRETT | Cornwall | St Mellion | 1801 | 1861 | Cornwall | Liskeard
+/search_records/59029d12e9379091b1a71af8/ann-barrett-1861-cornwall-liskeard-1801- :: Ann BARRETT | Cornwall | Linkinhorne | 1801 | 1861 | Cornwall | Looe
+/search_records/59029bb9e9379091b1a18910/charles-barrett-1861-cornwall-stratton-1802- :: Charles BARRETT | Cornwall | Kilkhampton | 1802 | 1861 | Cornwall | Kilkhampton
+/search_records/59029f1fe9379091b1af94e7/thomas-barrett-1861-cornwall-truro-1802- :: Thomas BARRETT | Cornwall | Feock | 1802 | 1861 | Cornwall | Kea
+/search_records/59029bb9e9379091b1a18912/grace-barrett-1861-cornwall-stratton-1803- :: Grace BARRETT | Devon | Bradworthy | 1803 | 1861 | Cornwall | Kilkhampton
+/search_records/59029cede9379091b1a68723/james-barrett-1861-cornwall-liskeard-1803- :: James BARRETT | Cornwall | Gwennap | 1803 | 1861 | Cornwall | Liskeard
+/search_records/59029e72e9379091b1acbf41/john-barrett-1861-cornwall-truro-1803- :: John BARRETT | Cornwall | Merther | 1803 | 1861 | Cornwall | Probus
+/search_records/59029d5be9379091b1a84769/lucretia-m-barrett-1861-cornwall-bodmin-1804- :: Lucretia M BARRETT | Cornwall | Bodmin | 1804 | 1861 | Cornwall | Bodmin
+/search_records/59029e72e9379091b1acbf43/maria-barrett-1861-cornwall-truro-1804- :: Maria BARRETT | Cornwall | Merther | 1804 | 1861 | Cornwall | Probus
+/search_records/59029c89e9379091b1a4e5b0/william-barrett-1861-cornwall-st-germans-1805- :: William BARRETT | Cornwall | Landulph | 1805 | 1861 | Cornwall | Saltash
+/search_records/59029d29e9379091b1a77fb0/william-barrett-1861-cornwall-liskeard-1805- :: William BARRETT | Cornwall | St Veep | 1805 | 1861 | Cornwall | Lerryn
+/search_records/59029ec2e9379091b1ae0e96/nanny-barrett-1861-cornwall-truro-1805- :: Nanny BARRETT | Cornwall | Kenwyn | 1805 | 1861 | Cornwall | St Clement
+/search_records/59029ed5e9379091b1ae6176/margaret-barrett-1861-cornwall-truro-1805- :: Margaret BARRETT | Cornwall | Falmouth | 1805 | 1861 | Cornwall | St Clement
+/search_records/59029f1be9379091b1af8078/eliza-barrett-1861-cornwall-truro-1806- :: Eliza BARRETT | Cornwall | Gwennap | 1806 | 1861 | Cornwall | Kea
+/search_records/59029c92e9379091b1a50a98/john-barrett-1861-cornwall-st-germans-1806- :: John BARRETT | Cornwall | Landulph | 1806 | 1861 | Cornwall | Saltash
+/search_records/59029d24e9379091b1a7639d/thos-barrett-1861-cornwall-liskeard-1806- :: Thos BARRETT | Cornwall | St Veep | 1806 | 1861 | Cornwall | Lerryn
+/search_records/59029e48e9379091b1ac11b6/tamson-barrett-1861-cornwall-st-austell-1806- :: Tamson BARRETT | Cornwall | Tregony | 1806 | 1861 | Cornwall | Mevagissey
+/search_records/59029f05e9379091b1af2467/elizabeth-barrett-1861-cornwall-truro-1806- :: Elizabeth BARRETT | Cornwall | Gwennap | 1806 | 1861 | Cornwall | Kenwyn
+/search_records/59029c89e9379091b1a4e5b2/charity-barrett-1861-cornwall-st-germans-1807- :: Charity BARRETT | Cornwall | Landulph | 1807 | 1861 | Cornwall | Saltash
+/search_records/59029c89e9379091b1a4e5a4/robert-barrett-1861-cornwall-st-germans-1807- :: Robert BARRETT | Cornwall | Landulph | 1807 | 1861 | Cornwall | Saltash
+/search_records/59029ec4e9379091b1ae15e4/maryann-barrett-1861-cornwall-truro-1807- :: Maryann BARRETT | Cornwall | St Clement | 1807 | 1861 | Cornwall | St Clement
+/search_records/59029e71e9379091b1acbce3/mary-barrett-1861-cornwall-truro-1807- :: Mary BARRETT | Cornwall | Tregony (or Tregoney) | 1807 | 1861 | Cornwall | Probus
+/search_records/59029d59e9379091b1a83dad/grace-barrett-1861-cornwall-bodmin-1807- :: Grace BARRETT | Cornwall | Helland | 1807 | 1861 | Cornwall | Bodmin
+/search_records/59029e71e9379091b1acbce1/nicholas-barrett-1861-cornwall-truro-1808- :: Nicholas BARRETT | Cornwall | Merther | 1808 | 1861 | Cornwall | Probus
+/search_records/59029c8ce9379091b1a4f053/sussannah-barrett-1861-cornwall-st-germans-1808- :: Sussannah BARRETT | Cornwall | Linkinhorne | 1808 | 1861 | Cornwall | Saltash
+/search_records/59029cede9379091b1a68725/mary-a-barrett-1861-cornwall-liskeard-1808- :: Mary A BARRETT | Essex | - | 1808 | 1861 | Cornwall | Liskeard
+/search_records/59029d29e9379091b1a77fb2/mary-a-barrett-1861-cornwall-liskeard-1808- :: Mary A BARRETT | Cornwall | St Agnes | 1808 | 1861 | Cornwall | Lerryn
+/search_records/59029d59e9379091b1a83dab/richard-barrett-1861-cornwall-bodmin-1808- :: Richard BARRETT | Cornwall | St Breock | 1808 | 1861 | Cornwall | Bodmin
+/search_records/59029d12e9379091b1a7197a/william-barrett-1861-cornwall-liskeard-1810- :: William BARRETT | Cornwall | Polperro | 1810 | 1861 | Cornwall | Looe
+/search_records/59029bc5e9379091b1a1b7b6/dorcas-a-barrett-1861-cornwall-stratton-1810- :: Dorcas A BARRETT | Cornwall | Kilkhampton (or Kilkampton) | 1810 | 1861 | Cornwall | Stratton
+/search_records/59029c8be9379091b1a4ef07/william-barrett-1861-cornwall-st-germans-1810- :: William BARRETT | Cornwall | Pillaton | 1810 | 1861 | Cornwall | Saltash
+/search_records/5902a088e9379091b1b5713b/frederick-barrett-1861-cornwall-redruth-1810- :: Frederick BARRETT | Cornwall | St Just | 1810 | 1861 | Cornwall | Illogan
+/search_records/5902a09be9379091b1b5c1ff/catherine-barrett-1861-cornwall-redruth-1810- :: Catherine BARRETT | Cornwall | Illogan | 1810 | 1861 | Cornwall | Illogan
+/search_records/59029c8ce9379091b1a4f051/john-barrett-1861-cornwall-st-germans-1811- :: John BARRETT | Cornwall | Pillaton | 1811 | 1861 | Cornwall | Saltash
+/search_records/59029c8be9379091b1a4ecf4/jane-barrett-1861-cornwall-st-germans-1811- :: Jane BARRETT | Devon | Lifton | 1811 | 1861 | Cornwall | Saltash
+/search_records/59029bc5e9379091b1a1b967/elizabeth-barrett-1861-cornwall-stratton-1811- :: Elizabeth BARRETT | Devon | Holsworthy | 1811 | 1861 | Cornwall | Stratton
+/search_records/59029c92e9379091b1a50924/william-barrett-1861-cornwall-st-germans-1812- :: William BARRETT | Devon | Plymouth | 1812 | 1861 | Cornwall | Saltash
+/search_records/59029d12e9379091b1a7197c/elizabeth-barrett-1861-cornwall-liskeard-1812- :: Elizabeth BARRETT | Cornwall | Mousehole | 1812 | 1861 | Cornwall | Looe
+/search_records/59029dabe9379091b1a99264/mary-barrett-1861-cornwall-st-columb-1812- :: Mary BARRETT | Cornwall | Roche | 1812 | 1861 | Cornwall | St Columb Major
+/search_records/59029f01e9379091b1af115b/richd-barrett-1861-cornwall-truro-1812- :: Richd BARRETT | Cornwall | Kenwyn | 1812 | 1861 | Cornwall | Kenwyn
+/search_records/59029c8ae9379091b1a4e8b3/richd-barrett-1861-cornwall-st-germans-1812- :: Richd BARRETT | Cornwall | Landulph | 1812 | 1861 | Cornwall | Saltash
+/search_records/59029c8ae9379091b1a4e8b6/eliza-barrett-1861-cornwall-st-germans-1812- :: Eliza BARRETT | Cornwall | Landulph | 1812 | 1861 | Cornwall | Saltash
+/search_records/5902a088e9379091b1b5713d/elizabeth-barrett-1861-cornwall-redruth-1813- :: Elizabeth BARRETT | Cornwall | Mitchell (or Michell) | 1813 | 1861 | Cornwall | Illogan
+/search_records/59029bc5e9379091b1a1b776/william-barrett-1861-cornwall-stratton-1813- :: William BARRETT | Cornwall | Poughill | 1813 | 1861 | Cornwall | Stratton
+/search_records/59029c56e9379091b1a40eef/william-barrett-1861-cornwall-st-germans-1813- :: William BARRETT | Cornwall | Millbrook | 1813 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c56e9379091b1a40ef1/mary-a-barrett-1861-cornwall-st-germans-1813- :: Mary A BARRETT | Cornwall | Cawsand | 1813 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029ce7e9379091b1a66be4/william-barrett-1861-cornwall-liskeard-1813- :: William BARRETT | Cornwall | Polperro | 1813 | 1861 | Cornwall | Liskeard
+/search_records/59029d29e9379091b1a7809a/john-barrett-1861-cornwall-liskeard-1813- :: John BARRETT | Cornwall | Helland | 1813 | 1861 | Cornwall | Lerryn
+/search_records/59029f04e9379091b1af1eb6/peggy-barrett-1861-cornwall-truro-1813- :: Peggy BARRETT | Cornwall | Kenwyn | 1813 | 1861 | Cornwall | Kenwyn
+/search_records/59029d13e9379091b1a71caf/benjamin-barrett-1861-cornwall-liskeard-1814- :: Benjamin BARRETT | Cornwall | Pelynt | 1814 | 1861 | Cornwall | Looe
+/search_records/59029ee7e9379091b1aea96a/elizabeth-barrett-1861-cornwall-truro-1814- :: Elizabeth BARRETT | Cornwall | Truro St Mary (or St Mary) | 1814 | 1861 | Cornwall | Kenwyn
+/search_records/65bf3366f493fdfa220fc31d/sarah-barrett-1861-cornwall-falmouth-1814- :: Sarah BARRETT | Cornwall | Gerrans | 1814 | 1861 | Cornwall | Falmouth
+/search_records/59029c89e9379091b1a4e5a6/priscilla-barrett-1861-cornwall-st-germans-1814- :: Priscilla BARRETT | Cornwall | Landulph | 1814 | 1861 | Cornwall | Saltash
+/search_records/59029f01e9379091b1af115e/ann-barrett-1861-cornwall-truro-1815- :: Ann BARRETT | Cornwall | Kenwyn | 1815 | 1861 | Cornwall | Kenwyn
+/search_records/59029c56e9379091b1a410bc/john-barrett-1861-cornwall-st-germans-1815- :: John BARRETT | Devon | Millbrook | 1815 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029d23e9379091b1a75f3c/thomas-barrett-1861-cornwall-liskeard-1815- :: Thomas BARRETT | Cornwall | Helland | 1815 | 1861 | Cornwall | Lerryn
+/search_records/59029dc6e9379091b1a9fccb/nicholas-barrett-1861-cornwall-st-columb-1815- :: Nicholas BARRETT | Cornwall | St Enoder | 1815 | 1861 | Cornwall | Newlyn
+/search_records/59029ef3e9379091b1aed55d/eliza-barrett-1861-cornwall-truro-1816- :: Eliza BARRETT | Cornwall | Grampound | 1816 | 1861 | Cornwall | Kenwyn
+/search_records/59029bc5e9379091b1a1b778/elizabeth-barrett-1861-cornwall-stratton-1816- :: Elizabeth BARRETT | Devon | Bradstone | 1816 | 1861 | Cornwall | Stratton
+/search_records/59029ce7e9379091b1a66b52/eliza-barrett-1861-cornwall-liskeard-1816- :: Eliza BARRETT | Cornwall | Liskeard | 1816 | 1861 | Cornwall | Liskeard
+/search_records/59029bbbe9379091b1a19172/john-barrett-1861-cornwall-stratton-1816- :: John BARRETT | Cornwall | Moorwinstow (or Morwenstow) | 1816 | 1861 | Cornwall | Kilkhampton
+/search_records/59029bb9e9379091b1a18745/charles-barrett-1861-cornwall-stratton-1817- :: Charles BARRETT | Cornwall | Moorwinstow (or Morwenstow) | 1817 | 1861 | Cornwall | Kilkhampton
+/search_records/59029bbce9379091b1a19790/thomas-barrett-1861-cornwall-stratton-1817- :: Thomas BARRETT | Cornwall | Kilkhampton | 1817 | 1861 | Cornwall | Kilkhampton
+/search_records/59029c50e9379091b1a3f1f6/william-barrett-1861-cornwall-st-germans-1817- :: William BARRETT | Cornwall | St Germans | 1817 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029bc5e9379091b1a1b965/isaac-barrett-1861-cornwall-stratton-1818- :: Isaac BARRETT | Cornwall | Stratton | 1818 | 1861 | Cornwall | Stratton
+/search_records/59029c3be9379091b1a39952/john-barrett-1861-cornwall-launceston-1818- :: John BARRETT | Cornwall | North Hill | 1818 | 1861 | Cornwall | North Hill
+/search_records/59029d29e9379091b1a7809c/maria-barrett-1861-cornwall-liskeard-1818- :: Maria BARRETT | Cornwall | Boconnoc | 1818 | 1861 | Cornwall | Lerryn
+/search_records/5902a17ce9379091b1b96762/mary-barrett-1861-cornwall-penzance-1818- :: Mary BARRETT | Cornwall | Paul (or St Paul) | 1818 | 1861 | Cornwall | Penzance
+/search_records/59029bc5e9379091b1a1b7b4/george-barrett-1861-cornwall-stratton-1819- :: George BARRETT | Cornwall | Kilkhampton | 1819 | 1861 | Cornwall | Stratton
+/search_records/59029bc6e9379091b1a1c019/ann-barrett-1861-cornwall-stratton-1819- :: Ann BARRETT | Cornwall | St Stephen in Brannel (or St Stephens) | 1819 | 1861 | Cornwall | Stratton
+/search_records/59029c67e9379091b1a45632/henry-barrett-1861-cornwall-st-germans-1819- :: Henry BARRETT | Cornwall | Antony | 1819 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c8ae9379091b1a4e6d2/thomas-barrett-1861-cornwall-st-germans-1819- :: Thomas BARRETT | Cornwall | Landulph | 1819 | 1861 | Cornwall | Saltash
+/search_records/59029d12e9379091b1a71bb5/richard-barrett-1861-cornwall-liskeard-1819- :: Richard BARRETT | Cornwall | Talland | 1819 | 1861 | Cornwall | Looe
+/search_records/59029d12e9379091b1a71bb7/jane-b-barrett-1861-cornwall-liskeard-1819- :: Jane B. BARRETT | Cornwall | Duloe | 1819 | 1861 | Cornwall | Looe
+/search_records/59029f11e9379091b1af584f/ann-barrett-1861-cornwall-truro-1819- :: Ann BARRETT | Cornwall | Kea | 1819 | 1861 | Cornwall | Kea
+/search_records/59029d12e9379091b1a71b98/thomas-barrett-1861-cornwall-liskeard-1820- :: Thomas BARRETT | Cornwall | Polperro | 1820 | 1861 | Cornwall | Looe
+/search_records/59029d14e9379091b1a723c0/elizabeth-barrett-1861-cornwall-liskeard-1820- :: Elizabeth BARRETT | Cornwall | West Looe | 1820 | 1861 | Cornwall | Looe
+/search_records/59029d69e9379091b1a8886d/james-barrett-1861-cornwall-bodmin-1820- :: James BARRETT | Cornwall | St Columb | 1820 | 1861 | Cornwall | Bodmin
+/search_records/59029f11e9379091b1af584d/john-barrett-1861-cornwall-truro-1820- :: John BARRETT | Cornwall | Kea | 1820 | 1861 | Cornwall | Kea
+/search_records/59029bc8e9379091b1a1c6a0/mary-barrett-1861-cornwall-stratton-1821- :: Mary BARRETT | Devon | Ashwater | 1821 | 1861 | Cornwall | Stratton
+/search_records/59029bbce9379091b1a19792/ann-barrett-1861-cornwall-stratton-1821- :: Ann BARRETT | Cornwall | Kilkhampton | 1821 | 1861 | Cornwall | Kilkhampton
+/search_records/59029ce7e9379091b1a66c35/mary-barrett-1861-cornwall-liskeard-1821- :: Mary BARRETT | Cornwall | Liskeard | 1821 | 1861 | Cornwall | Liskeard
+/search_records/59029d25e9379091b1a76ba2/robert-barrett-1861-cornwall-liskeard-1821- :: Robert BARRETT | Cornwall | St Keyne | 1821 | 1861 | Cornwall | Lerryn
+/search_records/59029d23e9379091b1a75f3e/jane-barrett-1861-cornwall-liskeard-1822- :: Jane BARRETT | Cornwall | Boconnoc | 1822 | 1861 | Cornwall | Lerryn
+/search_records/59029d69e9379091b1a8886f/rebecca-barrett-1861-cornwall-bodmin-1822- :: Rebecca BARRETT | Cornwall | Lanivet | 1822 | 1861 | Cornwall | Bodmin
+/search_records/59029c8ae9379091b1a4e7a8/henry-barrett-1861-cornwall-st-germans-1822- :: Henry BARRETT | Cornwall | Landulph | 1822 | 1861 | Cornwall | Saltash
+/search_records/59029d12e9379091b1a71b9a/jane-e-barrett-1861-cornwall-liskeard-1823- :: Jane E. BARRETT | Cornwall | Polperro | 1823 | 1861 | Cornwall | Looe
+/search_records/59029ed0e9379091b1ae485c/amelia-barrett-1861-cornwall-truro-1823- :: Amelia BARRETT | Cornwall | Truro | 1823 | 1861 | Cornwall | St Clement
+/search_records/59029d15e9379091b1a7275b/robert-barrett-1861-cornwall-liskeard-1823- :: Robert BARRETT | Cornwall | Lansallos | 1823 | 1861 | Cornwall | Looe
+/search_records/59029bbae9379091b1a18ca9/john-barrett-1861-cornwall-stratton-1823- :: John BARRETT | Devon | Bradworthy | 1823 | 1861 | Cornwall | Kilkhampton
+/search_records/59029c28e9379091b1a3524a/grace-barrett-1861-cornwall-launceston-1823- :: Grace BARRETT | Cornwall | Pillaton | 1823 | 1861 | Cornwall | Launceston
+/search_records/59029ed1e9379091b1ae4d96/john-barrett-1861-cornwall-truro-1824- :: John BARRETT | Cornwall | Truro | 1824 | 1861 | Cornwall | St Clement
+/search_records/59029d13e9379091b1a71cb1/jane-barrett-1861-cornwall-liskeard-1824- :: Jane BARRETT | Cornwall | Lanteglos | 1824 | 1861 | Cornwall | Looe
+/search_records/59029ee5e9379091b1ae9ec5/thomas-barrett-1861-cornwall-truro-1824- :: Thomas BARRETT | Cornwall | St Columb Minor | 1824 | 1861 | Cornwall | Kenwyn
+/search_records/59029c28e9379091b1a35248/edward-barrett-1861-cornwall-launceston-1825- :: Edward BARRETT | Cornwall | St Mellion | 1825 | 1861 | Cornwall | Launceston
+/search_records/59029bc8e9379091b1a1c6e4/william-barrett-1861-cornwall-stratton-1825- :: William BARRETT | Cornwall | St Stephen in Brannel (or St Stephens) | 1825 | 1861 | Cornwall | Stratton
+/search_records/59029c8be9379091b1a4ecf2/john-barrett-1861-cornwall-st-germans-1825- :: John BARRETT | Cornwall | Pillaton | 1825 | 1861 | Cornwall | Saltash
+/search_records/59029e5de9379091b1ac6823/sarah-barrett-1861-cornwall-st-austell-1825- :: Sarah BARRETT | Cornwall | St Stephen in Brannel (or St Stephens) | 1825 | 1861 | Cornwall | Grampound
+/search_records/59029ed0e9379091b1ae485a/james-barrett-1861-cornwall-truro-1825- :: James BARRETT | Cornwall | Truro | 1825 | 1861 | Cornwall | St Clement
+/search_records/5902a163e9379091b1b8f8dd/john-barrett-1861-cornwall-penzance-1825- :: John BARRETT | Cornwall | Mevagissey (or Mevagizey) | 1825 | 1861 | Cornwall | Marazion
+/search_records/5902a201e9379091b1bb9117/thomas-barrett-1861-cornwall-scilly-islands-1825- :: Thomas BARRETT | Yorkshire | Selby | 1825 | 1861 | Cornwall | Scilly Islands
+/search_records/610bc836f493fd23e3ec67dd/jane-barrett-1861-cornwall-st-blazey-1825- :: Jane BARRETT | Cornwall | Tywardreath | 1825 | 1861 | Cornwall | St Blazey
+/search_records/59029bc8e9379091b1a1c69e/thomas-barrett-1861-cornwall-stratton-1826- :: Thomas BARRETT | Cornwall | Kilkhampton | 1826 | 1861 | Cornwall | Stratton
+/search_records/59029ce7e9379091b1a66c37/emma-barrett-1861-cornwall-liskeard-1826- :: Emma BARRETT | Cornwall | Liskeard | 1826 | 1861 | Cornwall | Liskeard
+/search_records/59029d15e9379091b1a7275d/mary-barrett-1861-cornwall-liskeard-1826- :: Mary BARRETT | Cornwall | Talland | 1826 | 1861 | Cornwall | Looe
+/search_records/59029ed0e9379091b1ae49d7/russell-b-barrett-1861-cornwall-truro-1826- :: Russell B BARRETT | Cornwall | Truro | 1826 | 1861 | Cornwall | St Clement
+/search_records/59029ed0e9379091b1ae49db/mary-a-j-barrett-1861-cornwall-truro-1826- :: Mary A J BARRETT | Cornwall | St Austell (or St Austle) | 1826 | 1861 | Cornwall | St Clement
+/search_records/5902a02de9379091b1b3f528/mary-barrett-1861-cornwall-redruth-1826- :: Mary BARRETT | Cornwall | Gwennap | 1826 | 1861 | Cornwall | Gwennap
+/search_records/59029c67e9379091b1a45634/ann-barrett-1861-cornwall-st-germans-1827- :: Ann BARRETT | Devon | Alvington | 1827 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029bc7e9379091b1a1c0e5/ann-barrett-1861-cornwall-stratton-1827- :: Ann BARRETT | Cornwall | Marhamchurch | 1827 | 1861 | Cornwall | Stratton
+/search_records/59029d25e9379091b1a76ba4/jane-barrett-1861-cornwall-liskeard-1827- :: Jane BARRETT | Cornwall | Pelynt | 1827 | 1861 | Cornwall | Lerryn
+/search_records/59029ec4e9379091b1ae15e6/mary-barrett-1861-cornwall-truro-1827- :: Mary BARRETT | Cornwall | St Clement | 1827 | 1861 | Cornwall | St Clement
+/search_records/59029ee5e9379091b1ae9ec7/elizabeth-barrett-1861-cornwall-truro-1827- :: Elizabeth BARRETT | Cornwall | Newlyn East | 1827 | 1861 | Cornwall | Kenwyn
+/search_records/59029ee5e9379091b1aea0b4/thomas-barrett-1861-cornwall-truro-1827- :: Thomas BARRETT | Cornwall | Kenwyn | 1827 | 1861 | Cornwall | Kenwyn
+/search_records/610bc836f493fd23e3ec67db/william-barrett-1861-cornwall-st-blazey-1827- :: William BARRETT | Cornwall | St Keyne | 1827 | 1861 | Cornwall | St Blazey
+/search_records/5902a1b8e9379091b1ba6170/elizabeth-barrett-1861-cornwall-penzance-1828- :: Elizabeth BARRETT | Cornwall | Penzance | 1828 | 1861 | Cornwall | Penzance
+/search_records/59029bbbe9379091b1a19174/mary-a-barrett-1861-cornwall-stratton-1828- :: Mary A BARRETT | Devon | Pancrasweek | 1828 | 1861 | Cornwall | Kilkhampton
+/search_records/59029c3be9379091b1a39954/elizabeth-barrett-1861-cornwall-launceston-1828- :: Elizabeth BARRETT | Cornwall | Linkinhorne | 1828 | 1861 | Cornwall | North Hill
+/search_records/59029c88e9379091b1a4dc42/sampson-barrett-1861-cornwall-st-germans-1828- :: Sampson BARRETT | Cornwall | Botus Fleming | 1828 | 1861 | Cornwall | Saltash
+/search_records/59029ccce9379091b1a5f3b5/anthony-barrett-1861-cornwall-liskeard-1828- :: Anthony BARRETT | Cornwall | Menheniot | 1828 | 1861 | Cornwall | Liskeard
+/search_records/59029ccce9379091b1a5f3b7/jane-barrett-1861-cornwall-liskeard-1828- :: Jane BARRETT | Cornwall | Menheniot | 1828 | 1861 | Cornwall | Liskeard
+/search_records/59029dade9379091b1a99a1b/rebecca-barrett-1861-cornwall-st-columb-1828- :: Rebecca BARRETT | Cornwall | Redruth | 1828 | 1861 | Cornwall | St Columb Major
+/search_records/59029ee7e9379091b1aeaa7b/charles-barrett-1861-cornwall-truro-1828- :: Charles BARRETT | Cornwall | Truro | 1828 | 1861 | Cornwall | Kenwyn
+/search_records/59029bc5e9379091b1a1b92f/mary-barrett-1861-cornwall-stratton-1828- :: Mary BARRETT | Cornwall | Stratton | 1828 | 1861 | Cornwall | Stratton
+/search_records/59029c50e9379091b1a3f1f8/mary-ann-barrett-1861-cornwall-st-germans-1829- :: Mary Ann BARRETT | Cornwall | St John (or St Johns) | 1829 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029bc8e9379091b1a1c6e6/mary-a-barrett-1861-cornwall-stratton-1829- :: Mary A BARRETT | Cornwall | Stratton | 1829 | 1861 | Cornwall | Stratton
+/search_records/59029c88e9379091b1a4dc44/marina-n-barrett-1861-cornwall-st-germans-1829- :: Marina N BARRETT | Cornwall | Linkinhorne | 1829 | 1861 | Cornwall | Saltash
+/search_records/59029c8ae9379091b1a4e6d4/ann-barrett-1861-cornwall-st-germans-1829- :: Ann BARRETT | Cornwall | Landulph | 1829 | 1861 | Cornwall | Saltash
+/search_records/59029d13e9379091b1a71e6c/susanna-barrett-1861-cornwall-liskeard-1829- :: Susanna BARRETT | Cornwall | Pelynt | 1829 | 1861 | Cornwall | Looe
+/search_records/59029d32e9379091b1a7a2d2/thomas-barrett-1861-cornwall-bodmin-1829- :: Thomas BARRETT | Cornwall | Liskeard | 1829 | 1861 | Cornwall | Lanlivery
+/search_records/59029ec6e9379091b1ae1e7d/edward-barrett-1861-cornwall-truro-1829- :: Edward BARRETT | Devon | West Leigh (or Westleigh) | 1829 | 1861 | Cornwall | St Clement
+/search_records/59029ee4e9379091b1ae9a48/henry-barrett-1861-cornwall-truro-1829- :: Henry BARRETT | Cornwall | Truro | 1829 | 1861 | Cornwall | Kenwyn
+/search_records/59029e32e9379091b1abb390/john-barrett-1861-cornwall-st-austell-1830- :: John BARRETT | Cornwall | Gorran | 1830 | 1861 | Cornwall | St Austell
+/search_records/59029ec2e9379091b1ae0e98/richard-barrett-1861-cornwall-truro-1830- :: Richard BARRETT | Cornwall | Truro | 1830 | 1861 | Cornwall | St Clement
+/search_records/610bc843f493fd23e3ec6dc0/john-barrett-1861-cornwall-st-blazey-1830- :: John BARRETT | Cornwall | St Columb | 1830 | 1861 | Cornwall | St Blazey
+/search_records/59029e32e9379091b1abb392/amy-barrett-1861-cornwall-st-austell-1831- :: Amy BARRETT | Cornwall | St Stephen in Brannel (or St Stephens) | 1831 | 1861 | Cornwall | St Austell
+/search_records/59029bb8e9379091b1a18637/grace-barrett-1861-cornwall-stratton-1831- :: Grace BARRETT | Cornwall | Kilkhampton | 1831 | 1861 | Cornwall | Kilkhampton
+/search_records/59029bbce9379091b1a19446/elizabeth-barrett-1861-cornwall-stratton-1831- :: Elizabeth BARRETT | Cornwall | Kilkhampton | 1831 | 1861 | Cornwall | Kilkhampton
+/search_records/59029c87e9379091b1a4db96/james-barrett-1861-cornwall-st-germans-1831- :: James BARRETT | Cornwall | Botus Fleming | 1831 | 1861 | Cornwall | Saltash
+/search_records/59029c87e9379091b1a4dbd8/samuel-barrett-1861-cornwall-st-germans-1831- :: Samuel BARRETT | Cornwall | Botus Fleming | 1831 | 1861 | Cornwall | Saltash
+/search_records/59029ce4e9379091b1a65ace/william-barrett-1861-cornwall-liskeard-1831- :: William BARRETT | Cornwall | Liskeard | 1831 | 1861 | Cornwall | Liskeard
+/search_records/59029ce5e9379091b1a66068/anna-barrett-1861-cornwall-liskeard-1831- :: Anna BARRETT | Cornwall | St Neot | 1831 | 1861 | Cornwall | Liskeard
+/search_records/59029dc6e9379091b1a9fccd/jane-barrett-1861-cornwall-st-columb-1831- :: Jane BARRETT | Cornwall | St Stephen in Brannel (or St Stephens) | 1831 | 1861 | Cornwall | Newlyn
+/search_records/59029dc6e9379091b1a9fdf7/sarah-barrett-1861-cornwall-st-columb-1831- :: Sarah BARRETT | Cornwall | Mawgan | 1831 | 1861 | Cornwall | Newlyn
+/search_records/59029e1fe9379091b1ab676b/jane-barrett-1861-cornwall-st-austell-1831- :: Jane BARRETT | Cornwall | St Austell | 1831 | 1861 | Cornwall | St Austell
+/search_records/59029ea3e9379091b1ad8ea1/john-barrett-1861-cornwall-truro-1831- :: John BARRETT | Cornwall | Stithians | 1831 | 1861 | Cornwall | St Agnes
+/search_records/59029ee7e9379091b1aeaa7d/margery-barrett-1861-cornwall-truro-1831- :: Margery BARRETT | Cornwall | Truro | 1831 | 1861 | Cornwall | Kenwyn
+/search_records/59029e6ee9379091b1acaafd/grace-barrett-1861-cornwall-truro-1832- :: Grace BARRETT | Devon | St Giles on the Heath (or St Giles In Heath) | 1832 | 1861 | Cornwall | Probus
+/search_records/59029bbae9379091b1a18cab/ann-barrett-1861-cornwall-stratton-1832- :: Ann BARRETT | Cornwall | Kilkhampton | 1832 | 1861 | Cornwall | Kilkhampton
+/search_records/59029fabe9379091b1b1d653/mary-a-barrett-1861-cornwall-helston-1832- :: Mary A BARRETT | Cornwall | Breage | 1832 | 1861 | Cornwall | Wendron
+/search_records/59029c89e9379091b1a4e58f/robert-barrett-1861-cornwall-st-germans-1832- :: Robert BARRETT | Cornwall | Landulph | 1832 | 1861 | Cornwall | Saltash
+/search_records/59029e24e9379091b1ab80b6/francis-jnr-barrett-1861-cornwall-st-austell-1832- :: Francis, Jnr BARRETT | Cornwall | St Blazey | 1832 | 1861 | Cornwall | St Austell
+/search_records/59029ccee9379091b1a5fde4/william-barrett-1861-cornwall-liskeard-1832- :: William BARRETT | Cornwall | Menheniot | 1832 | 1861 | Cornwall | Liskeard
+/search_records/59029ee4e9379091b1ae9a4a/louisa-barrett-1861-cornwall-truro-1833- :: Louisa BARRETT | Cornwall | Truro | 1833 | 1861 | Cornwall | Kenwyn
+/search_records/59029ee5e9379091b1aea0b6/emily-j-barrett-1861-cornwall-truro-1833- :: Emily J BARRETT | London (City) | Paddington | 1833 | 1861 | Cornwall | Kenwyn
+/search_records/59029cebe9379091b1a680a7/ann-a-barrett-1861-cornwall-liskeard-1833- :: Ann A BARRETT | Cornwall | Liskeard | 1833 | 1861 | Cornwall | Liskeard
+/search_records/59029d14e9379091b1a723be/william-barrett-1861-cornwall-liskeard-1833- :: William BARRETT | Cornwall | Pelynt | 1833 | 1861 | Cornwall | Looe
+/search_records/59029d59e9379091b1a8400b/john-barrett-1861-cornwall-bodmin-1833- :: John BARRETT | Cornwall | Withiel | 1833 | 1861 | Cornwall | Bodmin
+/search_records/59029ea3e9379091b1ad8ea3/caroline-barrett-1861-cornwall-truro-1833- :: Caroline BARRETT | Cornwall | Stithians | 1833 | 1861 | Cornwall | St Agnes
+/search_records/59029ed1e9379091b1ae4daa/elizabeth-barrett-1861-cornwall-truro-1833- :: Elizabeth BARRETT | Cornwall | Perranzabuloe | 1833 | 1861 | Cornwall | St Clement
+/search_records/59029d32e9379091b1a7a2d4/jane-barrett-1861-cornwall-bodmin-1834- :: Jane BARRETT | Cornwall | Luxulyan | 1834 | 1861 | Cornwall | Lanlivery
+/search_records/59029c87e9379091b1a4db98/ann-barrett-1861-cornwall-st-germans-1834- :: Ann BARRETT | Cornwall | Botus Fleming | 1834 | 1861 | Cornwall | Saltash
+/search_records/59029d4be9379091b1a8065c/eliza-j-barrett-1861-cornwall-bodmin-1834- :: Eliza J BARRETT | Cornwall | Kea (or St Kea) | 1834 | 1861 | Cornwall | St Mabyn
+/search_records/59029d59e9379091b1a8400d/jane-barrett-1861-cornwall-bodmin-1834- :: Jane BARRETT | Cornwall | Roche | 1834 | 1861 | Cornwall | Bodmin
+/search_records/59029dade9379091b1a99a19/richard-barrett-1861-cornwall-st-columb-1834- :: Richard BARRETT | Cornwall | St Columb | 1834 | 1861 | Cornwall | St Columb Major
+/search_records/59029e24e9379091b1ab80bb/anna-m-barrett-1861-cornwall-st-austell-1834- :: Anna M. BARRETT | Cornwall | St Austell | 1834 | 1861 | Cornwall | St Austell
+/search_records/59029ed0e9379091b1ae47f3/sarah-jane-barrett-1861-cornwall-truro-1834- :: Sarah Jane BARRETT | Cornwall | Truro | 1834 | 1861 | Cornwall | St Clement
+/search_records/59029f05e9379091b1af2469/elizabeth-barrett-1861-cornwall-truro-1834- :: Elizabeth BARRETT | Cornwall | Kenwyn | 1834 | 1861 | Cornwall | Kenwyn
+/search_records/5902a086e9379091b1b5663f/john-basset-barrett-1861-cornwall-redruth-1834- :: John Basset BARRETT | Cornwall | Merther (or Murther) | 1834 | 1861 | Cornwall | Illogan
+/search_records/59029c8ae9379091b1a4e68d/ellen-barrett-1861-cornwall-st-germans-1835- :: Ellen BARRETT | Cornwall | Landulph | 1835 | 1861 | Cornwall | Saltash
+/search_records/59029c8be9379091b1a4ef8a/john-barrett-1861-cornwall-st-germans-1835- :: John BARRETT | Cornwall | St Dominick | 1835 | 1861 | Cornwall | Saltash
+/search_records/59029ccee9379091b1a5fde6/louisa-barrett-1861-cornwall-liskeard-1835- :: Louisa BARRETT | Cornwall | St Minver | 1835 | 1861 | Cornwall | Liskeard
+/search_records/59029e1fe9379091b1ab6578/william-barrett-1861-cornwall-st-austell-1835- :: William BARRETT | Cornwall | St Austell | 1835 | 1861 | Cornwall | St Austell
+/search_records/5902a030e9379091b1b403a1/grace-barrett-1861-cornwall-redruth-1835- :: Grace BARRETT | Cornwall | Gwennap | 1835 | 1861 | Cornwall | Gwennap
+/search_records/5902a088e9379091b1b5713f/mary-a-barrett-1861-cornwall-redruth-1835- :: Mary A BARRETT | Cornwall | Merther | 1835 | 1861 | Cornwall | Illogan
+/search_records/5902a201e9379091b1bb9119/elizabeth-ann-barrett-1861-cornwall-scilly-islands-1836- :: Elizabeth Ann BARRETT | Cornwall | Isles of Scilly Samson (or Samson Scilly) | 1836 | 1861 | Cornwall | Scilly Islands
+/search_records/59029c89e9379091b1a4e591/betsy-barrett-1861-cornwall-st-germans-1836- :: Betsy BARRETT | Cornwall | Landulph | 1836 | 1861 | Cornwall | Saltash
+/search_records/59029cbae9379091b1a5ab15/william-barrett-1861-cornwall-liskeard-1836- :: William BARRETT | Kent | Woolwich | 1836 | 1861 | Cornwall | Callington
+/search_records/59029cbae9379091b1a5ab17/mary-ann-barrett-1861-cornwall-liskeard-1836- :: Mary Ann BARRETT | Cornwall | Tywardreath | 1836 | 1861 | Cornwall | Callington
+/search_records/59029d29e9379091b1a77d28/jane-barrett-1861-cornwall-liskeard-1836- :: Jane BARRETT | Cornwall | St Mabyn | 1836 | 1861 | Cornwall | Lerryn
+/search_records/59029e1fe9379091b1ab657a/dorcas-barrett-1861-cornwall-st-austell-1836- :: Dorcas BARRETT | Cornwall | St Austell | 1836 | 1861 | Cornwall | St Austell
+/search_records/59029ed0e9379091b1ae47f7/ellen-sanson-barrett-1861-cornwall-truro-1836- :: Ellen Sanson BARRETT | Cornwall | Truro | 1836 | 1861 | Cornwall | St Clement
+/search_records/59029f05e9379091b1af2107/john-barrett-1861-cornwall-truro-1836- :: John BARRETT | Cornwall | Kenwyn | 1836 | 1861 | Cornwall | Kenwyn
+/search_records/5902a06fe9379091b1b506c6/john-barrett-1861-cornwall-redruth-1836- :: John BARRETT | Cornwall | Gwennap | 1836 | 1861 | Cornwall | Redruth
+/search_records/59029fabe9379091b1b1d651/james-barrett-1861-cornwall-helston-1837- :: James BARRETT | Cornwall | Redruth | 1837 | 1861 | Cornwall | Wendron
+/search_records/59029c76e9379091b1a496f9/mary-barrett-1861-cornwall-st-germans-1837- :: Mary BARRETT | Ireland | - | 1837 | 1861 | Cornwall | St Germans
+/search_records/59029ccbe9379091b1a5f0bb/henry-barrett-1861-cornwall-liskeard-1837- :: Henry BARRETT | Cornwall | Menheniot | 1837 | 1861 | Cornwall | Liskeard
+/search_records/59029e48e9379091b1ac11b8/nicolas-barrett-1861-cornwall-st-austell-1837- :: Nicolas BARRETT | Cornwall | Veryan | 1837 | 1861 | Cornwall | Mevagissey
+/search_records/59029e71e9379091b1acbce5/nicholas-barrett-1861-cornwall-truro-1837- :: Nicholas BARRETT | Cornwall | Merther | 1837 | 1861 | Cornwall | Probus
+/search_records/59029e72e9379091b1acbf46/john-barrett-1861-cornwall-truro-1837- :: John BARRETT | Cornwall | Merther | 1837 | 1861 | Cornwall | Probus
+/search_records/59029ee7e9379091b1aeaa8e/frederick-barrett-1861-cornwall-truro-1837- :: Frederick BARRETT | Cornwall | Truro | 1837 | 1861 | Cornwall | Kenwyn
+/search_records/59029f05e9379091b1af246b/ann-barrett-1861-cornwall-truro-1837- :: Ann BARRETT | Cornwall | Kenwyn | 1837 | 1861 | Cornwall | Kenwyn
+/search_records/59029c8be9379091b1a4ef64/richard-barrett-1861-cornwall-st-germans-1837- :: Richard BARRETT | Cornwall | Pillaton | 1837 | 1861 | Cornwall | Saltash
+/search_records/59029c8be9379091b1a4ef8c/eliza-a-barrett-1861-cornwall-st-germans-1838- :: Eliza A BARRETT | Cornwall | Quethiock | 1838 | 1861 | Cornwall | Saltash
+/search_records/59029c8ae9379091b1a4e68b/francis-barrett-1861-cornwall-st-germans-1838- :: Francis BARRETT | Cornwall | Landulph | 1838 | 1861 | Cornwall | Saltash
+/search_records/59029f04e9379091b1af1eb8/ann-barrett-1861-cornwall-truro-1838- :: Ann BARRETT | Cornwall | Kea | 1838 | 1861 | Cornwall | Kenwyn
+/search_records/5902a06fe9379091b1b506c8/ann-barrett-1861-cornwall-redruth-1838- :: Ann BARRETT | Cornwall | Gwennap | 1838 | 1861 | Cornwall | Redruth
+/search_records/5902a088e9379091b1b57143/frederick-barrett-1861-cornwall-redruth-1838- :: Frederick BARRETT | Cornwall | Merther | 1838 | 1861 | Cornwall | Illogan
+/search_records/610bc843f493fd23e3ec6dc2/ann-barrett-1861-cornwall-st-blazey-1838- :: Ann BARRETT | Cornwall | Tywardreath | 1838 | 1861 | Cornwall | St Blazey
+/search_records/59029bb8e9379091b1a18466/elizabeth-barrett-1861-cornwall-stratton-1839- :: Elizabeth BARRETT | Devon | Bradworthy | 1839 | 1861 | Cornwall | Kilkhampton
+/search_records/59029c8be9379091b1a4ecf6/james-barrett-1861-cornwall-st-germans-1839- :: James BARRETT | Cornwall | St Mellion | 1839 | 1861 | Cornwall | Saltash
+/search_records/59029c8be9379091b1a4ef66/mary-barrett-1861-cornwall-st-germans-1839- :: Mary BARRETT | Cornwall | St Ive | 1839 | 1861 | Cornwall | Saltash
+/search_records/59029c8ce9379091b1a4f05d/william-barrett-1861-cornwall-st-germans-1839- :: William BARRETT | Cornwall | Pillaton | 1839 | 1861 | Cornwall | Saltash
+/search_records/59029ce7e9379091b1a66be6/jane-l-barrett-1861-cornwall-liskeard-1839- :: Jane L BARRETT | Cornwall | Liskeard | 1839 | 1861 | Cornwall | Liskeard
+/search_records/59029ed0e9379091b1ae480b/emma-barrett-1861-cornwall-truro-1839- :: Emma BARRETT | Cornwall | Truro | 1839 | 1861 | Cornwall | St Clement
+/search_records/5902a083e9379091b1b55725/mary-ann-barrett-1861-cornwall-redruth-1840- :: Mary Ann BARRETT | Cornwall | Gwennap | 1840 | 1861 | Cornwall | Illogan
+/search_records/59029c89e9379091b1a4e5a8/william-barrett-1861-cornwall-st-germans-1840- :: William BARRETT | Cornwall | Landulph | 1840 | 1861 | Cornwall | Saltash
+/search_records/59029db8e9379091b1a9c833/thomas-barrett-1861-cornwall-st-columb-1840- :: Thomas BARRETT | Cornwall | St Columb | 1840 | 1861 | Cornwall | St Columb Major
+/search_records/59029e71e9379091b1acbce7/susan-barrett-1861-cornwall-truro-1840- :: Susan BARRETT | Cornwall | Merther | 1840 | 1861 | Cornwall | Probus
+/search_records/59029ed1e9379091b1ae4b2e/mary-barrett-1861-cornwall-truro-1840- :: Mary BARRETT | Cornwall | Kenwyn | 1840 | 1861 | Cornwall | St Clement
+/search_records/59029f04e9379091b1af1eba/elizabeth-barrett-1861-cornwall-truro-1840- :: Elizabeth BARRETT | Cornwall | Kea | 1840 | 1861 | Cornwall | Kenwyn
+/search_records/5902a088e9379091b1b57145/elizabeth-j-barrett-1861-cornwall-redruth-1840- :: Elizabeth J BARRETT | Devon | Slapton | 1840 | 1861 | Cornwall | Illogan
+/search_records/59029ccbe9379091b1a5f0bd/emily-barrett-1861-cornwall-liskeard-1841- :: Emily BARRETT | Cornwall | Quethiock | 1841 | 1861 | Cornwall | Liskeard
+/search_records/59029ce4e9379091b1a65ad0/elizabeth-a-barrett-1861-cornwall-liskeard-1841- :: Elizabeth A BARRETT | Cornwall | St Blazey | 1841 | 1861 | Cornwall | Liskeard
+/search_records/59029ce7e9379091b1a66bea/mary-e-barrett-1861-cornwall-liskeard-1841- :: Mary E BARRETT | Cornwall | Liskeard | 1841 | 1861 | Cornwall | Liskeard
+/search_records/59029c8ce9379091b1a4f055/peter-barrett-1861-cornwall-st-germans-1841- :: Peter BARRETT | Cornwall | Pillaton | 1841 | 1861 | Cornwall | Saltash
+/search_records/59029c8ce9379091b1a4f05f/agness-barrett-1861-cornwall-st-germans-1841- :: Agness BARRETT | Cornwall | Pillaton | 1841 | 1861 | Cornwall | Saltash
+/search_records/59029cede9379091b1a68729/william-barrett-1861-cornwall-liskeard-1841- :: William BARRETT | Devon | Ivybridge | 1841 | 1861 | Cornwall | Liskeard
+/search_records/59029d25e9379091b1a76bc2/thomas-barrett-1861-cornwall-liskeard-1841- :: Thomas BARRETT | Devon | Devonport | 1841 | 1861 | Cornwall | Lerryn
+/search_records/59029e72e9379091b1acbf48/jeremiah-barrett-1861-cornwall-truro-1841- :: Jeremiah BARRETT | Cornwall | St Michael Penkevil | 1841 | 1861 | Cornwall | Probus
+/search_records/59029c89e9379091b1a4e123/mary-barrett-1861-cornwall-st-germans-1841- :: Mary BARRETT | Devon | Plymouth | 1841 | 1861 | Cornwall | Saltash
+/search_records/59029ed0e9379091b1ae485e/edmond-barrett-1861-cornwall-truro-1841- :: Edmond BARRETT | Cornwall | Truro | 1841 | 1861 | Cornwall | St Clement
+/search_records/59029f01e9379091b1af11f9/sophia-barrett-1861-cornwall-truro-1841- :: Sophia BARRETT | Cornwall | St Agnes | 1841 | 1861 | Cornwall | Kenwyn
+/search_records/59029f05e9379091b1af246d/thomas-barrett-1861-cornwall-truro-1841- :: Thomas BARRETT | Cornwall | Kenwyn | 1841 | 1861 | Cornwall | Kenwyn
+/search_records/5902a086e9379091b1b56643/eliza-jane-barrett-1861-cornwall-redruth-1841- :: Eliza Jane BARRETT | Cornwall | Illogan | 1841 | 1861 | Cornwall | Illogan
+/search_records/6815f2f1b18f7c09b257629a/anne-barrett-1861-cornwall-st-issey-1841- :: Anne BARRETT | Cornwall | St Wenn | 1841 | 1861 | Cornwall | St Issey
+/search_records/59029f1be9379091b1af807b/joanna-barrett-1861-cornwall-truro-1842- :: Joanna BARRETT | Cornwall | Kea | 1842 | 1861 | Cornwall | Kea
+/search_records/59029ccbe9379091b1a5f2bc/john-barrett-1861-cornwall-liskeard-1842- :: John BARRETT | Cornwall | Menheniot | 1842 | 1861 | Cornwall | Liskeard
+/search_records/59029ce7e9379091b1a66bee/emma-barrett-1861-cornwall-liskeard-1842- :: Emma BARRETT | Cornwall | Liskeard | 1842 | 1861 | Cornwall | Liskeard
+/search_records/59029d12e9379091b1a71bbb/elizabeth-a-barrett-1861-cornwall-liskeard-1842- :: Elizabeth A. BARRETT | Cornwall | Talland | 1842 | 1861 | Cornwall | Looe
+/search_records/59029e5de9379091b1ac66ff/john-barrett-1861-cornwall-st-austell-1842- :: John BARRETT | Cornwall | St Wenn | 1842 | 1861 | Cornwall | Grampound
+/search_records/59029ed0e9379091b1ae47fb/fanny-barrett-1861-cornwall-truro-1842- :: Fanny BARRETT | Cornwall | Truro | 1842 | 1861 | Cornwall | St Clement
+/search_records/59029ed0e9379091b1ae4860/susan-barrett-1861-cornwall-truro-1842- :: Susan BARRETT | Cornwall | Truro | 1842 | 1861 | Cornwall | St Clement
+/search_records/59029f04e9379091b1af1ebc/maria-barrett-1861-cornwall-truro-1842- :: Maria BARRETT | Cornwall | Kea | 1842 | 1861 | Cornwall | Kenwyn
+/search_records/59029cbde9379091b1a5bb31/stephen-barrett-1861-cornwall-liskeard-1842- :: Stephen BARRETT | Cornwall | St Mellion | 1842 | 1861 | Cornwall | Callington
+/search_records/59029e71e9379091b1acbc6e/james-barrett-1861-cornwall-truro-1843- :: James BARRETT | Cornwall | Merther | 1843 | 1861 | Cornwall | Probus
+/search_records/59029bc5e9379091b1a1b969/thomas-barrett-1861-cornwall-stratton-1843- :: Thomas BARRETT | Cornwall | Stratton | 1843 | 1861 | Cornwall | Stratton
+/search_records/59029c89e9379091b1a4e5b4/elisabeth-a-barrett-1861-cornwall-st-germans-1843- :: Elisabeth A BARRETT | Cornwall | Landulph | 1843 | 1861 | Cornwall | Saltash
+/search_records/59029cbae9379091b1a5ab60/thomas-barrett-1861-cornwall-liskeard-1843- :: Thomas BARRETT | Cornwall | Chacewater (or Chaswater) | 1843 | 1861 | Cornwall | Callington
+/search_records/59029cede9379091b1a6872b/frances-e-barrett-1861-cornwall-liskeard-1843- :: Frances E BARRETT | Cornwall | Liskeard | 1843 | 1861 | Cornwall | Liskeard
+/search_records/59029e72e9379091b1acbf4a/julia-barrett-1861-cornwall-truro-1843- :: Julia BARRETT | Cornwall | St Michael Penkevil | 1843 | 1861 | Cornwall | Probus
+/search_records/59029ec2e9379091b1ae0e9a/joseph-barrett-1861-cornwall-truro-1843- :: Joseph BARRETT | Cornwall | Truro | 1843 | 1861 | Cornwall | St Clement
+/search_records/59029f06e9379091b1af2608/alice-barrett-1861-cornwall-truro-1843- :: Alice BARRETT | Cornwall | Redruth | 1843 | 1861 | Cornwall | Kenwyn
+/search_records/59029bc5e9379091b1a1b7c6/george-barrett-1861-cornwall-stratton-1844- :: George BARRETT | Cornwall | Kilkhampton | 1844 | 1861 | Cornwall | Stratton
+/search_records/59029d29e9379091b1a7809f/ellen-barrett-1861-cornwall-liskeard-1844- :: Ellen BARRETT | Cornwall | Boconnoc | 1844 | 1861 | Cornwall | Lerryn
+/search_records/59029f05e9379091b1af246f/harriet-barrett-1861-cornwall-truro-1844- :: Harriet BARRETT | Cornwall | Kenwyn | 1844 | 1861 | Cornwall | Kenwyn
+/search_records/5902a088e9379091b1b57149/richard-barrett-1861-cornwall-redruth-1844- :: Richard BARRETT | Cornwall | Illogan | 1844 | 1861 | Cornwall | Illogan
+/search_records/65bf3366f493fdfa220fc31f/william-barrett-1861-cornwall-falmouth-1844- :: William BARRETT | Cornwall | St Anthony | 1844 | 1861 | Cornwall | Falmouth
+/search_records/59029c88e9379091b1a4de4a/alfred-barrett-1861-cornwall-st-germans-1844- :: Alfred BARRETT | Cornwall | Saltash | 1844 | 1861 | Cornwall | Saltash
+/search_records/59029c89e9379091b1a4e5aa/ann-barrett-1861-cornwall-st-germans-1844- :: Ann BARRETT | Cornwall | Landulph | 1844 | 1861 | Cornwall | Saltash
+/search_records/59029d12e9379091b1a71982/elizabeth-r-barrett-1861-cornwall-liskeard-1844- :: Elizabeth R. BARRETT | Cornwall | Polperro | 1844 | 1861 | Cornwall | Looe
+/search_records/59029d13e9379091b1a71cb3/jane-ann-barrett-1861-cornwall-liskeard-1844- :: Jane Ann BARRETT | Cornwall | Liskeard | 1844 | 1861 | Cornwall | Looe
+/search_records/59029d23e9379091b1a75f40/john-barrett-1861-cornwall-liskeard-1844- :: John BARRETT | Cornwall | Boconnoc | 1844 | 1861 | Cornwall | Lerryn
+/search_records/59029ed0e9379091b1ae47ff/john-leach-barrett-1861-cornwall-truro-1845- :: John Leach BARRETT | Cornwall | Truro | 1845 | 1861 | Cornwall | St Clement
+/search_records/59029ed0e9379091b1ae47fd/richard-barrett-1861-cornwall-truro-1845- :: Richard BARRETT | Cornwall | Truro | 1845 | 1861 | Cornwall | St Clement
+/search_records/59029ee5e9379091b1ae9ec9/henry-barrett-1861-cornwall-truro-1845- :: Henry BARRETT | Cornwall | Newlyn East | 1845 | 1861 | Cornwall | Kenwyn
+/search_records/59029f04e9379091b1af1ebf/john-barrett-1861-cornwall-truro-1845- :: John BARRETT | Cornwall | Kea | 1845 | 1861 | Cornwall | Kenwyn
+/search_records/59029f11e9379091b1af5851/john-barrett-1861-cornwall-truro-1845- :: John BARRETT | Cornwall | Kea | 1845 | 1861 | Cornwall | Kea
+/search_records/59029c89e9379091b1a4e5b9/william-h-barrett-1861-cornwall-st-germans-1845- :: William H BARRETT | Cornwall | Landulph | 1845 | 1861 | Cornwall | Saltash
+/search_records/59029c8be9379091b1a4eedc/ezekiel-barrett-1861-cornwall-st-germans-1845- :: Ezekiel BARRETT | Cornwall | Pillaton | 1845 | 1861 | Cornwall | Saltash
+/search_records/59029c92e9379091b1a50926/william-barrett-1861-cornwall-st-germans-1845- :: William BARRETT | Cornwall | Saltash | 1845 | 1861 | Cornwall | Saltash
+/search_records/59029d12e9379091b1a71b9e/belinda-l-j-barrett-1861-cornwall-liskeard-1845- :: Belinda L.J. BARRETT | Cornwall | Polperro | 1845 | 1861 | Cornwall | Looe
+/search_records/59029d13e9379091b1a71e6f/mary-barrett-1861-cornwall-liskeard-1845- :: Mary BARRETT | Cornwall | Pelynt | 1845 | 1861 | Cornwall | Looe
+/search_records/59029d28e9379091b1a77b5a/jane-barrett-1861-cornwall-liskeard-1845- :: Jane BARRETT | Cornwall | Lanteglos | 1845 | 1861 | Cornwall | Lerryn
+/search_records/59029dabe9379091b1a99266/william-r-barrett-1861-cornwall-st-columb-1845- :: William R BARRETT | Cornwall | St Wenn | 1845 | 1861 | Cornwall | St Columb Major
+/search_records/59029e1fe9379091b1ab6915/emma-barrett-1861-cornwall-st-austell-1845- :: Emma BARRETT | Cornwall | St Austell | 1845 | 1861 | Cornwall | St Austell
+/search_records/59029e72e9379091b1acc155/richard-barrett-1861-cornwall-truro-1845- :: Richard BARRETT | Cornwall | Merther | 1845 | 1861 | Cornwall | Probus
+/search_records/59029d29e9379091b1a77fb6/william-barrett-1861-cornwall-liskeard-1846- :: William BARRETT | Cornwall | St Mabyn | 1846 | 1861 | Cornwall | Lerryn
+/search_records/59029bbce9379091b1a19788/emma-barrett-1861-cornwall-stratton-1846- :: Emma BARRETT | Cornwall | Kilkhampton | 1846 | 1861 | Cornwall | Kilkhampton
+/search_records/59029c8ae9379091b1a4ea7f/john-barrett-1861-cornwall-st-germans-1846- :: John BARRETT | Cornwall | Landulph | 1846 | 1861 | Cornwall | Saltash
+/search_records/59029c8ce9379091b1a4f07a/eli-barrett-1861-cornwall-st-germans-1846- :: Eli BARRETT | Cornwall | Pillaton | 1846 | 1861 | Cornwall | Saltash
+/search_records/59029d29e9379091b1a77dee/edwin-barrett-1861-cornwall-liskeard-1846- :: Edwin BARRETT | Cornwall | Boconnoc | 1846 | 1861 | Cornwall | Lerryn
+/search_records/59029e72e9379091b1acbf4d/josiah-barrett-1861-cornwall-truro-1846- :: Josiah BARRETT | Cornwall | St Michael Penkevil | 1846 | 1861 | Cornwall | Probus
+/search_records/59029f01e9379091b1af1160/mary-jane-barrett-1861-cornwall-truro-1846- :: Mary Jane BARRETT | Cornwall | Kenwyn | 1846 | 1861 | Cornwall | Kenwyn
+/search_records/59029f05e9379091b1af2471/amelia-barrett-1861-cornwall-truro-1846- :: Amelia BARRETT | Cornwall | Kenwyn | 1846 | 1861 | Cornwall | Kenwyn
+/search_records/59029f1be9379091b1af807d/william-barrett-1861-cornwall-truro-1846- :: William BARRETT | Cornwall | Kea | 1846 | 1861 | Cornwall | Kea
+/search_records/59029c27e9379091b1a34954/elizabeth-barrett-1861-cornwall-launceston-1847- :: Elizabeth BARRETT | Cornwall | St Mellion | 1847 | 1861 | Cornwall | Launceston
+/search_records/59029c8be9379091b1a4eda4/maria-barrett-1861-cornwall-st-germans-1847- :: Maria BARRETT | Cornwall | St Mellion | 1847 | 1861 | Cornwall | Saltash
+/search_records/59029c8be9379091b1a4ef09/mary-j-barrett-1861-cornwall-st-germans-1847- :: Mary J BARRETT | Cornwall | Pillaton | 1847 | 1861 | Cornwall | Saltash
+/search_records/59029d13e9379091b1a71cb7/thomas-barrett-1861-cornwall-liskeard-1847- :: Thomas BARRETT | Cornwall | Talland | 1847 | 1861 | Cornwall | Looe
+/search_records/59029bc5e9379091b1a1b77a/henry-barrett-1861-cornwall-stratton-1847- :: Henry BARRETT | Cornwall | Poughill | 1847 | 1861 | Cornwall | Stratton
+/search_records/59029d26e9379091b1a76d87/john-barrett-1861-cornwall-liskeard-1847- :: John BARRETT | Cornwall | Polperro | 1847 | 1861 | Cornwall | Lerryn
+/search_records/59029d5ee9379091b1a857d1/elizabeth-barrett-1861-cornwall-bodmin-1847- :: Elizabeth BARRETT | Devon | Plymouth | 1847 | 1861 | Cornwall | Bodmin
+/search_records/59029f04e9379091b1af1ec1/richard-barrett-1861-cornwall-truro-1847- :: Richard BARRETT | Cornwall | Kea | 1847 | 1861 | Cornwall | Kenwyn
+/search_records/5902a088e9379091b1b5714b/sarah-barrett-1861-cornwall-redruth-1847- :: Sarah BARRETT | Cornwall | Camborne | 1847 | 1861 | Cornwall | Illogan
+/search_records/62baa720f493fde76a72a761/richard-barrett-1861-cornwall-st-just-in-roseland-1847- :: Richard BARRETT | Devon | Appledore | 1847 | 1861 | Cornwall | St Just In Roseland
+/search_records/59029c56e9379091b1a410be/william-j-barrett-1861-cornwall-st-germans-1847- :: William J BARRETT | Cornwall | Cawsand | 1847 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029f1be9379091b1af807f/maria-barrett-1861-cornwall-truro-1848- :: Maria BARRETT | Cornwall | Kea | 1848 | 1861 | Cornwall | Kea
+/search_records/59029bc5e9379091b1a1b7ba/ann-barrett-1861-cornwall-stratton-1848- :: Ann BARRETT | Cornwall | Kilkhampton | 1848 | 1861 | Cornwall | Stratton
+/search_records/59029bc6e9379091b1a1c01b/john-barrett-1861-cornwall-stratton-1848- :: John BARRETT | Cornwall | Bude Haven | 1848 | 1861 | Cornwall | Stratton
+/search_records/59029c89e9379091b1a4e5bd/mary-jane-barrett-1861-cornwall-st-germans-1848- :: Mary Jane BARRETT | Cornwall | Landulph | 1848 | 1861 | Cornwall | Saltash
+/search_records/59029c92e9379091b1a50928/charles-barrett-1861-cornwall-st-germans-1848- :: Charles BARRETT | Cornwall | Saltash | 1848 | 1861 | Cornwall | Saltash
+/search_records/59029c93e9379091b1a510e0/john-barrett-1861-cornwall-st-germans-1848- :: John BARRETT | Cornwall | Landulph | 1848 | 1861 | Cornwall | Saltash
+/search_records/59029c94e9379091b1a515c7/elizabeth-l-barrett-1861-cornwall-st-germans-1848- :: Elizabeth L BARRETT | Cornwall | Lansallos | 1848 | 1861 | Cornwall | Saltash
+/search_records/59029d12e9379091b1a7197e/rebecca-barrett-1861-cornwall-liskeard-1848- :: Rebecca BARRETT | Cornwall | Polperro | 1848 | 1861 | Cornwall | Looe
+/search_records/59029d12e9379091b1a71bbf/emma-barrett-1861-cornwall-liskeard-1848- :: Emma BARRETT | Cornwall | Talland | 1848 | 1861 | Cornwall | Looe
+/search_records/59029e71e9379091b1acbcea/alfred-barrett-1861-cornwall-truro-1848- :: Alfred BARRETT | Cornwall | Merther | 1848 | 1861 | Cornwall | Probus
+/search_records/59029f11e9379091b1af5853/joseph-barrett-1861-cornwall-truro-1848- :: Joseph BARRETT | Cornwall | Kea | 1848 | 1861 | Cornwall | Kea
+/search_records/59029d6ae9379091b1a88d7d/henry-barrett-1861-cornwall-bodmin-1849- :: Henry BARRETT | Cornwall | Withiel | 1849 | 1861 | Cornwall | Bodmin
+/search_records/59029c28e9379091b1a3524c/william-barrett-1861-cornwall-launceston-1849- :: William BARRETT | Cornwall | St Mellion | 1849 | 1861 | Cornwall | Launceston
+/search_records/59029c92e9379091b1a5092a/thomas-barrett-1861-cornwall-st-germans-1849- :: Thomas BARRETT | Cornwall | Saltash | 1849 | 1861 | Cornwall | Saltash
+/search_records/59029cede9379091b1a6872f/james-barrett-1861-cornwall-liskeard-1849- :: James BARRETT | Cornwall | Liskeard | 1849 | 1861 | Cornwall | Liskeard
+/search_records/59029d12e9379091b1a7198c/julian-l-j-barrett-1861-cornwall-liskeard-1849- :: Julian L.J. BARRETT | Devon | Plymouth | 1849 | 1861 | Cornwall | Looe
+/search_records/59029d15e9379091b1a7275f/mary-barrett-1861-cornwall-liskeard-1849- :: Mary BARRETT | Cornwall | Lansallos | 1849 | 1861 | Cornwall | Looe
+/search_records/59029dd9e9379091b1aa4a2d/mary-j-barrett-1861-cornwall-st-austell-1849- :: Mary J BARRETT | Cornwall | St Pinnock | 1849 | 1861 | Cornwall | Fowey
+/search_records/59029ed0e9379091b1ae4803/mary-barrett-1861-cornwall-truro-1849- :: Mary BARRETT | Cornwall | Truro | 1849 | 1861 | Cornwall | St Clement
+/search_records/59029ee5e9379091b1ae9ecb/william-barrett-1861-cornwall-truro-1849- :: William BARRETT | Cornwall | Newlyn East | 1849 | 1861 | Cornwall | Kenwyn
+/search_records/59029f04e9379091b1af1ec3/louisa-barrett-1861-cornwall-truro-1849- :: Louisa BARRETT | Cornwall | Kea | 1849 | 1861 | Cornwall | Kenwyn
+/search_records/59029bc8e9379091b1a1c6a2/joshua-barrett-1861-cornwall-stratton-1850- :: Joshua BARRETT | Devon | Ashwater | 1850 | 1861 | Cornwall | Stratton
+/search_records/59029c8ae9379091b1a4e8bb/richard-barrett-1861-cornwall-st-germans-1850- :: Richard BARRETT | Cornwall | Landulph | 1850 | 1861 | Cornwall | Saltash
+/search_records/59029c8be9379091b1a4ecf8/malinda-barrett-1861-cornwall-st-germans-1850- :: Malinda BARRETT | Cornwall | St Mellion | 1850 | 1861 | Cornwall | Saltash
+/search_records/59029c8ce9379091b1a4f057/ellen-downs-barrett-1861-cornwall-st-germans-1850- :: Ellen Downs BARRETT | Cornwall | Pillaton | 1850 | 1861 | Cornwall | Saltash
+/search_records/59029ce7e9379091b1a66b55/ellen-barrett-1861-cornwall-liskeard-1850- :: Ellen BARRETT | Cornwall | Liskeard | 1850 | 1861 | Cornwall | Liskeard
+/search_records/59029d29e9379091b1a780a1/frank-barrett-1861-cornwall-liskeard-1850- :: Frank BARRETT | Cornwall | Boconnoc | 1850 | 1861 | Cornwall | Lerryn
+/search_records/59029d32e9379091b1a7a2d6/samuel-barrett-1861-cornwall-bodmin-1850- :: Samuel BARRETT | Cornwall | Luxulyan | 1850 | 1861 | Cornwall | Lanlivery
+/search_records/59029f1fe9379091b1af94ed/thomas-woolcock-barrett-1861-cornwall-truro-1850- :: Thomas Woolcock BARRETT | Cornwall | Feock | 1850 | 1861 | Cornwall | Kea
+/search_records/5902a028e9379091b1b3db4d/mary-barrett-1861-cornwall-redruth-1850- :: Mary BARRETT | Cornwall | Kea | 1850 | 1861 | Cornwall | Gwennap
+/search_records/59029c89e9379091b1a4e5ac/priscilla-barrett-1861-cornwall-st-germans-1850- :: Priscilla BARRETT | Cornwall | Landulph | 1850 | 1861 | Cornwall | Saltash
+/search_records/59029c89e9379091b1a4e5c1/emma-barrett-1861-cornwall-st-germans-1850- :: Emma BARRETT | Cornwall | Landulph | 1850 | 1861 | Cornwall | Saltash
+/search_records/59029f05e9379091b1af2473/emily-barrett-1861-cornwall-truro-1851- :: Emily BARRETT | Cornwall | Kenwyn | 1851 | 1861 | Cornwall | Kenwyn
+/search_records/59029f1be9379091b1af8082/mary-a-barrett-1861-cornwall-truro-1851- :: Mary A BARRETT | Cornwall | Kea | 1851 | 1861 | Cornwall | Kea
+/search_records/59029bbce9379091b1a19588/joshua-barrett-1861-cornwall-stratton-1851- :: Joshua BARRETT | Cornwall | Moorwinstow (or Morwenstow) | 1851 | 1861 | Cornwall | Kilkhampton
+/search_records/59029bc7e9379091b1a1c0e7/sarah-a-barrett-1861-cornwall-stratton-1851- :: Sarah A BARRETT | Cornwall | Bude Haven | 1851 | 1861 | Cornwall | Stratton
+/search_records/59029bc8e9379091b1a1c6ea/ann-barrett-1861-cornwall-stratton-1851- :: Ann BARRETT | Cornwall | St Stephen in Brannel (or St Stephens) | 1851 | 1861 | Cornwall | Stratton
+/search_records/59029c28e9379091b1a3524e/alicia-barrett-1861-cornwall-launceston-1851- :: Alicia BARRETT | Cornwall | St Mellion | 1851 | 1861 | Cornwall | Launceston
+/search_records/59029ce7e9379091b1a66b57/caroline-barrett-1861-cornwall-liskeard-1851- :: Caroline BARRETT | Cornwall | Liskeard | 1851 | 1861 | Cornwall | Liskeard
+/search_records/59029d23e9379091b1a75f42/elizabeth-barrett-1861-cornwall-liskeard-1851- :: Elizabeth BARRETT | Cornwall | Boconnoc | 1851 | 1861 | Cornwall | Lerryn
+/search_records/59029d26e9379091b1a76d8b/william-henery-barrett-1861-cornwall-liskeard-1851- :: William Henery BARRETT | Cornwall | Polperro | 1851 | 1861 | Cornwall | Lerryn
+/search_records/59029d32e9379091b1a7a2d8/mary-j-barrett-1861-cornwall-bodmin-1851- :: Mary J. BARRETT | Cornwall | Luxulyan | 1851 | 1861 | Cornwall | Lanlivery
+/search_records/59029ed0e9379091b1ae4805/osborne-barrett-1861-cornwall-truro-1851- :: Osborne BARRETT | Cornwall | Truro | 1851 | 1861 | Cornwall | St Clement
+/search_records/59029f04e9379091b1af1ec5/thomas-barrett-1861-cornwall-truro-1851- :: Thomas BARRETT | Cornwall | Kea | 1851 | 1861 | Cornwall | Kenwyn
+/search_records/59029f0ee9379091b1af48ef/bessie-b-barrett-1861-cornwall-truro-1852- :: Bessie B BARRETT | Cornwall | Kea | 1852 | 1861 | Cornwall | Kea
+/search_records/59029bbae9379091b1a18cad/emma-barrett-1861-cornwall-stratton-1852- :: Emma BARRETT | Cornwall | Kilkhampton | 1852 | 1861 | Cornwall | Kilkhampton
+/search_records/59029bc6e9379091b1a1c01d/harry-barrett-1861-cornwall-stratton-1852- :: Harry BARRETT | Cornwall | Bude Haven | 1852 | 1861 | Cornwall | Stratton
+/search_records/59029c50e9379091b1a3f1fc/ameley-barrett-1861-cornwall-st-germans-1852- :: Ameley BARRETT | Cornwall | St John (or St Johns) | 1852 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c89e9379091b1a4e5ae/emma-barrett-1861-cornwall-st-germans-1852- :: Emma BARRETT | Cornwall | Landulph | 1852 | 1861 | Cornwall | Saltash
+/search_records/59029c8ce9379091b1a4f05b/noah-barrett-1861-cornwall-st-germans-1852- :: Noah BARRETT | Cornwall | Pillaton | 1852 | 1861 | Cornwall | Saltash
+/search_records/59029c8ee9379091b1a4fa93/isabella-barrett-1861-cornwall-st-germans-1852- :: Isabella BARRETT | Cornwall | Saltash | 1852 | 1861 | Cornwall | Saltash
+/search_records/59029ed1e9379091b1ae4d98/mary-r-barrett-1861-cornwall-truro-1852- :: Mary R BARRETT | Cornwall | Truro | 1852 | 1861 | Cornwall | St Clement
+/search_records/59029f01e9379091b1af1164/john-barrett-1861-cornwall-truro-1852- :: John BARRETT | Cornwall | Kenwyn | 1852 | 1861 | Cornwall | Kenwyn
+/search_records/5902a028e9379091b1b3db4f/william-barrett-1861-cornwall-redruth-1852- :: William BARRETT | Cornwall | Kea | 1852 | 1861 | Cornwall | Gwennap
+/search_records/5902a088e9379091b1b5714d/william-barrett-1861-cornwall-redruth-1852- :: William BARRETT | Cornwall | Camborne | 1852 | 1861 | Cornwall | Illogan
+/search_records/59029c28e9379091b1a35251/richard-barrett-1861-cornwall-launceston-1853- :: Richard BARRETT | Cornwall | St Mellion | 1853 | 1861 | Cornwall | Launceston
+/search_records/59029c8ae9379091b1a4e6d6/edwin-barrett-1861-cornwall-st-germans-1853- :: Edwin BARRETT | Cornwall | Landulph | 1853 | 1861 | Cornwall | Saltash
+/search_records/59029c8ae9379091b1a4e8b9/edmund-barrett-1861-cornwall-st-germans-1853- :: Edmund BARRETT | Cornwall | Landulph | 1853 | 1861 | Cornwall | Saltash
+/search_records/59029ccce9379091b1a5f3b9/richard-barrett-1861-cornwall-liskeard-1853- :: Richard BARRETT | Cornwall | Menheniot | 1853 | 1861 | Cornwall | Liskeard
+/search_records/59029d32e9379091b1a7a2dc/thomas-barrett-1861-cornwall-bodmin-1853- :: Thomas BARRETT | Cornwall | Luxulyan | 1853 | 1861 | Cornwall | Lanlivery
+/search_records/59029ed0e9379091b1ae4807/william-barrett-1861-cornwall-truro-1853- :: William BARRETT | Cornwall | Truro | 1853 | 1861 | Cornwall | St Clement
+/search_records/59029bc5e9379091b1a1b77c/elizabeth-barrett-1861-cornwall-stratton-1853- :: Elizabeth BARRETT | Cornwall | Poughill | 1853 | 1861 | Cornwall | Stratton
+/search_records/59029ed0e9379091b1ae49e0/r-b-barrett-1861-cornwall-truro-1853- :: R B BARRETT | Cornwall | Truro | 1853 | 1861 | Cornwall | St Clement
+/search_records/59029ed1e9379091b1ae4d9c/louisa-barrett-1861-cornwall-truro-1853- :: Louisa BARRETT | Cornwall | Truro | 1853 | 1861 | Cornwall | St Clement
+/search_records/59029ee5e9379091b1ae9ecd/emma-barrett-1861-cornwall-truro-1853- :: Emma BARRETT | Cornwall | Newlyn East | 1853 | 1861 | Cornwall | Kenwyn
+/search_records/59029f04e9379091b1af1ec7/samuel-barrett-1861-cornwall-truro-1853- :: Samuel BARRETT | Cornwall | Kenwyn | 1853 | 1861 | Cornwall | Kenwyn
+/search_records/59029f11e9379091b1af5855/elizth-barrett-1861-cornwall-truro-1853- :: Elizth BARRETT | Cornwall | Kea | 1853 | 1861 | Cornwall | Kea
+/search_records/5902a099e9379091b1b5b870/elizabeth-barrett-1861-cornwall-redruth-1853- :: Elizabeth BARRETT | Cornwall | Truro | 1853 | 1861 | Cornwall | Illogan
+/search_records/59029bbbe9379091b1a19178/charles-barrett-1861-cornwall-stratton-1853- :: Charles BARRETT | Cornwall | Moorwinstow (or Morwenstow) | 1853 | 1861 | Cornwall | Kilkhampton
+/search_records/610bc823f493fd23e3ec5f07/fanny-barrett-1861-cornwall-st-blazey-1853- :: Fanny BARRETT | Cornwall | Liskeard | 1853 | 1861 | Cornwall | St Blazey
+/search_records/59029ed0e9379091b1ae49e4/daniel-p-barrett-1861-cornwall-truro-1854- :: Daniel P BARRETT | Cornwall | Truro | 1854 | 1861 | Cornwall | St Clement
+/search_records/59029bc6e9379091b1a1c01f/mary-barrett-1861-cornwall-stratton-1854- :: Mary BARRETT | Cornwall | Bude Haven | 1854 | 1861 | Cornwall | Stratton
+/search_records/59029bc7e9379091b1a1c0eb/charles-barrett-1861-cornwall-stratton-1854- :: Charles BARRETT | Cornwall | Bude Haven | 1854 | 1861 | Cornwall | Stratton
+/search_records/59029bc8e9379091b1a1c6a4/hubert-j-barrett-1861-cornwall-stratton-1854- :: Hubert J BARRETT | Cornwall | Bude Haven | 1854 | 1861 | Cornwall | Stratton
+/search_records/59029c56e9379091b1a40ef5/ann-g-barrett-1861-cornwall-st-germans-1854- :: Ann G BARRETT | Cornwall | Cawsand | 1854 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c8ae9379091b1a4e6d8/emma-barrett-1861-cornwall-st-germans-1854- :: Emma BARRETT | Cornwall | Landulph | 1854 | 1861 | Cornwall | Saltash
+/search_records/59029e22e9379091b1ab73d4/ellan-barrett-1861-cornwall-st-austell-1854- :: Ellan BARRETT | Cornwall | St Austell | 1854 | 1861 | Cornwall | St Austell
+/search_records/59029ec2e9379091b1ae0e9c/mary-barrett-1861-cornwall-truro-1854- :: Mary BARRETT | Cornwall | Truro | 1854 | 1861 | Cornwall | St Clement
+/search_records/59029bc5e9379091b1a1b96b/ellen-barrett-1861-cornwall-stratton-1854- :: Ellen BARRETT | Cornwall | Stratton | 1854 | 1861 | Cornwall | Stratton
+/search_records/59029d13e9379091b1a71e71/teresa-barrett-1861-cornwall-liskeard-1855- :: Teresa BARRETT | Cornwall | Pelynt | 1855 | 1861 | Cornwall | Looe
+/search_records/59029bbbe9379091b1a1917a/barbara-barrett-1861-cornwall-stratton-1855- :: Barbara BARRETT | Cornwall | Moorwinstow (or Morwenstow) | 1855 | 1861 | Cornwall | Kilkhampton
+/search_records/59029bc8e9379091b1a1c6ec/richard-barrett-1861-cornwall-stratton-1855- :: Richard BARRETT | Cornwall | Marhamchurch | 1855 | 1861 | Cornwall | Stratton
+/search_records/59029c3be9379091b1a39956/richard-barrett-1861-cornwall-launceston-1855- :: Richard BARRETT | Cornwall | North Hill | 1855 | 1861 | Cornwall | North Hill
+/search_records/59029c89e9379091b1a4e593/ellen-barrett-1861-cornwall-st-germans-1855- :: Ellen BARRETT | Cornwall | Landulph | 1855 | 1861 | Cornwall | Saltash
+/search_records/59029ccce9379091b1a5f3bb/emily-barrett-1861-cornwall-liskeard-1855- :: Emily BARRETT | Cornwall | Menheniot | 1855 | 1861 | Cornwall | Liskeard
+/search_records/59029d13e9379091b1a71cb9/edward-barrett-1861-cornwall-liskeard-1855- :: Edward BARRETT | Cornwall | Talland | 1855 | 1861 | Cornwall | Looe
+/search_records/59029d32e9379091b1a7a2de/robert-barrett-1861-cornwall-bodmin-1855- :: Robert BARRETT | Cornwall | Luxulyan | 1855 | 1861 | Cornwall | Lanlivery
+/search_records/59029e32e9379091b1abb394/john-barrett-1861-cornwall-st-austell-1855- :: John BARRETT | Cornwall | Gorran | 1855 | 1861 | Cornwall | St Austell
+/search_records/59029ea3e9379091b1ad8ea5/ellen-barrett-1861-cornwall-truro-1855- :: Ellen BARRETT | Cornwall | Stithians | 1855 | 1861 | Cornwall | St Agnes
+/search_records/59029ed1e9379091b1ae4d9e/william-barrett-1861-cornwall-truro-1855- :: William BARRETT | Cornwall | Truro | 1855 | 1861 | Cornwall | St Clement
+/search_records/59029ee5e9379091b1ae9ecf/elizabeth-barrett-1861-cornwall-truro-1855- :: Elizabeth BARRETT | Cornwall | Kenwyn | 1855 | 1861 | Cornwall | Kenwyn
+/search_records/59029ee5e9379091b1aea0ba/catharine-barrett-1861-cornwall-truro-1855- :: Catharine BARRETT | Cornwall | Kenwyn | 1855 | 1861 | Cornwall | Kenwyn
+/search_records/5902a030e9379091b1b403a3/mary-e-barrett-1861-cornwall-redruth-1856- :: Mary E BARRETT | Cornwall | Gwennap | 1856 | 1861 | Cornwall | Gwennap
+/search_records/59029bc7e9379091b1a1c0ed/fanny-barrett-1861-cornwall-stratton-1856- :: Fanny BARRETT | Cornwall | Bude Haven | 1856 | 1861 | Cornwall | Stratton
+/search_records/59029c50e9379091b1a3f1fe/william-h-barrett-1861-cornwall-st-germans-1856- :: William H BARRETT | Cornwall | Forder | 1856 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c8ae9379091b1a4e6da/selena-m-a-barrett-1861-cornwall-st-germans-1856- :: Selena M A BARRETT | Cornwall | Landulph | 1856 | 1861 | Cornwall | Saltash
+/search_records/59029c8be9379091b1a4ecfa/richard-barrett-1861-cornwall-st-germans-1856- :: Richard BARRETT | Cornwall | St Mellion | 1856 | 1861 | Cornwall | Saltash
+/search_records/59029e32e9379091b1abb396/jacob-barrett-1861-cornwall-st-austell-1856- :: Jacob BARRETT | Cornwall | Gorran | 1856 | 1861 | Cornwall | St Austell
+/search_records/59029ec2e9379091b1ae0e9e/william-b-barrett-1861-cornwall-truro-1856- :: William B. BARRETT | Cornwall | Truro | 1856 | 1861 | Cornwall | St Clement
+/search_records/59029ed0e9379091b1ae49e8/jane-barrett-1861-cornwall-truro-1856- :: Jane BARRETT | Cornwall | Truro | 1856 | 1861 | Cornwall | St Clement
+/search_records/59029ee7e9379091b1aeaa7f/anna-barrett-1861-cornwall-truro-1856- :: Anna BARRETT | Cornwall | Truro | 1856 | 1861 | Cornwall | Kenwyn
+/search_records/59029f04e9379091b1af1ec9/joseph-barrett-1861-cornwall-truro-1856- :: Joseph BARRETT | Cornwall | Kenwyn | 1856 | 1861 | Cornwall | Kenwyn
+/search_records/59029f11e9379091b1af5858/jane-barrett-1861-cornwall-truro-1856- :: Jane BARRETT | Cornwall | Kea | 1856 | 1861 | Cornwall | Kea
+/search_records/59029bbae9379091b1a18caf/norah-a-barrett-1861-cornwall-stratton-1856- :: Norah A BARRETT | Cornwall | Kilkhampton | 1856 | 1861 | Cornwall | Kilkhampton
+/search_records/59029ed1e9379091b1ae4da0/frances-barrett-1861-cornwall-truro-1857- :: Frances BARRETT | Cornwall | Truro | 1857 | 1861 | Cornwall | St Clement
+/search_records/59029bbae9379091b1a18cb3/john-barrett-1861-cornwall-stratton-1857- :: John BARRETT | Cornwall | Kilkhampton | 1857 | 1861 | Cornwall | Kilkhampton
+/search_records/59029bbbe9379091b1a1917c/selina-barrett-1861-cornwall-stratton-1857- :: Selina BARRETT | Cornwall | Moorwinstow (or Morwenstow) | 1857 | 1861 | Cornwall | Kilkhampton
+/search_records/59029bc6e9379091b1a1c021/george-barrett-1861-cornwall-stratton-1857- :: George BARRETT | Cornwall | Bude Haven | 1857 | 1861 | Cornwall | Stratton
+/search_records/59029c3be9379091b1a39958/lydia-barrett-1861-cornwall-launceston-1857- :: Lydia BARRETT | Cornwall | North Hill | 1857 | 1861 | Cornwall | North Hill
+/search_records/59029c67e9379091b1a45636/william-h-barrett-1861-cornwall-st-germans-1857- :: William H BARRETT | Cornwall | Antony | 1857 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c89e9379091b1a4e595/susannah-barrett-1861-cornwall-st-germans-1857- :: Susannah BARRETT | Cornwall | Landulph | 1857 | 1861 | Cornwall | Saltash
+/search_records/59029cbae9379091b1a5ab1b/kate-barron-barrett-1861-cornwall-liskeard-1857- :: Kate Barron BARRETT | Cornwall | Linkinhorne | 1857 | 1861 | Cornwall | Callington
+/search_records/59029ccce9379091b1a5f3bd/anthony-barrett-1861-cornwall-liskeard-1857- :: Anthony BARRETT | Cornwall | Menheniot | 1857 | 1861 | Cornwall | Liskeard
+/search_records/59029d13e9379091b1a71cbb/walter-barrett-1861-cornwall-liskeard-1857- :: Walter BARRETT | Cornwall | Talland | 1857 | 1861 | Cornwall | Looe
+/search_records/59029d59e9379091b1a8400f/henrietta-barrett-1861-cornwall-bodmin-1857- :: Henrietta BARRETT | Cornwall | Bodmin | 1857 | 1861 | Cornwall | Bodmin
+/search_records/59029dc6e9379091b1a9fdf9/alice-alma-barrett-1861-cornwall-st-columb-1857- :: Alice Alma BARRETT | Cornwall | St Enoder | 1857 | 1861 | Cornwall | Newlyn
+/search_records/59029ed0e9379091b1ae4809/matilda-barrett-1861-cornwall-truro-1857- :: Matilda BARRETT | Cornwall | Truro | 1857 | 1861 | Cornwall | St Clement
+/search_records/59029ed0e9379091b1ae49ea/christopher-m-barrett-1861-cornwall-truro-1857- :: Christopher M BARRETT | Cornwall | Truro | 1857 | 1861 | Cornwall | St Clement
+/search_records/59029ee5e9379091b1ae9ed1/thomas-barrett-1861-cornwall-truro-1857- :: Thomas BARRETT | Cornwall | Kenwyn | 1857 | 1861 | Cornwall | Kenwyn
+/search_records/59029ee7e9379091b1aeaa82/charles-barrett-1861-cornwall-truro-1857- :: Charles BARRETT | Cornwall | Truro | 1857 | 1861 | Cornwall | Kenwyn
+/search_records/59029fabe9379091b1b1d657/elizth-barrett-1861-cornwall-helston-1857- :: Elizth BARRETT | Cornwall | Sithney | 1857 | 1861 | Cornwall | Wendron
+/search_records/59029c8ae9379091b1a4e6df/elisabeth-m-p-barrett-1861-cornwall-st-germans-1858- :: Elisabeth M P BARRETT | Cornwall | Landulph | 1858 | 1861 | Cornwall | Saltash
+/search_records/59029c8be9379091b1a4ecfc/emma-grace-barrett-1861-cornwall-st-germans-1858- :: Emma Grace BARRETT | Cornwall | St Mellion | 1858 | 1861 | Cornwall | Saltash
+/search_records/59029c8be9379091b1a4ef91/susan-a-barrett-1861-cornwall-st-germans-1858- :: Susan A BARRETT | Cornwall | Pillaton | 1858 | 1861 | Cornwall | Saltash
+/search_records/59029d23e9379091b1a75f44/fanny-barrett-1861-cornwall-liskeard-1858- :: Fanny BARRETT | Cornwall | Boconnoc | 1858 | 1861 | Cornwall | Lerryn
+/search_records/59029d32e9379091b1a7a2e0/ann-barrett-1861-cornwall-bodmin-1858- :: Ann BARRETT | Cornwall | Luxulyan | 1858 | 1861 | Cornwall | Lanlivery
+/search_records/59029e1fe9379091b1ab657c/mary-ann-barrett-1861-cornwall-st-austell-1858- :: Mary Ann BARRETT | Cornwall | St Austell | 1858 | 1861 | Cornwall | St Austell
+/search_records/59029e1fe9379091b1ab676d/charles-barrett-1861-cornwall-st-austell-1858- :: Charles BARRETT | Cornwall | St Austell | 1858 | 1861 | Cornwall | St Austell
+/search_records/59029e32e9379091b1abb398/joshua-barrett-1861-cornwall-st-austell-1858- :: Joshua BARRETT | Cornwall | Gorran | 1858 | 1861 | Cornwall | St Austell
+/search_records/59029ec2e9379091b1ae0ea2/nanny-g-barrett-1861-cornwall-truro-1858- :: Nanny G BARRETT | Cornwall | Truro | 1858 | 1861 | Cornwall | St Clement
+/search_records/59029ee7e9379091b1aeaa84/margery-barrett-1861-cornwall-truro-1858- :: Margery BARRETT | Cornwall | Truro | 1858 | 1861 | Cornwall | Kenwyn
+/search_records/59029f11e9379091b1af585a/james-barrett-1861-cornwall-truro-1858- :: James BARRETT | Cornwall | Kea | 1858 | 1861 | Cornwall | Kea
+/search_records/5902a030e9379091b1b403a7/hariett-barrett-1861-cornwall-redruth-1858- :: Hariett BARRETT | Cornwall | Gwennap | 1858 | 1861 | Cornwall | Gwennap
+/search_records/610bc843f493fd23e3ec6dc7/joseph-s-barrett-1861-cornwall-st-blazey-1858- :: Joseph S BARRETT | Cornwall | St Blazey | 1858 | 1861 | Cornwall | St Blazey
+/search_records/59029c55e9379091b1a40bc2/ann-barrett-1861-cornwall-st-germans-1858- :: Ann BARRETT | Devon | Millbrook | 1858 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c88e9379091b1a4dc48/marina-n-v-barrett-1861-cornwall-st-germans-1859- :: Marina N V BARRETT | Devon | Morice Town | 1859 | 1861 | Cornwall | Saltash
+/search_records/59029c89e9379091b1a4e597/frank-barrett-1861-cornwall-st-germans-1859- :: Frank BARRETT | Cornwall | Landulph | 1859 | 1861 | Cornwall | Saltash
+/search_records/59029ccce9379091b1a5f3bf/eliza-barrett-1861-cornwall-liskeard-1859- :: Eliza BARRETT | Cornwall | Menheniot | 1859 | 1861 | Cornwall | Liskeard
+/search_records/59029ccee9379091b1a5fde8/john-barrett-1861-cornwall-liskeard-1859- :: John BARRETT | Cornwall | Menheniot | 1859 | 1861 | Cornwall | Liskeard
+/search_records/59029ce4e9379091b1a65ad4/elizabeth-j-barrett-1861-cornwall-liskeard-1859- :: Elizabeth J BARRETT | Cornwall | St Cleer | 1859 | 1861 | Cornwall | Liskeard
+/search_records/59029d13e9379091b1a71cbd/richard-barrett-1861-cornwall-liskeard-1859- :: Richard BARRETT | Cornwall | Talland | 1859 | 1861 | Cornwall | Looe
+/search_records/59029dade9379091b1a99a1d/richard-barrett-1861-cornwall-st-columb-1859- :: Richard BARRETT | Cornwall | St Columb | 1859 | 1861 | Cornwall | St Columb Major
+/search_records/59029dc6e9379091b1a9fccf/thos-barrett-1861-cornwall-st-columb-1859- :: Thos BARRETT | Cornwall | St Enoder | 1859 | 1861 | Cornwall | Newlyn
+/search_records/59029e22e9379091b1ab73d6/william-barrett-1861-cornwall-st-austell-1859- :: William BARRETT | Cornwall | St Austell | 1859 | 1861 | Cornwall | St Austell
+/search_records/59029ea3e9379091b1ad8ea7/elizabeth-barrett-1861-cornwall-truro-1859- :: Elizabeth BARRETT | Cornwall | Stithians | 1859 | 1861 | Cornwall | St Agnes
+/search_records/59029ed0e9379091b1ae49ee/stephen-barrett-1861-cornwall-truro-1859- :: Stephen BARRETT | Cornwall | Truro | 1859 | 1861 | Cornwall | St Clement
+/search_records/59029ee5e9379091b1ae9ed3/lydia-barrett-1861-cornwall-truro-1859- :: Lydia BARRETT | Cornwall | Kenwyn | 1859 | 1861 | Cornwall | Kenwyn
+/search_records/59029ee5e9379091b1aea0bc/henry-g-barrett-1861-cornwall-truro-1859- :: Henry G BARRETT | Cornwall | Kenwyn | 1859 | 1861 | Cornwall | Kenwyn
+/search_records/59029ee7e9379091b1aeaa86/frederick-john-barrett-1861-cornwall-truro-1859- :: Frederick John BARRETT | Cornwall | Truro | 1859 | 1861 | Cornwall | Kenwyn
+/search_records/59029fabe9379091b1b1d65a/amelia-barrett-1861-cornwall-helston-1859- :: Amelia BARRETT | Cornwall | Sithney | 1859 | 1861 | Cornwall | Wendron
+/search_records/59029d59e9379091b1a84011/elijah-john-barrett-1861-cornwall-bodmin-1860- :: Elijah John BARRETT | Cornwall | Bodmin | 1860 | 1861 | Cornwall | Bodmin
+/search_records/59029bbbe9379091b1a1917e/ann-barrett-1861-cornwall-stratton-1860- :: Ann BARRETT | Cornwall | Moorwinstow (or Morwenstow) | 1860 | 1861 | Cornwall | Kilkhampton
+/search_records/59029bc7e9379091b1a1c0ef/thomas-barrett-1861-cornwall-stratton-1860- :: Thomas BARRETT | Cornwall | Bude Haven | 1860 | 1861 | Cornwall | Stratton
+/search_records/59029bc8e9379091b1a1c6a8/alfred-barrett-1861-cornwall-stratton-1860- :: Alfred BARRETT | Cornwall | Bude Haven | 1860 | 1861 | Cornwall | Stratton
+/search_records/59029c50e9379091b1a3f202/ambrose-barrett-1861-cornwall-st-germans-1860- :: Ambrose BARRETT | Cornwall | Forder | 1860 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c67e9379091b1a4563a/emily-m-barrett-1861-cornwall-st-germans-1860- :: Emily M BARRETT | Cornwall | Antony | 1860 | 1861 | Cornwall | Antony St Jacob
+/search_records/59029c8ae9379091b1a4e68f/rhoda-augusta-barrett-1861-cornwall-st-germans-1860- :: Rhoda Augusta BARRETT | Cornwall | Landulph | 1860 | 1861 | Cornwall | Saltash
+/search_records/59029c8ae9379091b1a4e6e5/scyllya-barrett-1861-cornwall-st-germans-1860- :: Scyllya BARRETT | Cornwall | Landulph | 1860 | 1861 | Cornwall | Saltash
+/search_records/59029c8be9379091b1a4ef96/david-barrett-1861-cornwall-st-germans-1860- :: David BARRETT | Cornwall | Landrake | 1860 | 1861 | Cornwall | Saltash
+/search_records/59029ccce9379091b1a5f3c2/charlotte-barrett-1861-cornwall-liskeard-1860- :: Charlotte BARRETT | Cornwall | Menheniot | 1860 | 1861 | Cornwall | Liskeard
+/search_records/59029ccee9379091b1a5fdea/elizabeth-barrett-1861-cornwall-liskeard-1860- :: Elizabeth BARRETT | Cornwall | Menheniot | 1860 | 1861 | Cornwall | Liskeard
+/search_records/59029ce4e9379091b1a65ad8/ann-a-barrett-1861-cornwall-liskeard-1860- :: Ann A BARRETT | Cornwall | St Cleer | 1860 | 1861 | Cornwall | Liskeard
+/search_records/59029d13e9379091b1a71cbf/mary-barrett-1861-cornwall-liskeard-1860- :: Mary BARRETT | Cornwall | Talland | 1860 | 1861 | Cornwall | Looe
+/search_records/59029d14e9379091b1a723c2/mary-a-barrett-1861-cornwall-liskeard-1860- :: Mary A BARRETT | Cornwall | West Looe | 1860 | 1861 | Cornwall | Looe
+/search_records/59029d25e9379091b1a76ba6/william-thomas-barrett-1861-cornwall-liskeard-1860- :: William Thomas BARRETT | Cornwall | Polperro | 1860 | 1861 | Cornwall | Lerryn
+/search_records/59029dc6e9379091b1a9fcd2/william-barrett-1861-cornwall-st-columb-1860- :: William BARRETT | Cornwall | St Enoder | 1860 | 1861 | Cornwall | Newlyn
+/search_records/59029dc6e9379091b1a9fdfd/wm-john-barrett-1861-cornwall-st-columb-1860- :: Wm John BARRETT | Cornwall | St Enoder | 1860 | 1861 | Cornwall | Newlyn
+/search_records/59029e1fe9379091b1ab6580/william-barrett-1861-cornwall-st-austell-1860- :: William BARRETT | Cornwall | St Austell | 1860 | 1861 | Cornwall | St Austell
+/search_records/59029e24e9379091b1ab80c0/francis-jnr-barrett-1861-cornwall-st-austell-1860- :: Francis, Jnr BARRETT | Cornwall | St Austell | 1860 | 1861 | Cornwall | St Austell
+/search_records/59029e32e9379091b1abb39a/mary-anna-barrett-1861-cornwall-st-austell-1860- :: Mary Anna BARRETT | Cornwall | St Austell | 1860 | 1861 | Cornwall | St Austell
+/search_records/59029ee5e9379091b1aea0c0/emily-j-barrett-1861-cornwall-truro-1860- :: Emily J BARRETT | Cornwall | Kenwyn | 1860 | 1861 | Cornwall | Kenwyn
+/search_records/5902a02de9379091b1b3f52a/mary-j-barrett-1861-cornwall-redruth-1860- :: Mary J BARRETT | Unknown | - | 1860 | 1861 | Cornwall | Gwennap
+/search_records/5902a06fe9379091b1b506ca/john-barrett-1861-cornwall-redruth-1860- :: John BARRETT | Cornwall | Redruth | 1860 | 1861 | Cornwall | Redruth
+/search_records/5902a086e9379091b1b56648/john-rogers-barrett-1861-cornwall-redruth-1860- :: John Rogers BARRETT | Cornwall | Illogan | 1860 | 1861 | Cornwall | Illogan
+/search_records/59029c89e9379091b1a4e599/infant-barrett-1861-cornwall-st-germans-1861- :: Infant BARRETT | Cornwall | Landulph | 1861 | 1861 | Cornwall | Saltash
+/search_records/59029c8ce9379091b1a4f061/noah-barrett-1861-cornwall-st-germans-1861- :: Noah BARRETT | Cornwall | Pillaton | 1861 | 1861 | Cornwall | Saltash
+/search_records/59029e1fe9379091b1ab676f/lavina-barrett-1861-cornwall-st-austell-1861- :: Lavina BARRETT | Cornwall | St Austell | 1861 | 1861 | Cornwall | St Austell
+/search_records/59029e22e9379091b1ab73d8/mary-ann-barrett-1861-cornwall-st-austell-1861- :: Mary Ann BARRETT | Cornwall | St Austell | 1861 | 1861 | Cornwall | St Austell
+/search_records/59029ee7e9379091b1aeaa8a/fanny-gould-barrett-1861-cornwall-truro-1861- :: Fanny Gould BARRETT | Cornwall | Truro | 1861 | 1861 | Cornwall | Kenwyn

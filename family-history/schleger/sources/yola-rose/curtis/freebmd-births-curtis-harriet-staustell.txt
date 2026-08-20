@@ -1,0 +1,28 @@
+FreeBMD search: {'surname': 'Curtis', 'given': 'Harriet', 'type_': 'Births', 'districtid': '118', 'start': 1855, 'end': 1865}
+URL: https://www.freebmd.org.uk/cgi/search.pl
+Retrieved: 2026-08-19
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Births  Jun1853
+CURTIS
+ Harriet 
+St Austell 
+5c
+152
+Births  Sep1855
+CURTIS
+ Harriet 
+St Austell 
+5c
+134
+Births  Dec1859
+Curtis
+ Harriet Ann 
+St Austell 
+5c
+147

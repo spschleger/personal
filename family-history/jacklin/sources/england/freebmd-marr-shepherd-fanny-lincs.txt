@@ -1,0 +1,26 @@
+FreeBMD marr-shepherd-fanny-lincs: {'surname': 'Shepherd', 'given': 'Fanny', 'type_': 'Marriages', 'countyid': 'LIN,6,33,49,50,52,102,103,154,175,176,225,226', 'start': 1850, 'end': 1870}
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Marriages  Sep1881
+Shepherd
+ Fanny Woodhouse 
+Lincoln 
+7a
+751
+Marriages  Jun1886
+Shepherd
+ Fanny 
+Caistor 
+7a
+1298
+Marriages  Mar1888
+SHEPHERD
+ Fanny Wright 
+Peterbro' 
+3b
+251

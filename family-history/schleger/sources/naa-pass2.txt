@@ -1,0 +1,34 @@
+NAA RecordSearch (recordsearch.naa.gov.au) — free guest search, 19 Aug 2026
+Method: sources/naa_fetch.py (curl_cffi chrome impersonation), BasicSearch keyword.
+
+== Keyword "Schleger" — 12 items TOTAL in all NAA holdings ==
+A3335 REEL 183/5251/WULL SCHLEGER ERIC | WULL SCHLEGER Eric born 1952 - Swiss | 1971-1980 | barcode 21998816
+B884  Q71857   | SCHLEGER FRANCIS CHARLES : DOB 01 Feb 1917 : POB BUNDABERG QLD : enlisted CHILDERS QLD : NOK SCHLEGER ALPHONSO | 1940-1947 | barcode 4457111  [DIGITISED, 6pp]
+A13860 Q71857  | SCHLEGER Francis Charles (WWII nominal card) | barcode 31225571
+B883  QX43875  | SCHLEGER KEVIN LEO : DOB 03 Jul 1919 : POB BUNDABERG QLD : enlisted BUNDABERG QLD : NOK SCHLEGER ALPHONSO | 1940-1947 | barcode 4918841 [DIGITISED, 7pp]
+A13860 QX43875 | SCHLEGER Kevin Leo (WWII nominal card) | barcode 31034362
+B884  Q208478  | SCHLEGER TERRENCE BAPHUAL [Raphual] : DOB 04 Dec 1921 : POB BUNDABERG QLD : enlisted BUNDABERG QLD : NOK SCHLEGER ALPHONSO | 1939-1948 | barcode 4827472 [DIGITISED, 10pp]
+B883  QX501472 | SCHLEGER LAWRENCE RAPHUEL : DOB 17 Sep 1926 : POB BUNDABERG QLD : enlisted MOOROOKA QLD : NOK SCHLEGER RAPHUEL | 1940-1947 | barcode 4464771 [DIGITISED, 10pp]
+A13860 QX501472| SCHLEGER Lawrence Raphuel (WWII nominal card) | barcode 32237243
+BP1009/1 QRX084772-01 | SCHLEGER Lawrence R | 1947-1949 | barcode 203254446 (Interim Army, not yet examined)
+MP16/1 1918/588 | Schleger, Emil, Lease 7028 Castlemaine, Vic (unrelated) | barcode 322229
+B78 GERMAN/SCHLEGER MARIA | SCHLEGER Maria - German - arrived Melbourne 1962 (unrelated) | barcode 5810313
+A14284 02/91/13/190 | Frank Schleger DDA submission 2003 (unrelated) | barcode 32187523
+
+=> NO WWI service record (series B2455) exists for ANY Schleger.
+=> NO naturalisation, alien-registration or WWI enemy-alien file for Schleger in NAA
+   (consistent: Frank naturalised in Queensland 1886, pre-Federation, so his file is at QSA not NAA).
+=> Keyword "Schlegher": 0 items.
+
+== Keyword "Johnstone Frederick Jason" ==
+B2455 JOHNSTONE FREDERICK JASON | Service Number - Depot : Place of Birth - Maryborough QLD :
+      Place of Enlistment - Brisbane QLD : Next of Kin - (Mother) JOHNSTONE Harriet | 1914-1920 |
+      barcode 7369725  [DIGITISED, 16pp — downloaded to sources/naa/]
+Contents (attestation paper, 30 Oct 1915, Brisbane):
+  age 23 yrs 10 months; born Maryborough, Q; trade HAIRDRESSER; single;
+  NOK mother Harriet Johnstone, North St, Maryborough Q;
+  prior service 2 years 7 months Militia, Maryborough;
+  description 5 ft 5 3/4 in, 130 lb, chest 33-35, complexion FAIR, eyes GREY, hair DK BROWN,
+  religion METHODIST; distinctive marks "D6-D6" and "Hypospadias";
+  MO James L. Selwood, Capt., Brisbane; file stamped "DEPOT" in red — allotted to a depot
+  battalion, no embarkation, no unit or service number issued. Duplicate attestation at pp5-8.

@@ -1,0 +1,68 @@
+FreeBMD deaths-jacklin-maria-lincs: {'surname': 'Jacklin', 'given': 'Maria', 'type_': 'Deaths', 'countyid': 'LIN,6,33,49,50,52,102,103,154,175,176,225,226', 'start': 1860, 'end': 1900}
+
+Surname 
+First name(s) 
+Age 
+District 
+Vol 
+Page 
+Deaths  Dec1842
+JACKLIN
+ Maria 
+Boston 
+14
+162
+Deaths  Jun1847
+Jacklin
+ Maria 
+Louth 
+14
+360
+Deaths  Jun1855
+Jacklin
+ Maria 
+Louth 
+7a
+366
+Deaths  Dec1873
+JACKLIN
+ Maria 
+71 
+Caistor 
+7a
+372
+Deaths  Jun1878
+Jacklin
+ Maria 
+18 
+Louth 
+7a
+379
+Deaths  Jun1880
+JACKLIN
+ Maria 
+42 
+Louth 
+7a
+353
+Deaths  Dec1927
+JACKLIN
+ Maria 
+82 
+Glanford Brigg 
+7a
+770
+Deaths  Mar1951
+JACKLIN
+ Maria 
+91 
+Cleethorpes 
+3b
+230
+Deaths  Mar1975
+JACKLIN
+ MARIA 
+14AU1900 
+GRIMSBY 
+7
+446
