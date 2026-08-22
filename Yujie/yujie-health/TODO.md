@@ -6,7 +6,8 @@
 - [ ] **Get the DICOMs** (I-MED portal → download full study, or CD). Bring to the neurosurgeon AND send here — the L5–S1 axial stacks pre+post contrast and the full sagittals settle tethered-cord vs tumour and the conus level. Also key image Im 2/2.
 - [x] ~~Report~~ — obtained 19 Aug (`records/`). Conus L4, 121 mm cauda equina lipoma, dermal sinus S1, left L5/S1 roots. Read in `mri-2026-08-18-read.md`.
 - [x] ~~Urodynamics report~~ — obtained 19 Aug (`records/`). Neurogenic pattern. Bring to neurosurgeon.
-- [ ] **Book Dr Jeffrey Brennan** — 02 9516 1285, Suite 4/155 Missenden Rd Newtown. Ask: earliest appointment; whether he'll see her toward a **public (RPA) list**; ask I-MED Chatswood to **send the study to his rooms** (he's on I-MED Online) so DICOMs are there regardless.
+- [ ] **22 Aug — Brennan is private-only.** Ring the call list in `public-neurosurgeons-sydney.md` (Kohan 02 9553 9477 first, then Reddy, Olsson, Dower, Pope/van Gelder). Then GP re-writes referral to the winner + addendum (progressive deficit, neurogenic bladder, dermal sinus → urgent).
+- [ ] ~~**Book Dr Jeffrey Brennan**~~ — 02 9516 1285, Suite 4/155 Missenden Rd Newtown. Ask: earliest appointment; whether he'll see her toward a **public (RPA) list**; ask I-MED Chatswood to **send the study to his rooms** (he's on I-MED Online) so DICOMs are there regardless.
 - [ ] Write `neurosurgeon-brief.md` — one page: lifelong bowel/bladder history, left leg hypotrophy + cavus/claw toes (photos + tape measures), sacral skin mark (photo), 12-mo pain distribution, urodynamics numbers, current meds (Betmiga?), questions. The referral letter omits most of this.
 - [ ] Photograph the sacral skin mark (good light, ruler) — **do not squeeze, probe or apply anything to it** (it's the dermal sinus). Watch for redness/discharge/fever.
 - [ ] Still get: pelvic physio assessment letter
