@@ -1,18 +1,20 @@
 # YesMandarin books
 
-Reconstruct Felicity's YesMandarin accounts in Xero from commencement and leave them tax-ready and maintainable.
+Reconstruct Felicity's YesMandarin accounts from commencement and leave them tax-ready and maintainable.
+
+Whether Xero remains the permanent books is unresolved. Decide after inspecting actual invoice volume, bank volume, GST/employment complexity, current Xero plan and the effort required to operate a controlled cashbook outside it.
 
 ## Done means
 
-- Every relevant bank/card statement period is in Xero.
+- Every relevant bank/card statement period is represented in the canonical books.
 - Every statement line is reconciled or explicitly unresolved.
 - Invoices and payments are correct.
 - Other income, expenses, assets, drawings, contributions and transfers are correctly recorded.
 - Bank closing balances agree by period.
 - Missing evidence and tax-treatment questions are listed.
 - GST turnover has been checked through time.
-- Xero reports are ready for Felicity or a registered tax agent.
-- A small ongoing Xero routine exists.
+- Reports and source evidence are ready for Felicity or a registered tax agent.
+- A small ongoing bookkeeping routine exists.
 
 ## Needed to start
 
@@ -22,4 +24,4 @@ Reconstruct Felicity's YesMandarin accounts in Xero from commencement and leave 
 - Complete statements or exports from commencement.
 - Current GST status and available receipts, supplier invoices, contractor records and asset records.
 
-Use Xero first. Add tooling only when the work proves it is necessary.
+Use the smallest system that preserves reconciliation, evidence and auditability. Add tooling only when the work proves it is necessary.
