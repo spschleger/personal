@@ -56,6 +56,13 @@ Canonical extraction: `sources/xero/2026-08-24-xero-bank-register.csv`
 
 This register cannot establish bank cash or payment completeness. It is supporting evidence only.
 
+## Payment flow
+
+- Most customers paid by bank transfer.
+- A minority paid by Stripe/card.
+- Reconstruct bank-transfer payments from the bank source. Reconstruct card payments from Stripe charge, fee and payout evidence, then tie the net payout to the bank.
+- Do not infer payment merely from Xero's invoice status or manual payment entries.
+
 ## Required next sources
 
 1. Complete transaction CSVs and statement closing balances for Business Account ending 1913 from 1 July 2025 through current date.
