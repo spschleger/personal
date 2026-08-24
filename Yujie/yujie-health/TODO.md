@@ -1,4 +1,12 @@
-# TODO — consolidated (updated 19 Aug 2026 after first look at the MRI images)
+# TODO — consolidated (updated 24 Aug 2026 after RPA ED presentation)
+
+## NOW (24 Aug) — post-ED pathway
+- [x] ~~Ring the public-surgeon call list~~ — **SUPERSEDED: presented at RPA Emergency 23–24 Aug with the evidence pack.** Triaged, seen by a neurosurgery doctor, diagnostics done, discharged. Plan from RPA: they will phone with an appointment at the **RPA neurosurgery clinic — Dr David Wilson** (spine, RPA public; rooms Suite 4/155 Missenden Rd Newtown, 02 9157 1916).
+- [ ] **Await the RPA clinic call.** If nothing within ~1 week: chase RPA neurosurgery clinic 02 9515 7821 / SLHD-RPANeurosurgery@health.nsw.gov.au, and/or Dr Wilson's rooms 02 9157 1916. Say **worsening**.
+- [ ] Log what diagnostics were done in ED (bloods? repeat neuro exam? imaging?) + any paperwork given on discharge → `records/` + `clinical-picture.md`
+- [ ] Once the date lands: ask I-MED Chatswood to send the study to RPA / Dr Wilson (Acc #77.60502003) — RPA may already have pulled it via ED
+- [ ] Still needed FOR THE WILSON CONSULT: `neurosurgeon-brief.md` one-pager, sacral-mark photo (no touching), foot photos + tape measures, pelvic physio letter, DICOM CD as backup
+- [ ] Public call-round (`public-neurosurgeons-sydney.md`) ON HOLD — resume only if the RPA date is distant or never comes
 
 ## NOW (19 Aug) — MRI follow-through
 - [x] ~~GP visit for referral~~ — **GP phoned Yujie 18 Aug afternoon, same day as the scan, with a NEUROSURGEON referral based on the report.** (The scan/report is abnormal enough that the GP acted unprompted — no need to argue the case.)

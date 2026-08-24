@@ -1,5 +1,7 @@
 # Sydney neurosurgeons who operate on public patients — call list
 
+> **ON HOLD 24 Aug 2026:** presented at RPA Emergency 23–24 Aug with the evidence pack; seen by neurosurgery, discharged, awaiting a call with an **RPA neurosurgery clinic appointment under Dr David Wilson** (Tier-2 below). This list becomes live again only if that call doesn't come or the date is too far out.
+
 Researched 22 Aug 2026 (web). Purpose: Dr Brennan (existing referral) no longer admits public patients at RPA — he has stepped away from the public sector (drjeffreybrennan.com.au). Plan: phone surgeons' rooms, ask "does Dr X see patients toward their public list at [hospital], and what's the earliest consult?", then get Dr Guan to write a fresh named referral.
 
 **Verification caveat:** public appointments were taken from hospital staff pages, surgeon websites, canrefer and private-hospital directories. Items marked *(unverified)* need confirming on the phone. No Sydney surgeon advertises adult tethered cord by name; the two with stated dysraphism / spinal-lipoma expertise are Kohan (public St George) and Eibach (private only).
