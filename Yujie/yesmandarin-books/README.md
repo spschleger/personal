@@ -4,6 +4,8 @@ Reconstruct Felicity's YesMandarin accounts from commencement and leave them tax
 
 Whether Xero remains the permanent books is unresolved. Decide after inspecting actual invoice volume, bank volume, GST/employment complexity, current Xero plan and the effort required to operate a controlled cashbook outside it.
 
+Current evidence and source hashes: [`SOURCE-INVENTORY.md`](SOURCE-INVENTORY.md). As at 24 August 2026, Xero is an incomplete invoice register rather than reconciled books; complete bank exports are the next required source.
+
 ## Done means
 
 - Every relevant bank/card statement period is represented in the canonical books.
