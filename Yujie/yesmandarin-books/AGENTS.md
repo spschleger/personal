@@ -13,15 +13,15 @@ The deliverable is correct, tax-ready books—not Xero and not software. The ong
 - Bank transactions, invoice payments, expenses and reconciliation need reconstruction from commencement.
 - Historical GST assumptions must be checked against reconstructed turnover.
 
-## First decision
+## System of record decision
 
-Compare the smallest viable options after inventorying the business:
+**Decision — 24 August 2026:** retain Xero after 12 September 2026 and make it the canonical books only after a source-backed reconstruction.
 
-1. keep Xero on the cheapest plan that fits;
-2. export Xero's invoice history and run a controlled cashbook/evidence system outside Xero;
-3. use Xero only during reconstruction and migrate once the opening books are complete.
-
-Choose on total operating effort and failure risk, not familiarity or sunk cost. Do not build a custom ledger until native spreadsheets plus deterministic scripts are shown to be insufficient.
+- Treat existing Xero invoices as source documents.
+- Treat all existing payment status, bank transactions, balances and reconciliation state as unverified; rebuild them from complete bank/payment-processor sources.
+- Use deterministic local matching to prepare and verify the reconstruction.
+- Import bank statement lines through Xero's native importer and perform reconciliation inside Xero. Browser automation may operate the UI under review. Add Xero API access only if the verified workload proves bulk payment/invoice writes earn the extra integration.
+- Do not maintain a parallel custom ledger after Xero is rebuilt. Local artifacts are reconstruction evidence and control totals, not a second set of books.
 
 ## Reconstruction method
 
