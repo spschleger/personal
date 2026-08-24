@@ -48,6 +48,9 @@ Canonical extraction: `sources/xero/2026-08-24-xero-bank-register.csv`
 - Statement balance shown by Xero: $0.00.
 - Balance from Xero-created entries: $8,313.11.
 - 18 entries total: 12 payment entries and 6 transaction-fee entries.
+- Recorded customer payments: $8,419.00.
+- Recorded transaction fees: $105.89.
+- Net of those entries: $8,313.11, exactly matching Xero's displayed balance.
 - All 18 are Unreconciled.
 - Entries span 10 July 2025 to 13 May 2026.
 
