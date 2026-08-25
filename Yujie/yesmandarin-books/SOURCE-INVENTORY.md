@@ -56,6 +56,20 @@ Canonical extraction: `sources/xero/2026-08-24-xero-bank-register.csv`
 
 This register cannot establish bank cash or payment completeness. It is supporting evidence only.
 
+## CBA Business Account ending `1913`
+
+Canonical source exports and controls are under `sources/bank/`:
+
+- `2025-07-01-to-2025-12-09-cba-business-account-1913.csv` — 54 rows; SHA-256 `94201191adaff86694395ddbe0eebd5f8cb8a844ee0318dd0df25cdbb5c19fcd`.
+- `2025-12-09-to-2026-08-17-cba-business-account-1913.csv` — 200 rows; SHA-256 `35af754a3b78c9bb127807ec7b216d6a91fa42fc2e685a7cb21d3abd6264fbb0`.
+- The exports overlap on one exact 9 December 2025 Microsoft debit. Removing that duplicate leaves 253 statement lines from 1 July 2025 through 17 August 2026.
+- The source balance chain has no continuity breaks: opening balance $3,262.83 plus net movement $27,754.02 equals the 17 August 2026 closing balance of $31,016.85.
+- Total credits are $44,572.45 and total debits are $16,818.43.
+- Native Xero import file: `2025-07-01-to-2026-08-17-xero-bank-import.csv`; SHA-256 `a2170d4dbdb5bddb85379b3da2549825f944e4cb528e3e921fc23345655539a3`.
+- Machine-readable controls: `2026-08-25-control-summary.json`. Rebuild with `scripts/prepare_cba_bank_import.py`.
+
+This proves the transaction sequence and balances for the supplied export range. It does not by itself categorise withdrawals or prove which deposits settle which invoices.
+
 ## Payment flow
 
 - Most customers paid by bank transfer.
@@ -101,8 +115,8 @@ Stripe evidence is now complete enough to bridge charges, fees and payouts. Bank
 
 ## Required next sources
 
-1. Complete transaction CSVs and statement closing balances for Business Account ending `1913` from 1 July 2025 through current date.
-2. Complete statement evidence for account ending `9316`, covering every relevant Stripe payout arrival and enough surrounding history to prove opening and closing balances.
+1. Complete statement evidence for account ending `9316`, covering every relevant Stripe payout arrival and enough surrounding history to prove opening and closing balances.
+2. Any transaction evidence after 17 August 2026 for Business Account ending `1913` when it becomes available.
 3. The same for every other bank account, card or payment account used for YesMandarin.
 4. Entity details and actual GST registration status.
 5. Available expense receipts, supplier invoices, equipment/assets, contractor and payroll records.

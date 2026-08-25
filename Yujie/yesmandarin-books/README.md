@@ -11,7 +11,8 @@ Current evidence, source hashes and reconstruction state: [`SOURCE-INVENTORY.md`
 - Xero invoice and manual-register evidence is preserved.
 - Both Stripe accounts' payment, payout and balance ledgers are preserved and internally reconciled.
 - Xero itself remains unreconstructed and unreconciled.
-- The next blocker is complete bank evidence for accounts ending `1913` and `9316`, followed by deterministic matching and native Xero reconciliation.
+- Complete CBA transaction evidence for Business Account ending `1913` is preserved through 17 August 2026 and prepared for native Xero import.
+- The remaining bank-source blocker is account ending `9316`; account `1913` still needs deterministic matching and native Xero reconciliation.
 - The non-Xero-linked Stripe account's $687.50 charge remains unattributed.
 - Shane must personally stop Xero's scheduled 12 September 2026 cancellation if the subscription is to continue.
 
