@@ -1,0 +1,75 @@
+{
+  "observed_date": "2026-08-25",
+  "currency": "AUD",
+  "accounts": [
+    {
+      "label": "xero-linked-account",
+      "source_file": "2026-08-25-xero-linked-account-unified-payments.csv",
+      "sha256": "995ebe89b9f9d757c6819c39eabf7ce4c4ac24837804a2259d73709d098c5a19",
+      "date_range_utc": {
+        "first": "2026-03-02 09:53:46",
+        "last": "2026-05-13 06:18:16"
+      },
+      "paid_captured": {
+        "count": 6,
+        "gross": "4975.00",
+        "refunds": "0.00",
+        "fees": "105.89",
+        "net": "4869.11"
+      },
+      "cross_checks": {
+        "payment_ids_found_in_xero_bank_register": "6/6",
+        "invoice_metadata_references_found_in_xero_invoice_export": "6/6",
+        "fee_total_matches_xero_bank_register_fee_total": true
+      }
+    },
+    {
+      "label": "separate-account",
+      "source_file": "2026-08-25-separate-account-unified-payments.csv",
+      "sha256": "67e1ceecadcf07ee0f0776f0a663db797949a7f60b942b019c0e188ca8f269ff",
+      "date_range_utc": {
+        "first": "2023-12-02 10:58:08",
+        "last": "2025-10-12 08:54:52"
+      },
+      "status_counts": {
+        "paid": 8,
+        "requires_payment_method": 2,
+        "canceled": 2
+      },
+      "paid_captured_all_dates": {
+        "count": 8,
+        "gross": "4412.60",
+        "refunds": "0.00",
+        "fees": "142.10",
+        "net": "4270.50"
+      },
+      "paid_captured_on_or_after_2025_07_01": {
+        "count": 1,
+        "gross": "687.50",
+        "refunds": "0.00",
+        "fees": "22.15",
+        "net": "665.35"
+      },
+      "paid_captured_before_2025_07_01": {
+        "count": 7,
+        "gross": "3725.10",
+        "refunds": "0.00",
+        "fees": "119.95",
+        "net": "3605.15"
+      },
+      "cross_checks": {
+        "payment_ids_found_in_xero_bank_register": "0/8",
+        "stripe_invoice_ids_found_in_xero_invoice_export": "0/8",
+        "post_commencement_charge_customer_email_matches_in_xero": 0,
+        "post_commencement_charge_exact_invoice_total_matches_in_xero": 0
+      }
+    }
+  ],
+  "cross_file_duplicate_payment_ids": 0,
+  "limitations": [
+    "Unified Payments exports are payment-attempt evidence, not complete payout or balance-transaction evidence.",
+    "Failed and cancelled payment attempts are not cash movements.",
+    "The separate account's one post-commencement paid charge remains unattributed until customer, invoice and bank evidence agree.",
+    "Bank payout matching still requires payout and balance-transaction exports from both Stripe accounts."
+  ]
+}

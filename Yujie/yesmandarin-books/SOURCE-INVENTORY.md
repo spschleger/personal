@@ -63,11 +63,32 @@ This register cannot establish bank cash or payment completeness. It is supporti
 - Reconstruct bank-transfer payments from the bank source. Reconstruct card payments from Stripe charge, fee and payout evidence, then tie the net payout to the bank.
 - Do not infer payment merely from Xero's invoice status or manual payment entries.
 
+## Stripe payment exports
+
+Canonical evidence:
+
+- `sources/stripe/2026-08-25-xero-linked-account-unified-payments.csv`
+  - SHA-256: `995ebe89b9f9d757c6819c39eabf7ce4c4ac24837804a2259d73709d098c5a19`.
+  - Six paid/captured AUD charges from 2 March to 13 May 2026.
+  - Gross $4,975.00; refunds $0.00; fees $105.89; net $4,869.11.
+  - All six payment IDs appear in the Xero bank register.
+  - All six invoice-number metadata references appear in the Xero invoice export.
+  - The $105.89 fee total exactly matches Xero's six manually entered fee rows.
+- `sources/stripe/2026-08-25-separate-account-unified-payments.csv`
+  - SHA-256: `67e1ceecadcf07ee0f0776f0a663db797949a7f60b942b019c0e188ca8f269ff`.
+  - Eight paid/captured charges, two failed attempts requiring a payment method and two cancelled attempts.
+  - Seven successful charges predate 1 July 2025: gross $3,725.10; fees $119.95; net $3,605.15. Keep them outside the YesMandarin reconstruction unless other evidence establishes relevance.
+  - One successful charge falls after commencement: gross $687.50; fees $22.15; net $665.35. It has no direct payment-ID, invoice-ID, customer-email or exact invoice-total match in the current Xero exports and remains unattributed.
+- Non-identifying machine-readable controls: `sources/stripe/2026-08-25-control-summary.json`.
+- No payment IDs overlap across the two exports.
+
+These Unified Payments exports prove payment attempts, successful charges and charge-level fees. They are not complete Stripe cash evidence: payout and balance-transaction exports are still required to connect net Stripe activity to deposits in the bank account.
+
 ## Required next sources
 
 1. Complete transaction CSVs and statement closing balances for Business Account ending 1913 from 1 July 2025 through current date.
 2. The same for every other bank account, card or payment account used for YesMandarin.
-3. Confirmation of whether Stripe, Xero online payments, Square, PayID or another processor received customer money; export its payouts and fees if applicable.
+3. Payout and balance-transaction exports from both Stripe accounts, covering 1 July 2025 through current date; include payout IDs, arrival dates, gross charges, refunds, disputes, fees and net amounts.
 4. Entity details and actual GST registration status.
 5. Available expense receipts, supplier invoices, equipment/assets, contractor and payroll records.
 6. Explanation or source history for the missing invoice numbers.
