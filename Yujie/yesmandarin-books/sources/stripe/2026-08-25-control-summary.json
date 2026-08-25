@@ -1,63 +1,118 @@
 {
   "observed_date": "2026-08-25",
+  "reconstruction_period": {
+    "start": "2025-07-01",
+    "end": "2026-08-25"
+  },
   "currency": "AUD",
   "accounts": [
     {
       "label": "xero-linked-account",
-      "source_file": "2026-08-25-xero-linked-account-unified-payments.csv",
-      "sha256": "995ebe89b9f9d757c6819c39eabf7ce4c4ac24837804a2259d73709d098c5a19",
-      "date_range_utc": {
-        "first": "2026-03-02 09:53:46",
-        "last": "2026-05-13 06:18:16"
-      },
-      "paid_captured": {
-        "count": 6,
+      "payment_attempt_export": {
+        "file": "2026-08-25-xero-linked-account-unified-payments.csv",
+        "sha256": "995ebe89b9f9d757c6819c39eabf7ce4c4ac24837804a2259d73709d098c5a19",
+        "paid_captured_count": 6,
         "gross": "4975.00",
-        "refunds": "0.00",
-        "fees": "105.89",
-        "net": "4869.11"
+        "refunds": "0.00"
+      },
+      "payout_export": {
+        "file": "2026-08-25-xero-linked-account-payouts.csv",
+        "sha256": "9c3f4312666e7bddf7819af411e867a9d503b13e7341d0f2703d419ec2365cef",
+        "rows": 6,
+        "paid_total": "4869.11",
+        "destination_last4": {
+          "9316": 6
+        }
+      },
+      "balance_transaction_export": {
+        "file": "2026-08-25-xero-linked-account-balance-transactions.csv",
+        "sha256": "61c44ae236b05a104b98b8ac84ec2e5602e3081dbd34d9a7f02ffa74fdb547e9",
+        "rows": 12,
+        "bridge": {
+          "charge_count": 6,
+          "charge_gross": "4975.00",
+          "processing_fees": "105.89",
+          "charge_net": "4869.11",
+          "payout_count": 6,
+          "payout_total": "-4869.11",
+          "closing_net_movement": "0.00"
+        }
       },
       "cross_checks": {
         "payment_ids_found_in_xero_bank_register": "6/6",
         "invoice_metadata_references_found_in_xero_invoice_export": "6/6",
-        "fee_total_matches_xero_bank_register_fee_total": true
+        "payout_balance_transaction_references_found": "6/6",
+        "processing_fee_total_matches_xero_bank_register": true
       }
     },
     {
       "label": "separate-account",
-      "source_file": "2026-08-25-separate-account-unified-payments.csv",
-      "sha256": "67e1ceecadcf07ee0f0776f0a663db797949a7f60b942b019c0e188ca8f269ff",
-      "date_range_utc": {
-        "first": "2023-12-02 10:58:08",
-        "last": "2025-10-12 08:54:52"
+      "payment_attempt_export": {
+        "file": "2026-08-25-separate-account-unified-payments.csv",
+        "sha256": "67e1ceecadcf07ee0f0776f0a663db797949a7f60b942b019c0e188ca8f269ff",
+        "status_counts": {
+          "paid": 8,
+          "requires_payment_method": 2,
+          "canceled": 2
+        },
+        "paid_gross_all_dates": "4412.60",
+        "processing_fee_ex_gst_all_dates": "142.10",
+        "gst_on_processing_fee_all_dates": "14.23",
+        "processing_fee_including_gst_all_dates": "156.33"
       },
-      "status_counts": {
-        "paid": 8,
-        "requires_payment_method": 2,
-        "canceled": 2
+      "payout_export_full_history": {
+        "file": "2026-08-25-separate-account-payouts-full-history.csv",
+        "sha256": "7e01d0c628a1cfa5354dae7ea77844fcf66573a9db1705fe4e481ffe1c9547fa",
+        "rows": 4,
+        "paid_total": "4236.85"
       },
-      "paid_captured_all_dates": {
-        "count": 8,
-        "gross": "4412.60",
-        "refunds": "0.00",
-        "fees": "142.10",
-        "net": "4270.50"
+      "balance_transaction_export_full_history": {
+        "file": "2026-08-25-separate-account-balance-transactions-full-history.csv",
+        "sha256": "5361e3ef526e106591620767719827ad4d443c064415b140b424fe2e72403963",
+        "rows": 23,
+        "bridge": {
+          "charge_count": 6,
+          "charge_gross": "3284.00",
+          "charge_fees_including_gst": "116.24",
+          "charge_net": "3167.76",
+          "payment_count": 2,
+          "payment_gross": "1128.60",
+          "payment_fees_including_gst": "40.09",
+          "payment_net": "1088.51",
+          "stripe_service_fee_count": 11,
+          "stripe_service_fee_amount": "-17.66",
+          "gst_on_stripe_service_fees": "1.76",
+          "stripe_service_fee_net": "-19.42",
+          "payout_count": 4,
+          "payout_total": "-4236.85",
+          "closing_net_movement": "0.00"
+        }
       },
-      "paid_captured_on_or_after_2025_07_01": {
-        "count": 1,
-        "gross": "687.50",
-        "refunds": "0.00",
-        "fees": "22.15",
-        "net": "665.35"
-      },
-      "paid_captured_before_2025_07_01": {
-        "count": 7,
-        "gross": "3725.10",
-        "refunds": "0.00",
-        "fees": "119.95",
-        "net": "3605.15"
+      "derived_reconstruction_period": {
+        "payout_file": "2026-08-25-separate-account-payouts-2025-07-01-to-2026-08-25.csv",
+        "payout_sha256": "12c5ca600a43ac9930d0cf7511b15198b61f5586cb0be82fc713b4ef02f2f8cf",
+        "payout_rows": 2,
+        "payout_total": "1857.83",
+        "payout_destinations": {
+          "1913": 1,
+          "9316": 1
+        },
+        "balance_transaction_file": "2026-08-25-separate-account-balance-transactions-2025-07-01-to-2026-08-25.csv",
+        "balance_transaction_sha256": "cf19b4532bd569a1fe4feb0e18ccb27ef51c2caa4476f389d7cb6701fd2dee0b",
+        "balance_transaction_rows": 4,
+        "bridge": {
+          "opening_balance_payout_to_9316": "-1197.73",
+          "charge_gross": "687.50",
+          "processing_fee_including_gst": "24.37",
+          "charge_net": "663.13",
+          "stripe_invoicing_fee_including_gst": "3.03",
+          "later_payout_to_1913": "-660.10",
+          "period_net_before_opening_balance": "-1197.73",
+          "inferred_opening_stripe_balance_required_to_close": "1197.73"
+        }
       },
       "cross_checks": {
+        "payout_balance_transaction_references_found": "4/4",
         "payment_ids_found_in_xero_bank_register": "0/8",
         "stripe_invoice_ids_found_in_xero_invoice_export": "0/8",
         "post_commencement_charge_customer_email_matches_in_xero": 0,
@@ -66,10 +121,14 @@
     }
   ],
   "cross_file_duplicate_payment_ids": 0,
-  "limitations": [
-    "Unified Payments exports are payment-attempt evidence, not complete payout or balance-transaction evidence.",
+  "bank_source_requirements": [
+    "Complete statements or transaction exports for account ending 1913 from 2025-07-01 through 2026-08-25.",
+    "Complete statements or transaction exports for account ending 9316 covering every relevant payout arrival date and enough surrounding history to prove opening and closing balances."
+  ],
+  "interpretation_limits": [
     "Failed and cancelled payment attempts are not cash movements.",
-    "The separate account's one post-commencement paid charge remains unattributed until customer, invoice and bank evidence agree.",
-    "Bank payout matching still requires payout and balance-transaction exports from both Stripe accounts."
+    "The separate account's post-commencement charge remains unattributed until customer, invoice and bank evidence agree.",
+    "A payout at the period boundary may distribute a Stripe balance earned before the reconstruction start; do not classify the payout itself as revenue.",
+    "Payout destination last-four digits identify the bank destination but do not establish account ownership or business treatment."
   ]
 }

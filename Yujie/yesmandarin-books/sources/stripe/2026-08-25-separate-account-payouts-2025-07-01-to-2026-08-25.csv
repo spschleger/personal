@@ -1,0 +1,3 @@
+id,Amount,Created (UTC),Currency,Livemode,Arrival Date (UTC),Source Type,Destination,Status,Type,Method,Description,Balance Transaction,Failure Balance Transaction,Failure Message,Failure Code,Statement Descriptor,Trace ID,Trace ID Status,Destination Name,Destination Country,Destination Last 4
+po_1T6MN2H67fTKgSywfxjbX2za,660.10,2026-03-02 02:38,aud,true,2026-03-03 00:00,card,ba_1Rg28aH67fTKgSywXqZtPxd8,paid,bank_account,standard,,txn_1T6MN3H67fTKgSywXop6B2wQ,,,,YESMANDARIN,YESMANDARIN-4xGsPM,supported,CBA,AU,1913
+po_1Rg24cH67fTKgSywsy2Qwmlf,1197.73,2025-07-01 11:10,aud,true,2025-07-02 00:00,card,ba_1OIpckH67fTKgSywYsNmDJ9d,paid,bank_account,standard,,txn_1Rg24cH67fTKgSywdA9NKeeD,,,,YESMANDARIN,YESMANDAR_SbEXRADt,supported,CBA,AU,9316

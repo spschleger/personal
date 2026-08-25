@@ -1,0 +1,5 @@
+id,Type,Source,Amount,Fee,Destination Platform Fee,Destination Platform Fee Currency,Net,Currency,Created (UTC),Available On (UTC),Description,Customer Facing Amount,Customer Facing Currency,Transfer,Transfer Date (UTC),Transfer Group
+txn_1T6MN3H67fTKgSywXop6B2wQ,payout,po_1T6MN2H67fTKgSywfxjbX2za,-660.10,0.00,,,-660.10,aud,2026-03-02 02:38,2026-03-02 02:38,,,,,,
+txn_1SHQmCH67fTKgSyw5Eiw8oyw,stripe_fee,,-2.75,0.28,,,-3.03,aud,2025-10-12 15:01,2025-10-12 15:01,Invoicing (2025-10-12): Invoicing Starter,,,,,
+txn_3SFQqHH67fTKgSyw0YpssbBT,charge,ch_3SFQqHH67fTKgSyw0m1ejUqi,687.50,24.37,,,663.13,aud,2025-10-12 08:54,2025-10-15 00:00,Payment for Invoice,687.50,aud,,,
+txn_1Rg24cH67fTKgSywdA9NKeeD,payout,po_1Rg24cH67fTKgSywsy2Qwmlf,-1197.73,0.00,,,-1197.73,aud,2025-07-01 11:10,2025-07-01 11:10,,,,,,

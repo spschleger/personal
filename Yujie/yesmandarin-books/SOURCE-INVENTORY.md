@@ -1,12 +1,12 @@
 # YesMandarin books — source inventory
 
-**Observed:** 24 August 2026
+**Observed:** 24–25 August 2026
 
 ## Current conclusion
 
 Xero is not currently complete books. It is an invoice register plus 18 manually created payment/fee entries. No bank statement has ever been imported, all bank-register entries are unreconciled, and the displayed Xero bank balance does not represent a source bank statement.
 
-Use Xero as a historical invoice source during reconstruction. Treat complete bank statements as the cash source of truth. Do not decide the permanent system of record until the bank reconstruction shows the real volume and complexity.
+Use Xero as a historical invoice source during reconstruction. Treat complete bank statements as the cash source of truth. Xero will become the canonical books only after the source-backed reconstruction is verified.
 
 ## Xero organisation
 
@@ -63,32 +63,45 @@ This register cannot establish bank cash or payment completeness. It is supporti
 - Reconstruct bank-transfer payments from the bank source. Reconstruct card payments from Stripe charge, fee and payout evidence, then tie the net payout to the bank.
 - Do not infer payment merely from Xero's invoice status or manual payment entries.
 
-## Stripe payment exports
+## Stripe source evidence
 
-Canonical evidence:
+Canonical evidence and non-identifying controls are listed in `sources/stripe/2026-08-25-control-summary.json`.
 
-- `sources/stripe/2026-08-25-xero-linked-account-unified-payments.csv`
-  - SHA-256: `995ebe89b9f9d757c6819c39eabf7ce4c4ac24837804a2259d73709d098c5a19`.
-  - Six paid/captured AUD charges from 2 March to 13 May 2026.
-  - Gross $4,975.00; refunds $0.00; fees $105.89; net $4,869.11.
-  - All six payment IDs appear in the Xero bank register.
-  - All six invoice-number metadata references appear in the Xero invoice export.
-  - The $105.89 fee total exactly matches Xero's six manually entered fee rows.
-- `sources/stripe/2026-08-25-separate-account-unified-payments.csv`
-  - SHA-256: `67e1ceecadcf07ee0f0776f0a663db797949a7f60b942b019c0e188ca8f269ff`.
-  - Eight paid/captured charges, two failed attempts requiring a payment method and two cancelled attempts.
-  - Seven successful charges predate 1 July 2025: gross $3,725.10; fees $119.95; net $3,605.15. Keep them outside the YesMandarin reconstruction unless other evidence establishes relevance.
-  - One successful charge falls after commencement: gross $687.50; fees $22.15; net $665.35. It has no direct payment-ID, invoice-ID, customer-email or exact invoice-total match in the current Xero exports and remains unattributed.
-- Non-identifying machine-readable controls: `sources/stripe/2026-08-25-control-summary.json`.
-- No payment IDs overlap across the two exports.
+### Xero-linked Stripe account
 
-These Unified Payments exports prove payment attempts, successful charges and charge-level fees. They are not complete Stripe cash evidence: payout and balance-transaction exports are still required to connect net Stripe activity to deposits in the bank account.
+- Payment attempts: `sources/stripe/2026-08-25-xero-linked-account-unified-payments.csv`.
+- Payouts: `sources/stripe/2026-08-25-xero-linked-account-payouts.csv`.
+- Balance transactions: `sources/stripe/2026-08-25-xero-linked-account-balance-transactions.csv`.
+- Six paid/captured charges from 2 March to 13 May 2026: gross $4,975.00; processing fees $105.89; net $4,869.11.
+- Six paid payouts total $4,869.11. All went to bank account ending `9316`.
+- All six payment IDs appear in Xero's bank register, all six invoice metadata references appear in Xero's invoice export, and all six payout balance-transaction references resolve in the Stripe balance ledger.
+- Charge net $4,869.11 less payouts $4,869.11 leaves zero Stripe movement. The $105.89 processing-fee total exactly matches Xero's six manually entered fee rows.
+
+### Separate Stripe account
+
+- Payment attempts: `sources/stripe/2026-08-25-separate-account-unified-payments.csv`.
+- Raw full-history payouts: `sources/stripe/2026-08-25-separate-account-payouts-full-history.csv`.
+- Raw full-history balance transactions: `sources/stripe/2026-08-25-separate-account-balance-transactions-full-history.csv`.
+- Deterministic reconstruction-period extracts:
+  - `sources/stripe/2026-08-25-separate-account-payouts-2025-07-01-to-2026-08-25.csv` — two rows.
+  - `sources/stripe/2026-08-25-separate-account-balance-transactions-2025-07-01-to-2026-08-25.csv` — four rows.
+- The full ledger has 23 rows and reconciles internally to zero: charges/payments $4,412.60 less $156.33 processing fees and $19.42 Stripe service fees equals $4,236.85 of payouts.
+- The payment-only export's `Fee` column excludes GST; the balance ledger's fee and net fields are authoritative. The earlier $22.15 post-commencement fee becomes $24.37 including GST.
+- Reconstruction-period bridge:
+  - an opening Stripe balance of $1,197.73 was paid to bank account ending `9316` at the period boundary;
+  - one later charge grossed $687.50, incurred $24.37 processing fee and $3.03 invoicing fee, and produced a $660.10 payout to bank account ending `1913`;
+  - that later charge still has no direct Xero payment-ID, invoice-ID, customer-email or exact invoice-total match and remains unattributed.
+- All four full-history payout balance-transaction references resolve in Stripe. No payment IDs overlap between the two Stripe accounts.
+
+### Consequence
+
+Stripe evidence is now complete enough to bridge charges, fees and payouts. Bank evidence is required for both destination accounts. A payout is not itself revenue, and the 1 July 2025 payout may distribute earnings accumulated before commencement.
 
 ## Required next sources
 
-1. Complete transaction CSVs and statement closing balances for Business Account ending 1913 from 1 July 2025 through current date.
-2. The same for every other bank account, card or payment account used for YesMandarin.
-3. Payout and balance-transaction exports from both Stripe accounts, covering 1 July 2025 through current date; include payout IDs, arrival dates, gross charges, refunds, disputes, fees and net amounts.
+1. Complete transaction CSVs and statement closing balances for Business Account ending `1913` from 1 July 2025 through current date.
+2. Complete statement evidence for account ending `9316`, covering every relevant Stripe payout arrival and enough surrounding history to prove opening and closing balances.
+3. The same for every other bank account, card or payment account used for YesMandarin.
 4. Entity details and actual GST registration status.
 5. Available expense receipts, supplier invoices, equipment/assets, contractor and payroll records.
 6. Explanation or source history for the missing invoice numbers.
