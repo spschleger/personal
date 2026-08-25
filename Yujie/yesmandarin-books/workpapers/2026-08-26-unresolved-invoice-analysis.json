@@ -32,8 +32,8 @@
         "amount": 449.00,
         "description": "Fast Transfer From M JANDA Megan Steindlberger Mandarin Class INV-0017"
       },
-      "conclusion": "The receipt explicitly identifies INV-0017 but exceeds it by $1. The invoice component is supported; the extra $1 requires an overpayment or other explicit allocation and should not be forced into sales income without choosing that treatment.",
-      "xero_status": "Unreconciled."
+      "conclusion": "The receipt explicitly identifies INV-0017 but exceeds it by $1. The $448 invoice component is supported and the user authorised treating the $1 excess as a minor adjustment.",
+      "xero_status": "Posted on 2026-08-26 as $448 against INV-0017 plus a $1 minor adjustment. Xero showed totals matched; after reconciliation the searched statement line disappeared and the queue fell from 205 to 204."
     },
     {
       "contact": "Daniel Lie",
@@ -61,7 +61,6 @@
     }
   ],
   "next_actions": [
-    "Choose or confirm $1 overpayment treatment for the M Janda receipt before posting.",
     "Obtain the Term 3 invoice or service details for Daniel Lie before creating or allocating any invoice."
   ]
 }

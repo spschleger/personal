@@ -4,7 +4,7 @@
 
 ## Current conclusion
 
-Xero is not yet complete books. The full supplied account `1913` statement range is imported and 48 source-supported invoice-payment lines are reconciled, but expenses, transfers, Stripe-clearing items, opening balance and ambiguous receipts remain unresolved. The displayed Xero balance does not yet represent the source bank closing balance.
+Xero is not yet complete books. The full supplied account `1913` statement range is imported and 49 source-supported invoice-related receipt lines are reconciled, but expenses, transfers, Stripe-clearing items, opening balance and ambiguous receipts remain unresolved. The displayed Xero balance does not yet represent the source bank closing balance.
 
 Use Xero as a historical invoice source during reconstruction. Treat complete bank statements as the cash source of truth. Xero will become the canonical books only after the source-backed reconstruction is verified.
 
@@ -72,7 +72,8 @@ Canonical source exports and controls are under `sources/bank/`:
 - On 25 August 2026, 29 single-invoice candidates in the controlled worklist were reconciled individually, totalling $18,526.00. Each searched statement line disappeared and the queue fell exactly from 253 to 224; Xero then showed a $25,775.11 book balance.
 - On 26 August 2026, the controlled review added 17 further single-invoice reconciliations totalling $10,342.00. Each searched line again disappeared and the queue fell exactly from 224 to 207. Cumulative invoice-payment reconciliations are 46 lines totalling $28,868.00. Xero then showed a $33,737.11 book balance against the unchanged $27,754.02 imported statement movement.
 - Later on 26 August 2026, the $333 and $332 Jack Anderson receipts were each allocated as part payments to INV-0047. Together they settled the $665 invoice exactly; both searched lines disappeared and the queue fell from 207 to 205. Cumulative invoice-payment reconciliations are 48 lines totalling $29,533.00.
-- Two invoice cases remain unreconciled: $449 M Janda against $448 INV-0017, pending treatment of the $1 excess; and a $650 Daniel Lie row that cannot reuse INV-0066 after the explicitly referenced 13 May row consumed it. The posting audit is `workpapers/2026-08-26-xero-additional-invoice-reconciliation-result.json` and follow-up evidence is in `workpapers/2026-08-26-unresolved-invoice-analysis.json`.
+- The $449 M Janda receipt was then allocated as $448 to INV-0017 plus a $1 minor adjustment. The searched line disappeared and the queue fell from 205 to 204. Cumulative invoice-related receipt reconciliations are 49 lines totalling $29,982.00.
+- One invoice case remains unreconciled: a $650 Daniel Lie row that cannot reuse INV-0066 after the explicitly referenced 13 May row consumed it. The posting audit is `workpapers/2026-08-26-xero-additional-invoice-reconciliation-result.json` and follow-up evidence is in `workpapers/2026-08-26-unresolved-invoice-analysis.json`.
 
 These postings do not resolve the missing opening balance or the remaining transaction classifications.
 
