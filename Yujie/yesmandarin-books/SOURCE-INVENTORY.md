@@ -67,6 +67,8 @@ Canonical source exports and controls are under `sources/bank/`:
 - Total credits are $44,572.45 and total debits are $16,818.43.
 - Native Xero import file: `2025-07-01-to-2026-08-17-xero-bank-import.csv`; SHA-256 `a2170d4dbdb5bddb85379b3da2549825f944e4cb528e3e921fc23345655539a3`.
 - Machine-readable controls: `2026-08-25-control-summary.json`. Rebuild with `scripts/prepare_cba_bank_import.py`.
+- Native Xero import completed 25 August 2026: Xero reported 253 statement lines imported and zero duplicates. The reconciliation queue then showed 253 lines.
+- Xero's post-import statement balance was $27,754.02, equal to imported net movement. The $3,262.83 source opening balance remains to be represented before the statement balance can agree to the $31,016.85 source closing balance.
 
 This proves the transaction sequence and balances for the supplied export range. It does not by itself categorise withdrawals or prove which deposits settle which invoices.
 
