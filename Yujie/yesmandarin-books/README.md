@@ -10,10 +10,10 @@ Current evidence, source hashes and reconstruction state: [`SOURCE-INVENTORY.md`
 
 - Xero invoice and manual-register evidence is preserved.
 - Both Stripe accounts' payment, payout and balance ledgers are preserved and internally reconciled.
-- Xero itself remains unreconstructed and unreconciled.
+- Xero reconstruction is in progress. The complete account `1913` statement range is imported and the first 29 source-supported invoice payments are reconciled; expenses, transfers, Stripe-clearing items, opening balance and ambiguous receipts remain unresolved.
 - Complete CBA transaction evidence for Business Account ending `1913` is preserved through 17 August 2026. All 253 unique statement lines were imported through Xero's native importer on 25 August 2026; Xero reported zero duplicates.
 - Xero currently shows a $27,754.02 statement balance because the import contains movement only. The source-backed $3,262.83 opening balance still needs to be represented before the account can agree to its $31,016.85 closing balance.
-- A deterministic first-pass worklist for account `1913` is under `workpapers/`: 29 bank lines have one invoice candidate supported by reference or payer-name evidence, 20 invoice-payment lines need review, 25 credits have no defensible invoice candidate, and nine debits remain unresolved. No candidate is treated as reconciliation approval.
+- A deterministic first-pass worklist for account `1913` is under `workpapers/`: all 29 bank lines with one invoice candidate supported by reference or payer-name evidence were reconciled in Xero on 25 August 2026, totalling $18,526.00. The Xero queue fell from 253 to 224 lines. Another 20 invoice-payment lines need review, 25 credits have no defensible invoice candidate, and nine debits remain unresolved.
 - The remaining bank-source blocker is Felicity's personal account ending `9316`; its business-related movements must be isolated from the personal ledger before the Stripe chain and the $2,000 inter-account transfer can be completed.
 - The non-Xero-linked Stripe account's $687.50 charge remains unattributed.
 - Shane must personally stop Xero's scheduled 12 September 2026 cancellation if the subscription is to continue.

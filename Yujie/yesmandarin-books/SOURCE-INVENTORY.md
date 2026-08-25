@@ -4,7 +4,7 @@
 
 ## Current conclusion
 
-Xero is not currently complete books. It is an invoice register plus 18 manually created payment/fee entries. No bank statement has ever been imported, all bank-register entries are unreconciled, and the displayed Xero bank balance does not represent a source bank statement.
+Xero is not yet complete books. The full supplied account `1913` statement range is imported and the first 29 source-supported invoice payments are reconciled, but expenses, transfers, Stripe-clearing items, opening balance and ambiguous receipts remain unresolved. The displayed Xero balance does not yet represent the source bank closing balance.
 
 Use Xero as a historical invoice source during reconstruction. Treat complete bank statements as the cash source of truth. Xero will become the canonical books only after the source-backed reconstruction is verified.
 
@@ -69,6 +69,7 @@ Canonical source exports and controls are under `sources/bank/`:
 - Machine-readable controls: `2026-08-25-control-summary.json`. Rebuild with `scripts/prepare_cba_bank_import.py`.
 - Native Xero import completed 25 August 2026: Xero reported 253 statement lines imported and zero duplicates. The reconciliation queue then showed 253 lines.
 - Xero's post-import statement balance was $27,754.02, equal to imported net movement. The $3,262.83 source opening balance remains to be represented before the statement balance can agree to the $31,016.85 source closing balance.
+- On 25 August 2026, all 29 single invoice candidates in the controlled worklist were reconciled individually against Xero suggestions, totalling $18,526.00. Each searched statement line disappeared after reconciliation and the queue count fell exactly from 253 to 224. Xero then showed a $25,775.11 book balance against the $27,754.02 imported statement movement; this does not resolve the missing opening balance or the remaining transaction classifications.
 
 This proves the transaction sequence and balances for the supplied export range. It does not by itself categorise withdrawals or prove which deposits settle which invoices.
 
@@ -132,7 +133,7 @@ Account `1913` deterministic workpapers were generated on 25 August 2026:
 - `workpapers/2026-08-25-account-1913-reconciliation-summary.json`
 - Rebuild with `scripts/prepare_1913_reconciliation_worklist.py`; matching behaviour is covered by `tests/test_prepare_1913_reconciliation_worklist.py`.
 - The 253-row control totals remain exact: $44,572.45 credits, $16,818.43 debits and $27,754.02 net movement.
-- 29 statement lines have one invoice candidate supported by an explicit invoice reference or payer-name evidence plus amount and date bounds. Another 20 invoice-payment lines remain review items; 25 credits have no defensible invoice candidate.
+- All 29 statement lines with one invoice candidate supported by an explicit invoice reference or payer-name evidence plus amount and date bounds were reconciled in Xero on 25 August 2026. Another 20 invoice-payment lines remain review items; 25 credits have no defensible invoice candidate.
 - Expense proposals are worklist aids, not tax conclusions: 67 are straightforward merchant/reference candidates, 97 require business-use or account review, and nine debits remain unresolved.
 - The `9316` transfer stays blocked until the other side is supplied. The $660.10 Stripe payout is isolated to Stripe clearing rather than revenue, and Shane's $309.55 reimbursement is isolated from invoice income.
 
