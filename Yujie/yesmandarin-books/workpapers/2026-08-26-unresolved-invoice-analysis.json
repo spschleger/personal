@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-26",
+  "scope": "Source-backed follow-up analysis of the three invoice-payment exceptions left after the overnight Xero run",
+  "findings": [
+    {
+      "contact": "Jack Anderson",
+      "invoice_number": "INV-0047",
+      "invoice_total": 665.00,
+      "invoice_description": "60 minute private Mandarin class. 2 x payments of $332.50",
+      "bank_receipts": [
+        {
+          "date": "2026-03-17",
+          "amount": 333.00,
+          "description": "Fast Transfer From JACK ANDERSON Jack Anderson Jack Anderson"
+        },
+        {
+          "date": "2026-05-07",
+          "amount": 332.00,
+          "description": "Fast Transfer From JACK ANDERSON INV-0047 Jack Anderson INV-0047"
+        }
+      ],
+      "bank_receipts_total": 665.00,
+      "conclusion": "The two Jack Anderson receipts together settle INV-0047 exactly. They are defensible split payments against the same invoice and should be allocated together in Xero.",
+      "xero_status": "Not posted in this follow-up: Xero presented a password re-authentication prompt. No credentials were entered."
+    },
+    {
+      "contact": "Megan Steindlberger",
+      "invoice_number": "INV-0017",
+      "invoice_total": 448.00,
+      "bank_receipt": {
+        "date": "2025-10-01",
+        "amount": 449.00,
+        "description": "Fast Transfer From M JANDA Megan Steindlberger Mandarin Class INV-0017"
+      },
+      "conclusion": "The receipt explicitly identifies INV-0017 but exceeds it by $1. The invoice component is supported; the extra $1 requires an overpayment or other explicit allocation and should not be forced into sales income without choosing that treatment.",
+      "xero_status": "Unreconciled."
+    },
+    {
+      "contact": "Daniel Lie",
+      "bank_receipt": {
+        "date": "2026-07-27",
+        "amount": 650.00,
+        "description": "Fast Transfer From DANIEL LIE Daniel Invoice Term 3"
+      },
+      "known_invoices": [
+        {
+          "invoice_number": "INV-0043",
+          "invoice_total": 665.00,
+          "invoice_date": "2026-03-02",
+          "source_status": "Paid"
+        },
+        {
+          "invoice_number": "INV-0066",
+          "invoice_total": 650.00,
+          "invoice_date": "2026-05-11",
+          "source_status": "Already consumed by the explicitly referenced 2026-05-13 bank receipt"
+        }
+      ],
+      "conclusion": "No surviving invoice in the 2026-08-24 Xero export supports the later Term 3 receipt. It likely relates to a missing or not-yet-created invoice, but creating one requires source details or Felicity's confirmation.",
+      "xero_status": "Unreconciled."
+    }
+  ],
+  "next_actions": [
+    "After Felicity or Shane re-authenticates Xero, allocate the $333 and $332 Jack Anderson receipts together to INV-0047 and verify the queue falls by two.",
+    "Choose or confirm $1 overpayment treatment for the M Janda receipt before posting.",
+    "Obtain the Term 3 invoice or service details for Daniel Lie before creating or allocating any invoice."
+  ]
+}
