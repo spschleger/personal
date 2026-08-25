@@ -4,7 +4,16 @@ Reconstruct Felicity's YesMandarin accounts from commencement and leave them tax
 
 Xero will be retained and become the canonical books after reconstruction. Existing invoices are source documents; existing payment status, bank entries, balances and reconciliation state are untrusted until rebuilt from complete bank and payment-processor evidence.
 
-Current evidence and source hashes: [`SOURCE-INVENTORY.md`](SOURCE-INVENTORY.md). As at 24 August 2026, Xero is an incomplete invoice register rather than reconciled books; complete bank exports are the next required source.
+Current evidence, source hashes and reconstruction state: [`SOURCE-INVENTORY.md`](SOURCE-INVENTORY.md).
+
+## Current state — 25 August 2026
+
+- Xero invoice and manual-register evidence is preserved.
+- Both Stripe accounts' payment, payout and balance ledgers are preserved and internally reconciled.
+- Xero itself remains unreconstructed and unreconciled.
+- The next blocker is complete bank evidence for accounts ending `1913` and `9316`, followed by deterministic matching and native Xero reconciliation.
+- The non-Xero-linked Stripe account's $687.50 charge remains unattributed.
+- Shane must personally stop Xero's scheduled 12 September 2026 cancellation if the subscription is to continue.
 
 ## Done means
 

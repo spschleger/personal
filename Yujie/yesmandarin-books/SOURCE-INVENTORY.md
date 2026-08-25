@@ -117,4 +117,4 @@ Once the complete bank export is available:
 3. Mark exact matches, candidate matches and unresolved deposits separately.
 4. Explain withdrawals and processor fees.
 5. Calculate rolling turnover independently of Xero invoice status.
-6. Only then decide whether to repair Xero or migrate to a controlled cashbook.
+6. Repair and reconcile Xero from the verified reconstruction; do not maintain a parallel custom ledger.

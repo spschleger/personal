@@ -4,7 +4,7 @@
 
 Get Felicity's YesMandarin books complete from the first day of trading and leave a simple, defensible system she can maintain.
 
-The deliverable is correct, tax-ready books—not Xero and not software. The ongoing system of record is an open decision until the real volume and complexity are inspected.
+The deliverable is correct, tax-ready books—not software. Xero is the chosen ongoing system of record, but becomes canonical only after the source-backed reconstruction is verified.
 
 ## Context
 
@@ -39,7 +39,7 @@ Use existing source systems and native features wherever they work:
 
 ## Rules
 
-- Do not declare Xero or a custom ledger canonical until the system-of-record decision is made.
+- Do not treat Xero as canonical until the source-backed reconstruction is verified.
 - Once chosen, keep one canonical ledger; do not maintain parallel books.
 - Do not build an app, API integration or MCP workflow unless a demonstrated repetitive blocker cannot be handled safely in the chosen simple system.
 - A small disposable conversion or matching script is acceptable when it saves work and its output is verified against bank and invoice sources.
