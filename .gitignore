@@ -14,3 +14,6 @@ node_modules/
 .env.*
 __pycache__/
 .venv/
+
+# compiled binary (rebuild: swiftc -O html2pdf.swift -o html2pdf)
+tools/html2pdf/html2pdf
