@@ -1,7 +1,7 @@
 # TODO — consolidated (updated 24 Aug 2026 after RPA ED presentation)
 
 ## URGENT — Wilson consult THURSDAY 27 Aug, 12:30pm (RPA track)
-- [ ] **Write + print `neurosurgeon-brief.md`** (one page: lifelong bowel/bladder, left-leg hypotrophy + cavus/claw toes with numbers, sacral mark, 12-mo pain course, urodynamics numbers, questions — the referral letter omits most of this)
+- [x] ~~Write~~ `neurosurgeon-brief.md` — **WRITTEN 25 Aug (+ printable PDF). Fill in the calf/thigh cm blanks after measuring, then print ×2** (one page: lifelong bowel/bladder, left-leg hypotrophy + cavus/claw toes with numbers, sacral mark, 12-mo pain course, urodynamics numbers, questions — the referral letter omits most of this)
 - [ ] Photos TONIGHT if not done: sacral mark (ruler, no touching), both feet standing; tape-measure calves/thighs L vs R
 - [ ] Bring: MRI report, urodynamics report, referral copy, brief ×2, photo phone
 - [ ] Ask Wilson: his adult-lipoma volume; radical vs conservative resection; IONM; expected surgery date + category; whole-spine MRI; dermal-sinus handling; say **worsening**
