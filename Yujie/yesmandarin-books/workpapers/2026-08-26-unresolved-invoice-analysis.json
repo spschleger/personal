@@ -21,7 +21,7 @@
       ],
       "bank_receipts_total": 665.00,
       "conclusion": "The two Jack Anderson receipts together settle INV-0047 exactly. They are defensible split payments against the same invoice and should be allocated together in Xero.",
-      "xero_status": "Not posted in this follow-up: Xero presented a password re-authentication prompt. No credentials were entered."
+      "xero_status": "Posted after user re-authentication on 2026-08-26. The $333 receipt was split against INV-0047, leaving $332 outstanding; the $332 receipt then settled the remainder. Both statement lines disappeared and the queue fell from 207 to 205."
     },
     {
       "contact": "Megan Steindlberger",
@@ -61,7 +61,6 @@
     }
   ],
   "next_actions": [
-    "After Felicity or Shane re-authenticates Xero, allocate the $333 and $332 Jack Anderson receipts together to INV-0047 and verify the queue falls by two.",
     "Choose or confirm $1 overpayment treatment for the M Janda receipt before posting.",
     "Obtain the Term 3 invoice or service details for Daniel Lie before creating or allocating any invoice."
   ]
