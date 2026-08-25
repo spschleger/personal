@@ -131,6 +131,7 @@ Account `1913` deterministic workpapers were generated on 25 August 2026:
 
 - `workpapers/2026-08-25-account-1913-reconciliation-worklist.csv`
 - `workpapers/2026-08-25-account-1913-reconciliation-summary.json`
+- `workpapers/2026-08-25-xero-invoice-reconciliation-result.json` — posted-result audit record for the 29 verified Xero invoice reconciliations.
 - Rebuild with `scripts/prepare_1913_reconciliation_worklist.py`; matching behaviour is covered by `tests/test_prepare_1913_reconciliation_worklist.py`.
 - The 253-row control totals remain exact: $44,572.45 credits, $16,818.43 debits and $27,754.02 net movement.
 - All 29 statement lines with one invoice candidate supported by an explicit invoice reference or payer-name evidence plus amount and date bounds were reconciled in Xero on 25 August 2026. Another 20 invoice-payment lines remain review items; 25 credits have no defensible invoice candidate.

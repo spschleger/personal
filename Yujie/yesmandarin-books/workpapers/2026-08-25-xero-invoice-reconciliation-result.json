@@ -1,0 +1,248 @@
+{
+  "date": "2026-08-25",
+  "xero_organisation": "YesMandarin",
+  "bank_account": "CBA Business Account ending 1913",
+  "method": "Each controlled single-invoice candidate was searched individually in Xero, the displayed suggestion was accepted, and success was verified by disappearance of the searched statement line plus a one-line reduction in the reconciliation queue.",
+  "reconciled_count": 29,
+  "reconciled_total": "18526.00",
+  "queue_count_before": 253,
+  "queue_count_after": 224,
+  "statement_balance_after": "27754.02",
+  "xero_book_balance_after": "25775.11",
+  "remaining_queue_count": 224,
+  "scope_limit": "This records only the 29 source-supported single invoice matches. It does not approve the 20 review matches, unmatched credits, expenses, transfers, Stripe clearing, opening balance, or personal-account items.",
+  "items": [
+    {
+      "statement_date": "10/07/2025",
+      "statement_amount": "+532.00",
+      "statement_description": "Fast Transfer From M JANDA Wednesday Group Chinese Class Megan Steindlberger",
+      "invoice_number": "INV-0002",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "11/07/2025",
+      "statement_amount": "+532.00",
+      "statement_description": "Fast Transfer From CHRISTOPHER STEINDLBE Chris Steindlberger Chris Steindlberger",
+      "invoice_number": "INV-0003",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "16/09/2025",
+      "statement_amount": "+684.00",
+      "statement_description": "Fast Transfer From JAMES BLAKE Mandarin James Blake",
+      "invoice_number": "INV-0012",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "15/11/2025",
+      "statement_amount": "+325.00",
+      "statement_description": "Fast Transfer From YVONNE X ZHAO chinese",
+      "invoice_number": "INV-0026",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "01/12/2025",
+      "statement_amount": "+680.00",
+      "statement_description": "Fast Transfer From ADAN YOHANS CELIS PER Mandarin Lessons Yohans Celis",
+      "invoice_number": "INV-0028",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "02/02/2026",
+      "statement_amount": "+578.00",
+      "statement_description": "Fast Transfer From M JANDA Megan Steindlberger - Chinese Class INV-0032",
+      "invoice_number": "INV-0032",
+      "evidence": "explicit_invoice_reference",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "05/02/2026",
+      "statement_amount": "+665.00",
+      "statement_description": "Fast Transfer From AARON CHEA INV-0035 Yesmandarin INV-0035 Yesmandarin",
+      "invoice_number": "INV-0035",
+      "evidence": "explicit_invoice_reference",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "06/02/2026",
+      "statement_amount": "+500.00",
+      "statement_description": "Fast Transfer From TERRY TRAN TerryThursdayClass",
+      "invoice_number": "INV-0036",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "10/02/2026",
+      "statement_amount": "+578.00",
+      "statement_description": "Fast Transfer From CHRISTOPHER STEINDLBE INV0033",
+      "invoice_number": "INV-0033",
+      "evidence": "explicit_invoice_reference",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "16/02/2026",
+      "statement_amount": "+100.00",
+      "statement_description": "Fast Transfer From TAKE MY CANS PTY LTD Translations",
+      "invoice_number": "INV-0029",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "24/03/2026",
+      "statement_amount": "+675.00",
+      "statement_description": "Fast Transfer From RICK COONEN Rick Coonen - 10 classes INV-0048",
+      "invoice_number": "INV-0048",
+      "evidence": "explicit_invoice_reference",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "27/03/2026",
+      "statement_amount": "+680.00",
+      "statement_description": "Fast Transfer From TAKE MY CANS PTY LTD Mandarin lessons INV0046",
+      "invoice_number": "INV-0046",
+      "evidence": "explicit_invoice_reference",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "10/04/2026",
+      "statement_amount": "+480.00",
+      "statement_description": "Fast Transfer From TERRY TRAN INV-0051TerryPrivateClass",
+      "invoice_number": "INV-0051",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "29/04/2026",
+      "statement_amount": "+578.00",
+      "statement_description": "Fast Transfer From CHRISTOPHER STEINDLBE INV0056",
+      "invoice_number": "INV-0056",
+      "evidence": "explicit_invoice_reference",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "30/04/2026",
+      "statement_amount": "+580.00",
+      "statement_description": "Fast Transfer From LY SOPHIA Sophia Ly",
+      "invoice_number": "INV-0060",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "30/04/2026",
+      "statement_amount": "+640.00",
+      "statement_description": "Fast Transfer From MR HAKAN RYAN DAY Hakan Day",
+      "invoice_number": "INV-0062",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "30/04/2026",
+      "statement_amount": "+640.00",
+      "statement_description": "Fast Transfer From JESSE WRIGHT Jesse Wright",
+      "invoice_number": "INV-0061",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "06/05/2026",
+      "statement_amount": "+578.00",
+      "statement_description": "Fast Transfer From M JANDA Megan Steindlberger - Class Payment INV-0057",
+      "invoice_number": "INV-0057",
+      "evidence": "explicit_invoice_reference",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "13/05/2026",
+      "statement_amount": "+680.00",
+      "statement_description": "Fast Transfer From AARON CHEA 0049",
+      "invoice_number": "INV-0049",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "13/05/2026",
+      "statement_amount": "+650.00",
+      "statement_description": "Fast Transfer From DANIEL LIE INV-0066 Daniel",
+      "invoice_number": "INV-0066",
+      "evidence": "explicit_invoice_reference",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "16/05/2026",
+      "statement_amount": "+1200.00",
+      "statement_description": "Fast Transfer From Emily Selmon INV 0068 Emily Selmon Lessons INV 0068 Emily Selmon Lessons",
+      "invoice_number": "INV-0068",
+      "evidence": "explicit_invoice_reference",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "10/06/2026",
+      "statement_amount": "+690.00",
+      "statement_description": "Fast Transfer From KELLY UNG Lessons - KU Kelly Ung",
+      "invoice_number": "INV-0072",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "17/06/2026",
+      "statement_amount": "+680.00",
+      "statement_description": "Fast Transfer From Sean James Howard CREDIT TO ACCOUNT",
+      "invoice_number": "INV-0073",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "18/07/2026",
+      "statement_amount": "+680.00",
+      "statement_description": "Fast Transfer From ANTHONY DAL BOSCO AnthonyDalBosco 10 private lessons INV-0077",
+      "invoice_number": "INV-0077",
+      "evidence": "explicit_invoice_reference",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "09/08/2026",
+      "statement_amount": "+588.00",
+      "statement_description": "Fast Transfer From Aidan Lam Aidan Lam chinese",
+      "invoice_number": "INV-0085",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "11/08/2026",
+      "statement_amount": "+1236.00",
+      "statement_description": "Fast Transfer From MR SAMUEL ELLIOT WORD Sam and Catherine payment",
+      "invoice_number": "INV-0087",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "12/08/2026",
+      "statement_amount": "+618.00",
+      "statement_description": "Fast Transfer From MR HAKAN RYAN DAY Hakan Day full term mini group class",
+      "invoice_number": "INV-0081",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "16/08/2026",
+      "statement_amount": "+588.00",
+      "statement_description": "Fast Transfer From BIANCA WONG Bianca - Chinese class",
+      "invoice_number": "INV-0084",
+      "evidence": "contact_name_and_exact_amount",
+      "xero_result": "reconciled"
+    },
+    {
+      "statement_date": "17/08/2026",
+      "statement_amount": "+891.00",
+      "statement_description": "Fast Transfer From CHRISTOPHER STEINDLBE INV0083",
+      "invoice_number": "INV-0083",
+      "evidence": "explicit_invoice_reference",
+      "xero_result": "reconciled"
+    }
+  ]
+}
