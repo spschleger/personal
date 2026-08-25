@@ -5,6 +5,14 @@
     "end": "2026-08-25"
   },
   "currency": "AUD",
+  "account_relationship": {
+    "observed": "Both accounts are available under the same Stripe login/account switcher.",
+    "ui_labels": [
+      "YesMandarin (Xero)",
+      "YesMandarin"
+    ],
+    "treatment": "Keep transaction IDs, balances and payout chains account-scoped; the exact underlying organisational relationship is not established by these exports."
+  },
   "accounts": [
     {
       "label": "xero-linked-account",
@@ -46,7 +54,7 @@
       }
     },
     {
-      "label": "separate-account",
+      "label": "non-xero-linked-account",
       "payment_attempt_export": {
         "file": "2026-08-25-separate-account-unified-payments.csv",
         "sha256": "67e1ceecadcf07ee0f0776f0a663db797949a7f60b942b019c0e188ca8f269ff",

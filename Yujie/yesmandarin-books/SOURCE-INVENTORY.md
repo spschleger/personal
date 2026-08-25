@@ -77,7 +77,9 @@ Canonical evidence and non-identifying controls are listed in `sources/stripe/20
 - All six payment IDs appear in Xero's bank register, all six invoice metadata references appear in Xero's invoice export, and all six payout balance-transaction references resolve in the Stripe balance ledger.
 - Charge net $4,869.11 less payouts $4,869.11 leaves zero Stripe movement. The $105.89 processing-fee total exactly matches Xero's six manually entered fee rows.
 
-### Separate Stripe account
+### Non-Xero-linked Stripe account
+
+The two Stripe accounts are available under the same Stripe login/account switcher. Stripe labels them `YesMandarin (Xero)` and `YesMandarin`. The exact underlying organisational relationship is not established by the exports, so keep their IDs, balances and payout chains account-scoped.
 
 - Payment attempts: `sources/stripe/2026-08-25-separate-account-unified-payments.csv`.
 - Raw full-history payouts: `sources/stripe/2026-08-25-separate-account-payouts-full-history.csv`.
