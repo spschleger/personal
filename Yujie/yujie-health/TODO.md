@@ -1,5 +1,10 @@
 # TODO — consolidated (updated 24 Aug 2026 after RPA ED presentation)
 
+## NOW (25 Aug) — China parallel track (`china-option.md`)
+- [ ] **Book the haodf online consult** — 宣武医院神经脊柱中心 菅凤增/team (fallback 李萃萃, 解放军总医院第七医学中心); upload MRI key images + translated report conclusion + urodynamics + `summary-for-parents-zh.md`; ask the 7 questions in `china-option.md`
+- [ ] Parents: start 居民医保 (in motion) + answer the 4 insurance-verification questions (等待期 / 异地备案比例 / 目录内项目 / 封顶线) — log answers into `china-option.md`
+- [ ] Diary ~4–6 weeks: compare concrete offers (RPA date vs Beijing date/plan/out-of-pocket) per the decision criteria
+
 ## NOW (24 Aug) — post-ED pathway
 - [x] ~~Ring the public-surgeon call list~~ — **SUPERSEDED: presented at RPA Emergency 23–24 Aug with the evidence pack.** Triaged, seen by a neurosurgery doctor, diagnostics done, discharged. Plan from RPA: they will phone with an appointment at the **RPA neurosurgery clinic — Dr David Wilson** (spine, RPA public; rooms Suite 4/155 Missenden Rd Newtown, 02 9157 1916).
 - [ ] **Await the RPA clinic call.** If nothing within ~1 week: chase RPA neurosurgery clinic 02 9515 7821 / SLHD-RPANeurosurgery@health.nsw.gov.au, and/or Dr Wilson's rooms 02 9157 1916. Say **worsening**.
