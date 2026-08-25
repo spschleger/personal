@@ -1,5 +1,7 @@
 # China option — surgery in Beijing (parallel track)
 
+**UPDATE 25 Aug (evening):** parents have instead **initiated a higher-tier insurance product with a ~1-MONTH waiting period** (more expensive; exact product/terms to confirm — the 居民医保 analysis below kept for reference). This restores Beijing's timeline competitiveness: insurance active ~late Sep → surgery ~Oct possible. **RPA consult locked: Dr David Wilson, Thu 27 Aug 12:30pm.** The comparison is now genuinely two live offers — get the Xuanwu online consult booked so Beijing's cost + date are concrete too.
+
 **Status 25 Aug 2026: ACTIVE as a parallel track.** Decided: (1) Yujie's parents are starting her resident health insurance (居民医保, Dalian) now — ~3-month wait before it covers surgery; (2) we will book a paid **online consult with a Beijing surgeon** this week to get a concrete offer. **RPA (Dr David Wilson clinic, call pending) remains the primary pathway** until there are two concrete offers to compare.
 
 ## The decision frame

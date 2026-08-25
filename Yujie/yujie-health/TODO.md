@@ -1,8 +1,16 @@
 # TODO — consolidated (updated 24 Aug 2026 after RPA ED presentation)
 
+## URGENT — Wilson consult THURSDAY 27 Aug, 12:30pm (RPA track)
+- [ ] **Write + print `neurosurgeon-brief.md`** (one page: lifelong bowel/bladder, left-leg hypotrophy + cavus/claw toes with numbers, sacral mark, 12-mo pain course, urodynamics numbers, questions — the referral letter omits most of this)
+- [ ] Photos TONIGHT if not done: sacral mark (ruler, no touching), both feet standing; tape-measure calves/thighs L vs R
+- [ ] Bring: MRI report, urodynamics report, referral copy, brief ×2, photo phone
+- [ ] Ask Wilson: his adult-lipoma volume; radical vs conservative resection; IONM; expected surgery date + category; whole-spine MRI; dermal-sinus handling; say **worsening**
+- [ ] Ask I-MED to send study to RPA/Wilson if not already pulled (Acc #77.60502003)
+
 ## NOW (25 Aug) — China parallel track (`china-option.md`)
+- [x] ~~Parents: start 居民医保~~ — **superseded: parents have initiated a higher-tier insurance with a 1-MONTH waiting period** (get product name, premium, coverage %, catalogue scope, effective date → log in `china-option.md`)
 - [ ] **Book the haodf online consult** — 宣武医院神经脊柱中心 菅凤增/team (fallback 李萃萃, 解放军总医院第七医学中心); upload MRI key images + translated report conclusion + urodynamics + `summary-for-parents-zh.md`; ask the 7 questions in `china-option.md`
-- [ ] Parents: start 居民医保 (in motion) + answer the 4 insurance-verification questions (等待期 / 异地备案比例 / 目录内项目 / 封顶线) — log answers into `china-option.md`
+- [ ] Parents: answer the insurance-verification questions for the NEW 1-month product (等待期生效日 / 异地北京比例 / 目录范围 / 封顶线) (等待期 / 异地备案比例 / 目录内项目 / 封顶线) — log answers into `china-option.md`
 - [ ] Diary ~4–6 weeks: compare concrete offers (RPA date vs Beijing date/plan/out-of-pocket) per the decision criteria
 
 ## NOW (24 Aug) — post-ED pathway
