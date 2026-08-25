@@ -25,26 +25,40 @@ Not "is care better in China?" but: **"is Beijing's offer better *by enough* to 
 
 The 3-month insurance wait erases China's speed advantage. The wait is only acceptable if it's a *hedge running in the background*, never the reason to slow RPA.
 
-## Insurance — what the parents are starting + what to verify
+## Insurance — researched picture (web, 25 Aug 2026)
 
-Nominal figure Yujie was given: **55% reimbursement out-of-region (Beijing)**. Reality checks to run before it anchors any decision:
+Nominal figure Yujie was given: **55% out-of-region**. Research confirms the shape and mostly the number:
 
-- 居民医保 reimburses **catalogue items (医保目录) only**. For this exact operation the expensive items — intraoperative neuromonitoring, microscope consumables, dural repair materials, expert registration — are often part-covered or excluded → effective reimbursement on the real bill typically **30–45%**.
-- The out-of-region rate requires **异地就医备案** (via 国家医保服务平台 app) filed before admission, or the rate drops further.
-- Mid-year enrolment waiting period and start date vary by city — confirm Dalian's exact rule.
+**Enrolment + waiting (confirmed):**
+- 2026 集中缴费期 closed **25 Dec 2025**; adult premium ¥460/yr. Mid-year new/lapsed enrolment is allowed but carries a **fixed 3-month waiting period from the payment date** — exactly what she was told. No way found to shorten it.
+- Dalian has made 临时异地住院 "免申即享、自动备案" (auto-registration for temporary out-of-region admissions) — the 备案 step is now low-friction.
 
-**Questions for the parents (ask 大连医保局 12393 / 国家医保服务平台):**
-1. 中途参保的等待期到底多久？从哪一天起住院费用可以报销？
-2. 异地就医备案怎么办理？备案到北京三甲医院后，住院报销比例具体是多少？
-3. 术中神经电生理监测、显微手术耗材、硬脊膜修补材料是否在医保目录内？自费比例大概多少？
-4. 居民医保年度报销封顶线是多少？
+**Rates for a Dalian adult resident (成年居民), hospitalised out-of-region at a tertiary hospital:**
+- Deductible (起付线): **¥1,500** per admission (vs ¥850–1,200 locally).
+- Published 异地 splits name 老年居民 50% and 未成年/大学生/低保 70%; ordinary adult residents locally get **65% at top 三甲**. **Self-referral without a 转诊 (hospital-issued referral) costs −10 points** — 65 − 10 = **55%, which is almost certainly where her figure comes from.** → A 转诊 letter from a Dalian hospital to the Beijing hospital would recover ~10 points; worth pursuing.
+- Settlement runs on **Beijing's catalogue + Dalian's rates**, direct at the bedside (一站式结算).
+
+**Caps and the second layer:**
+- Basic resident cap: **¥150k/yr** — comfortably covers this operation.
+- **大病保险 (catastrophic layer) sits on top: up to ¥400k/yr**, automatically triggered once her *catalogue self-pay* passes the threshold, and settled in the same transaction. This layer claws back a meaningful share of a big bill and was missing from the family's arithmetic. (First-year enrollees get the base cap, not the continuous-enrolment bonus.)
+
+**Catalogue reality for this operation:**
+- 术中神经电生理监测 (IONM) is **乙类** (Category B — covered after a self-pay percentage), not excluded, in the provincial price lists found. Imported dural-repair materials and some microsurgical consumables are the main part-pay/self-pay items.
+- Chinese sources put **complex lipoma-type tethered-cord surgery in Beijing at ~¥80–150k total** (simple filum section ¥30–80k), with insured patients typically paying **~30–50% of the total** out of pocket.
+
+**Net estimate for her:** bill ~¥100–150k at a top Beijing unit → after basic (55–65% of catalogue items, ¥1,500 deductible) + 大病 layer → **out of pocket plausibly ¥40–70k ≈ AU$9–15k**, plus flights, months of living costs, income stopped. Better than the first-pass guess, still ≫ RPA's $0.
+
+**Remaining questions for the parents (narrowed from four):**
+1. 成年居民（非老年）异地住院在北京三甲的基本报销比例到底是55%还是65%？办了转诊/备案后各是多少？
+2. 大连居民**大病保险的起付标准**（个人自付累计超过多少开始赔付）和分段赔付比例是多少？
+3. 等待期从缴费当天起算满3个月的**确切生效日期**（拿到缴费凭证后算出来）。
 
 ## Rough cost picture
 
 | Route | Out of pocket |
 |---|---|
 | RPA public | **$0** |
-| Beijing top 三甲, billed ¥120–200k, effective ~40% reimbursed | **¥60–120k ≈ AU$13–26k** + flights + months of living costs + income stopped |
+| Beijing top 三甲, billed ~¥100–150k, basic + 大病 layers | **~¥40–70k ≈ AU$9–15k** + flights + months of living costs + income stopped |
 | Eibach private, Sydney | ~$25–45k, Pang-trained surgeon + Australian aftercare |
 
 ## Remote consult — book this week (no insurance needed)
