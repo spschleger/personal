@@ -1,0 +1,41 @@
+{
+  "source_rows": 253,
+  "status_counts": {
+    "blocked_awaiting_9316": 1,
+    "candidate": 97,
+    "review": 121,
+    "unresolved": 34
+  },
+  "kind_counts": {
+    "contractor_payment": 2,
+    "expense": 164,
+    "expense_refund": 1,
+    "invoice_payment_candidate": 49,
+    "owner_or_related_party_funds": 1,
+    "processor_payout": 1,
+    "transfer_to_personal_account": 1,
+    "unresolved_credit": 25,
+    "unresolved_debit": 9
+  },
+  "signed_totals_by_kind": {
+    "contractor_payment": "-1096.00",
+    "expense": "-13627.60",
+    "expense_refund": "1.00",
+    "invoice_payment_candidate": "30299.00",
+    "owner_or_related_party_funds": "309.55",
+    "processor_payout": "660.10",
+    "transfer_to_personal_account": "-2000.00",
+    "unresolved_credit": "13302.80",
+    "unresolved_debit": "-94.83"
+  },
+  "controls": {
+    "credits": "44572.45",
+    "debits": "-16818.43",
+    "net_movement": "27754.02"
+  },
+  "rules": [
+    "Amount alone never creates an invoice candidate.",
+    "Candidate is not reconciliation approval.",
+    "Personal-account transfers stay blocked until account 9316 evidence is supplied."
+  ]
+}

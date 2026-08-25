@@ -95,7 +95,7 @@ Canonical evidence and non-identifying controls are listed in `sources/stripe/20
 
 ### Non-Xero-linked Stripe account
 
-The two Stripe accounts are available under the same Stripe login/account switcher. Stripe labels them `YesMandarin (Xero)` and `YesMandarin`. The exact underlying organisational relationship is not established by the exports, so keep their IDs, balances and payout chains account-scoped.
+The two Stripe accounts are available under the same Stripe login/account switcher. Stripe labels them `YesMandarin (Xero)` and `YesMandarin`. The exact underlying organisational relationship is not established by the exports, so keep their IDs, balances and payout chains account-scoped. Shane confirmed on 25 August 2026 that destination bank account ending `9316` is Felicity's personal account.
 
 - Payment attempts: `sources/stripe/2026-08-25-separate-account-unified-payments.csv`.
 - Raw full-history payouts: `sources/stripe/2026-08-25-separate-account-payouts-full-history.csv`.
@@ -117,7 +117,7 @@ Stripe evidence is now complete enough to bridge charges, fees and payouts. Bank
 
 ## Required next sources
 
-1. Complete statement evidence for account ending `9316`, covering every relevant Stripe payout arrival and enough surrounding history to prove opening and closing balances.
+1. Complete statement evidence for Felicity's personal account ending `9316`, covering every relevant Stripe payout arrival and enough surrounding history to prove opening and closing balances. Import only the business-related evidence into the reconstruction; do not turn the personal account into a business ledger.
 2. Any transaction evidence after 17 August 2026 for Business Account ending `1913` when it becomes available.
 3. The same for every other bank account, card or payment account used for YesMandarin.
 4. Entity details and actual GST registration status.
@@ -125,6 +125,16 @@ Stripe evidence is now complete enough to bridge charges, fees and payouts. Bank
 6. Explanation or source history for the missing invoice numbers.
 
 ## First reconstruction pass
+
+Account `1913` deterministic workpapers were generated on 25 August 2026:
+
+- `workpapers/2026-08-25-account-1913-reconciliation-worklist.csv`
+- `workpapers/2026-08-25-account-1913-reconciliation-summary.json`
+- Rebuild with `scripts/prepare_1913_reconciliation_worklist.py`; matching behaviour is covered by `tests/test_prepare_1913_reconciliation_worklist.py`.
+- The 253-row control totals remain exact: $44,572.45 credits, $16,818.43 debits and $27,754.02 net movement.
+- 29 statement lines have one invoice candidate supported by an explicit invoice reference or payer-name evidence plus amount and date bounds. Another 20 invoice-payment lines remain review items; 25 credits have no defensible invoice candidate.
+- Expense proposals are worklist aids, not tax conclusions: 67 are straightforward merchant/reference candidates, 97 require business-use or account review, and nine debits remain unresolved.
+- The `9316` transfer stays blocked until the other side is supplied. The $660.10 Stripe payout is isolated to Stripe clearing rather than revenue, and Shane's $309.55 reimbursement is isolated from invoice income.
 
 Once the complete bank export is available:
 
