@@ -1,0 +1,195 @@
+{
+  "generated_at": "2026-08-26T00:08:58+10:00",
+  "account": {
+    "name": "Business Account",
+    "bsb_account_suffix": "067-873-1654 1913",
+    "xero_account_id": "995f82c8-6c4f-443a-92c5-17b14cab091c"
+  },
+  "scope": "Additional source-supported single-invoice bank-credit reconciliations following the 29 posted on 2026-08-25",
+  "queue_before": 224,
+  "queue_after": 207,
+  "additional_reconciled_count": 17,
+  "additional_reconciled_total": 10342.00,
+  "cumulative_reconciled_count": 46,
+  "cumulative_reconciled_total": 28868.00,
+  "xero_balances": {
+    "statement_balance": 27754.02,
+    "book_balance_before": 25775.11,
+    "book_balance_after": 33737.11,
+    "book_minus_statement_after": 5983.09
+  },
+  "verification_control": "Each accepted statement line was searched individually in Xero, checked against the controlled bank worklist and invoice export, reconciled only to the single surviving matching invoice/payment, then verified absent under the same search with the queue reduced by exactly one.",
+  "reconciliations": [
+    {
+      "statement_date": "2025-07-12",
+      "statement_amount": 540.00,
+      "statement_description": "Fast Transfer From TERRY TRAN TerryMondayTuition TerryMondayTuition",
+      "invoice_number": "INV-0005",
+      "evidence": "Payer Terry Tran, exact $540 amount, tuition reference, plausible date; Xero exposed the matching $540 Terry Tran payment and the older same-value candidate had not been consumed by this line.",
+      "xero_result": "reconciled; searched line disappeared; queue 224 to 223"
+    },
+    {
+      "statement_date": "2025-07-13",
+      "statement_amount": 540.00,
+      "statement_description": "Fast Transfer From Patrick Galea Chinese Tutoring 10x Classes Patrick Galea",
+      "invoice_number": "INV-0004",
+      "evidence": "Payer Patrick Galea, exact $540 amount, class reference and plausible date; Xero exposed the matching Patrick Galea payment.",
+      "xero_result": "reconciled; searched line disappeared; queue 223 to 222"
+    },
+    {
+      "statement_date": "2025-07-22",
+      "statement_amount": 620.00,
+      "statement_description": "Fast Transfer From TERRY TRAN TerryWednesdayTuition",
+      "invoice_number": "INV-0007",
+      "evidence": "Payer Terry Tran, exact $620 amount and unique Wednesday tuition reference; Xero suggestion agreed on contact, invoice and amount with a plausible three-day timing difference.",
+      "xero_result": "reconciled; searched line disappeared; queue 222 to 221"
+    },
+    {
+      "statement_date": "2025-08-12",
+      "statement_amount": 650.00,
+      "statement_description": "Fast Transfer From YVONNE X ZHAO chinese lessons",
+      "invoice_number": "INV-0008",
+      "evidence": "Payer Yvonne Zhao, exact $650 amount, Chinese-lessons reference and exact statement/invoice date; Xero displayed Ref INV-0008.",
+      "xero_result": "reconciled; searched line disappeared; queue 221 to 220"
+    },
+    {
+      "statement_date": "2025-09-10",
+      "statement_amount": 540.00,
+      "statement_description": "Fast Transfer From TERRY TRAN TerryMondayClass6October TerryMondayClass6October",
+      "invoice_number": "INV-0013",
+      "evidence": "Payer Terry Tran, exact $540 amount and class reference; earlier same-value INV-0005 was already consumed, leaving Xero Ref INV-0013 as the single match.",
+      "xero_result": "reconciled; searched line disappeared; queue 220 to 219"
+    },
+    {
+      "statement_date": "2025-09-21",
+      "statement_amount": 540.00,
+      "statement_description": "Fast Transfer From Patrick Galea Term 4 10x Chinese Classes",
+      "invoice_number": "INV-0014",
+      "evidence": "Payer Patrick Galea, exact $540 amount and Term 4 reference; earlier same-value INV-0004 was already consumed, leaving Xero Ref INV-0014.",
+      "xero_result": "reconciled; searched line disappeared; queue 219 to 218"
+    },
+    {
+      "statement_date": "2025-10-25",
+      "statement_amount": 680.00,
+      "statement_description": "Fast Transfer From JAMES BLAKE Bill",
+      "invoice_number": "INV-0021",
+      "evidence": "Payer James Blake, exact $680 amount and bill reference; Xero Find & Match exposed one $680 James Blake payment dated 2025-10-26, selected individually and verified as the single matching payment.",
+      "xero_result": "reconciled; searched line disappeared; queue 218 to 217"
+    },
+    {
+      "statement_date": "2025-10-26",
+      "statement_amount": 620.00,
+      "statement_description": "Fast Transfer From TERRY TRAN TerryThursdayPrivateClass TerryThursdayPrivateClass",
+      "invoice_number": "INV-0022",
+      "evidence": "Payer Terry Tran, exact $620 amount, private-class reference and exact payment date; earlier same-value INV-0007 was already consumed, leaving the matching Xero payment.",
+      "xero_result": "reconciled; searched line disappeared; queue 217 to 216"
+    },
+    {
+      "statement_date": "2026-01-20",
+      "statement_amount": 568.00,
+      "statement_description": "Fast Transfer From TERRY TRAN TerryGroupClass",
+      "invoice_number": "INV-0030",
+      "evidence": "Payer Terry Tran, exact $568 amount and group-class reference; Xero displayed Ref INV-0030 on the exact statement date.",
+      "xero_result": "reconciled; searched line disappeared; queue 216 to 215"
+    },
+    {
+      "statement_date": "2026-02-03",
+      "statement_amount": 568.00,
+      "statement_description": "Fast Transfer From Patrick Galea Chinese Class 2026T1",
+      "invoice_number": "INV-0031",
+      "evidence": "Payer Patrick Galea, exact $568 amount and 2026 Term 1 reference; Xero displayed Ref INV-0031 with a plausible 14-day invoice/payment gap.",
+      "xero_result": "reconciled; searched line disappeared; queue 215 to 214"
+    },
+    {
+      "statement_date": "2026-02-16",
+      "statement_amount": 680.00,
+      "statement_description": "Fast Transfer From TAKE MY CANS PTY LTD Mandarin lessons Take My Cans",
+      "invoice_number": "INV-0038",
+      "evidence": "Payer Take My Cans Pty Ltd, exact $680 amount and Mandarin-lessons reference; earlier same-value candidate INV-0024 was already consumed and Xero displayed Ref INV-0038.",
+      "xero_result": "reconciled; searched line disappeared; queue 214 to 213"
+    },
+    {
+      "statement_date": "2026-03-05",
+      "statement_amount": 650.00,
+      "statement_description": "Fast Transfer From YVONNE X ZHAO chinese",
+      "invoice_number": "INV-0044",
+      "evidence": "Payer Yvonne Zhao, exact $650 amount and Chinese reference; earlier INV-0008 was already consumed and Xero displayed Ref INV-0044 on the exact date.",
+      "xero_result": "reconciled; searched line disappeared; queue 213 to 212"
+    },
+    {
+      "statement_date": "2026-04-13",
+      "statement_amount": 680.00,
+      "statement_description": "Fast Transfer From JAMES BLAKE Jamie- Mandarin",
+      "invoice_number": "INV-0050",
+      "evidence": "Payer James Blake, exact $680 amount and Jamie/Mandarin reference; older INV-0021 was already consumed and Xero displayed Ref INV-0050.",
+      "xero_result": "reconciled; searched line disappeared; queue 212 to 211"
+    },
+    {
+      "statement_date": "2026-04-18",
+      "statement_amount": 568.00,
+      "statement_description": "Fast Transfer From TERRY TRAN TerryGroupClassINV-0052",
+      "invoice_number": "INV-0052",
+      "evidence": "Explicit invoice reference INV-0052, payer Terry Tran and exact $568 amount; older INV-0030 was already consumed and Xero displayed Ref INV-0052.",
+      "xero_result": "reconciled; searched line disappeared; queue 211 to 210"
+    },
+    {
+      "statement_date": "2026-07-12",
+      "statement_amount": 680.00,
+      "statement_description": "Fast Transfer From JAMES BLAKE Jamie- Mandarin",
+      "invoice_number": "INV-0075",
+      "evidence": "Payer James Blake, exact $680 amount and Jamie/Mandarin reference; older INV-0021 and INV-0050 were already consumed, leaving Xero Ref INV-0075.",
+      "xero_result": "reconciled; searched line disappeared; queue 210 to 209"
+    },
+    {
+      "statement_date": "2026-05-21",
+      "statement_amount": 650.00,
+      "statement_description": "Fast Transfer From YVONNE X ZHAO yvonne",
+      "invoice_number": "INV-0069",
+      "evidence": "Payer Yvonne Zhao, exact $650 amount and yvonne reference; older INV-0008 and INV-0044 were already consumed, leaving Xero Ref INV-0069 dated 2026-05-19.",
+      "xero_result": "reconciled; searched line disappeared; queue 209 to 208"
+    },
+    {
+      "statement_date": "2026-05-05",
+      "statement_amount": 568.00,
+      "statement_description": "Fast Transfer From Patrick Galea Chinese Term",
+      "invoice_number": "INV-0053",
+      "evidence": "Payer Patrick Galea, exact $568 amount and Chinese Term reference; INV-0031 had already been consumed, leaving Xero Ref INV-0053 dated 2026-04-14 as the single match.",
+      "xero_result": "reconciled; searched line disappeared; queue 208 to 207"
+    }
+  ],
+  "unresolved_invoice_cases": [
+    {
+      "statement_date": "2025-10-01",
+      "statement_amount": 449.00,
+      "statement_description": "Fast Transfer From M JANDA Megan Steindlberger Mandarin Class INV-0017",
+      "candidate_invoice_number": "INV-0017",
+      "reason": "Explicit reference but statement amount is $1 above the $448 invoice; Xero offered no single suggestion. Overpayment/partial allocation requires review, so it was left unreconciled."
+    },
+    {
+      "statement_date": "2026-05-07",
+      "statement_amount": 332.00,
+      "statement_description": "Fast Transfer From JACK ANDERSON INV-0047 Jack Anderson INV-0047",
+      "candidate_invoice_number": "INV-0047",
+      "reason": "Explicit reference but $332 is a partial payment against the $665 invoice; Xero offered no single suggestion. Left unreconciled."
+    },
+    {
+      "statement_date": "2026-07-27",
+      "statement_amount": 650.00,
+      "statement_description": "Fast Transfer From DANIEL LIE Daniel Invoice Term 3",
+      "candidate_invoice_number": "INV-0066",
+      "reason": "INV-0066 was already consumed by the explicitly referenced $650 Daniel Lie bank row dated 2026-05-13 in the verified 2026-08-25 posting audit. Xero offered no single suggestion for this later row. Reconciling it to INV-0066 would duplicate the invoice payment, so it was left unreconciled."
+    }
+  ],
+  "excluded_credits": [
+    {
+      "statement_date": "2025-07-11",
+      "statement_amount": 309.55,
+      "reason": "Shane repayment/related-party receipt; expressly excluded from invoice reconciliation."
+    },
+    {
+      "statement_date": "2025-08-05",
+      "statement_amount": 1.00,
+      "reason": "Microsoft purchase refund; not invoice income."
+    }
+  ]
+}

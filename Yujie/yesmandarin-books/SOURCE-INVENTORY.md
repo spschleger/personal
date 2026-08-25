@@ -4,7 +4,7 @@
 
 ## Current conclusion
 
-Xero is not yet complete books. The full supplied account `1913` statement range is imported and the first 29 source-supported invoice payments are reconciled, but expenses, transfers, Stripe-clearing items, opening balance and ambiguous receipts remain unresolved. The displayed Xero balance does not yet represent the source bank closing balance.
+Xero is not yet complete books. The full supplied account `1913` statement range is imported and 46 source-supported single-invoice payments are reconciled, but expenses, transfers, Stripe-clearing items, opening balance and ambiguous receipts remain unresolved. The displayed Xero balance does not yet represent the source bank closing balance.
 
 Use Xero as a historical invoice source during reconstruction. Treat complete bank statements as the cash source of truth. Xero will become the canonical books only after the source-backed reconstruction is verified.
 
@@ -69,7 +69,11 @@ Canonical source exports and controls are under `sources/bank/`:
 - Machine-readable controls: `2026-08-25-control-summary.json`. Rebuild with `scripts/prepare_cba_bank_import.py`.
 - Native Xero import completed 25 August 2026: Xero reported 253 statement lines imported and zero duplicates. The reconciliation queue then showed 253 lines.
 - Xero's post-import statement balance was $27,754.02, equal to imported net movement. The $3,262.83 source opening balance remains to be represented before the statement balance can agree to the $31,016.85 source closing balance.
-- On 25 August 2026, all 29 single invoice candidates in the controlled worklist were reconciled individually against Xero suggestions, totalling $18,526.00. Each searched statement line disappeared after reconciliation and the queue count fell exactly from 253 to 224. Xero then showed a $25,775.11 book balance against the $27,754.02 imported statement movement; this does not resolve the missing opening balance or the remaining transaction classifications.
+- On 25 August 2026, 29 single-invoice candidates in the controlled worklist were reconciled individually, totalling $18,526.00. Each searched statement line disappeared and the queue fell exactly from 253 to 224; Xero then showed a $25,775.11 book balance.
+- On 26 August 2026, the controlled review added 17 further single-invoice reconciliations totalling $10,342.00. Each searched line again disappeared and the queue fell exactly from 224 to 207. Cumulative invoice-payment reconciliations are 46 lines totalling $28,868.00. Xero then showed a $33,737.11 book balance against the unchanged $27,754.02 imported statement movement.
+- The 26 August review left three invoice cases unreconciled: $449 M Janda against $448 INV-0017; a $332 partial Jack Anderson receipt against $665 INV-0047; and a $650 Daniel Lie row that cannot reuse INV-0066 after the explicitly referenced 13 May row consumed it. The posting audit is `workpapers/2026-08-26-xero-additional-invoice-reconciliation-result.json`.
+
+These postings do not resolve the missing opening balance or the remaining transaction classifications.
 
 This proves the transaction sequence and balances for the supplied export range. It does not by itself categorise withdrawals or prove which deposits settle which invoices.
 
