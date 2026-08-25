@@ -32,6 +32,7 @@ Private research project for partner (28F, Sydney). Working through chronic cons
 - `primer.md` — plain-language explainer for Shane: the anatomy, what the images show, tethered cord vs tumour, what each would mean, report vocabulary
 - `mri-2026-08-18-read.md` — Claude's frame-by-frame read of the 18 Aug MRI screenshots against the four questions; differential (tethered cord vs intradural tumour); implications
 - `imaging/mri-lumbar-sacrum-2026-08-18/` — the images (categorised: non-contrast / contrast / key-images / scout) + provenance README
+- `action-list-zh.md` / `.pdf` — 行动清单 for Yujie + her parents: haodf consult steps + 7 surgeon questions, parents' insurance steps + 4 verification questions, decision criteria, red flags (phone PDF via html2pdf)
 - `china-option.md` — Beijing surgery track: surgeon landscape (Xiu Bo † 2025; Xuanwu/Jian Fengzeng first choice), insurance mechanics + parent questions (zh), cost/timeline comparison, haodf remote-consult script (zh), decision criteria
 - `public-neurosurgeons-sydney.md` — **22 Aug: Brennan is private-only now.** Call list of Sydney neurosurgeons who operate on public patients, ranked (Kohan/St George, Reddy/POW, Olsson/Westmead, Dower/Nepean…), phone script, clinic referral contacts
 - `TODO.md` — consolidated action list (tonight → MRI day → GP visit → when report lands → standing red flags)
