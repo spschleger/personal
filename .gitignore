@@ -9,6 +9,7 @@ node_modules/
 .DS_Store
 .obsidian/workspace*
 *.log
+.hermes-tmp.*
 .env
 .env.*
 __pycache__/
