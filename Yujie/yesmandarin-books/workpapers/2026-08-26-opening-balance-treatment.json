@@ -1,0 +1,20 @@
+{
+  "as_of": "2026-08-26",
+  "account": "CBA Business Account ending 1913",
+  "opening_balance_date": "2025-07-01",
+  "opening_balance": "3262.83",
+  "classification": "capital introduced / owner's equity",
+  "evidence": {
+    "type": "owner confirmation",
+    "confirmed_by": "Shane Schleger",
+    "confirmed_on": "2026-08-26",
+    "statement": "The opening balance is founder starting capital."
+  },
+  "accounting_treatment": {
+    "bank_account_debit": "3262.83",
+    "equity_credit": "3262.83",
+    "income_effect": "0.00",
+    "instruction": "Represent the source opening bank balance against an existing capital introduced / owner's equity account. Do not record it as sales or other income."
+  },
+  "xero_status": "Treatment decided; not yet posted. Verify Xero's conversion date and existing equity account before posting."
+}
