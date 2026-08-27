@@ -1,138 +1,174 @@
-# 去北京做手术：怎么进医院、保险怎么办
-# Beijing surgery: how to get in, and how insurance works
+# Beijing surgery pathway — corroborated version
+# 北京手术路径——核实版
 
-2026年8月27日 · 27 Aug 2026
+**Audited:** 27 August 2026
+**Purpose:** determine whether Beijing is a real route to adult tethered-cord/lipoma surgery, not merely a plausible story.
 
-这份说明是根据国家医保局、大连市医保局、辽宁省医保局和医院官网的资料整理的，不是听说的。标了 **（待核实）** 的地方，需要打电话确认。
-This is compiled from the National Healthcare Security Administration, Dalian and Liaoning medical-insurance bureaus, and the hospitals' own websites — not hearsay. Anything marked **(to verify)** needs a phone call to confirm.
+> **Verdict:** Beijing is a **real route to specialist review and possible surgery**, but it is **not yet a booked or accepted surgical pathway**. Xuanwu Hospital has the right adult neuro-spine service and named surgeons who officially list tethered cord in their scope. The remaining load-bearing gates are: the surgeon accepts Yujie's case, the hospital gives an admission plan, the exact Dalian insurance product is active, and the cross-province reimbursement terms are confirmed.
 
----
+## What is genuinely verified
 
-## 1. 一句话 · In one line
+1. **Xuanwu is an appropriate first hospital.** Its official profiles list both **Wu Hao (吴浩)** and **Chen Zan (陈赞)** as treating tethered cord and other spinal-cord disorders. Chen's profile specifically describes surgical treatment. The hospital's neuro-spine centre reports 77 beds, four operating theatres and more than 3,500 operations a year, although that is the whole centre's volume—not adult tethered-cord case volume.[1][2][3]
+2. **A normal public route into the hospital exists.** Xuanwu publishes booking through its app, self-service machines, Beijing 114 and referral/follow-up channels. Its outpatient notice recognises Chinese identity documents and passports.[4][16]
+3. **Remote triage is practical.** Haodf documents DICOM upload for CT/MRI and other imaging. This can get the records in front of a surgeon before travel.[5]
+4. **The inpatient mechanics are real.** If a doctor decides to admit her and issues the hospital's admission paperwork, the ward later contacts the patient by phone or SMS. The patient then attends with the admission certificate, identity document, deposit and medical-insurance credential.[15]
+5. **Dalian insurance can settle in Beijing in principle.** National policy permits cross-province direct settlement after the relevant filing; Xuanwu publishes the same sequence for out-of-area insured patients. Covered items follow the treatment-place catalogue, while deductible, reimbursement rate and limits follow the enrolment-place policy.[10][11]
 
-**你有资格、有门路、有保险方案。** 中国公民＋大连户口＋有效身份证，就够了；人在澳洲没关系，爸妈可以代办。进医院的门是"好大夫在线"。保险用爸妈8月25日办的那个（很可能是"灵活就业人员职工医保"）就对了。**不需要在北京办任何保险。**
+## What the previous version overstated
 
-**You are eligible, there is a door in, and there is an insurance plan.** Chinese citizenship + Dalian hukou + a valid ID card is all it takes; living in Australia doesn't matter and your parents can act for you. The door into the hospital is the Haodf online platform. The insurance your parents started on 25 Aug (very likely "flexible-employment employee medical insurance") is the right one. **Nothing needs to be arranged in Beijing insurance-wise.**
+- **“Haodf is the door into Xuanwu.”** No. It is a useful triage channel, not an official guarantee of an appointment, admission or surgery.
+- **“Send the scans, get accepted, then fly.”** Incomplete. A favourable online opinion is only a reason to book an in-person Xuanwu assessment. The surgeon may require new MRI, neurological examination, urology/urodynamics, anaesthetic assessment or other work-up before deciding.
+- **“Admission will take 1–4 weeks.”** Not corroborated. The official guide confirms telephone/SMS notification after admission paperwork, but publishes no dependable bed-wait estimate for this case.[15]
+- **“Surgery costs about ¥80,000–150,000” or “keep ¥100,000 available.”** Not corroborated for Yujie's anatomy, procedure or insurance status. The hospital must quote the deposit and expected self-pay component after reviewing the case.
+- **“She must stay in China 2–3 months.”** That is a sensible contingency budget, not a verified medical minimum. General orthopaedic guidance says no long-haul flight for at least four weeks around surgery and to tell the surgeon about travel plans; tethered-cord surgery, a dural opening or a CSF leak may require longer. The operating team must clear the flight.[14]
+- **“Surgery will stop progression” or a specific delay will make deficits permanent.** Too certain. Reviews find possible neurological improvement after detethering but low-strength evidence, meaningful CSF-leak risk and insufficient evidence for several patient-centred outcomes. No paper can give Yujie a personal probability without examination.[12][13]
+- **The backup-hospital list was not fully corroborated.** Do not create complexity now. Start with Xuanwu; if it declines or cannot schedule, ask the Xuanwu surgeon to name the best Beijing alternative for this exact anatomy.
 
----
+# The minimum viable path
 
-## 2. 你要准备的 · What you need
+## Track A — surgeon acceptance
 
-- **身份证**——有效 ✓ · **ID card** — valid ✓
-- **户口**——请爸妈确认你的户口没有被注销，把户口本上你那一页拍给你 · **Hukou** — ask your parents to confirm it hasn't been cancelled; photo of your page in the 户口本
-- **医保电子凭证**——在"国家医保服务平台"APP（或支付宝/微信）里激活；需要一个中国手机号 · **Electronic insurance credential** — activate it in the national insurance app (or Alipay/WeChat); needs a Chinese mobile number
-- **中国手机号**——挂号、好大夫、医院APP都要用 · **A Chinese mobile number** — bookings, Haodf and hospital apps all need one
-- **I-MED的光盘（DICOM原始影像）**——已经申请，拿到后先复制一份 · **The I-MED disc (raw DICOM images)** — requested; copy it once you have it
-- **MRI报告（中英文）、尿动力学报告** · **MRI report (EN + ZH), urodynamics report**
+### A1. Prepare one clean digital packet
 
----
+Send the same packet to Wu Hao and Chen Zan:
 
-## 3. 进医院的路 · The way in
+- current MRI **DICOM** files, not screenshots alone;
+- radiology reports and any older comparison imaging;
+- one-page Chinese symptom timeline: pain, weakness, numbness, gait, bladder, bowel and sexual symptoms, with dates and progression;
+- prior diagnoses, operations, medicines, allergies and major medical conditions;
+- the exact questions below.
 
-**第一步：好大夫在线问诊（本周就可以做，不需要医保）**
-在"好大夫在线"APP搜 **宣武医院 神经脊柱中心**。菅凤增主任本人不接网上问诊，先找他团队的医生：**吴浩**（约312元起）或 **陈赞**（约42元起）。选"图文问诊"。上传：光盘里的DICOM（好大夫支持直接上传DICOM）、MRI报告、尿动力学报告、《给爸爸妈妈的说明》。把行动清单里的7个问题问他，再加两个：**住院押金大约多少？从开住院证到排上床位大约几周？**
-备选：清华大学玉泉医院 崔志强团队（修波教授原来的科室）；解放军总医院第七医学中心 李萃萃。
+Haodf's published instructions support DICOM upload.[5]
 
-**Step 1: Haodf online consult (this week; no insurance needed)**
-In the Haodf app search **Xuanwu Hospital Neuro-Spine Centre**. Prof Jian Fengzeng doesn't take online consults himself — go to his team: **Dr Wu Hao** (from ~¥312) or **Dr Chen Zan** (from ~¥42). Choose the text consult. Upload: the DICOM files from the disc (Haodf accepts DICOM directly), the MRI report, the urodynamics report, and the parents' summary. Ask the 7 questions in the action list, plus two more: **roughly how much is the admission deposit? how many weeks from admission certificate to a bed?**
-Backups: Tsinghua Yuquan Hospital, Dr Cui Zhiqiang's team (Prof Xiu Bo's old unit); PLA General 7th Medical Centre, Dr Li Cuicui.
+### A2. Request remote opinions from both Xuanwu surgeons
 
-**第二步：加号 → 面诊**
-网上问诊后，医生通常会给一个**免费加号**（陈赞医生页面上写明了）。这样就不用去抢号。如果自己挂号：用**北京114预约挂号**公众号（异地医保的病人只能走114，不能用医院APP）；每天15:00放号，最多提前14天。特需门诊300–500元，主任800–1000元。
+Use the current authenticated Haodf pages or the hospital's current internet-clinic channel. Treat platform prices and availability as live information that can change.
 
-**Step 2: added slot → face-to-face**
-After the online consult the doctor usually grants a **free "added number"** (Dr Chen Zan's page says so explicitly) — no fighting for a booking. If booking yourself: use the **Beijing 114** booking WeChat account (out-of-area-insured patients must use 114, not the hospital app); numbers released 15:00 daily, up to 14 days ahead. Special-needs clinic ¥300–500, department head ¥800–1000.
+Ask:
 
-**第三步：住院证 → 排床**
-面诊医生开**住院证** → 到住院处登记 → 等电话/短信通知床位，宣武神经外科一般**1–4周**。通知后**24小时内**必须到，否则重新排。
+1. **Is the imaging and symptom pattern consistent with symptomatic adult tethered cord from the lipoma/dermal-sinus anatomy?**
+2. **Would you recommend an in-person Xuanwu assessment for possible surgery now?**
+3. **If yes, which surgeon and clinic should she book, and can your team help secure the outpatient appointment?**
+4. **What additional tests should be completed before travelling?**
+5. **If surgery is likely, what operation is being considered—detethering alone, lipoma debulking, sinus excision, or another approach?**
+6. **What are the current estimated bed wait, deposit, hospital stay and required recovery time in Beijing?**
+7. **When would you normally permit a long-haul flight if recovery is uncomplicated, and what would delay clearance?**
 
-**Step 3: admission certificate → bed queue**
-The clinic doctor issues an **admission certificate** → register at the admissions office → wait for a phone/SMS bed notice, typically **1–4 weeks** at Xuanwu neurosurgery. You must present **within 24 hours** of the notice or you re-queue.
+**Go/no-go rule:** do not buy a surgery-length trip merely because a platform accepted the upload. Travel for the clinic only after a named Xuanwu surgeon or team says the case warrants in-person assessment.
 
-**第四步：术前检查 → 手术 → 恢复**
-住院后医院会自己再做检查（很可能重做MRI、全脊柱MRI、尿动力学、电生理）。这是正常的，不代表澳洲的检查不好。术后：简单松解3–4天出院，脂肪瘤切除会更久；6周内不能提重物弯腰；**术后至少1个月不能坐长途飞机，如果有脑脊液漏要2–3个月**。所以要在中国待2–3个月。
+### A3. Attend Xuanwu outpatient clinic
 
-**Step 4: pre-op tests → surgery → recovery**
-The hospital will redo tests (very likely MRI incl. whole spine, urodynamics, nerve studies). Normal — not a comment on the Australian scan. Afterwards: 3–4 days to discharge for a simple release, longer after lipoma work; no lifting/bending for 6 weeks; **no long-haul flight for at least a month, 2–3 months if there's any CSF leak**. So plan 2–3 months in China.
+Book through the surgeon's team if offered; otherwise use **掌上宣武医院** or **Beijing 114**. Carry:
 
-**没有人需要转诊信才能看病。** 光盘和报告就够了。（大连医院的转诊单只影响报销比例，见下面。）
-**Nobody needs a referral letter to be seen.** The disc and the report are enough. (A Dalian referral form only affects the reimbursement rate — see below.)
+- Yujie's original Chinese ID card and passport;
+- medical-insurance card/electronic credential;
+- all original DICOM imaging and reports;
+- the one-page timeline and medication list;
+- the insurance status screenshots described below.
 
----
+Xuanwu's public booking channels and identity requirements are published by the hospital.[4][16]
 
-## 4. 保险 · Insurance
+### A4. Convert the clinic opinion into an actual surgical path
 
-**A. 灵活就业人员职工医保（大连）——推荐，很可能就是爸妈办的那个**
-每月约 **499.59元**。**没有健康告知，不排除先天性疾病和既往症**——这是它和商业保险最大的区别。大连的规定：**首次参保，缴费当月就能享受住院待遇**（再次参保是次月）。**（待核实：**辽宁省2025年有个新规定，个别城市改成等3个月；目前没看到大连这样做，但一定要打电话确认。）北京三甲住院：起付线几百元，报销比例大约70–80%，异地就医再减10个百分点。**要一直按月交，交到手术和复查都结束**——断缴超过3个月又要重新等。
+A viable surgical path exists only when the clinic produces all of these:
 
-**A. Flexible-employment employee insurance (Dalian) — recommended; very likely what your parents bought**
-About **¥499.59/month**. **No health declaration; congenital and pre-existing conditions are NOT excluded** — this is the key difference from commercial insurance. Dalian's rule: **first-time enrolment, inpatient cover from the month you pay** (re-enrolment: the following month). **(To verify:** a 2025 Liaoning provincial rule has led some cities to impose a 3-month wait; no sign Dalian has, but confirm by phone.) Beijing tertiary hospital: deductible a few hundred yuan, ~70–80% reimbursed, minus 10 points for out-of-area. **Keep paying monthly until surgery and follow-up are finished** — a gap over 3 months restarts the wait.
+- a documented operative recommendation;
+- named intended surgeon/team and proposed procedure;
+- required pre-admission tests;
+- admission certificate or equivalent queue entry;
+- realistic bed-window estimate;
+- deposit / expected charges;
+- follow-up and flight-clearance plan.
 
-**B. 城乡居民医保——备用**
-每年460元，但中途参保要等**3个月**；而且按2024年国家新规，断缴4年以上的人可能要等**6个月**（大连的官方问答只说3个月——不清楚，要问）。北京住院报销55%，起付1500元，再加大病保险。可以同时办着当备份，10–12月交2027年的费用就行。
+Xuanwu's ward then contacts the registered phone number by phone or SMS when admission is available. Keep a Chinese mobile number active and answer unknown Beijing calls.[15]
 
-**B. Urban-rural resident insurance — backup only**
-¥460/year, but mid-year enrolment means a **3-month** wait; and under the 2024 national rule someone lapsed 4+ years may face **6 months** (Dalian's own FAQs only say 3 — unclear, ask). Beijing inpatient reimbursed at 55% after a ¥1,500 deductible, plus the catastrophic layer. Fine to keep as a backup — pay the 2027 premium in the Oct–Dec window.
+## Track B — insurance and payment
 
-**C. 大连普惠保——锦上添花**
-每年59/98元，不问健康，但要先有大连基本医保；2026年的投保期还没公布（往年是9–10月，11月1日生效）。开放了就买一份。
+### B1. First identify what the parents actually bought
 
-**C. Dalian Puhuibao (city top-up) — nice to have**
-¥59/98 a year, no health questions, but requires active Dalian basic insurance first; the 2026 window isn't announced yet (past years: Sept–Oct, cover from 1 Nov). Buy it if it opens in time.
+The phrase “higher-tier product with a one-month waiting period” is not enough. Before relying on it, obtain:
 
-**D. 商业医疗险（百万医疗险等）——不行**
-所有商业医疗险都**除外先天性疾病和既往症**。脊髓栓系＋脂肪瘤是先天性的，而且8月18日已经确诊。它不会赔；如果没如实告知，保险公司还会解除合同。**不要买；如果爸妈买的是这种，不要指望它。**
+- exact Chinese product name;
+- issuing authority or insurer;
+- whether it is **职工医保（灵活就业）**, **城乡居民医保**, or commercial insurance;
+- enrolment and first-payment receipts;
+- screenshot showing **active medical-benefit start date**;
+- policy wording and exclusions if commercial.
 
-**D. Commercial medical insurance — no**
-Every commercial policy **excludes congenital conditions and pre-existing conditions**. Tethered cord with a lipoma is congenital, and was diagnosed on 18 Aug. It will not pay; if the condition wasn't declared, the insurer can void the policy. **Don't buy one; if that's what your parents bought, don't rely on it.**
+This is the single biggest unresolved dependency.
 
-**不需要北京的保险。** 大连的保险在北京可以直接结算：办"异地就医备案"（职工医保在"大连市医保局"公众号或"国家医保服务平台"APP上办；出院结算前办都有效）。如果在大连的三级医院（如大医附一）开一张**转诊单**，报销比例可以提高约10个百分点，住院后5个工作日内登记也可以。
+### B2. If it is Dalian flexible-employment employee insurance
 
-**No Beijing insurance is needed.** Dalian insurance settles directly at the Beijing hospital: file an "out-of-area treatment registration" (for employee insurance, in the Dalian bureau's WeChat account or the national app; valid as long as it's done before discharge settlement). A **referral form** from a Dalian tertiary hospital (e.g. Dalian Medical University No.1) raises the rate by ~10 points, and can be registered up to 5 working days after admission.
+Published Dalian rules say eligible Dalian-hukou or resident-permit holders of the relevant age and work status may enrol. Current public guidance reports a total monthly contribution of **¥499.59**. The 2022 Dalian enrolment rule says a genuinely first-time Dalian employee-insurance enrollee receives benefits in the payment month; someone resuming after interruption generally resumes from the next month. Living overseas and parent/proxy enrolment are not addressed clearly in the sources, so confirm those two facts with Dalian医保 before relying on the registration.[7][8]
 
----
+Do **not** simultaneously enrol in employee and resident basic insurance: Dalian's published rule prohibits duplicate enrolment and duplicate benefits.[7]
 
-## 5. 钱和时间 · Money and time
+### B3. If it is Dalian resident insurance
 
-- 手术总费用（脂肪瘤切除＋神经电生理监测）大约 **8–15万元**。自费要先交押金。· Total bill for lipoma resection with nerve monitoring roughly **¥80–150k**. Self-pay means a deposit up front.
-- 有职工医保：自付大约 **3–6万** · With employee insurance: out of pocket roughly **¥30–60k**
-- 有居民医保：自付大约 **4–7万** · With resident insurance: roughly **¥40–70k**
-- 另加机票、在中国2–3个月的生活费、这段时间没有收入。· Plus flights, 2–3 months' living costs in China, no income.
-- **时间：**如果职工医保9月初交、当月生效 → **10–11月**就可能做手术。居民医保 → 最早12月，最晚明年3月。· **Timing:** employee insurance paid early Sept with same-month cover → surgery possible **Oct–Nov**. Resident insurance → December at best, March at worst.
-- **悉尼这边不要停。** Kohan医生的转诊已经在路上，公立医院0澳元，可能比北京更早。两边都拿到具体日期和方案后再决定。· **Don't pause Sydney.** The referral to Dr Kohan is in motion, public surgery is $0, and it may be sooner than Beijing. Decide when both sides have a concrete date and plan.
+Late or non-continuous resident-insurance enrolment is subject to a fixed three-month wait, with possible additional months for breaks under Liaoning's current rules. The published wait is specifically a **resident-insurance** rule; do not apply it automatically to flexible-employment employee insurance.[9]
 
----
+### B4. If it is commercial insurance
 
-## 6. 问爸爸妈妈的问题 · Questions for your parents
+Do not assume a newly purchased commercial policy covers a condition already diagnosed before purchase. Read the actual policy for:
 
-请让爸妈打 **0411-12393（大连医保局）**，或者 **12345**，把答案**原话**发给你。
-Ask your parents to call **0411-12393 (Dalian Medical Insurance Bureau)** or **12345**, and send you the answers **word for word**.
+- pre-existing/congenital-condition exclusions;
+- waiting period;
+- mainland public-hospital and Xuanwu eligibility;
+- pre-authorisation;
+- annual and procedure limits;
+- direct billing versus reimbursement;
+- exclusions for neurological deficits, spinal dysraphism, lipoma, dermal sinus, implants or intraoperative monitoring.
 
-1. **8月25日办的那个保险，全名是什么？**是不是"灵活就业人员职工基本医疗保险"？请把**参保凭证或缴费记录**拍照发给我。
-   **What exactly is the insurance you started on 25 Aug?** Is it "flexible-employment employee basic medical insurance"? Please photograph the **enrolment certificate or payment record**.
-2. 如果是灵活就业职工医保：我是**首次参保**，住院待遇是从**缴费当月**开始，还是**次月**，还是要等**3个月**？**精确生效日期**是哪一天？
-   If it is: I'm a **first-time enrollee** — does inpatient cover start the **same month**, the **next month**, or after **3 months**? What is the **exact effective date**?
-3. 如果是商业保险（比如百万医疗险）：是哪家公司、什么产品？健康告知里有没有申报已经确诊的脊髓栓系/脂肪瘤？条款里有没有"先天性疾病、既往症不赔"？
-   If it's commercial (e.g. a "million-yuan" medical policy): which insurer and product? Was the diagnosed tethered cord/lipoma declared? Does it exclude congenital and pre-existing conditions?
-4. 去**北京三甲医院住院**：异地备案怎么办、在哪办？备案后住院起付线多少、报销比例多少？在大连三级医院开**转诊单**能提高多少？
-   For **inpatient treatment at a Beijing tertiary hospital**: how and where to file the out-of-area registration? Deductible and reimbursement rate after filing? How much does a **referral form** from a Dalian tertiary hospital add?
-5. 术中**神经电生理监测、硬脊膜修补材料、防粘连材料**在医保目录内吗？自付比例大概多少？
-   Are **intraoperative nerve monitoring, dural repair materials and anti-adhesion materials** in the insurance catalogue? Roughly what self-pay share?
-6. （备用）如果同时办居民医保：我断缴4年以上，中途参保等待期是**3个月还是6个月**？需要补缴哪些年度？
-   (Backup) If also enrolling in resident insurance: lapsed 4+ years — is the wait **3 or 6 months**? Which years would need back-paying?
-7. **2026年大连普惠保**什么时候开放投保？
-   When does the **2026 Dalian Puhuibao** open for enrolment?
-8. **户口本**：我的户口还在吗？请把我那一页拍照发我。
-   **Hukou book**: is my registration still there? Please photograph my page.
+Only written insurer confirmation counts.
 
----
+### B5. Confirm the Beijing settlement before admission
 
-## 7. 任何时候出现以下情况——当天去急诊（不管在哪个国家）
-## Any of these — emergency department the same day, whichever country
+Use the National Medical Insurance Service Platform / Dalian医保 channel to make the correct cross-province filing. Xuanwu's own guidance tells out-of-area patients to file first and then activate/present the social-security credential.[11]
 
-- 发烧＋头痛/脖子僵硬 · Fever + headache / stiff neck
-- 骶部皮肤标记处发红、肿胀、流液 · Redness, swelling or discharge at the sacral skin mark
-- 会阴部新发麻木 · New numbness in the saddle area
-- 排尿困难、尿不出来 · Difficulty passing urine / retention
-- 腿脚无力突然加重 · Sudden worsening of leg or foot weakness
-- 大便失禁而且自己没感觉 · Bowel incontinence without feeling it
+Before admission, call **12393** or the current Dalian医保 service channel and obtain answers against Yujie's actual account:
+
+1. Is her entitlement active **today**, and from what exact date?
+2. What product and enrolment category is recorded?
+3. Is Xuanwu Hospital currently a cross-province network hospital for inpatient direct settlement under her account?
+4. Which filing category should she use for planned Beijing surgery?
+5. Does a Dalian hospital referral change the deductible or payment percentage?
+6. What are the exact inpatient deductible, fund-payment rate, annual cap and major-medical top-up for Xuanwu?
+7. Which expected items may be self-pay: intraoperative monitoring, non-catalogue drugs/consumables, private room or special clinic?
+8. Can a parent complete any remaining step for an adult overseas, and what authorisation/original documents are required?
+
+National rules allow filing to be completed before discharge for direct settlement in some circumstances, but doing it before admission is safer.[10]
+
+## Decision rule
+
+Beijing becomes an **actual viable path to surgery** only when all four boxes are ticked:
+
+- [ ] Wu Hao, Chen Zan or another named Xuanwu surgeon says Yujie should attend for possible surgery.
+- [ ] The in-person team recommends surgery and places her into the admission process.
+- [ ] The hospital gives a bed-window, deposit and post-operative plan.
+- [ ] Dalian医保/insurer confirms the active date and written reimbursement/direct-settlement terms—or the family explicitly accepts self-pay exposure.
+
+Until then, Beijing is a **credible parallel pathway**, not a surgical booking.
+
+## Clinical caution
+
+A 2020 adult meta-analysis reported that pain was the symptom most likely to improve after detethering, but its pooled studies were heterogeneous and cannot be used as Yujie's personal forecast.[12] A 2024 systematic review found low-strength evidence for neurological improvement after detethering and moderate-strength evidence of CSF-leak complications, with insufficient evidence for several key outcomes.[13]
+
+Do not let insurance administration delay urgent assessment if she develops rapidly worsening leg weakness, new urinary retention or incontinence, new saddle anaesthesia, fever, or drainage/redness from the dermal-sinus area. Seek urgent local medical care.
+
+## Sources
+
+[1] https://www.xwhosp.com.cn/Html/Doctors/Main/Index_195.html — Xuanwu Hospital — Wu Hao
+[2] https://www.xwhosp.com.cn/Html/Doctors/Main/Index_30248.html — Xuanwu Hospital — Chen Zan
+[3] https://www.xwhosp.com.cn/Html/Departments/Main/Index_30846.html — Xuanwu Hospital Neuro-Spine Centre
+[4] https://www.xwhosp.com.cn/Html/News/Articles/10004068.html — Xuanwu Hospital booking guide
+[5] https://www.haodf.com/neirong/wenzhang/9392730636.html — Haodf DICOM upload guide
+[7] https://zc.51shebao.com/detail/831841 — Dalian basic-medical-insurance enrolment notice (mirror)
+[8] https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimikrx0895543.shtml?from= — Dalian Daily — flexible-employment insurance
+[9] https://ybj.ln.gov.cn/ybj/zfxxgk/zc/xzgfxwj/2026012610520168878/index.shtml — Liaoning continuous-enrolment notice
+[10] https://www.nhsa.gov.cn/art/2022/7/26/art_104_8629.html — NHSA cross-province settlement rules
+[11] https://www.xwhosp.com.cn/Html/News/Articles/10011247.html?WebVisitShield= — Xuanwu cross-province inpatient insurance Q&A
+[12] https://pubmed.ncbi.nlm.nih.gov/32001403 — Adult tethered-cord surgery systematic review and meta-analysis
+[13] https://pmc.ncbi.nlm.nih.gov/articles/PMC11524043 — Diagnosis and treatment of tethered spinal cord systematic review
+[14] https://roh.nhs.uk/services-information/other-info/before-surgery/travel-surgery-and-dvt — Royal Orthopaedic Hospital — surgery, travel and DVT
+[15] https://www.xwhosp.com.cn/Html/News/Articles/10013454.html — Xuanwu Hospital — Inpatient admission guide
+[16] https://www.xwhosp.com.cn/Html/News/Articles/10012457.html — Xuanwu Hospital — Outpatient attendance notice

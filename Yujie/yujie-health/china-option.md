@@ -1,5 +1,7 @@
 # China option — surgery in Beijing (parallel track)
 
+> **Superseded 27 August 2026:** the operational pathway and insurance claims in this file were independently audited. Use [`beijing-pathway-for-yujie.md`](beijing-pathway-for-yujie.md) as the current source of truth. This file is retained as background only; its timing, cost, insurance and recovery estimates are not decision-grade.
+
 **UPDATE 25 Aug (evening):** parents have instead **initiated a higher-tier insurance product with a ~1-MONTH waiting period** (more expensive; exact product/terms to confirm — the 居民医保 analysis below kept for reference). This restores Beijing's timeline competitiveness: insurance active ~late Sep → surgery ~Oct possible. **RPA consult locked: Dr David Wilson, Thu 27 Aug 12:30pm.** The comparison is now genuinely two live offers — get the Xuanwu online consult booked so Beijing's cost + date are concrete too.
 
 **→ Mechanics now live in `china-access-and-insurance.md` (27 Aug, primary sources). Net: the parents' product is almost certainly 灵活就业职工医保 (correct choice, ¥499.59/mo, cover 当月/次月 — verify), not commercial; timeline Oct–Nov 2026 if that holds.**

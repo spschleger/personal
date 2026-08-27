@@ -1,5 +1,7 @@
 # Beijing surgery — how you actually get in, and how she gets covered
 
+> **Superseded 27 August 2026:** use [`beijing-pathway-for-yujie.md`](beijing-pathway-for-yujie.md) for the current operational and insurance pathway. This research note is retained for provenance; its timing, premium, reimbursement and proxy-enrolment claims must not be acted on without the current file's verification gates.
+
 **Written 27 Aug 2026.** Purpose: replace family hearsay with the actual process, from official Chinese sources, for a Dalian-hukou Chinese citizen living in Australia who needs adult tethered-cord / cauda equina lipoma surgery at a top Beijing 三甲. Every fact is tagged **[C]** confirmed from an official/primary source, **[R]** reported by a reputable secondary source, or **[?]** unverified — verify by phone before relying on it. Chinese phrases are quoted so they can be used on the phone. Strategic comparison vs Sydney stays in `china-option.md`; this file is the *mechanics*.
 
 ---
