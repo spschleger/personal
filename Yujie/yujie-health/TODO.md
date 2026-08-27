@@ -19,6 +19,7 @@
 ## NOW (25 Aug) — China parallel track (`china-option.md`)
 - [x] ~~Parents: start 居民医保~~ — **superseded: parents have initiated a higher-tier insurance with a 1-MONTH waiting period** (get product name, premium, coverage %, catalogue scope, effective date → log in `china-option.md`)
 - [ ] **Book the haodf online consult** — 宣武医院神经脊柱中心 菅凤增/team (fallback 李萃萃, 解放军总医院第七医学中心); upload MRI key images + translated report conclusion + urodynamics + `summary-for-parents-zh.md`; ask the 7 questions in `china-option.md`
+- [ ] **Send Yujie `beijing-pathway-for-yujie.pdf`** (bilingual; §6 = the 8 questions for her parents, incl. 户口本 photo + 参保凭证 photo)
 - [ ] **Parents → 12393: the six questions in `china-access-and-insurance.md` §6** (is it 灵活就业职工医保 + send the 参保凭证; 当月/次月 vs 3-mo; 异地备案 + rates + 转诊 uplift; IONM/dural materials in catalogue; 居民 backup wait; 普惠保 2026 window). Answers verbatim to Yujie.
 - [ ] Parents: photograph the 户口本 page — confirm 户口 not 注销.
 - [ ] Yujie: activate 医保电子凭证 (国家医保服务平台 APP, Chinese mobile number); keep 职工 premiums paid monthly through follow-up.
