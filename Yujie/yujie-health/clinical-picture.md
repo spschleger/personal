@@ -72,3 +72,11 @@
 - Degree of toe/heel-walk asymmetry; any foot drop / tripping history
 - Recent diarrhoea: urgency-type vs leakage without awareness
 - DRE on a between-BM day (assesses rectal loading independent of BM timing)
+
+## 27 Aug 2026 — RPA neurosurgery consult, Dr David Wilson (12:30)
+- Had the I-MED study (18 Aug, Acc #77.60502003) on screen.
+- Examined her; **confirmed the neurological deficits** (left-leg / L5–S1 picture consistent with the MRI and the history).
+- Stated he is **not experienced with this procedure** (adult tethered cord / cauda equina lipoma detethering) and is **referring to Dr Saeed Kohan** (St George Public) — phoning Kohan himself and sending the referral.
+- **No further tests ordered** (no whole-spine MRI, CT, neurophysiology or repeat urodynamics) — left to Kohan.
+- **No timeline, urgency category or public/private guidance given.**
+- Same morning: I-MED Chatswood CD/USB copy of the full study requested (for the Beijing track + backup).

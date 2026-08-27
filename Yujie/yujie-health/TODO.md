@@ -1,11 +1,20 @@
 # TODO — consolidated (updated 24 Aug 2026 after RPA ED presentation)
 
-## URGENT — Wilson consult THURSDAY 27 Aug, 12:30pm (RPA track)
+## NOW (27 Aug) — post-Wilson: KOHAN referral (Sydney track)
+- [x] ~~Wilson consult 27 Aug~~ — DONE. Wilson: not experienced with this procedure → referring to **Dr Saeed Kohan** (St George). Wilson phoning Kohan + sending referral himself.
+- [x] ~~Log the consult~~ — Wilson examined and **confirmed the neuro deficits** (left L5/S1 picture); **nothing ordered** (no whole-spine MRI / CT / neurophysiology / urodynamics — Kohan's call); **no timeline or urgency category given**; he **had the I-MED study on screen**. I-MED CD/USB **requested this morning** — collect when ready. Logged in `clinical-picture.md`.
+- [ ] **~2–3 business days:** ring Kohan's rooms **02 9553 9477** (fax 02 9553 9804 · drsaeedkohan@gmail.com) — "has a referral from Dr David Wilson (RPA) for [Yujie] arrived? earliest consult? public list at St George — how does it run?" Say **worsening**. If not arrived by ~Tue 1 Sep, chase Wilson's rooms 02 9157 1916.
+- [ ] **Dr Guan: parallel GP referral to Kohan by name** — a specialist→specialist referral is valid only 3 months under Medicare; a GP referral is 12 months. Include the addendum: *progressive neurological deficit, neurogenic bladder (300 ml residuals), enhancing dermal sinus — urgent.*
+- [ ] **I-MED Chatswood: push study to Dr Kohan's rooms** (Acc #77.60502003) — in addition to the CD/USB copy.
+- [ ] At the Kohan consult use `neurosurgeon-brief.md` unchanged (questions are surgeon-agnostic); add: his adult lipoma volume, radical vs conservative, IONM, St George public wait.
+- [ ] Decision-point check vs China (`china-option.md` criteria) once Kohan gives a date + plan.
+
+## DONE — Wilson consult THURSDAY 27 Aug, 12:30pm (RPA track)
 - [x] ~~Write~~ `neurosurgeon-brief.md` — **WRITTEN 25 Aug (+ printable PDF). Fill in the calf/thigh cm blanks after measuring, then print ×2** (one page: lifelong bowel/bladder, left-leg hypotrophy + cavus/claw toes with numbers, sacral mark, 12-mo pain course, urodynamics numbers, questions — the referral letter omits most of this)
 - [ ] Photos TONIGHT if not done: sacral mark (ruler, no touching), both feet standing; tape-measure calves/thighs L vs R
 - [ ] Bring: MRI report, urodynamics report, referral copy, brief ×2, photo phone
 - [ ] Ask Wilson: his adult-lipoma volume; radical vs conservative resection; IONM; expected surgery date + category; whole-spine MRI; dermal-sinus handling; say **worsening**
-- [ ] Ask I-MED to send study to RPA/Wilson if not already pulled (Acc #77.60502003)
+- [x] ~~**Thu morning at open — call I-MED Chatswood (Yujie on hand to authorise), Acc #77.60502003, one call, two asks:** (1) patient copy of the FULL study on CD/USB — all series incl. sacral stack + post-gad + key images, not anonymised; when collectable, fee; (2) push the study electronically to Dr David Wilson / RPA neurosurgery for today 12:30. DICOM = the China payload (Xuanwu reads it natively; zip → 百度网盘/WeChat to parents/助理 once contact made; haodf 图文问诊 itself takes only PNG/PDF → use `imaging/` frames + zh-CN report). Expect Beijing/RPA to re-scan on their own 3T + whole-spine before surgery anyway.~~ — **CD REQUESTED 27 Aug morning; collect when ready.**
 
 ## NOW (25 Aug) — China parallel track (`china-option.md`)
 - [x] ~~Parents: start 居民医保~~ — **superseded: parents have initiated a higher-tier insurance with a 1-MONTH waiting period** (get product name, premium, coverage %, catalogue scope, effective date → log in `china-option.md`)
