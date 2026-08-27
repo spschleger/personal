@@ -22,7 +22,8 @@
 - **“Surgery costs about ¥80,000–150,000” or “keep ¥100,000 available.”** Not corroborated for Yujie's anatomy, procedure or insurance status. The hospital must quote the deposit and expected self-pay component after reviewing the case.
 - **“She must stay in China 2–3 months.”** That is a sensible contingency budget, not a verified medical minimum. General orthopaedic guidance says no long-haul flight for at least four weeks around surgery and to tell the surgeon about travel plans; tethered-cord surgery, a dural opening or a CSF leak may require longer. The operating team must clear the flight.[14]
 - **“Surgery will stop progression” or a specific delay will make deficits permanent.** Too certain. Reviews find possible neurological improvement after detethering but low-strength evidence, meaningful CSF-leak risk and insufficient evidence for several patient-centred outcomes. No paper can give Yujie a personal probability without examination.[12][13]
-- **The backup-hospital list was not fully corroborated.** Do not create complexity now. Start with Xuanwu; if it declines or cannot schedule, ask the Xuanwu surgeon to name the best Beijing alternative for this exact anatomy.
+- **One backup is strongly corroborated.** Tsinghua University Yuquan Hospital's official profile for **Cui Zhiqiang (崔志强)** says he has performed more than 1,000 tethered-cord operations and lists published work specifically on lipoma-type tethered cord. Yuquan also publishes booking through its WeChat mini-program and Beijing 114. This verifies a credible second specialist route, not acceptance of Yujie's individual case.[17][18]
+- **PLA General Hospital Seventh Medical Center remains only a provisional backup.** Relevant clinician expertise appears on Haodf, but this audit did not verify the civilian outpatient-to-admission pathway from an official hospital source.
 
 # The minimum viable path
 
@@ -55,6 +56,8 @@ Ask:
 7. **When would you normally permit a long-haul flight if recovery is uncomplicated, and what would delay clearance?**
 
 **Go/no-go rule:** do not buy a surgery-length trip merely because a platform accepted the upload. Travel for the clinic only after a named Xuanwu surgeon or team says the case warrants in-person assessment.
+
+**Fallback:** if both Xuanwu teams decline, cannot offer a workable timeframe, or recommend another centre, send the same packet to Cui Zhiqiang at Yuquan Hospital. His official profile is unusually specific to tethered cord and lipoma-type tethering, and Yuquan has public booking channels.[17][18]
 
 ### A3. Attend Xuanwu outpatient clinic
 
@@ -172,3 +175,5 @@ Do not let insurance administration delay urgent assessment if she develops rapi
 [14] https://roh.nhs.uk/services-information/other-info/before-surgery/travel-surgery-and-dvt — Royal Orthopaedic Hospital — surgery, travel and DVT
 [15] https://www.xwhosp.com.cn/Html/News/Articles/10013454.html — Xuanwu Hospital — Inpatient admission guide
 [16] https://www.xwhosp.com.cn/Html/News/Articles/10012457.html — Xuanwu Hospital — Outpatient attendance notice
+[17] http://www.yuquanhosp.com/Html/Doctors/Main/Detail_48.html — Yuquan Hospital — Cui Zhiqiang
+[18] http://www.yuquanhosp.com/Html/News/Main/103.html — Yuquan Hospital — Outpatient booking
