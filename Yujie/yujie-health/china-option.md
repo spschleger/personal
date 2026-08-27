@@ -2,6 +2,17 @@
 
 **UPDATE 25 Aug (evening):** parents have instead **initiated a higher-tier insurance product with a ~1-MONTH waiting period** (more expensive; exact product/terms to confirm — the 居民医保 analysis below kept for reference). This restores Beijing's timeline competitiveness: insurance active ~late Sep → surgery ~Oct possible. **RPA consult locked: Dr David Wilson, Thu 27 Aug 12:30pm.** The comparison is now genuinely two live offers — get the Xuanwu online consult booked so Beijing's cost + date are concrete too.
 
+**→ Mechanics now live in `china-access-and-insurance.md` (27 Aug, primary sources). Net: the parents' product is almost certainly 灵活就业职工医保 (correct choice, ¥499.59/mo, cover 当月/次月 — verify), not commercial; timeline Oct–Nov 2026 if that holds.**
+
+**FACT-CHECK 27 Aug 2026** (of a voice-session conversation Shane had on the China payment side; checked against the research below):
+- **Confirmed:** self-pay = 押金 prepayment at admission, top-up, settle at discharge · lapsed 居民医保 resumable with a waiting period · Beijing treatment on Dalian cover needs 异地备案 and reimburses less · Beijing 居民医保 is hukou/student-tied, not available to a Dalian-hukou adult.
+- **She does NOT need Beijing insurance to be treated in Beijing.** Dalian cover + 异地备案 settles directly at the Beijing bedside. Ignore any "get insured in Beijing / nominal Beijing employer (挂靠)" idea — 挂靠 is now actively policed and using it to claim is 骗保 exposure.
+- **⚠ The 3-month wait may be a floor.** 国办发〔2024〕38号 (from the 2025 enrolment year): break in enrolment → fixed 3 months **+ 1 variable month per lapsed year**, repairable only by back-paying the missed years' premiums (fixed part not repairable). She has been out ~4–5 yrs → potentially ~7 months unless repaired. Liaoning/Dalian implement locally → parents must get the **exact 生效日期** from 12393, and ask whether 补缴 shortens it.
+- **⚠ The "1-month waiting period, higher-tier" product (25 Aug) is unidentified — and everything hangs on it.** 30-day wait + "more expensive" is the signature of a **commercial 百万医疗险**, which universally excludes 既往症 (pre-existing) and 先天性疾病 (congenital). Tethered cord + lipoma + dermal sinus is both, and is documented as diagnosed on 18 Aug 2026 → a commercial policy would not pay; non-disclosure on the 健康告知 = claim denied + policy voided. If it's instead **职工医保 via 灵活就业** (Dalian flexible-employment employee insurance; monthly premium; ~80–90% reimbursement; no pre-existing exclusion) it is real — but Dalian's 灵活就业 首次参保 waiting period needs confirming (1 month is not assumed). **Until the product is named, the "surgery ~Oct" timeline is unsupported.** Question for the parents added below.
+- **Status confirmed 27 Aug:** Chinese citizen (not naturalised) → hukou/insurance route open; 身份证 valid; **Australian partner visa 820 GRANTED** (confirmed 27 Aug) → travel permitted, no Bridging Visa B needed; **own Medicare card** → public surgery in Sydney is $0 as assumed.
+- **Framing note:** the "Chinese ethnic propensity" argument for going to China is not well supported (no solid evidence of Han predisposition to spinal lipoma/TCS; northern China's historically high *open*-NTD rates are folate-linked). The real argument is **case volume** at Xuanwu/301 from population + centralised referral. Use volume, not ethnicity, with surgeons and family.
+- Ranking unchanged: Kohan (St George, public, dysraphism-trained — referral from Wilson 27 Aug) is the Sydney comparator now; Beijing must beat him on substance + date.
+
 **Status 25 Aug 2026: ACTIVE as a parallel track.** Decided: (1) Yujie's parents are starting her resident health insurance (居民医保, Dalian) now — ~3-month wait before it covers surgery; (2) we will book a paid **online consult with a Beijing surgeon** this week to get a concrete offer. **RPA (Dr David Wilson clinic, call pending) remains the primary pathway** until there are two concrete offers to compare.
 
 ## The decision frame
@@ -50,7 +61,9 @@ Nominal figure Yujie was given: **55% out-of-region**. Research confirms the sha
 
 **Net estimate for her:** bill ~¥100–150k at a top Beijing unit → after basic (55–65% of catalogue items, ¥1,500 deductible) + 大病 layer → **out of pocket plausibly ¥40–70k ≈ AU$9–15k**, plus flights, months of living costs, income stopped. Better than the first-pass guess, still ≫ RPA's $0.
 
-**Remaining questions for the parents (narrowed from four):**
+**Remaining questions for the parents:**
+0. **【最重要】8月25日办的那个"等待期一个月"的保险到底是什么产品？** 保险公司/产品全名、保费、等待期、报销比例。是**商业保险**（如百万医疗险）还是**职工医保（灵活就业人员参保）**？如果是商业保险：健康告知里是否申报了已确诊的脊髓栓系/马尾脂肪瘤？条款里是否写明**除外先天性疾病和既往症**？（如果是商业保险，这个病大概率不赔——先天性、已确诊。）
+0b. 居民医保：她已断保4–5年，按2024年国家新规，等待期是固定3个月**再加每断保一年加1个月**——大连具体怎么执行？**补缴**往年保费能不能缩短？**精确的生效日期**是哪天？
 1. 成年居民（非老年）异地住院在北京三甲的基本报销比例到底是55%还是65%？办了转诊/备案后各是多少？
 2. 大连居民**大病保险的起付标准**（个人自付累计超过多少开始赔付）和分段赔付比例是多少？
 3. 等待期从缴费当天起算满3个月的**确切生效日期**（拿到缴费凭证后算出来）。

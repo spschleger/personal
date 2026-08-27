@@ -19,6 +19,13 @@
 ## NOW (25 Aug) — China parallel track (`china-option.md`)
 - [x] ~~Parents: start 居民医保~~ — **superseded: parents have initiated a higher-tier insurance with a 1-MONTH waiting period** (get product name, premium, coverage %, catalogue scope, effective date → log in `china-option.md`)
 - [ ] **Book the haodf online consult** — 宣武医院神经脊柱中心 菅凤增/team (fallback 李萃萃, 解放军总医院第七医学中心); upload MRI key images + translated report conclusion + urodynamics + `summary-for-parents-zh.md`; ask the 7 questions in `china-option.md`
+- [ ] **Parents → 12393: the six questions in `china-access-and-insurance.md` §6** (is it 灵活就业职工医保 + send the 参保凭证; 当月/次月 vs 3-mo; 异地备案 + rates + 转诊 uplift; IONM/dural materials in catalogue; 居民 backup wait; 普惠保 2026 window). Answers verbatim to Yujie.
+- [ ] Parents: photograph the 户口本 page — confirm 户口 not 注销.
+- [ ] Yujie: activate 医保电子凭证 (国家医保服务平台 APP, Chinese mobile number); keep 职工 premiums paid monthly through follow-up.
+- [ ] Yujie: haodf consult — 宣武 吴浩/陈赞 first (菅凤增 not online), upload the I-MED **DICOM** (haodf accepts it) + zh-CN report; add: 住院押金？候床几周？
+- [ ] **GATE — identify the 25 Aug "1-month wait" insurance product** (commercial 百万医疗险 → won't cover a diagnosed congenital condition; 职工医保 灵活就业 → real, but confirm Dalian's waiting period). Question written in `action-list-zh.md` §1b / `china-option.md` Q0. No Beijing date is real until this is answered.
+- [x] ~~Visa gate~~ — **820 granted; own Medicare card** (27 Aug). Travel to China OK; Sydney public = $0.
+- [ ] Parents: 居民医保 exact 生效日期 + whether 补缴 shortens the variable waiting period (国办发〔2024〕38号: 3 mo fixed + 1 mo per lapsed year) — `action-list-zh.md` §1c
 - [ ] Parents: answer the insurance-verification questions for the NEW 1-month product (等待期生效日 / 异地北京比例 / 目录范围 / 封顶线) (等待期 / 异地备案比例 / 目录内项目 / 封顶线) — log answers into `china-option.md`
 - [ ] Diary ~4–6 weeks: compare concrete offers (RPA date vs Beijing date/plan/out-of-pocket) per the decision criteria
 
