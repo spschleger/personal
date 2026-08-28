@@ -1,8 +1,8 @@
 # Bloods Summary — Shane Schleger
 
-**Compiled:** 2026-06-19 · **last updated:** 2026-06-25 (22 Jun draw added)
+**Compiled:** 2026-06-19 · **last updated:** 2026-08-28 (27 Aug hCG steady-state draw added)
 **Companion file:** `bloods-tracker.csv` (full longitudinal table, opens as a spreadsheet)
-**Next draw:** repeat **fasting iron studies** to confirm transferrin sat 59% (lab-recommended); otherwise routine TRT/Hct + BP recheck once CPAP is established.
+**Next draw:** **Hct** is now the biggest gap (unmeasured since 22 Jun; free T has risen 25% on hCG) — add to the next panel. Still owed: repeat **fasting iron studies** (transferrin sat 59%). Post-reta-saturation panel (Hct + E2 + free T + SHBG) gates any test bump.
 
 ---
 
@@ -18,6 +18,7 @@
 | **2025-09-16** | **QML** | **Yes** | **47** | **1183** | **<1 / 1** | **217** | **0.51** |
 | 2026-01-27 | Laverty | Yes | 42.3 | 1140 | <0.1 / <1 | 191 | 0.50 |
 | 2026-06-22 | Laverty | Yes | 40.1 | 1034 | 0.1 / 1 | 207 | 0.51 |
+| 2026-08-27 | Laverty | Yes + hCG | 43.9 | 1295 | – | 235 | – (not drawn) |
 
 **TRT start:** between 1 May and 16 Sep 2025. The Sep draw is the first with suppressed gonadotropins (LH <1, FSH 1) and supraphysiological androgens — the clear switch point. Pre-TRT you sat low-normal natural (total T 16–20, free T ~300–350) with a primary-ish picture (FSH trending high: 10 → 14).
 
@@ -56,6 +57,31 @@
 - **Thyroid:** euthyroid throughout (TSH 1.3–2.0, FT4/FT3 mid-range).
 - **Prolactin** normal on TRT (169–260). **Cortisol** 398 at 11:53 (midday, PM ref) — fine, *not* comparable to the prior AM values.
 - **IGF-1** mid-range (18–24, latest 21); GH random low (expected, not diagnostic).
+
+---
+
+## 27 Aug 2026 draw — hCG-on-0.09 steady-state read
+
+**Context:** day 45 of hCG 100 IU/day (unbroken since 13 Jul), test held at 0.09 throughout, reta micro-dose started 25 Aug (2 days prior — too early to move SHBG), Sunday 23 Aug alcohol cleared ~3.5 days. Collected 08:55 AM. Panel deliberately narrow: total T, free T, SHBG, E2, albumin. **Hct not drawn** (Shane's call). Full PDF: `blood-results/Shane-Schleger-405176.pdf`. LH/FSH/progesterone were on the request but not reported.
+
+| Marker | 22 Jun (TRT only) | **27 Aug (TRT + hCG)** | Δ | Read |
+|---|---|---|---|---|
+| Total T | 40.1 | **43.9** | +9% | hCG adds ~+4 nmol/L of endogenous T on top of the 0.09 exogenous floor |
+| SHBG | 28 | **24** | −14% | Lowest on record; amplifies the free fraction |
+| Free T | 1034 | **1295** | **+25%** | Now **above** Dave's 900–1200 band (was dead-centre) — hCG + falling SHBG compounding |
+| E2 | 207 | **235** (~64 pg/mL) | +14% | Asymptomatic at day 45; see ratio below |
+| Albumin | 46 | 43 | – | In range; slightly lower → cFT formula not inflating the free T read |
+
+**The key read — E2 is tracking substrate, not spiking:**
+- E2/total-T ratio: 207/40.1 = **5.2** (Jun) vs 235/43.9 = **5.4** (Aug). Essentially flat. The E2 rise is **proportionate to the androgen rise**, i.e. hCG's intratesticular aromatisation is adding at most a marginal extra — there is no disproportionate hCG-driven E2 spike. This is the benign version of the two-E2-sources concern flagged 22 Jul.
+- E2 235 is the highest on record but consistent with Shane's pro-E2, symptom-led stance (constitutional high-E2 responder, ran 136–140 naturally, asymptomatic at ~200). Day-45 subjective: no estrogenic symptoms, libido up, testicular sensation returned, volume partially back.
+- Reference: 235 pmol/L ≈ 64 pg/mL. The number alone does not veto anything per the locked decision rule; symptoms lead.
+
+**What the draw can't tell us (and why it matters):**
+- **Hct is the unmeasured variable.** Free T +25% is exactly the input that drives erythrocytosis, and hCG adds its own erythropoietic push on top of TRT. Last known Hct 0.51 (22 Jun, Hb 177). CPAP still not in use. The hydrated ceiling (0.54) could plausibly have been approached on this rise — unknown. **Hct should go on the next panel.**
+- No LH/FSH reported → can't confirm the axis picture, but on TRT they're suppressed regardless; hCG acts directly on the Leydig cell, so this is expected and uninformative.
+
+**Decision this draw was meant to inform (per 21 Aug rule):** *E2 acceptable → keep hCG 100, test stays 0.09* vs *E2 too high → drop hCG, let it clear, bump test 0.09→0.10 as a one-variable swap.* On the numbers: E2 is proportionate and asymptomatic, so the "acceptable" branch is supported; the new consideration is that **free T already sits above the target band with hCG on, so a test bump on top of hCG is not indicated by these bloods** — any bump would be a swap (drop hCG → raise test), not an addition. Decision recorded in `current-plan.md`.
 
 ---
 
