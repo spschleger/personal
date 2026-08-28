@@ -18,3 +18,11 @@ __pycache__/
 
 # compiled binary (rebuild: swiftc -O html2pdf.swift -o html2pdf)
 tools/html2pdf/html2pdf
+
+# raw medical imaging (DICOM) — keep only INVENTORY.md tracked
+Yujie/yujie-health/imaging/**/DICOM/
+Yujie/yujie-health/imaging/**/Viewer/
+Yujie/yujie-health/imaging/**/DICOMDIR
+Yujie/yujie-health/imaging/**/AUTORUN.INF
+Yujie/yujie-health/imaging/**/README.TXT
+Yujie/yujie-health/imaging/**/*.zip
