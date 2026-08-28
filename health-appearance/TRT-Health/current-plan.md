@@ -31,7 +31,18 @@ This is the live "where things stand / what's next" across the interacting threa
 
 **FOR THE NEXT PANEL — progesterone.** It was on the 27 Aug request but not reported. hCG drives Leydig steroidogenesis through the pregnenolone→progesterone pathway, so progesterone is expected to be up from the 2–3 nmol/L baseline, and elevated progesterone is a recognised (if individual) cause of blunting/sedation in men. It is the one **testable** mechanism behind the "flat" query — cheap to add, and it either supports or kills the hypothesis instead of leaving it to subjective recall. Add alongside Hct.
 
-**DECISION: pending Shane** — see below when taken.
+**✅ DECISION TAKEN (28 Aug): hCG STOPPED. Back to test 0.09 only. Recomp shelved.**
+- **hCG ends at ~day 47** — the first 5,000 IU vial ran out on schedule (47 × 100 IU). Not a reaction to the bloods; a natural stopping point that coincided with them.
+- **Primary driver: possible China trip** for Yujie's surgery. **Both the hCG and the reta are UGL** → Shane is not carrying or running unlicensed compounds into an international trip. Correct call and the decisive one.
+- **Reta not started** and won't be before the trip. **Recomp shelved** — not postponed to a date, shelved until life settles.
+- **Test continues unchanged at 0.09.** No taper needed for hCG (the axis is already exogenously suppressed, so stopping hCG is not a restart scenario — it simply removes the Leydig signal).
+- **Weight:** up somewhat more than the ~86 kg noted 21 Aug; no clean fasted morning weight taken. **Gym lapsed the last ~2 weeks** with the life stuff.
+
+**What to expect off hCG (so it isn't misread later):** hCG t½ ~36h → cleared in ~1 week; testicular effects fade over ~1–2 weeks. Expect **testicular volume to regress** back toward the pre-hCG state (the gains were signal-dependent, not structural), **E2 to fall back** toward ~207 or below, and **free T to drop** by roughly hCG's endogenous contribution (~4 nmol/L total T, so a meaningful part of the 1295 — the rest of that figure was the SHBG drift, which may or may not reverse). None of this is a problem; it is the expected return to the 0.09-only baseline that every pre-July draw describes.
+
+**One free observation available:** if the "flat" query lifts as hCG clears over the next 1–2 weeks, that is a useful read on whether hCG was contributing to it. Conditions are still not clean, but it costs nothing to notice.
+
+**Fertility position unchanged:** the trial did its job — tolerance proven (47 days, zero side effects), Leydig signal reestablished, substantial ITT reactivation. The conception-time protocol (hCG 250 IU/day + rFSH 50–150 IU 3×/wk) is unaffected by stopping now, and would want **pharmacy-grade, not UGL**, material anyway.
 
 > *(Note: the recomp banner below still says "telmisartan" — actual med is candesartan 8mg; banner predates the med choice.)*
 
