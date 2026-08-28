@@ -62,7 +62,7 @@
 
 ## 27 Aug 2026 draw — hCG-on-0.09 steady-state read
 
-**Context:** day 45 of hCG 100 IU/day (unbroken since 13 Jul), test held at 0.09 throughout, **reta NOT started and recomp not started** (the 21 Aug restart plan didn't execute — life bandwidth), Sunday 23 Aug alcohol cleared ~3.5 days. So this is a pure hCG-on-0.09 read with no other variable moving. Collected 08:55 AM. Panel deliberately narrow: total T, free T, SHBG, E2, albumin. **Hct not drawn** (Shane's call). Full PDF: `blood-results/Shane-Schleger-405176.pdf`. LH/FSH/progesterone were on the request but not reported.
+**Context:** day 46 of hCG 100 IU/day (unbroken since 13 Jul), test held at 0.09 throughout, **reta NOT started and recomp not started** (the 21 Aug restart plan didn't execute — life bandwidth), Sunday 23 Aug alcohol cleared ~3.5 days. So this is a pure hCG-on-0.09 read with no other variable moving. Collected 08:55 AM. Panel deliberately narrow: total T, free T, SHBG, E2, albumin. **Hct not drawn** (Shane's call). Full PDF: `blood-results/Shane-Schleger-405176.pdf`. LH/FSH/progesterone were on the request but not reported.
 
 | Marker | 22 Jun (TRT only) | **27 Aug (TRT + hCG)** | Δ | Read |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@
 
 **The key read — E2 is tracking substrate, not spiking:**
 - E2/total-T ratio: 207/40.1 = **5.2** (Jun) vs 235/43.9 = **5.4** (Aug). Essentially flat. The E2 rise is **proportionate to the androgen rise**, i.e. hCG's intratesticular aromatisation is adding at most a marginal extra — there is no disproportionate hCG-driven E2 spike. This is the benign version of the two-E2-sources concern flagged 22 Jul.
-- E2 235 is the highest on record but consistent with Shane's pro-E2, symptom-led stance (constitutional high-E2 responder, ran 136–140 naturally, asymptomatic at ~200). Day-45 subjective: no estrogenic symptoms, libido up, testicular sensation returned, volume partially back.
+- E2 235 is the highest on record but consistent with Shane's pro-E2, symptom-led stance (constitutional high-E2 responder, ran 136–140 naturally, asymptomatic at ~200). Day-46 subjective: no estrogenic symptoms, libido up, testicular sensation returned, volume partially back.
 - Reference: 235 pmol/L ≈ 64 pg/mL. The number alone does not veto anything per the locked decision rule; symptoms lead.
 
 **What the draw can't tell us (and why it matters):**
