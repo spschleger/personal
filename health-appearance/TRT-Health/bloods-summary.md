@@ -62,7 +62,7 @@
 
 ## 27 Aug 2026 draw — hCG-on-0.09 steady-state read
 
-**Context:** day 45 of hCG 100 IU/day (unbroken since 13 Jul), test held at 0.09 throughout, reta micro-dose started 25 Aug (2 days prior — too early to move SHBG), Sunday 23 Aug alcohol cleared ~3.5 days. Collected 08:55 AM. Panel deliberately narrow: total T, free T, SHBG, E2, albumin. **Hct not drawn** (Shane's call). Full PDF: `blood-results/Shane-Schleger-405176.pdf`. LH/FSH/progesterone were on the request but not reported.
+**Context:** day 45 of hCG 100 IU/day (unbroken since 13 Jul), test held at 0.09 throughout, **reta NOT started and recomp not started** (the 21 Aug restart plan didn't execute — life bandwidth), Sunday 23 Aug alcohol cleared ~3.5 days. So this is a pure hCG-on-0.09 read with no other variable moving. Collected 08:55 AM. Panel deliberately narrow: total T, free T, SHBG, E2, albumin. **Hct not drawn** (Shane's call). Full PDF: `blood-results/Shane-Schleger-405176.pdf`. LH/FSH/progesterone were on the request but not reported.
 
 | Marker | 22 Jun (TRT only) | **27 Aug (TRT + hCG)** | Δ | Read |
 |---|---|---|---|---|
@@ -79,6 +79,7 @@
 
 **What the draw can't tell us (and why it matters):**
 - **Hct is the unmeasured variable.** Free T +25% is exactly the input that drives erythrocytosis, and hCG adds its own erythropoietic push on top of TRT. Last known Hct 0.51 (22 Jun, Hb 177). CPAP still not in use. The hydrated ceiling (0.54) could plausibly have been approached on this rise — unknown. **Hct should go on the next panel.**
+- **SHBG 24 (28 → 24):** not an hCG signature — it's the on-TRT androgen-driven drift (42 → 32 → 26 → 28 → 24) plus ~10% assay noise; hCG only nudged it via the small total-T rise. The drop is why free T rose 25% on a 9% total-T rise (SHBG shift amplifies the free fraction). Expect SHBG to *rise* once recomp/reta actually starts, pulling free T back down without a dose change.
 - No LH/FSH reported → can't confirm the axis picture, but on TRT they're suppressed regardless; hCG acts directly on the Leydig cell, so this is expected and uninformative.
 
 **Decision this draw was meant to inform (per 21 Aug rule):** *E2 acceptable → keep hCG 100, test stays 0.09* vs *E2 too high → drop hCG, let it clear, bump test 0.09→0.10 as a one-variable swap.* On the numbers: E2 is proportionate and asymptomatic, so the "acceptable" branch is supported; the new consideration is that **free T already sits above the target band with hCG on, so a test bump on top of hCG is not indicated by these bloods** — any bump would be a swap (drop hCG → raise test), not an addition. Decision recorded in `current-plan.md`.
