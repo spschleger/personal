@@ -80,3 +80,8 @@
 - **No further tests ordered** (no whole-spine MRI, CT, neurophysiology or repeat urodynamics) — left to Kohan.
 - **No timeline, urgency category or public/private guidance given.**
 - Same morning: I-MED Chatswood CD/USB copy of the full study requested (for the Beijing track + backup).
+
+## 29 Aug 2026 — haodf online replies (Beijing)
+- **李萃萃 Li Cuicui (7th Med Center):** recommends 脊髓拴系松解术; purpose = 阻止或延缓病情进展; 骶神经调控 for bowel/bladder after release; typical stay 15–20 d; observe 2–3 mo then decide SNM. On "how much lipoma can you remove / will it grow": "重点是脊髓拴系松解，成年人多数不再长了，详细的面诊再说." Two free follow-up replies valid to 28 Sep.
+- **孙振兴 Sun Zhenxing (Changgung):** "明显的大小便功能障碍"; for lipoma-type TCS first surgery "依然推荐脂肪瘤大部切除＋拴系松解＋终丝切断术"; SNM second stage if bowel/bladder recovery poor; Fri AM clinic, can 加号, "尽早安排治疗".
+- Consensus: operate now, release is core, goal = stabilisation, SNM stage 2. Divergence = resection extent (conservative vs subtotal) — neither is yet a plan for her anatomy (encased left L5 root). Ranking unchanged. Screenshots: `records/haodf-screenshots-2026-08-29/`. Analysis: `beijing-two-opinions-analysis-zh.md`.
