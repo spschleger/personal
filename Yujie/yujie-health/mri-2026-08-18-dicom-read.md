@@ -79,3 +79,23 @@
 
 - 1.5 T, 3 mm axials, no 3D T1 or CISS; no coronal T1; sacral stack starts at L5. The dura entry point of the sinus and the fine root anatomy inside the fat are below this resolution.
 - No radiologist has reviewed this read. Present it as "what we see on the images" and let the surgeons confirm or correct.
+
+---
+
+## Dermal sinus — detail (added 29 Aug, late)
+
+**On the images.** Deep end = irregular, partly rim-like enhancing focus in the posterior midline immediately behind the sacral canal at S1–S2 (Se 28001 Im 22–24), absent pre-contrast; a small dark nodule at the same spot inside the fat channel on T1 (Se 24001 Im 21–24). Tract = dark linear streak crossing the ~40–50 mm subcutaneous fat to the skin in the midline ~12–20 mm lower (Se 24001 Im 23–26, ≈ S2–S3), with a small dark focus at the skin — ostium candidate. Orientation (skin opening lower, tract running cranially/inward to the deep end at the bony defect) is textbook for a congenital dermal sinus. **No abscess signs** (no collection, no fat/muscle enhancement, no epidural rim). Enhancement confined to tract/nodule → inflamed tract or small dermoid with inflamed capsule; not separable without DWI. Confidence: deep lesion high (in the report); skin tract moderate.
+
+**What it is.** Epithelium-lined tract from skin inward, from incomplete disjunction of cutaneous from neural ectoderm at wk 3–5 — same event as the lipoma, hence same level/defect. Ends blind, at the dura, or intradurally on cord/filum/lipoma; ~half carry a dermoid/epidermoid at the deep end. Itself a tethering element.
+
+**Why it matters.** (1) Infection route — adult presentation is often meningitis with skin organisms (S. aureus, E. coli, anaerobes), recurrent meningitis, intraspinal/intradermoid abscess. Hers already enhances. (2) Dermoid — slow growth, tether, rupture → chemical meningitis; must be removed with its entire capsule. (3) Surgery — elliptical excision around the ostium, follow the tract through fascia and the defect to the dura, open dura if it enters, remove the deep end completely, same incision as the untethering. Never inject contrast into it.
+
+**Not** a pilonidal sinus or benign coccygeal dimple (those sit in the natal cleft ≤2.5 cm from the anus and don't reach the spine); hers is 2–3 segments higher and leads to an intraspinal lesion.
+
+**Anaesthesia — precise statement.** The untethering itself is under **general anaesthesia** (prone, hours, open dura), run for neuromonitoring: TIVA, no muscle relaxant after intubation, minimal volatile, so triggered EMG / bulbocavernosus / sphincter EMG stay readable — ask Beijing whether their anaesthetists run it that way. What is contraindicated lifelong is **neuraxial anaesthesia for anything else** (labour epidural, spinal for caesarean, epidural steroid): no safe interspace (fat fills the sac from L4/5, placode at L5–S1), the sinus/defect is an infection route, and block assessment is unreliable. Delivery plan = GA if caesarean, IV/nitrous analgesia in labour, obstetric-anaesthesia consult early (`fertility-and-pregnancy.md`). Anatomy stays abnormal after surgery, so this does not expire.
+
+**Practical now.** No squeezing/probing/creams/hair removal at the mark; photograph with a ruler. Same-day ED for fever, headache + neck stiffness, redness/swelling/discharge at the mark, or abrupt change in back/leg pain — in transit and in Beijing ("脊髓栓系 + 皮毛窦，怀疑脑膜炎").
+
+**Surgeon questions to add.** 皮毛窦从皮肤到脂肪瘤——同一切口整条切除，包括硬膜内末端和可能的皮样囊肿？· 术前是否加做 DWI 判断皮样囊肿？· 术前是否需要抗生素或先处理感染？(expected: no, absent infection signs).
+
+**Open:** fold the sinus + classification questions into `beijing-two-opinions-analysis-zh.pdf` for Yujie (not yet done).
