@@ -93,3 +93,10 @@ Printed ED Discharge Referral (Final Report, eMeds v3) received from RPA ~31 Aug
 - **李萃萃 Li Cuicui (7th Med Center):** recommends 脊髓拴系松解术; purpose = 阻止或延缓病情进展; 骶神经调控 for bowel/bladder after release; typical stay 15–20 d; observe 2–3 mo then decide SNM. On "how much lipoma can you remove / will it grow": "重点是脊髓拴系松解，成年人多数不再长了，详细的面诊再说." Two free follow-up replies valid to 28 Sep.
 - **孙振兴 Sun Zhenxing (Changgung):** "明显的大小便功能障碍"; for lipoma-type TCS first surgery "依然推荐脂肪瘤大部切除＋拴系松解＋终丝切断术"; SNM second stage if bowel/bladder recovery poor; Fri AM clinic, can 加号, "尽早安排治疗".
 - Consensus: operate now, release is core, goal = stabilisation, SNM stage 2. Divergence = resection extent (conservative vs subtotal) — neither is yet a plan for her anatomy (encased left L5 root). Ranking unchanged. Screenshots: `records/haodf-screenshots-2026-08-29/`. Analysis: `beijing-two-opinions-analysis-zh.md`.
+
+## 31 Aug 2026 — Kohan dropped; Beijing in-person consults booked
+- **Sydney track:** Wilson's promised referral to Dr Saeed Kohan (27 Aug) **never arrived — decided against Kohan, no chase.** Remaining Sydney fallback = RPA's written ED-discharge commitment (neurosurgery to contact her within ~4–6 wks of 24 Aug, due ~21 Sep–5 Oct).
+- **Beijing is now the primary track.** Flight departs Sydney 9 Sep, **lands Beijing just after midnight, early 10 Sep** (night + morning in hand before the first consult). Booked in-person consults:
+  - **Wed 10 Sep (landing day): 李萃萃 Li Cuicui, 解放军总医院第七医学中心** (rank 1; haodf position = tethered-cord release, conservative on the lipoma).
+  - **Thu 11 Sep: 孙振兴 Sun Zhenxing, 北京清华长庚医院** (haodf position = subtotal lipoma resection + release + 终丝切断).
+- Same divergence question to put to both in person: resection extent for her anatomy (lipoma encasing the left L5 root). Pack + prep in `TODO.md` (top section).
