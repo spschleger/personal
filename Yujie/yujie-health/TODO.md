@@ -5,7 +5,9 @@
 - **Flight: departs 9 Sep, lands Beijing just after midnight, early 10 Sep** — so she has the night + morning before the first consult.
 - **Wed 10 Sep (landing day): 李萃萃 Li Cuicui — 解放军总医院第七医学中心 (rank 1).** Have the full pack in carry-on, phone charged with zh PDFs.
 - **Thu 11 Sep: 孙振兴 Sun Zhenxing — 北京清华长庚医院.**
-- [ ] **Before the flight — the pack (carry-on, not checked):** I-MED DICOM CD/USB (**chase collection — requested 27 Aug**), printed MRI report + zh-CN translation, urodynamics report, `summary-for-parents-zh.md` / `beijing-two-opinions-analysis-zh.pdf`, **RPA ED discharge referral (24 Aug)** — it carries the cauda-equina exam sentence ("reduced anal tone and saddle paraesthesia", global left motor deficits), the CT, coags, **blood group B Pos** (备血), CRP. Translate the key exam sentence into zh for both consults.
+- [x] ~~Translate the pack~~ — **BUILT 31 Aug: `beijing-pack-2026-09/`** — zh PDFs: 01 clinical brief (病史摘要 incl. RPA exam sentence + B Pos + all objective findings), 02 MRI report, 03 urodynamics, 04 RPA discharge + full bloods table, 05 questions (12, divergence phrased neutrally), + `en-originals/`. See its README for the physical carry-on checklist.
+- [ ] **Send the pack to Yujie's phone + print a paper set per consult.**
+- [ ] **Chase I-MED CD/USB collection before 9 Sep** (requested 27 Aug). Backup zip already on hand (`imaging/…-imed-dicom.zip`).
 - [ ] Consult questions per `china-option.md` (7 questions) + the divergence question: resection extent for HER anatomy (encased left L5 root) — Li said conservative release, Sun said subtotal resection + 终丝切断. Ask each to justify vs the other's position.
 - [ ] Insurance gate items (below, 25 Aug section) now have a hard deadline: resolved before or during the trip — 医保电子凭证 activated, 异地备案 done, the "1-month wait" product identified.
 - [ ] Log both consult outcomes → `clinical-picture.md` + decision per `china-option.md` criteria.
