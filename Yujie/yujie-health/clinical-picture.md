@@ -73,6 +73,14 @@
 - Recent diarrhoea: urgency-type vs leakage without awareness
 - DRE on a between-BM day (assesses rectal loading independent of BM timing)
 
+## 24 Aug 2026 — RPA ED presentation (discharge referral obtained 31 Aug)
+Printed ED Discharge Referral (Final Report, eMeds v3) received from RPA ~31 Aug; full transcription + photos at `records/2026-08-24-rpa-ed-discharge/`. Author Corbett (trainee specialist), signed Dr Mitchell Crebert (ED resident). Encounter FIN 26920592, MRN 298-22-60.
+- **Diagnosis coded: "Lipoma of spinal cord (Discharge)."**
+- **ED exam, verbatim: "global left sided deficits in motor function to the leg, noted reduced anal tone and saddle paraesthesia."** Reduced anal tone + saddle paraesthesia are cauda-equina red flags now documented by a tertiary ED with neurosurgery consulted — the strongest urgency sentence in the file; quote verbatim to Kohan and in Beijing submissions.
+- **Diagnostics done in ED:** CT lumbar spine (requested by neurosurgery; showed the lipoma) + full bloods 15:40. **The blood panel was a pre-op workup, not an ED screen**: coags PT 11.6 / APTT 35 / INR 1.1 (all normal) + **group & hold — blood group B POSITIVE, antibody screen negative** — you don't order group & hold for a discharge; neurosurgery was weighing admission/theatre that night. B Pos + clean antibody screen now documented (useful for Beijing 备血).
+- Other bloods: all normal except **eGFR 84** (creatinine 82 µmol/L, upper-normal) — below the >90 expected at 29; watch-item given neurogenic bladder with 300 ml residuals (trend > single point). **CRP <0.3** + clean FBC = dermal sinus quiet, no systemic inflammation baseline.
+- **Discharge plan:** home; **"Neurosurgical team will contact Yujie for an outpatient neurosurgical appointment in around 4–6 weeks"** (from 24 Aug → contact due ~21 Sep–5 Oct; a chaseable RPA commitment independent of the Wilson→Kohan referral); GP to refer + ensure urodynamics completed (already done 8 Oct 2025 — bring report); return to ED if unwell. Allergies NKA; no discharge meds.
+
 ## 27 Aug 2026 — RPA neurosurgery consult, Dr David Wilson (12:30)
 - Had the I-MED study (18 Aug, Acc #77.60502003) on screen.
 - Examined her; **confirmed the neurological deficits** (left-leg / L5–S1 picture consistent with the MRI and the history).
