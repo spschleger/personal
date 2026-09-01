@@ -1,6 +1,6 @@
 # 16-Week Recomp Protocol (lifting-led, health-focused)
 
-> **▶️ INITIATING (2026-07-13/14):** Postponement lifted — resume conditions substantially met. **BP controlled** on candesartan 8mg (home avg 126/77, 13 Jul); **bleeding resolved** (~1 week clear, tadalafil dropped to PRN); **fit-for-work** (back on the physical mining roster). CPAP compliance still weak — but the recomp itself is an OSA lever (fat loss reduces airway load), so it proceeds rather than waiting on CPAP. **hCG started 13 Jul** and runs concurrently through the first ~2 weeks (isolated variable); test bump + reta gated on the day-14 hCG bloods. Clinical detail in `sleep-apnea-treatment.md`; TRT/dose/hCG state in `TRT-Health/current-plan.md`.
+> **⏸ SHELVED (2026-09-01) — supersedes the July initiation plan:** The block did not start. Weight increased over the past month during limited gym attendance and loose diet control. **hCG is stopped, testosterone is settled at 0.09 ml/day, and reta has not started.** The immediate priority is a new CPAP mask and reinstating nightly CPAP; do not treat the recomp as the lead health project until that is established. `TRT-Health/current-plan.md` is the live authority for restart decisions.
 >
 > **2026-06-20 refocus:** Lifting-led recomp prioritising fat loss, lean mass, mobility, and health markers (BP/Hct/OSA). Running held to a health dose (2× 8–10 km/wk). **Marathon block deferred** — optional future block, revisited only after recomp + health markers are sorted. Dose/E2/Hct decisions now gated on bloods per `TRT-Health/current-plan.md`.
 

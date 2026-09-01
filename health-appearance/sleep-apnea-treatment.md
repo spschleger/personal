@@ -1,7 +1,7 @@
 # Sleep Apnea & Airway Correction — Treatment Plan
 
 **Established:** June 2026
-**Status:** Documentation chain complete (sleep study + specialist referrals). Treatment commencing late 2026.
+**Status:** CPAP machine acquired; adherence lapsed because the current mask/interface is not tolerable. New mask + reinstating nightly CPAP is the top immediate health action as of 2026-09-01. Structural treatment pathway remains active.
 **Re-review trigger:** post each treatment milestone
 
 ## Background
@@ -25,7 +25,7 @@ Documented obstructive sleep apnea with worsening symptoms. Sleep physician supp
 ## Treatment ladder
 
 ### Phase 0 — Bridge (now → SARPE)
-- **CPAP** — restart immediately given worsening symptoms while awaiting surgical pathway. Sleep physician to prescribe. Manages symptoms during 24+ month surgical/orthodontic timeline.
+- **CPAP** — AirSense 11 already acquired. **Get a new mask and reinstate nightly use now** given worsening symptoms while awaiting the surgical pathway. The mask/interface is the known blocker; solve that rather than treating this as a motivation problem. CPAP remains the bridge across the 24+ month surgical/orthodontic timeline and the designated offset for TRT-worsened OSA.
 
 ### Phase 1 — Orthodontic preparation + SARPE (late 2026 → 2027)
 - **Orthodontic consultation:** Nour Taraf (Sydney) — completed. Treatment plan agreed.

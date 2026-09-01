@@ -1,6 +1,6 @@
 # Current Plan & Decision Log
 
-**Updated:** 2026-08-28
+**Updated:** 2026-09-01
 **Companion files:** `bloods-summary.md`, `bloods-tracker.csv`, `semen-analysis-tracker.csv`, `bp-log.csv`, `../recomp-protocol-2026.md`, `../sleep-apnea-treatment.md`
 
 > **⏸ RECOMP POSTPONED (2026-06-23)** — on hold while BP is controlled (telmisartan + tadalafil) and CPAP is established, following the posterior-epistaxis pattern + uncontrolled BP (clinical detail in `../sleep-apnea-treatment.md`). **On hold:** test bump, reta start, the whole 16-wk block. **Test stays at 0.09.** hCG was already post-recomp → further deferred. Resume only from a stable baseline: BP controlled, CPAP bedded in, bleeding resolved, fit-for-work cleared. The decision logic below stands for *when* it resumes — it's paused, not changed.
@@ -8,6 +8,8 @@
 This is the live "where things stand / what's next" across the interacting threads (TRT dose, hCG, recomp, CPAP/BP, bloods). Decisions here override older language in the recomp doc where they conflict.
 
 > **📍 LIVE STATUS (13 Jul):** BP now **controlled on candesartan** (home avg 126/77, weekly Mon-AM spot-check). De-prescribe-candesartan plan is dead — candesartan is the primary BP tool now. **TRT has worsened OSA considerably**; sleep study (18mo, "not too severe") **not being refreshed** (Shane's call). CPAP compliance weak → mask change is plan B; **CPAP is now the keystone/top open item** because it's the designated offset for TRT-worsened OSA. Full detail in `bloods-summary.md` → Hct + BP management section.
+>
+> **📍 CURRENT BASELINE (1 Sep) — supersedes the older restart plans below:** **Test settled at 0.09 ml/day only. hCG remains stopped. Recomp remains shelved.** Weight has increased over the past month during limited gym attendance and loose diet control; no clean current fasted weight recorded. **The single biggest next action is to get a new CPAP mask and reinstate nightly CPAP.** Do not restart the recomp, reta, hCG or a test bump ahead of that priority.
 >
 > **📍 hCG + RECOMP KICKOFF (13 Jul):** **hCG started D1 = 13 Jul** — 100 IU/day IM, dual-loaded with the 0.09 test in one syringe. Ride to 4–6 wks, bump to 125 only if volume/size underwhelms. Week-1 = tolerance feel-test; **day-14 bloods (E2/free T/SHBG/Hct)** gate the test bump. **Recomp phase kicks off 14 Jul** (baseline photos + weigh-in; 85.2 kg, ~18–20% BF). **Test-bump target = 0.11 ml/day = 192.5 mg/wk** (confirmed 13 Jul; briefly considered 0.1/175 but chose 0.11 for lean-mass substrate + to hold free T against rising SHBG on the cut — OSA is the cost, Hct de-gated), + reta, at ~week 3 gated on hCG tolerance + the day-14 E2 reading. Shane is **firmly pro-E2** (Nichols/Lee) — E2 not managed down; day-14 E2 is a safety glance not a gate; symptoms lead. Hct de-emphasized as a gate (Shane's informed call per his own research; still on the panel as data). Full block in `../recomp-protocol-2026.md`.
 >
