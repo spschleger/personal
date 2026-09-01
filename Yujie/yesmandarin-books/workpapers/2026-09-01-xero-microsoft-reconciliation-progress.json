@@ -69,6 +69,15 @@
       "status": "Saved and visibly confirmed in Xero"
     }
   },
+  "personal_account_treatment_decision": {
+    "date": "2026-09-01",
+    "account": "CBA account ending 9316",
+    "decision": "Do not add the personal account as a Xero bank account or wait for its statements before completing invoice, income and Stripe reconstruction.",
+    "stripe_payout_treatment": "Use Stripe payout evidence to clear business receipts paid to account 9316 to the appropriate owner-personal movement account. Treat the 1197.73 opening-boundary payout separately so it is not recognised again as current-period income.",
+    "returned_money_control": "Any money returned from the personal account would appear as a deposit in the business accounts. Resolve the business-account deposit population; absent a matching unexplained deposit, treat the payout as not returned.",
+    "personal_expenses": "Business expenses paid personally and supported by receipts will be entered later as owner-funded expenses, after invoices and income are complete.",
+    "unresolved": "The separate 2000.00 transfer to account 9316 labelled Borrowed money still requires classification as repayment, owner drawings or a loan receivable."
+  },
   "live_balance_checkpoint": {
     "statement_balance": "31016.85",
     "balance_in_xero": "27604.15",
@@ -83,9 +92,10 @@
     "Each posted line caused a one-for-one visible queue decrement and the final Xero book balance was 27604.15."
   ],
   "next_steps": [
-    "Resolve the account 9316 and Stripe clearing chain, including the 2000.00 inter-account transfer and six Xero-linked Stripe payouts.",
+    "Post the Stripe clearing chain from the preserved Stripe exports without adding account 9316 as a Xero bank account.",
     "Resolve the 1197.73 opening-boundary Stripe payout and remaining unmatched credits.",
     "Classify the remaining evidence-led receipts, supplier debits, owner movements and ambiguous withdrawals.",
+    "After invoices and income are complete, enter receipt-supported business expenses paid from personal accounts as owner-funded expenses.",
     "Import bank evidence after 17 August 2026 and complete closing-balance verification."
   ],
   "browser_control": {
