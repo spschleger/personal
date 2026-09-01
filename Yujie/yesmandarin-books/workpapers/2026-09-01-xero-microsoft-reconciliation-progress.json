@@ -76,7 +76,7 @@
     "stripe_payout_treatment": "Use Stripe payout evidence to clear business receipts paid to account 9316 to the appropriate owner-personal movement account. Treat the 1197.73 opening-boundary payout separately so it is not recognised again as current-period income.",
     "returned_money_control": "Any money returned from the personal account would appear as a deposit in the business accounts. Resolve the business-account deposit population; absent a matching unexplained deposit, treat the payout as not returned.",
     "personal_expenses": "Business expenses paid personally and supported by receipts will be entered later as owner-funded expenses, after invoices and income are complete.",
-    "unresolved": "The separate 2000.00 transfer to account 9316 labelled Borrowed money still requires classification as repayment, owner drawings or a loan receivable."
+    "transfer_to_9316": "Classify the 2000.00 transfer to account 9316 labelled Borrowed money as owner drawings unless it can be matched to an otherwise unexplained deposit returning money to the business accounts."
   },
   "live_balance_checkpoint": {
     "statement_balance": "31016.85",
