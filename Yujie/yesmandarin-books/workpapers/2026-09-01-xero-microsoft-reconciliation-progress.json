@@ -1,12 +1,13 @@
 {
-  "as_of": "2026-09-01T17:19:32+10:00",
+  "as_of": "2026-09-01T17:39:19+10:00",
   "status": "in_progress",
   "account": "CBA Business Account ending 1913",
   "source_statement_lines": 253,
   "queue": {
     "before_microsoft_batch": 195,
-    "current": 164,
-    "total_lines_reconciled_to_date": 89
+    "current": 146,
+    "total_lines_reconciled_to_date": 107,
+    "completion_percent": 42.3
   },
   "microsoft_source_control": {
     "statement_line_count": 27,
@@ -28,16 +29,15 @@
   "microsoft_bank_rule": {
     "name": "Microsoft subscriptions",
     "match": "bank text contains Microsoft",
-    "status": "Saved and visibly confirmed in Xero",
-    "use": "Applied to each matching statement line; each completed line was individually confirmed with Xero OK."
+    "status": "Saved and visibly confirmed in Xero"
   },
   "xero_subscription_batch": {
     "statement_line_count": 9,
     "statement_total": "315.00",
-    "lines_reconciled": 4,
-    "amount_reconciled": "140.00",
-    "lines_remaining": 5,
-    "amount_remaining": "175.00",
+    "lines_reconciled": 9,
+    "amount_reconciled": "315.00",
+    "lines_remaining": 0,
+    "status": "complete",
     "coding": {
       "contact": "Xero",
       "account": "485 - Subscriptions",
@@ -50,22 +50,43 @@
       "status": "Saved and visibly confirmed in Xero"
     }
   },
+  "office_rent_batch": {
+    "statement_line_count": 13,
+    "statement_total": "9750.00",
+    "lines_reconciled": 13,
+    "amount_reconciled": "9750.00",
+    "lines_remaining": 0,
+    "status": "complete",
+    "coding": {
+      "contact": "PTC Trust",
+      "account": "469 - Rent",
+      "description": "Office rent",
+      "tax_rate": "BAS Excluded"
+    },
+    "bank_rule": {
+      "name": "Office rent",
+      "match": "description contains Rent",
+      "status": "Saved and visibly confirmed in Xero"
+    }
+  },
   "live_balance_checkpoint": {
     "statement_balance": "31016.85",
-    "balance_in_xero": "37529.15",
-    "difference": "6512.30",
+    "balance_in_xero": "27604.15",
+    "difference": "3412.70",
+    "difference_direction": "statement balance exceeds balance in Xero",
     "reconciled": false
   },
   "verification": [
-    "All 27 Microsoft-related rows were cleared from the Microsoft search result and the queue visibly reached 168.",
-    "The Xero subscriptions bank-rule saved banner was visible before application.",
-    "Four Xero subscription lines at 35.00 each were individually cleared with Xero OK and the queue visibly moved from 168 to 164.",
-    "Further browser input was stopped when Chrome accessibility control became unavailable; unconfirmed click attempts did not move the queue and are not counted."
+    "All 27 Microsoft-related rows were cleared and the Microsoft search result was empty.",
+    "All nine Xero subscription rows were cleared and the XERO AU search result was empty; the queue reached 159.",
+    "All 13 office-rent rows were cleared and the Rent search result was empty; the queue moved from 159 to 146.",
+    "Each posted line caused a one-for-one visible queue decrement and the final Xero book balance was 27604.15."
   ],
   "next_steps": [
-    "Reconcile the five remaining Xero subscription debits totalling 175.00.",
-    "Reconcile 13 office-rent debits totalling 9750.00.",
-    "Then resolve the account 9316 and Stripe clearing chain before classifying the remaining ambiguous receipts and withdrawals."
+    "Resolve the account 9316 and Stripe clearing chain, including the 2000.00 inter-account transfer and six Xero-linked Stripe payouts.",
+    "Resolve the 1197.73 opening-boundary Stripe payout and remaining unmatched credits.",
+    "Classify the remaining evidence-led receipts, supplier debits, owner movements and ambiguous withdrawals.",
+    "Import bank evidence after 17 August 2026 and complete closing-balance verification."
   ],
   "browser_control": {
     "profile": "Max",
