@@ -1,14 +1,12 @@
 {
-  "as_of": "2026-09-01T16:39:05+10:00",
+  "as_of": "2026-09-01T17:19:32+10:00",
   "status": "in_progress",
   "account": "CBA Business Account ending 1913",
   "source_statement_lines": 253,
   "queue": {
     "before_microsoft_batch": 195,
-    "current": 174,
-    "microsoft_lines_reconciled": 21,
-    "microsoft_lines_remaining": 6,
-    "total_lines_reconciled_to_date": 79
+    "current": 164,
+    "total_lines_reconciled_to_date": 89
   },
   "microsoft_source_control": {
     "statement_line_count": 27,
@@ -16,39 +14,61 @@
     "debit_total": "283.09",
     "refund_count": 1,
     "refund_total": "1.00",
-    "net_spend": "282.09"
+    "net_spend": "282.09",
+    "lines_reconciled": 27,
+    "lines_remaining": 0,
+    "status": "complete"
   },
-  "coding": {
+  "microsoft_coding": {
     "contact": "Microsoft",
     "account": "485 - Subscriptions",
     "description": "Microsoft software subscription",
     "tax_rate": "BAS Excluded"
   },
-  "bank_rule": {
+  "microsoft_bank_rule": {
     "name": "Microsoft subscriptions",
     "match": "bank text contains Microsoft",
     "status": "Saved and visibly confirmed in Xero",
     "use": "Applied to each matching statement line; each completed line was individually confirmed with Xero OK."
   },
+  "xero_subscription_batch": {
+    "statement_line_count": 9,
+    "statement_total": "315.00",
+    "lines_reconciled": 4,
+    "amount_reconciled": "140.00",
+    "lines_remaining": 5,
+    "amount_remaining": "175.00",
+    "coding": {
+      "contact": "Xero",
+      "account": "485 - Subscriptions",
+      "description": "Xero subscription",
+      "tax_rate": "BAS Excluded"
+    },
+    "bank_rule": {
+      "name": "Xero subscriptions",
+      "match": "description contains XERO AU",
+      "status": "Saved and visibly confirmed in Xero"
+    }
+  },
   "live_balance_checkpoint": {
     "statement_balance": "31016.85",
-    "balance_in_xero": "37737.94",
-    "difference": "6721.09",
+    "balance_in_xero": "37529.15",
+    "difference": "6512.30",
     "reconciled": false
   },
   "verification": [
-    "The Xero reconciliation queue visibly moved from 195 to 174 across the cumulative Microsoft work.",
-    "The saved-rule banner was visible in Xero before the rule was applied.",
-    "The source worklist contains 27 Microsoft-related rows, not 26 total: 26 debits and one refund."
+    "All 27 Microsoft-related rows were cleared from the Microsoft search result and the queue visibly reached 168.",
+    "The Xero subscriptions bank-rule saved banner was visible before application.",
+    "Four Xero subscription lines at 35.00 each were individually cleared with Xero OK and the queue visibly moved from 168 to 164.",
+    "Further browser input was stopped when Chrome accessibility control became unavailable; unconfirmed click attempts did not move the queue and are not counted."
   ],
   "next_steps": [
-    "Reconcile the six remaining Microsoft-related statement lines, handling the refund with the correct receive-money treatment if the spend-money rule does not apply.",
-    "Reconcile nine Xero subscription debits totalling 315.00.",
+    "Reconcile the five remaining Xero subscription debits totalling 175.00.",
     "Reconcile 13 office-rent debits totalling 9750.00.",
     "Then resolve the account 9316 and Stripe clearing chain before classifying the remaining ambiguous receipts and withdrawals."
   ],
   "browser_control": {
     "profile": "Max",
-    "requirement": "Use the isolated Xero Chrome window and exact element-bound control only; do not use coordinate clicks or interact with unrelated tabs."
+    "requirement": "Use the isolated Xero Chrome window and exact window-bound control only; stop if the accessibility surface is unavailable or the queue does not visibly change."
   }
 }
