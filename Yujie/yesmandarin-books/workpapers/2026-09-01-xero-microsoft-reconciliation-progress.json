@@ -1,13 +1,13 @@
 {
-  "as_of": "2026-09-01T17:39:19+10:00",
+  "as_of": "2026-09-01T21:44:59+10:00",
   "status": "in_progress",
   "account": "CBA Business Account ending 1913",
   "source_statement_lines": 253,
   "queue": {
     "before_microsoft_batch": 195,
-    "current": 146,
-    "total_lines_reconciled_to_date": 107,
-    "completion_percent": 42.3
+    "current": 145,
+    "total_lines_reconciled_to_date": 108,
+    "completion_percent": 42.7
   },
   "microsoft_source_control": {
     "statement_line_count": 27,
@@ -76,12 +76,21 @@
     "stripe_payout_treatment": "Use Stripe payout evidence to clear business receipts paid to account 9316 to the appropriate owner-personal movement account. Treat the 1197.73 opening-boundary payout separately so it is not recognised again as current-period income.",
     "returned_money_control": "Any money returned from the personal account would appear as a deposit in the business accounts. Resolve the business-account deposit population; absent a matching unexplained deposit, treat the payout as not returned.",
     "personal_expenses": "Business expenses paid personally and supported by receipts will be entered later as owner-funded expenses, after invoices and income are complete.",
-    "transfer_to_9316": "Classify the 2000.00 transfer to account 9316 labelled Borrowed money as owner drawings unless it can be matched to an otherwise unexplained deposit returning money to the business accounts."
+    "transfer_to_9316": {
+      "date": "2025-07-14",
+      "amount": "2000.00",
+      "bank_narration": "Transfer to xx9316 CommBank app Borrowed money",
+      "contact": "Felicity",
+      "account": "880 - Owner A Drawings",
+      "description": "Transfer to personal account - owner drawings",
+      "tax_rate": "BAS Excluded",
+      "status": "Reconciled and visibly confirmed in Xero on 2026-09-01"
+    }
   },
   "live_balance_checkpoint": {
     "statement_balance": "31016.85",
-    "balance_in_xero": "27604.15",
-    "difference": "3412.70",
+    "balance_in_xero": "25604.15",
+    "difference": "5412.70",
     "difference_direction": "statement balance exceeds balance in Xero",
     "reconciled": false
   },
@@ -89,7 +98,8 @@
     "All 27 Microsoft-related rows were cleared and the Microsoft search result was empty.",
     "All nine Xero subscription rows were cleared and the XERO AU search result was empty; the queue reached 159.",
     "All 13 office-rent rows were cleared and the Rent search result was empty; the queue moved from 159 to 146.",
-    "Each posted line caused a one-for-one visible queue decrement and the final Xero book balance was 27604.15."
+    "Each completed repetitive-batch line caused a one-for-one visible queue decrement.",
+    "The 2000.00 transfer to account 9316 was reconciled to 880 - Owner A Drawings; the queue moved from 146 to 145 and the Xero book balance moved from 27604.15 to 25604.15."
   ],
   "next_steps": [
     "Post the Stripe clearing chain from the preserved Stripe exports without adding account 9316 as a Xero bank account.",
