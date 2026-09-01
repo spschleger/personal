@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-01T22:33:18+10:00",
+  "as_of": "2026-09-01T21:44:59+10:00",
   "status": "in_progress",
   "account": "CBA Business Account ending 1913",
   "source_statement_lines": 253,
@@ -69,60 +69,6 @@
       "status": "Saved and visibly confirmed in Xero"
     }
   },
-  "stripe_clearing_reconstruction": {
-    "status": "in_progress",
-    "source_control": {
-      "xero_linked_charge_count": 6,
-      "gross_sales": "4975.00",
-      "processing_fees": "105.89",
-      "net_payouts": "4869.11",
-      "payout_destination": "CBA personal account ending 9316",
-      "expected_closing_clearing_balance": "0.00"
-    },
-    "xero_setup": {
-      "clearing_account": "091 - Stripe Clearing",
-      "account_type": "Other",
-      "bank_name": "Stripe",
-      "account_number": "STRIPE-CLEARING",
-      "currency": "AUD",
-      "tax_rate": "BAS Excluded",
-      "status": "Created and visibly confirmed in Xero with a zero opening balance",
-      "stripe_fee_account": "508 - Stripe Fees",
-      "stripe_fee_tax_change": "Default tax changed from GST on Expenses to BAS Excluded and visibly confirmed"
-    },
-    "invoice_payments": {
-      "moved_to_clearing": 1,
-      "gross_moved": "665.00",
-      "remaining": 5,
-      "gross_remaining": "4310.00",
-      "completed": [
-        {
-          "invoice": "INV-0043",
-          "customer": "Daniel Lie",
-          "paid_date": "2026-03-02",
-          "amount": "665.00",
-          "reference": "ch_3T6TAbS4D20Qoe6M0X0u1Nyc",
-          "from_account": "090 - Business Account",
-          "to_account": "091 - Stripe Clearing",
-          "status": "Payment receipt visibly confirmed in Xero"
-        }
-      ]
-    },
-    "fees": {
-      "moved_to_clearing": 0,
-      "amount_moved": "0.00",
-      "remaining": 6,
-      "amount_remaining": "105.89"
-    },
-    "payouts_to_owner_movements": {
-      "posted": 0,
-      "amount_posted": "0.00",
-      "remaining": 6,
-      "amount_remaining": "4869.11"
-    },
-    "continuity": "Resume with the five remaining Xero-linked invoice payments, then move all six Stripe fees to 508 - Stripe Fees from 091 - Stripe Clearing and post the six evidenced payouts to account 9316 as owner-personal movements. Verify the clearing balance returns to zero.",
-    "ui_blocker": "At the checkpoint the exact Xero window remained open and authenticated, but it was off the current desktop/Space and its accessibility surface was unresolved. No blind input was attempted after this was established; Shane must bring the Xero window to the current desktop before visual posting resumes."
-  },
   "personal_account_treatment_decision": {
     "date": "2026-09-01",
     "account": "CBA account ending 9316",
@@ -146,8 +92,7 @@
     "balance_in_xero": "25604.15",
     "difference": "5412.70",
     "difference_direction": "statement balance exceeds balance in Xero",
-    "reconciled": false,
-    "note": "This displayed bank balance checkpoint predates the first Stripe payment reclassification and must be refreshed before it is described as current."
+    "reconciled": false
   },
   "verification": [
     "All 27 Microsoft-related rows were cleared and the Microsoft search result was empty.",
@@ -157,8 +102,7 @@
     "The 2000.00 transfer to account 9316 was reconciled to 880 - Owner A Drawings; the queue moved from 146 to 145 and the Xero book balance moved from 27604.15 to 25604.15."
   ],
   "next_steps": [
-    "Complete the five remaining Xero-linked invoice-payment reclassifications to 091 - Stripe Clearing.",
-    "Move all six processing fees totalling 105.89 to 508 - Stripe Fees from 091 - Stripe Clearing, then post the six payouts totalling 4869.11 to owner-personal movements without adding account 9316 as a Xero bank account.",
+    "Post the Stripe clearing chain from the preserved Stripe exports without adding account 9316 as a Xero bank account.",
     "Resolve the 1197.73 opening-boundary Stripe payout and remaining unmatched credits.",
     "Classify the remaining evidence-led receipts, supplier debits, owner movements and ambiguous withdrawals.",
     "After invoices and income are complete, enter receipt-supported business expenses paid from personal accounts as owner-funded expenses.",
