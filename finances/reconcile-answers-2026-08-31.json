@@ -1,0 +1,17 @@
+{
+  "2026-08-31|-2842|POS 31/08 Kazzi Beach Greek Mosman#0": {
+    "categoryId": 22,
+    "payee": "Kazzi Beach Greek (Balmoral)",
+    "tags": ["restaurant"]
+  },
+  "2026-08-31|-3911|V2942 29/08 1635-REDDY EXPRESS MUDG MUDGEE 74363966241#0": {
+    "categoryId": 22,
+    "payee": "Reddy Express (Mudgee)",
+    "tags": ["servo-food"]
+  },
+  "2026-08-31|-1900|V2942 28/08 KMART 3330 MUDGEE 74363966240#0": {
+    "categoryId": 18,
+    "payee": "Kmart (Mudgee)",
+    "tags": ["retail"]
+  }
+}
