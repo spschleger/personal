@@ -81,7 +81,7 @@ Non-repo but versioned elsewhere: `~/personal/family-history` (HDD + BusinessMac
 - Homebrew, then: `gh git node poppler python@3.13` (postgresql@17 **dropped** — all DBs are cloud/Neon now)
 - Casks (`brew install --cask`): `1password bluewallet chatgpt claude obsidian telegram visual-studio-code wechat wispr-flow` (Chrome, Tailscale were installed by hand pre-CC; 1Password 7 was replaced by the v8 cask 2026-08-18)
 - npm globals: `vercel` only (openclaw/acpx/agent-browser **dropped** — OpenClaw era over; agent stack = Hermes on the mini)
-- Apps: **1Password, BlueWallet, Chrome (+ Claude extension + `~/tools/x-tweet-newtab` unpacked — rebuilt 2026-08-19, now covered by TM; source in that folder), Claude, Claude Code, ChatGPT, Obsidian (vaults = `~/personal` and `~/projects/micko/kb`), Tailscale, Telegram, VS Code, WeChat, Wispr Flow**
+- Apps: **1Password, BlueWallet, Chrome (+ Claude extension + `~/tools/x-tweet-newtab` unpacked — rebuilt 2026-08-19, now covered by TM; source in that folder), Claude, Claude Code, ChatGPT, Hermes Desktop, Obsidian (vaults = `~/personal` and `~/projects/micko/kb`), Tailscale, Telegram, VS Code, WeChat, Wispr Flow**
 - Cut on rebuild: Astrill (was meant to be gone since July), Cursor, GarageBand, iMovie
 
 ## Backup layers (current state)
@@ -107,3 +107,4 @@ Fresh macOS → CC drove the rebuild from `TM/MACHINE.md` (copy on Desktop). Res
 - Gap found: `~/tools/x-tweet-newtab` was never in the backup.
 - Post-rebuild done same night: `gh auth login` (spsholdco, https protocol; remotes stay SSH), `vercel login`; HDD moved to the mini; `TM-mini` + `TM-M5` volumes; mini SMB share + first backups on both Macs (2026-08-19); tailnet pruned + renamed (`m5`, `mini`); 1Password 7 → 8; micko `db-dumps/` gitignored + pushed.
 - 2026-08-19: `TM` volume deleted; both Macs on 5G WiFi; tailnet = `m5` + `mini`; CC allowed `ssh mini`. Still open: Obsidian vaults re-open; Chrome + Claude extension; optionally delete `~/Documents/personal-mirror` (has `.env` files).
+- 2026-08-25: Hermes Desktop v0.20.5 installed on the M5 and connected to Max on the mini through its `ssh mini` tailnet route. The connection starts a loopback-only remote backend on demand; no mini port is exposed. Homebrew `ripgrep` and `ffmpeg` installed for the local runtime.
