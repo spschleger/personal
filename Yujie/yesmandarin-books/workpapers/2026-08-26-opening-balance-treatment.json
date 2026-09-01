@@ -16,5 +16,15 @@
     "income_effect": "0.00",
     "instruction": "Represent the source opening bank balance against an existing capital introduced / owner's equity account. Do not record it as sales or other income."
   },
-  "xero_status": "Treatment decided; not yet posted. Verify Xero's conversion date and existing equity account before posting."
+  "xero_posting": {
+    "posted_on": "2026-08-26",
+    "conversion_balance_period": "1 Jul 2024 - 30 Jun 2025",
+    "conversion_date": "2025-06-30",
+    "bank_account": "090 - Business Account",
+    "bank_debit": "3262.83",
+    "equity_account": "881 - Owner A Funds Introduced",
+    "equity_credit": "3262.83",
+    "verification": "Xero displayed 'Balances saved for period 1 Jul 2024 - 30 Jun 2025' after posting."
+  },
+  "xero_status": "Posted and verified in Xero conversion balances."
 }

@@ -1,0 +1,54 @@
+{
+  "as_of": "2026-09-01T16:39:05+10:00",
+  "status": "in_progress",
+  "account": "CBA Business Account ending 1913",
+  "source_statement_lines": 253,
+  "queue": {
+    "before_microsoft_batch": 195,
+    "current": 174,
+    "microsoft_lines_reconciled": 21,
+    "microsoft_lines_remaining": 6,
+    "total_lines_reconciled_to_date": 79
+  },
+  "microsoft_source_control": {
+    "statement_line_count": 27,
+    "debit_count": 26,
+    "debit_total": "283.09",
+    "refund_count": 1,
+    "refund_total": "1.00",
+    "net_spend": "282.09"
+  },
+  "coding": {
+    "contact": "Microsoft",
+    "account": "485 - Subscriptions",
+    "description": "Microsoft software subscription",
+    "tax_rate": "BAS Excluded"
+  },
+  "bank_rule": {
+    "name": "Microsoft subscriptions",
+    "match": "bank text contains Microsoft",
+    "status": "Saved and visibly confirmed in Xero",
+    "use": "Applied to each matching statement line; each completed line was individually confirmed with Xero OK."
+  },
+  "live_balance_checkpoint": {
+    "statement_balance": "31016.85",
+    "balance_in_xero": "37737.94",
+    "difference": "6721.09",
+    "reconciled": false
+  },
+  "verification": [
+    "The Xero reconciliation queue visibly moved from 195 to 174 across the cumulative Microsoft work.",
+    "The saved-rule banner was visible in Xero before the rule was applied.",
+    "The source worklist contains 27 Microsoft-related rows, not 26 total: 26 debits and one refund."
+  ],
+  "next_steps": [
+    "Reconcile the six remaining Microsoft-related statement lines, handling the refund with the correct receive-money treatment if the spend-money rule does not apply.",
+    "Reconcile nine Xero subscription debits totalling 315.00.",
+    "Reconcile 13 office-rent debits totalling 9750.00.",
+    "Then resolve the account 9316 and Stripe clearing chain before classifying the remaining ambiguous receipts and withdrawals."
+  ],
+  "browser_control": {
+    "profile": "Max",
+    "requirement": "Use the isolated Xero Chrome window and exact element-bound control only; do not use coordinate clicks or interact with unrelated tabs."
+  }
+}

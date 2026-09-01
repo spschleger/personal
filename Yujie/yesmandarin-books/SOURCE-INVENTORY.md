@@ -4,7 +4,7 @@
 
 ## Current conclusion
 
-Xero is not yet complete books. The full supplied account `1913` statement range is imported and 49 source-supported invoice-related receipt lines are reconciled, but expenses, transfers, Stripe-clearing items and ambiguous receipts remain unresolved. The opening-balance classification is decided but not yet posted. The displayed Xero balance does not yet represent the source bank closing balance.
+Xero is not yet complete books. The full supplied account `1913` statement range is imported and 79 of 253 lines are reconciled: 49 source-supported invoice-related receipts, nine Digital Pacific expenses and 21 Microsoft-related lines. The opening balance is posted. Six Microsoft lines, other expenses, transfers, Stripe-clearing items and ambiguous receipts remain unresolved. At the 1 September 2026 checkpoint Xero showed statement balance $31,016.85 and book balance $37,737.94, a $6,721.09 difference.
 
 Use Xero as a historical invoice source during reconstruction. Treat complete bank statements as the cash source of truth. Xero will become the canonical books only after the source-backed reconstruction is verified.
 
@@ -17,7 +17,8 @@ Use Xero as a historical invoice source during reconstruction. Treat complete ba
 - Financial year end: 30 June.
 - GST accounting method: None.
 - Xero Activity Statements are not set up.
-- GST status still requires confirmation against the entity record and reconstructed turnover; do not infer legal registration solely from Xero configuration.
+- ABN Lookup verified on 26 August 2026 that ABN `63 198 083 103` is active, the entity is `CAO, YUJIE` (Individual/Sole Trader), the business name `YESMANDARIN` has been registered since 14 April 2025, and the entity is **not currently registered for GST**. Source: <https://abr.business.gov.au/ABN/View?abn=63198083103>.
+- Expense reconstruction therefore uses Xero tax rate `BAS Excluded`; no GST or input-tax-credit amount is claimed.
 
 ## Sales invoices
 
