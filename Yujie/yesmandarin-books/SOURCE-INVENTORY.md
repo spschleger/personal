@@ -100,6 +100,7 @@ Canonical evidence and non-identifying controls are listed in `sources/stripe/20
 - Six paid payouts total $4,869.11. All went to bank account ending `9316`.
 - All six payment IDs appear in Xero's bank register, all six invoice metadata references appear in Xero's invoice export, and all six payout balance-transaction references resolve in the Stripe balance ledger.
 - Charge net $4,869.11 less payouts $4,869.11 leaves zero Stripe movement. The $105.89 processing-fee total exactly matches Xero's six manually entered fee rows.
+- Posted and freshly verified in Xero on 2 September 2026: the six invoice receipts, six processing fees and six payouts are in `Stripe Clearing`; the payouts to Felicity's personal account ending `9316` are allocated to `880 - Owner A Drawings`; the clearing balance is $0.00. Audit: `workpapers/2026-09-02-xero-stripe-clearing-reconstruction.json`.
 
 ### Non-Xero-linked Stripe account
 
@@ -121,11 +122,11 @@ The two Stripe accounts are available under the same Stripe login/account switch
 
 ### Consequence
 
-Stripe evidence is now complete enough to bridge charges, fees and payouts. Bank evidence is required for both destination accounts. A payout is not itself revenue, and the 1 July 2025 payout may distribute earnings accumulated before commencement.
+Stripe evidence is complete for the Xero-linked chain, which is posted and closed to zero. The separate account remains account-scoped: its $660.10 payout to business account `1913` and $1,197.73 opening-boundary payout to personal account `9316` remain isolated until the unattributed $687.50 charge and opening-balance treatment are resolved. A payout is not itself revenue.
 
 ## Required next sources
 
-1. Complete statement evidence for Felicity's personal account ending `9316`, covering every relevant Stripe payout arrival and enough surrounding history to prove opening and closing balances. Import only the business-related evidence into the reconstruction; do not turn the personal account into a business ledger.
+1. Treatment evidence for the separate Stripe account's unattributed $687.50 charge and the $1,197.73 opening-boundary balance. Do not classify either payout as revenue.
 2. Any transaction evidence after 17 August 2026 for Business Account ending `1913` when it becomes available.
 3. The same for every other bank account, card or payment account used for YesMandarin.
 4. Entity details and actual GST registration status.
@@ -140,7 +141,7 @@ Account `1913` deterministic workpapers were generated on 25 August 2026:
 - `workpapers/2026-08-25-account-1913-reconciliation-summary.json`
 - `workpapers/2026-08-25-xero-invoice-reconciliation-result.json` — posted-result audit record for the 29 verified Xero invoice reconciliations.
 - `workpapers/2026-08-26-unresolved-invoice-analysis.json` — follow-up evidence for the remaining invoice exceptions and the verified posting of Jack Anderson's two-part settlement of INV-0047.
-- `workpapers/2026-08-26-opening-balance-treatment.json` — owner-confirmed treatment of the $3,262.83 opening bank balance as capital introduced / owner's equity, not income; Xero posting remains pending.
+- `workpapers/2026-08-26-opening-balance-treatment.json` — owner-confirmed treatment of the $3,262.83 opening bank balance as capital introduced / owner's equity, not income; the Xero conversion-balance posting is verified.
 - Rebuild with `scripts/prepare_1913_reconciliation_worklist.py`; matching behaviour is covered by `tests/test_prepare_1913_reconciliation_worklist.py`.
 - The 253-row control totals remain exact: $44,572.45 credits, $16,818.43 debits and $27,754.02 net movement.
 - All 29 statement lines with one invoice candidate supported by an explicit invoice reference or payer-name evidence plus amount and date bounds were reconciled in Xero on 25 August 2026. Another 20 invoice-payment lines remain review items; 25 credits have no defensible invoice candidate.

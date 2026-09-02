@@ -1,0 +1,65 @@
+{
+  "observed_date": "2026-09-02",
+  "organisation": "YesMandarin",
+  "xero_account": {
+    "name": "Stripe Clearing",
+    "code": "STRIPE-CLEARING"
+  },
+  "sources": [
+    "sources/stripe/2026-08-25-xero-linked-account-unified-payments.csv",
+    "sources/stripe/2026-08-25-xero-linked-account-payouts.csv",
+    "sources/stripe/2026-08-25-xero-linked-account-balance-transactions.csv",
+    "sources/stripe/2026-08-25-control-summary.json"
+  ],
+  "control": {
+    "charge_count": 6,
+    "gross": "4975.00",
+    "processing_fees": "105.89",
+    "net": "4869.11",
+    "payout_count": 6,
+    "payout_total": "4869.11",
+    "verified_xero_closing_balance": "0.00"
+  },
+  "payments": [
+    {"date": "2026-03-02", "invoice": "INV-0043", "gross": "665.00", "stripe_charge": "ch_3T6TAbS4D20Qoe6M0X0u1Nyc"},
+    {"date": "2026-03-14", "invoice": "INV-0045", "gross": "665.00", "stripe_charge": "ch_3TAjFJS4D20Qoe6M1Awvw6gs"},
+    {"date": "2026-04-20", "invoice": "INV-0054", "gross": "1160.00", "stripe_charge": "ch_3TO65SS4D20Qoe6M1L2rhd82"},
+    {"date": "2026-04-22", "invoice": "INV-0055", "gross": "590.00", "stripe_charge": "ch_3TOu59S4D20Qoe6M0KkJ9yeb"},
+    {"date": "2026-05-06", "invoice": "INV-0058", "gross": "855.00", "stripe_charge": "ch_3TU4LWS4D20Qoe6M1vgxitZJ"},
+    {"date": "2026-05-13", "invoice": "INV-0065", "gross": "1040.00", "stripe_charge": "ch_3TWW7XS4D20Qoe6M0iwvnkme"}
+  ],
+  "fees": [
+    {"date": "2026-03-02", "invoice": "INV-0043", "amount": "12.27", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded", "xero_reference": "ch_3T6TAbS4D20Qoe6M0X0u1Nyc"},
+    {"date": "2026-03-14", "invoice": "INV-0045", "amount": "12.27", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded", "xero_reference": "INV-0045"},
+    {"date": "2026-04-20", "invoice": "INV-0054", "amount": "21.18", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded", "xero_reference": "INV-0054"},
+    {"date": "2026-04-22", "invoice": "INV-0055", "amount": "10.92", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded", "xero_reference": "INV-0055"},
+    {"date": "2026-05-06", "invoice": "INV-0058", "amount": "30.23", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded", "xero_reference": "INV-0058"},
+    {"date": "2026-05-13", "invoice": "INV-0065", "amount": "19.02", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded", "xero_reference": "INV-0065"}
+  ],
+  "payouts": [
+    {"date": "2026-03-08", "amount": "652.73", "stripe_payout": "po_1T8gwbS4D20Qoe6M53auGvbt", "destination_last4": "9316"},
+    {"date": "2026-03-17", "amount": "652.73", "stripe_payout": "po_1TBxHRS4D20Qoe6MRwX8ZFD9", "destination_last4": "9316"},
+    {"date": "2026-04-21", "amount": "1138.82", "stripe_payout": "po_1TOes9S4D20Qoe6MP1uSNErQ", "destination_last4": "9316"},
+    {"date": "2026-04-23", "amount": "579.08", "stripe_payout": "po_1TPNseS4D20Qoe6MG3myZlEj", "destination_last4": "9316"},
+    {"date": "2026-05-07", "amount": "824.77", "stripe_payout": "po_1TUSWxS4D20Qoe6MoSZS0Zgk", "destination_last4": "9316"},
+    {"date": "2026-05-14", "amount": "1020.98", "stripe_payout": "po_1TWzqES4D20Qoe6MZHiEicT7", "destination_last4": "9316"}
+  ],
+  "payout_treatment": {
+    "payee": "Felicity Cao",
+    "account": "880 - Owner A Drawings",
+    "tax_rate": "BAS Excluded",
+    "reason": "Shane confirmed on 2026-08-25 that destination account 9316 is Felicity's personal account. The payout is movement from the business Stripe balance to the owner, not new income."
+  },
+  "verification": {
+    "method": "Fresh Xero account-transaction UI inspection after the final write and cancellation of the blank entry form.",
+    "all_six_payout_ids_visible_once": true,
+    "all_six_invoice_receipts_visible": true,
+    "all_six_processing_fees_visible": true,
+    "xero_balance_in_xero": "0.00",
+    "unintended_duplicate_detected": false
+  },
+  "excluded_scope": {
+    "separate_stripe_account_payout_to_1913": "660.10 remains isolated to the separate account reconstruction until its unattributed 687.50 charge treatment is resolved.",
+    "opening_boundary_payout_to_9316": "1197.73 remains isolated and must not be recognised as current-period income."
+  }
+}
