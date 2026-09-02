@@ -81,6 +81,13 @@ This is a longevity intervention with body composition as a side effect, not a v
 - **What the panel decides:** Hct hydrated ≥0.54 → single reset donation + consider test 0.08; free T/SHBG shift → note only, no test change this block; urate >0.42 with a flare → allopurinol conversation; K >5.0 → GP.
 - Known cost of skipping baseline: no post-hCG reference for E2/free T, and Hct stays blind until ~week 7. Accepted.
 
+**Growth hormone — DECIDED 2 Sep: not in this block. Isolated trial after the bridge.**
+- **2 IU/day** (chosen over 3 IU: same sleep/skin/recovery upside, far milder fluid retention, carpal tunnel and glucose drift; IGF-1 lands upper-third of range rather than above it). Not a muscle drug at this dose; fat effect modest, mostly visceral.
+- **Runs only after the 8-week bridge closes**, as its own 8–12 week window with nothing else moving — clean attribution. **Gate: nightly CPAP ≥4 h established** (GH is IGF-1-driven soft-tissue growth + fluid → airway; not stacked on TRT-worsened, untreated OSA).
+- **Protocol when it runs:** 1 IU for 2 weeks → 2 IU, once daily fasted AM (or split AM / pre-bed), 5-on/2-off acceptable. Pharma-grade or IGF-1-verified product only — UGL GH is the most faked compound on the market.
+- **Monitoring:** daily BP first month; **IGF-1** at 4–6 wks (target upper third of range, never above); HbA1c + fasting glucose + insulin at the same draw; PSA at the end. Stop or halve on carpal tunnel, visible oedema, or a BP rise. Joint aches can mimic/confound a gout flare — log them.
+- Baseline references: IGF-1 21 nmol/L (22 Jun), HbA1c 4.5%, fasting insulin 8, PSA 1.2.
+
 ## 3. Training + weekly layout (locked 2 Sep 2026)
 
 **Structure: Push → Pull → Legs → Rest, rotating continuously regardless of weekday.** A 4-day cycle ≈ 5 lifts/week, each muscle ~1.75×/wk. The cycle does not reset for the roster — whatever is due is done wherever you are. Lifting happens on Sydney *and* Mudgee days.
