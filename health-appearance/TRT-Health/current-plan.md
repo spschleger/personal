@@ -18,7 +18,7 @@ This is the live "where things stand / what's next" across the interacting threa
 > - [ ] **Reta: DECIDED 2 Sep — YES, from day 1** (not staged to week 3). Sourcing + reconstitution + storage sorted so it is in the fridge on return (not carried). Dose/ramp set in the redesign.
 > - [ ] **Bloods request** written for the first post-return panel (Hct, E2, free T, SHBG, progesterone, fasting iron studies, urate).
 > - [ ] **Training:** Sydney gym + Mudgee Anytime access confirmed; Push/Pull template reviewed against the redesign.
-> - [ ] **Diet:** protein floor + default meals decided; shopping list for the return week.
+> - [x] **Diet section locked 2 Sep** (160 g flat, no counting, zero alcohol, Mudgee self-cater) → `../recomp-protocol-2026.md` §1. Still open: **Shane lists 3–4 default meals with protein figures + the return-week shopping list.**
 > - [ ] **Lim consult 16 Sep** attended; SARPE quote + timeline captured in `../sleep-apnea-treatment.md`.
 > - [ ] **Day-0 ritual defined** for the first morning back: fasted weigh-in, measurements, photos, first reading in the trackers.
 >

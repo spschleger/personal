@@ -2,6 +2,48 @@
 
 > **⏸ POSTPONED TO POST-CHINA (decided 2026-09-02) — nothing below is the active prescription.** Recomp starts **after Shane returns from China on 23 Sep**, not before: too much on, and adherence over the next three weeks would be poor. Between now and 17 Sep the work is **design, not execution**: rebuild this protocol from a fresh fasted weight, measurements and baseline photos so that day 1 on return is fully specified (dose, phases, targets, schedule, diet) and nothing has to be decided in the moment. **Do not inherit the July dosing, phases, targets or schedule by default.** Reta has no locked day 1 or dose until the redesign is done. Fixed background: hCG stopped; testosterone 0.09 ml/day; China 17–23 Sep; new CPAP mask + nightly CPAP is the top parallel health action and must be in hand for the return. `TRT-Health/current-plan.md` is the live authority and carries the pre-departure checklist.
 >
+---
+
+# REDESIGN — post-China block (built section by section, Sep 2026)
+
+> Sections below are the **new** protocol as they get locked. Everything under the "Strategic Frame" heading further down is the **July block, retained for reference only** until the redesign is complete, then removed. Fixed inputs for the whole block: **test 0.09 ml/day held, no hCG, reta from day 1** (dose/ramp in the pharma section), lifting on **both Sydney and Mudgee days** (training section), day 1 set once the return date is fixed.
+
+## 1. Diet + protein lock (locked 2 Sep 2026)
+
+**Decisions**
+- **Protein: 160 g/day, flat, every day** including shift days. The *only* tracked number. No daily tiers, no stretch target — the floor is the target.
+- **No calorie counting.** Reta sets the deficit; eat to satiety, protein first. The scale trend is the feedback, not a kcal number.
+- **Alcohol: zero for the block.** Reassess at the end of the block, not mid-way. Rationale: binges are the only gout trigger and a cut already loads urate; also cleans up E2, sleep and the scale signal.
+- **Mudgee (Fri–Sun): self-catered from the accommodation.** Cook Thursday in Sydney, carry, reheat. No reliance on site food.
+
+**Daily skeleton (protein-first, front-loaded)**
+- 4 protein feeds × ~40 g ≈ 160 g. First two feeds carry the load — by mid-afternoon ≥100 g should be in, so appetite suppression later in the day can't sink the number.
+- **Whey shake is the floor, not a bonus:** one 40 g shake per day is a fixed feed, taken early. On any day the number looks short by evening, a second shake closes it — never "make it up tomorrow".
+- Carbs and fat: untracked, to satiety, around training first. Vegetables/fibre daily (reta + low volume = constipation risk).
+- Default meals: **to be filled by Shane** — three or four go-to meals he actually eats, each with its protein figure, so the day is assembled from defaults rather than decided. (Open item on the pre-departure checklist.)
+
+**Mudgee pack (Thu cook, Fri–Sun eat)**
+- 3 days × 160 g = **480 g protein packed**, plus whey as slack. Batch-cook Thursday morning before the drive: e.g. 1.5 kg cooked chicken/mince equivalent, eggs, Greek yoghurt, tinned fish as no-cook backup. Esky in the car, fridge at the accommodation.
+- Lifting on shift days means feed timing sits around the 12-hr shift: shake on waking, main feed in crib, main feed post-shift/post-lift.
+- Shopping list for the return week lives with the default meals (checklist item).
+
+**Hydration: ~3 L/day** — reta blunts thirst; dehydration raises urate (gout) and inflates any Hct draw. Non-negotiable on shift days.
+
+**Gout guardrails for the cut** (from `TRT-Health/bloods-summary.md`)
+- No crash deficit, no fasting/keto stretches — rapid loss + ketones block urate excretion.
+- **Rate cap:** trailing 2-week loss >0.7 kg/wk → eat more (carbs around training), don't "let it run". Under 0.3 kg/wk → reta bump or add walking per the pharma rules, don't cut food.
+- Urate on the first post-return panel and again mid-block.
+- **Decision rule:** a gout flare during the cut with zero alcohol = baseline is driving it → allopurinol conversation (start ~100 mg, titrate to <0.36). Acute flare: colchicine or steroid, **not NSAIDs, no aspirin**.
+
+**Reta × diet interactions**
+- GI: mild nausea days 1–3 of each step is normal; vomiting = pause and hold the previous dose. Pin in the evening so peak GI effect doesn't collide with training.
+- The known failure point is protein adherence once suppression bites (weeks ~6–10 in July's model). The shake-floor + front-loading above is the counter; if 160 g still slips two days running, that is the signal to step reta down, not to accept 120 g.
+
+**Feedback (replaces calorie math)**
+- Fasted, post-void weigh-in **weekly, same day** (Mon AM in Sydney). Two-week rolling trend is the signal, never a single reading.
+- Photos every 2 weeks, same light/pose as day 0.
+- Protein hit/miss logged daily as a tick — the one adherence datum.
+
 > **2026-06-20 refocus:** Lifting-led recomp prioritising fat loss, lean mass, mobility, and health markers (BP/Hct/OSA). Running held to a health dose (2× 8–10 km/wk). **Marathon block deferred** — optional future block, revisited only after recomp + health markers are sorted. Dose/E2/Hct decisions now gated on bloods per `TRT-Health/current-plan.md`.
 
 **Start date:** hCG D1 = 2026-07-13; recomp phase-1 kickoff = 2026-07-14 (formal baseline weigh-in + photos)
