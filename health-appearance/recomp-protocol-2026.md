@@ -44,6 +44,33 @@
 - Photos every 2 weeks, same light/pose as day 0.
 - Protein hit/miss logged daily as a tick — the one adherence datum.
 
+## 2. Pharma + bloods (locked 2 Sep 2026)
+
+**Testosterone: 0.09 ml/day cypionate, held for the entire block.** No bump at any point (July's 0.11 in-block step is dead — free T was already above band on the last draw, OSA is untreated, Hct unmeasured). No hCG. Composition is chased with diet + training + reta, not mg.
+
+**Retatrutide — supply + handling**
+- Vials on hand (UGL). **Store unreconstituted in the fridge**, dark, not in the door — room temp for a few weeks is tolerable for lyophilised powder, but it lives at 2–8 °C from now. Nothing is carried to China.
+- **Reconstitute one vial on day 0:** 10 mg in **2.5 ml** bacteriostatic water → **4 mg/ml**. Keep refrigerated, use within ~30 days, never freeze once mixed. Reconstitute the next vial only when the current one is near empty.
+- 0.3 ml insulin pin; **1 u = 0.01 ml = 0.04 mg.** SC, rotate abdomen / thigh / posterior triceps. **Pin in the evening** (GI peak clears morning training).
+
+**Dose plan — daily micro-dosing, weekly-equivalent steps**
+
+| Step | Daily | Weekly equiv. | When |
+|---|---|---|---|
+| Start | **2 u** (0.08 mg) | ~0.56 mg/wk (≈ 0.5) | Day 1 → end of week 2 *(default 2 wks — confirm)* |
+| Working dose | **4 u** (0.16 mg) | ~1.12 mg/wk (≈ 1.0) | Week 3 onward; **hold here by default** |
+| Step-up (contingent) | **5 u → 7 u** (0.2 → 0.28 mg) | ~1.4 → ~1.96 mg/wk (≈ 2.0) | Only via the check rule below; **7 u / ~2 mg/wk is the block ceiling** |
+
+- **Check rule (July rule, kept): end of week 7 and again week 10.** Step up one level only if the trailing 2-week loss is **<0.3 kg/wk AND suppression feels mild**. Otherwise hold. Expectation: hold 4 u the whole block. Never step on a single reading, never mid-week.
+- **Step down** if: vomiting, protein <160 g two days running, trend >0.7 kg/wk. Drop one level and hold two weeks before reconsidering.
+- Vial life at 4 u/day ≈ 60 days → a 16-week block uses ~2 vials.
+
+**Bloods — one mid-block panel, no day-0 baseline (Shane's call, 2 Sep).**
+- **Timing: week 6–8** (reta at saturation on the working dose; ~mid-Nov if day 1 is late Sep). Fasted AM, well-hydrated the night before and on waking, ~24 h after the test pin, 48 h clear of heavy training (avoids the muscle AST/CK bump).
+- **Panel:** FBC (**Hct** — unmeasured since 22 Jun, the biggest gap), total T + free T + **SHBG** (reta/lean-out should be lifting SHBG), E2, **U&E** (K + creatinine — never rechecked since candesartan started 26 Jun; ARBs raise K, baseline 4.6), **urate** (cut = urate load), **fasting iron studies** (transferrin sat 59% still unconfirmed), progesterone (post-hCG reference), lipids (reta effect).
+- **What the panel decides:** Hct hydrated ≥0.54 → single reset donation + consider test 0.08; free T/SHBG shift → note only, no test change this block; urate >0.42 with a flare → allopurinol conversation; K >5.0 → GP.
+- Known cost of skipping baseline: no post-hCG reference for E2/free T, and Hct stays blind until ~week 7. Accepted.
+
 > **2026-06-20 refocus:** Lifting-led recomp prioritising fat loss, lean mass, mobility, and health markers (BP/Hct/OSA). Running held to a health dose (2× 8–10 km/wk). **Marathon block deferred** — optional future block, revisited only after recomp + health markers are sorted. Dose/E2/Hct decisions now gated on bloods per `TRT-Health/current-plan.md`.
 
 **Start date:** hCG D1 = 2026-07-13; recomp phase-1 kickoff = 2026-07-14 (formal baseline weigh-in + photos)
