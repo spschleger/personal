@@ -57,7 +57,7 @@
 
 | Step | Daily | Weekly equiv. | When |
 |---|---|---|---|
-| Start | **2 u** (0.08 mg) | ~0.56 mg/wk (≈ 0.5) | Day 1 → end of week 2 *(default 2 wks — confirm)* |
+| Start | **2 u** (0.08 mg) | ~0.56 mg/wk (≈ 0.5) | Day 1 → end of week 2 (confirmed 2 Sep) |
 | Working dose | **4 u** (0.16 mg) | ~1.12 mg/wk (≈ 1.0) | Week 3 onward; **hold here by default** |
 | Step-up (contingent) | **5 u → 7 u** (0.2 → 0.28 mg) | ~1.4 → ~1.96 mg/wk (≈ 2.0) | Only via the check rule below; **7 u / ~2 mg/wk is the block ceiling** |
 
@@ -70,6 +70,40 @@
 - **Panel:** FBC (**Hct** — unmeasured since 22 Jun, the biggest gap), total T + free T + **SHBG** (reta/lean-out should be lifting SHBG), E2, **U&E** (K + creatinine — never rechecked since candesartan started 26 Jun; ARBs raise K, baseline 4.6), **urate** (cut = urate load), **fasting iron studies** (transferrin sat 59% still unconfirmed), progesterone (post-hCG reference), lipids (reta effect).
 - **What the panel decides:** Hct hydrated ≥0.54 → single reset donation + consider test 0.08; free T/SHBG shift → note only, no test change this block; urate >0.42 with a flare → allopurinol conversation; K >5.0 → GP.
 - Known cost of skipping baseline: no post-hCG reference for E2/free T, and Hct stays blind until ~week 7. Accepted.
+
+## 3. Training + weekly layout (locked 2 Sep 2026)
+
+**Structure: Push → Pull → Legs → Rest, rotating continuously regardless of weekday.** A 4-day cycle ≈ 5 lifts/week, each muscle ~1.75×/wk. The cycle does not reset for the roster — whatever is due is done wherever you are. Lifting happens on Sydney *and* Mudgee days.
+
+**Where and when**
+- **Sydney (Mon–Thu):** session at the usual time, full version.
+- **Mudgee (Fri–Sun): after the 12-hr day shift, evening, Anytime Fitness.** Short version (below), then dinner. No pre-shift sessions — sleep is the OSA/BP weak point and is not traded for a lift.
+- **Rest day = rest.** Daily 10-min mobility flow only. If Rest lands on a Sydney day, that is a run day.
+
+**Templates — machine/cable, spine-decompressed** (scoliosis + back: no barbell squat, deadlift, RDL or standing barbell press; erectors loaded via back extension / pull-through, not axial compression). Full lists in `training-program-2026.md` Layer 1; **Legs is new** and is carved out of the old Push/Pull leg work:
+
+| Day | Full (Sydney, ~60 min) | Short (Mudgee post-shift, ≤40 min) |
+|---|---|---|
+| **Push** | Machine chest press · incline press/pec deck · seated machine shoulder press · lateral raise · triceps pushdown + overhead extension — 3 sets each | Chest press · shoulder press · lateral raise · pushdown — 2–3 sets each |
+| **Pull** | Lat pulldown · chest-supported row · single-arm cable row · reverse pec deck/face pull · cable + incline-DB curl · **core finisher** (Pallof, suitcase carry) — 3 sets | Pulldown · supported row · face pull · curl — 2–3 sets |
+| **Legs** | Leg press · hack/pendulum squat (if available) · leg extension (incl. single-leg) · seated/lying leg curl · 45° back extension or cable pull-through · calves · **core finisher** (dead bug, side plank) — 3 sets | Leg press · leg curl · leg extension · calves — 2 sets. **If Legs lands on the third consecutive shift day (Sun), it may be swapped with the following Rest** — the only permitted reorder. |
+
+- **Rep ranges:** compounds 8–12, isolation 12–20. Progress by adding a rep or a small load when the top of the range is clean; **no PR chasing in a deficit** — holding loads while the scale drops *is* the win.
+- **Effort:** **RIR 2–3, no failure, no Valsalva** (exhale on exertion — the epistaxis rule stands), no max-effort bilateral compounds. Weeks 1–2: ~60–70% of pre-lapse loads, movement quality and injury tolerance only.
+- **Unilateral accessory every session** (single-arm row, single-leg extension, suitcase carry) — asymmetry addressed without turning lifting into rehab. **Pain-gate:** train only if baseline back pain ≤4/10, allow ≤1-point rise in-session.
+
+**Cardio: 2 × 8–10 km Zone 2 per week, Sydney days.** Preferred slots: the Rest day and a Push or Pull day (never Legs). Morning run, lift later, or separate days entirely. Ramp in over weeks 1–3 (30 → 45 → 60 min). If a work weekend leaves you flat, one run is acceptable; zero is not — this is the BP/HDL lever.
+
+**Mobility + core**
+- Daily 10-min flow (`training-program-2026.md` Layer 2A), every day including shift days; post-shift decompression (2D) before the Mudgee session.
+- Core anti-movement work rides as the finisher on Pull and Legs (Layer 3). No standalone session needed.
+- Scoliosis Layer 4 stays deferred pending imaging + a Schroth/SEAS assessment.
+
+**Recovery guardrails (deficit + three 12-hr shifts + reta)**
+- Resting HR up ≥5 bpm for 3 days, sleep collapsing, or lifts dropping >5% over 2 weeks → insert an extra Rest into the rotation. Don't add sessions; the "do more" itch goes into mobility and sleep.
+- Mudgee sessions are volume-capped by design; do not upgrade them to full sessions on a good day.
+
+**Sample first two weeks (if day 1 = Mon 28 Sep):** Mon Push · Tue Pull · Wed Legs · Thu Rest (run) · Fri Push-short · Sat Pull-short · Sun Legs-short (or swap with Mon Rest) · Mon Rest (run) · Tue Push · Wed Pull · Thu Legs · Fri Rest · Sat Push-short · Sun Pull-short … The cycle simply continues; the weekly map in `training-program-2026.md` is superseded by this rotation.
 
 > **2026-06-20 refocus:** Lifting-led recomp prioritising fat loss, lean mass, mobility, and health markers (BP/Hct/OSA). Running held to a health dose (2× 8–10 km/wk). **Marathon block deferred** — optional future block, revisited only after recomp + health markers are sorted. Dose/E2/Hct decisions now gated on bloods per `TRT-Health/current-plan.md`.
 

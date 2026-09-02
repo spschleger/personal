@@ -17,7 +17,7 @@ This is the live "where things stand / what's next" across the interacting threa
 > - [ ] **Protocol redesign** completed and written into `../recomp-protocol-2026.md` (supersedes the July block).
 > - [x] **Reta: DECIDED 2 Sep — YES, from day 1.** Vials on hand → **move to the fridge now** (unreconstituted); reconstitute one vial on day 0. Dose plan locked in `../recomp-protocol-2026.md` §2 (2 u → 4 u, ceiling 7 u ≈ 2 mg/wk).
 > - [x] **Bloods: DECIDED 2 Sep — no day-0 baseline; one mid-block panel wk 6–8.** Panel spec in `../recomp-protocol-2026.md` §2 (adds U&E — K/creatinine never rechecked on candesartan).
-> - [ ] **Training:** Sydney gym + Mudgee Anytime access confirmed; Push/Pull template reviewed against the redesign.
+> - [x] **Training section locked 2 Sep** — Push/Pull/Legs/Rest rotating across roster, Mudgee post-shift short sessions, 2× Z2 runs → `../recomp-protocol-2026.md` §3. Still open: confirm Sydney gym + Mudgee Anytime memberships are active for the return.
 > - [x] **Diet section locked 2 Sep** (160 g flat, no counting, zero alcohol, Mudgee self-cater) → `../recomp-protocol-2026.md` §1. Still open: **Shane lists 3–4 default meals with protein figures + the return-week shopping list.**
 > - [ ] **Lim consult 16 Sep** attended; SARPE quote + timeline captured in `../sleep-apnea-treatment.md`.
 > - [ ] **Day-0 ritual defined** for the first morning back: fasted weigh-in, measurements, photos, first reading in the trackers.
