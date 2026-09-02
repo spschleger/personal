@@ -48,7 +48,7 @@ Shane trains most days. Mudgee evenings are compressed: back at the accommodatio
 | 5 (optional) | Bedtime, only if hungry | Greek yoghurt / casein | ~30 g | ~200 |
 
 - **Daytime lands ~110–140 g protein and ~1,200–1,400 kcal** — by end of shift the day is nearly done and dinner only has to be ~50 g / ~1,000 kcal. That is the whole point: a moderate dinner an hour before bed is tolerable; a 2,000-kcal one is not.
-- **Late-dinner mitigation (Mudgee):** dinner moderate and lower-fat (fat delays emptying — reflux, and worse on reta), finished by ~9, upright for 45+ min, CPAP on. Sydney dinners: earlier, and the 2–3 h gap is easy.
+- **Late dinner is the norm, Sydney and Mudgee — no bed-gap rule.** Mitigation is portion and composition, not the clock: dinner moderate (~1,000 kcal) and lower-fat (fat delays emptying — reflux, worse on reta), upright a little while after, CPAP on. The front-loaded day is what makes this safe; if dinner creeps back toward 2,000 kcal the airway will tell you.
 - **Weeks 1–2 (2 u reta):** dinner can run bigger. **Week 3+:** appetite shrinks; feeds 1–3 already carry the protein, so nothing has to be forced at night.
 
 **Mudgee dinners — cook at the accommodation, ≤20 min, ~50 g protein, ~1,000 kcal** (pick 3 for the Thursday shop; rotate):
