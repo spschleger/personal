@@ -27,9 +27,9 @@ This is a longevity intervention with body composition as a side effect, not a v
 - **Mudgee (Fri–Sun): self-catered from the accommodation.** Cook Thursday in Sydney, carry, reheat. No reliance on site food.
 
 **Calorie frame (provisional at 87 kg — rescale on day 0; added 2 Sep).** "No counting" means no daily logging: the maths is done once here and the default meals are built to land inside it.
-- BMR (Mifflin-St Jeor, 87 kg / 185 cm / 41): **~1,830 kcal.** Maintenance by day type: Sydney lift-or-run day ~2,800 · Sydney lift + run day ~3,300 · Mudgee 12-hr shift + short lift ~3,400. Blended weekly maintenance ≈ 3,050.
-- **Target: a WEEKLY budget, averaged — ~17,800 kcal/wk ≈ 2,550/day** (≈ −500/day vs blended maintenance = the 0.5 kg/wk rate). Shane averages across the week rather than hitting a per-day number; days may run 2,200–2,900 as training and shifts dictate. Two things are **not** averaged: **protein 160 g every day**, and the **hard floor ~1,900 kcal on any day** (lean-mass protection + gout rate cap).
-- Guide by day type (for placing calories, not for counting): Sydney single-session day ~2,300 · Sydney lift + run ~2,700 · Mudgee shift + lift ~2,900. Macros at the weekly average: protein 160 g (640) · fat ~80 g (720) · carbs ~300 g (fill).
+- BMR (Mifflin-St Jeor, 87 kg / 185 cm / 41): **~1,830 kcal.** Maintenance by day type: Sydney desk + one session ~2,600 · Sydney lift + run ~3,000 · Mudgee 12-hr underground shift + short lift ~3,100–3,500. Blended weekly maintenance ≈ 2,900 (±300 — formulas are rough, and recent weight gain on an unmeasured intake suggests the true figure sits on the lower side).
+- **Target: a WEEKLY budget, averaged — ~16,800 kcal/wk ≈ 2,400/day** (≈ −500/day vs blended maintenance = the 0.5 kg/wk rate; revised down from 2,550 on 2 Sep). **Recalibrate on the scale, not the formula:** weeks 2–4 trend <0.3 kg/wk → trim ~200/day; >0.7 kg/wk → add ~200/day. Shane averages across the week rather than hitting a per-day number; days may run 2,200–2,900 as training and shifts dictate. Two things are **not** averaged: **protein 160 g every day**, and the **hard floor ~1,900 kcal on any day** (lean-mass protection + gout rate cap).
+- Guide by day type (for placing calories, not for counting): Sydney single-session day ~2,100 · Sydney lift + run ~2,500 · Mudgee shift + lift ~2,800. Macros at the weekly average: protein 160 g (640) · fat ~75 g (675) · carbs ~270 g (fill).
 - These are **floors to eat up to, not ceilings** — reta will pull real intake under them from week 3; when it does, protein stays at 160 and the shortfall comes out of carbs/fat.
 - Carbs are placed around training (pre/post-lift, pre-run) and in crib on shift days; fat is what's left.
 - Rescale on day 0: recompute BMR at the measured weight, shift each target by the same delta, re-derive carbs. Re-check at week 6 against the trend (if loss >0.7 kg/wk raise the floors by ~200; if <0.3 kg/wk the lever is reta or steps, not lower floors).
@@ -47,7 +47,7 @@ Shane trains most days. Mudgee evenings are compressed: back at the accommodatio
 | 4 | Post-training dinner (8–9 pm Mudgee; earlier Sydney) | **Cooked, ≤20 min, one pan** (list below) | ~50 g | ~900–1,100 |
 | 5 (optional) | Bedtime, only if hungry | Greek yoghurt / casein | ~30 g | ~200 |
 
-- **Daytime lands ~110–140 g protein and ~1,200–1,400 kcal** — by end of shift the day is nearly done and dinner only has to be ~50 g / ~1,000 kcal. That is the whole point: a moderate dinner an hour before bed is tolerable; a 2,000-kcal one is not.
+- **Daytime lands ~110–140 g protein and ~1,200–1,400 kcal** — by end of shift the day is nearly done and dinner only has to be ~50 g / ~900–1,000 kcal on Mudgee days, less on a Sydney desk day. That is the whole point: a moderate dinner an hour before bed is tolerable; a 2,000-kcal one is not.
 - **Late dinner is the norm, Sydney and Mudgee — no bed-gap rule.** Mitigation is portion and composition, not the clock: dinner moderate (~1,000 kcal) and lower-fat (fat delays emptying — reflux, worse on reta), upright a little while after, CPAP on. The front-loaded day is what makes this safe; if dinner creeps back toward 2,000 kcal the airway will tell you.
 - **Weeks 1–2 (2 u reta):** dinner can run bigger. **Week 3+:** appetite shrinks; feeds 1–3 already carry the protein, so nothing has to be forced at night.
 
