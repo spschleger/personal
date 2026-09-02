@@ -10,6 +10,7 @@
 - [ ] **Chase I-MED CD/USB collection before 9 Sep** (requested 27 Aug). Backup zip already on hand (`imaging/…-imed-dicom.zip`).
 - [ ] Consult questions per `china-option.md` (7 questions) + the divergence question: resection extent for HER anatomy (encased left L5 root) — Li said conservative release, Sun said subtotal resection + 终丝切断. Ask each to justify vs the other's position.
 - [ ] Insurance gate items (below, 25 Aug section) now have a hard deadline: resolved before or during the trip — 医保电子凭证 activated, 异地备案 done, the "1-month wait" product identified.
+- [ ] If family raises **301 尚爱加**: he died 31 Aug 2024 (`beijing-surgeon-shang-aijia-301.md`); 7th MC *is* 解放军总医院. Optional 4th opinion = 陶本章 脊髓拴系专病门诊, 301 First MC — confirm he still practises there before booking.
 - [ ] Log both consult outcomes → `clinical-picture.md` + decision per `china-option.md` criteria.
 
 ## Sydney track — fallback only (updated 31 Aug)

@@ -32,6 +32,7 @@ Private research project for partner (28F, Sydney). Working through chronic cons
 - `summary-for-yujie-zh.md` / `.pdf` — 给雨杰的中文说明 **(updated 19 Aug post-MRI: what was found, what it means, next steps, red flags incl. dermal sinus)**; `summary-for-yujie-en.md` / `.pdf` — English rendering
 - `summary-for-parents-zh.md` / `.pdf` — 给雨杰爸爸妈妈的说明: what it is, why (not their fault, not the pregnancy, couldn't have been seen), what can be done, fertility reassurance; `summary-for-parents-en.md` / `.pdf` — English
 - *(PDFs rendered via `~/personal/tools/html2pdf/` — WebKit createPDF, single continuous page for phone reading; headless Chrome renders blank text on this machine)*
+- `beijing-surgeon-shang-aijia-301.md` — **2 Sep: 尚爱加 (301 First MC) verified — died 31 Aug 2024.** His unit's 2016 adult-lipoma series (105 pts: pain 74% / bladder 43% improved; subtotal resection accepted) + who remains there (陶本章 脊髓拴系专病门诊). Ranking unchanged: Li first.
 - `neurosurgeon-brief.md` / `.pdf` — one-page brief for the Wilson consult (27 Aug): diagnosis, everything the referral omits, urodynamics numbers, 10 questions (calf/thigh measurements to fill in)
 - `records/` — source documents: MRI report (18 Aug 2026), neurosurgeon referral (19 Aug 2026), urodynamics report (8 Oct 2025), radiographer note (18 Aug 2026), original MRI request from Dr Guan (7 Aug 2026, photo)
 - `fertility-and-pregnancy.md` — what the diagnosis does/doesn't change for conception, pregnancy, delivery, anaesthesia, hereditary risk (5 mg folate), sequencing vs surgery
