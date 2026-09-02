@@ -1,7 +1,7 @@
 # Sleep Apnea & Airway Correction — Treatment Plan
 
 **Established:** June 2026
-**Status:** CPAP machine acquired; adherence lapsed because the current mask/interface is not tolerable. New mask + reinstating nightly CPAP is the top immediate health action as of 2026-09-01. Structural treatment pathway remains active.
+**Status:** CPAP machine acquired; adherence lapsed because the current mask/interface is not tolerable. New mask + reinstating nightly CPAP is the top immediate health action as of 2026-09-01; **target: new mask fitted and in hand before China (17 Sep) so nightly CPAP resumes on return 23 Sep** (decided 2 Sep). Recomp is postponed to post-return; CPAP is not. Structural treatment pathway remains active.
 **Re-review trigger:** post each treatment milestone
 
 ## Background

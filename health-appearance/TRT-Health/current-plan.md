@@ -1,6 +1,6 @@
 # Current Plan & Decision Log
 
-**Updated:** 2026-09-01
+**Updated:** 2026-09-02
 **Companion files:** `bloods-summary.md`, `bloods-tracker.csv`, `semen-analysis-tracker.csv`, `bp-log.csv`, `../recomp-protocol-2026.md`, `../sleep-apnea-treatment.md`
 
 > **⏸ RECOMP POSTPONED (2026-06-23)** — on hold while BP is controlled (telmisartan + tadalafil) and CPAP is established, following the posterior-epistaxis pattern + uncontrolled BP (clinical detail in `../sleep-apnea-treatment.md`). **On hold:** test bump, reta start, the whole 16-wk block. **Test stays at 0.09.** hCG was already post-recomp → further deferred. Resume only from a stable baseline: BP controlled, CPAP bedded in, bleeding resolved, fit-for-work cleared. The decision logic below stands for *when* it resumes — it's paused, not changed.
@@ -8,6 +8,18 @@
 This is the live "where things stand / what's next" across the interacting threads (TRT dose, hCG, recomp, CPAP/BP, bloods). Decisions here override older language in the recomp doc where they conflict.
 
 > **📍 LIVE STATUS (13 Jul):** BP now **controlled on candesartan** (home avg 126/77, weekly Mon-AM spot-check). De-prescribe-candesartan plan is dead — candesartan is the primary BP tool now. **TRT has worsened OSA considerably**; sleep study (18mo, "not too severe") **not being refreshed** (Shane's call). CPAP compliance weak → mask change is plan B; **CPAP is now the keystone/top open item** because it's the designated offset for TRT-worsened OSA. Full detail in `bloods-summary.md` → Hct + BP management section.
+>
+> **📍 DECISION (2 Sep) — RECOMP POSTPONED TO POST-CHINA; pre-departure = organise, mask, protocol design.** Shane is not starting the recomp before the trip: too much going on, and adherence over the next three weeks would be poor. **Recomp day 1 = after return (23 Sep), date to be locked in the redesign.** The goal between now and 17 Sep is that everything is *organised* for the return so execution starts cleanly: (1) **a new CPAP mask in hand** (comfort-at-onset is the failure mode, not leak — full-face alternative to the F20, fitted at Sove, not bought blind); (2) **the protocol fully designed before departure** — day-1 date, reta yes/no + source + dose + ramp, test held at 0.09, diet lock, training template, bloods schedule (Hct + progesterone + fasting iron on the first panel), gout guardrails for the cut — so Shane knows exactly what he is doing on day 1; (3) **baseline captured on return, not now** (fasted weight, measurements, photos on day 0 — the trip will move the number anyway). Nothing pharmacological changes before or during the trip: test 0.09 only, no hCG, no reta carried. Lim SARPE consult 16 Sep stands.
+>
+> **Pre-departure checklist (2–16 Sep):**
+> - [ ] **CPAP mask:** book Sove Burwood comfort re-fit; leave with a new full-face mask (F30 / F30i / alternative cushion) — done before 17 Sep so it is waiting on return.
+> - [ ] **Protocol redesign** completed and written into `../recomp-protocol-2026.md` (supersedes the July block).
+> - [ ] **Reta decision:** run it or not; if yes, sourcing + reconstitution + storage sorted so it is in the fridge on return (not before, not carried).
+> - [ ] **Bloods request** written for the first post-return panel (Hct, E2, free T, SHBG, progesterone, fasting iron studies, urate).
+> - [ ] **Training:** Sydney gym + Mudgee Anytime access confirmed; Push/Pull template reviewed against the redesign.
+> - [ ] **Diet:** protein floor + default meals decided; shopping list for the return week.
+> - [ ] **Lim consult 16 Sep** attended; SARPE quote + timeline captured in `../sleep-apnea-treatment.md`.
+> - [ ] **Day-0 ritual defined** for the first morning back: fasted weigh-in, measurements, photos, first reading in the trackers.
 >
 > **📍 CURRENT BASELINE + DECISION (1 Sep) — supersedes the older restart plans below:** **Test settled at 0.09 ml/day only. hCG remains stopped.** Weight has increased over the past month during limited gym attendance and loose diet control; no clean current fasted weight recorded. **The existing recomp protocol is no longer active and will be redesigned from scratch on 2 Sep using a fresh starting weight, measurements and photos; reta does not have a locked start or dose until that review.** China: depart 17 Sep, return 23 Sep. How reta is handled during the trip is not yet decided; do not infer that it will be carried. **Getting a new CPAP mask and reinstating nightly CPAP remains the single biggest health action and runs in parallel.** Test stays at 0.09; no hCG restart or test bump.
 >
