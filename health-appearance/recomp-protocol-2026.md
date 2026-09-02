@@ -41,16 +41,22 @@ This is a longevity intervention with body composition as a side effect, not a v
 - Rescale on day 0: recompute BMR at the measured weight, shift each target by the same delta, re-derive carbs. Re-check at week 6 against the trend (if loss >0.7 kg/wk raise the floors by ~200; if <0.3 kg/wk the lever is reta or steps, not lower floors).
 - **Meal plan:** built from Shane's own food list (pending) → a Sydney day, a Mudgee day (= Thursday cook + shopping list), each meal with protein + kcal; a "suppressed-appetite" version for week 3+ with the same protein in less volume.
 
-**Daily skeleton (protein-first, front-loaded)**
-- 4 protein feeds × ~40 g ≈ 160 g. First two feeds carry the load — by mid-afternoon ≥100 g should be in, so appetite suppression later in the day can't sink the number.
-- **Whey shake is the floor, not a bonus:** one 40 g shake per day is a fixed feed, taken early. On any day the number looks short by evening, a second shake closes it — never "make it up tomorrow".
-- Carbs and fat: untracked, to satiety, around training first. Vegetables/fibre daily (reta + low volume = constipation risk).
-- Default meals: **to be filled by Shane** — three or four go-to meals he actually eats, each with its protein figure, so the day is assembled from defaults rather than decided. (Open item on the pre-departure checklist.)
+**Meal plan (Shane's structure, locked 2 Sep — front-load, three feeds ≥40 g)**
 
-**Mudgee pack (Thu cook, Fri–Sun eat)**
-- 3 days × 160 g = **480 g protein packed**, plus whey as slack. Batch-cook Thursday morning before the drive: e.g. 1.5 kg cooked chicken/mince equivalent, eggs, Greek yoghurt, tinned fish as no-cook backup. Esky in the car, fridge at the accommodation.
-- Lifting on shift days means feed timing sits around the 12-hr shift: shake on waking, main feed in crib, main feed post-shift/post-lift.
-- Shopping list for the return week lives with the default meals (checklist item).
+| Feed | When | What | Protein | kcal (check labels) |
+|---|---|---|---|---|
+| 1 | On waking, fasted | **ON Pure Pro 50** shake | 50 g | ~250–300 |
+| 2 | Midday / crib | **Youfoodz high-protein meal** (Coles/Woolworths) | 40–50 g | ~450–550 |
+| — | Training window (heavy days only) | Carbs: rice cup / fruit / oats in crib; banana or bagel pre-lift | — | 300–400 |
+| 3 | Post-training dinner, **finished 2–3 h before bed** | Shane's choice, eats well; ~60–70 g protein | 60–70 g | **cap ~1,200–1,400** |
+| 4 (optional) | Bedtime, only if hungry | Greek yoghurt or casein shake | ~30 g | ~200 |
+
+- **Daytime = 90–100 g protein for ~750–850 kcal.** Same pattern on Sydney and Mudgee days; on shift days feed 1 is pre-drive/pre-shift and feed 2 is crib.
+- **Evening is the big meal but not a load.** Shane's past deficit pattern (sleep on a full belly) is kept in spirit, capped in size: large late meals worsen reflux, snoring and apnoea — the wrong direction during CPAP re-entry — and from week 3 reta's slowed gastric emptying turns a huge dinner into night nausea. The bedtime yoghurt gives the full-belly signal without the airway cost. Surplus on heavy days goes into the training window, not onto the plate at 9 pm.
+- **Weeks 1–2 (2 u reta):** the bigger dinner is fine. **Week 3+:** dinner naturally shrinks; feed 4 becomes the tool that holds 160 g.
+- **Mudgee logistics:** Youfoodz replaces the Thursday cook. **Thursday shop:** 3 × Youfoodz (keep ~5 days refrigerated), 3 × Pure Pro 50, dinner ingredients ×3, Greek yoghurt, crib carbs. Needs a microwave at the accommodation *(confirm)*. Youfoodz sodium ~0.8–1.2 g/meal — minor on candesartan, note against the Monday BP read.
+- **Default dinners:** Shane's call, no list required — the only rules are ≥60 g protein, inside the cap, done 2–3 h before bed. Vegetables/fibre daily (reta + low volume = constipation risk).
+- **Whey rule:** any day the number looks short by evening, a second shake closes it — never "make it up tomorrow".
 
 **Hydration: ~3 L/day** — reta blunts thirst; dehydration raises urate (gout) and inflates any Hct draw. Non-negotiable on shift days.
 
