@@ -26,6 +26,21 @@ This is a longevity intervention with body composition as a side effect, not a v
 - **Alcohol: zero for the block.** Reassess at the end of the block, not mid-way. Rationale: binges are the only gout trigger and a cut already loads urate; also cleans up E2, sleep and the scale signal.
 - **Mudgee (Fri–Sun): self-catered from the accommodation.** Cook Thursday in Sydney, carry, reheat. No reliance on site food.
 
+**Calorie frame (provisional at 87 kg — rescale on day 0; added 2 Sep).** "No counting" means no daily logging: the maths is done once here and the default meals are built to land inside it.
+- BMR (Mifflin-St Jeor, 87 kg / 185 cm / 41): **~1,830 kcal.** Maintenance by day type: Sydney lift-or-run day ~2,800 · Sydney lift + run day ~3,300 · Mudgee 12-hr shift + short lift ~3,400. Blended weekly maintenance ≈ 3,050.
+- **Target intake (≈ −500/day on paper = the 0.5 kg/wk rate):**
+
+| Day type | Target kcal | Protein | Fat | Carbs (fills) |
+|---|---|---|---|---|
+| Sydney — one session (lift *or* run), Rest day | **~2,300** | 160 g | ~80 g | ~235 g |
+| Sydney — lift + run | **~2,700** | 160 g | ~80 g | ~335 g |
+| Mudgee — 12-hr shift + short lift | **~2,900** | 160 g | ~85 g | ~375 g |
+
+- These are **floors to eat up to, not ceilings** — reta will pull real intake under them from week 3; when it does, protein stays at 160 and the shortfall comes out of carbs/fat. **Hard floor: never under ~1,900 kcal on any day** (lean-mass protection + gout rate cap). Never under 160 g protein.
+- Carbs are placed around training (pre/post-lift, pre-run) and in crib on shift days; fat is what's left.
+- Rescale on day 0: recompute BMR at the measured weight, shift each target by the same delta, re-derive carbs. Re-check at week 6 against the trend (if loss >0.7 kg/wk raise the floors by ~200; if <0.3 kg/wk the lever is reta or steps, not lower floors).
+- **Meal plan:** built from Shane's own food list (pending) → a Sydney day, a Mudgee day (= Thursday cook + shopping list), each meal with protein + kcal; a "suppressed-appetite" version for week 3+ with the same protein in less volume.
+
 **Daily skeleton (protein-first, front-loaded)**
 - 4 protein feeds × ~40 g ≈ 160 g. First two feeds carry the load — by mid-afternoon ≥100 g should be in, so appetite suppression later in the day can't sink the number.
 - **Whey shake is the floor, not a bonus:** one 40 g shake per day is a fixed feed, taken early. On any day the number looks short by evening, a second shake closes it — never "make it up tomorrow".
