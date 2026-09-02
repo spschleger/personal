@@ -63,6 +63,15 @@ The official 301 doctor directory no longer lists 尚爱加 [13]; Haodf's Beijin
 - **Optional add:** a 陶本章 脊髓拴系专病门诊 visit at 301 First MC (复兴路28号, west Beijing) as a third in-person opinion, only if the first two disagree on resection extent. **Booking only via the 301 app / WeChat 公众号 / 010-114** — First MC is off Haodf and 微医 entirely. Ask at the visit who the operating surgeon would be (he is 主治; a 主任/副主任 will be named on the consent) and their adult-lipoma count for 2025.
 - **Use the 301 papers as the benchmark** in every consult: 2016 subtotal series (pain 74% / bladder 43% improved) vs 2018 total/near-total series (73% overall improved, complications 13%). Ask each surgeon where their own adult-lipoma numbers sit, and whether they would resect totally with the left L5 root embedded. Note 301's own predictors: shorter duration + pain → better outcome, i.e. **the clock argues for operating this year, not next.**
 
+### Route in (added 2 Sep): Yujie's father has a WeChat contact at 301
+Ask for, in order: (1) 神经外科医学部 脊髓脊柱外科, First Medical Center (复兴路28号) — not the 7th MC where Li already is; (2) whoever now leads adult tethered-cord / lipoma surgery since Prof Shang died; fallback 陶本章 脊髓拴系专病门诊; (3) a slot or 加号 on 10–12 Sep, or a WeChat pre-read of the pack.
+
+Forwardable message:
+> 您好，我女儿29岁，在澳洲确诊成人脊髓拴系：脊髓圆锥位于L4，与一枚121×49×20mm的马尾脂肪瘤粘连，S1有强化的皮毛窦，左侧L5神经根被脂肪瘤包裹、S1神经节受压。已有神经源性膀胱（残余尿300ml）、左下肢进行性无力和神经痛，近一年加重。
+> 她9月10日到北京，带全套资料（MRI原始DICOM、中文影像报告、尿动力学、急诊出院记录、中文病史摘要）。想请教贵院神经外科脊髓脊柱外科目前主刀成人脂肪瘤型脊髓拴系的专家，能否在9月10–12日安排门诊或加号，或先在微信看一下资料。谢谢。
+
+Must-ask, whoever it is: who is the operating surgeon and their 2025 adult-lipoma count; total/near-total resection (their 2018 series) vs conservative release, given the embedded left L5 root.
+
 ## 5. Verified vs inferred
 - **Verified:** identity, post, death date and obituary, the 2016 series and its numbers, the 2025–26 First MC papers and their authors, 陶本章's stated clinic and Haodf summary stats, the 301 directory contents.
 - **Inferred:** that 陶本章 is Shang's practical successor (from authorship + specialty clinic; no appointment notice found); that 余新光 is semi-retired from 301 clinics.
