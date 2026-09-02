@@ -28,35 +28,43 @@ This is a longevity intervention with body composition as a side effect, not a v
 
 **Calorie frame (provisional at 87 kg — rescale on day 0; added 2 Sep).** "No counting" means no daily logging: the maths is done once here and the default meals are built to land inside it.
 - BMR (Mifflin-St Jeor, 87 kg / 185 cm / 41): **~1,830 kcal.** Maintenance by day type: Sydney lift-or-run day ~2,800 · Sydney lift + run day ~3,300 · Mudgee 12-hr shift + short lift ~3,400. Blended weekly maintenance ≈ 3,050.
-- **Target intake (≈ −500/day on paper = the 0.5 kg/wk rate):**
-
-| Day type | Target kcal | Protein | Fat | Carbs (fills) |
-|---|---|---|---|---|
-| Sydney — one session (lift *or* run), Rest day | **~2,300** | 160 g | ~80 g | ~235 g |
-| Sydney — lift + run | **~2,700** | 160 g | ~80 g | ~335 g |
-| Mudgee — 12-hr shift + short lift | **~2,900** | 160 g | ~85 g | ~375 g |
-
-- These are **floors to eat up to, not ceilings** — reta will pull real intake under them from week 3; when it does, protein stays at 160 and the shortfall comes out of carbs/fat. **Hard floor: never under ~1,900 kcal on any day** (lean-mass protection + gout rate cap). Never under 160 g protein.
+- **Target: a WEEKLY budget, averaged — ~17,800 kcal/wk ≈ 2,550/day** (≈ −500/day vs blended maintenance = the 0.5 kg/wk rate). Shane averages across the week rather than hitting a per-day number; days may run 2,200–2,900 as training and shifts dictate. Two things are **not** averaged: **protein 160 g every day**, and the **hard floor ~1,900 kcal on any day** (lean-mass protection + gout rate cap).
+- Guide by day type (for placing calories, not for counting): Sydney single-session day ~2,300 · Sydney lift + run ~2,700 · Mudgee shift + lift ~2,900. Macros at the weekly average: protein 160 g (640) · fat ~80 g (720) · carbs ~300 g (fill).
+- These are **floors to eat up to, not ceilings** — reta will pull real intake under them from week 3; when it does, protein stays at 160 and the shortfall comes out of carbs/fat.
 - Carbs are placed around training (pre/post-lift, pre-run) and in crib on shift days; fat is what's left.
 - Rescale on day 0: recompute BMR at the measured weight, shift each target by the same delta, re-derive carbs. Re-check at week 6 against the trend (if loss >0.7 kg/wk raise the floors by ~200; if <0.3 kg/wk the lever is reta or steps, not lower floors).
 - **Meal plan:** built from Shane's own food list (pending) → a Sydney day, a Mudgee day (= Thursday cook + shopping list), each meal with protein + kcal; a "suppressed-appetite" version for week 3+ with the same protein in less volume.
 
-**Meal plan (Shane's structure, locked 2 Sep — front-load, three feeds ≥40 g)**
+**Meal plan (Shane's structure, locked 2 Sep, revised same day — front-load hard, dinner cooked and moderate)**
+
+Shane trains most days. Mudgee evenings are compressed: back at the accommodation ~7 pm → train 7–8 → cook + eat 8–9 pm → bed. So the day carries more of the load and dinner is the smaller, quicker meal — not the big one.
 
 | Feed | When | What | Protein | kcal (check labels) |
 |---|---|---|---|---|
-| 1 | On waking, fasted | **ON Pure Pro 50** shake | 50 g | ~250–300 |
-| 2 | Midday / crib | **Youfoodz high-protein meal** (Coles/Woolworths) | 40–50 g | ~450–550 |
-| — | Training window (heavy days only) | Carbs: rice cup / fruit / oats in crib; banana or bagel pre-lift | — | 300–400 |
-| 3 | Post-training dinner, **finished 2–3 h before bed** | Shane's choice, eats well; ~60–70 g protein | 60–70 g | **cap ~1,200–1,400** |
-| 4 (optional) | Bedtime, only if hungry | Greek yoghurt or casein shake | ~30 g | ~200 |
+| 1 | On waking, fasted | **ON Pure Pro 50** | 50 g | ~250–300 |
+| 2 | Crib / midday | **Youfoodz high-protein meal, eaten cold** (pre-cooked; no microwave needed) | 40–50 g | ~450–550 |
+| 3 | Crib / mid-afternoon | **Carb + protein top-up:** microwave-free options — rice cup + tuna pouch, bagel + peanut butter, muesli/protein bar, fruit, nuts, a second Pure Pro on lift days | 20–50 g | ~400–600 |
+| 4 | Post-training dinner (8–9 pm Mudgee; earlier Sydney) | **Cooked, ≤20 min, one pan** (list below) | ~50 g | ~900–1,100 |
+| 5 (optional) | Bedtime, only if hungry | Greek yoghurt / casein | ~30 g | ~200 |
 
-- **Daytime = 90–100 g protein for ~750–850 kcal.** Same pattern on Sydney and Mudgee days; on shift days feed 1 is pre-drive/pre-shift and feed 2 is crib.
-- **Evening is the big meal but not a load.** Shane's past deficit pattern (sleep on a full belly) is kept in spirit, capped in size: large late meals worsen reflux, snoring and apnoea — the wrong direction during CPAP re-entry — and from week 3 reta's slowed gastric emptying turns a huge dinner into night nausea. The bedtime yoghurt gives the full-belly signal without the airway cost. Surplus on heavy days goes into the training window, not onto the plate at 9 pm.
-- **Weeks 1–2 (2 u reta):** the bigger dinner is fine. **Week 3+:** dinner naturally shrinks; feed 4 becomes the tool that holds 160 g.
-- **Mudgee logistics:** Youfoodz replaces the Thursday cook. **Thursday shop:** 3 × Youfoodz (keep ~5 days refrigerated), 3 × Pure Pro 50, dinner ingredients ×3, Greek yoghurt, crib carbs. Needs a microwave at the accommodation *(confirm)*. Youfoodz sodium ~0.8–1.2 g/meal — minor on candesartan, note against the Monday BP read.
-- **Default dinners:** Shane's call, no list required — the only rules are ≥60 g protein, inside the cap, done 2–3 h before bed. Vegetables/fibre daily (reta + low volume = constipation risk).
-- **Whey rule:** any day the number looks short by evening, a second shake closes it — never "make it up tomorrow".
+- **Daytime lands ~110–140 g protein and ~1,200–1,400 kcal** — by end of shift the day is nearly done and dinner only has to be ~50 g / ~1,000 kcal. That is the whole point: a moderate dinner an hour before bed is tolerable; a 2,000-kcal one is not.
+- **Late-dinner mitigation (Mudgee):** dinner moderate and lower-fat (fat delays emptying — reflux, and worse on reta), finished by ~9, upright for 45+ min, CPAP on. Sydney dinners: earlier, and the 2–3 h gap is easy.
+- **Weeks 1–2 (2 u reta):** dinner can run bigger. **Week 3+:** appetite shrinks; feeds 1–3 already carry the protein, so nothing has to be forced at night.
+
+**Mudgee dinners — cook at the accommodation, ≤20 min, ~50 g protein, ~1,000 kcal** (pick 3 for the Thursday shop; rotate):
+1. **Chicken thigh stir-fry:** 250 g pre-diced thigh + frozen stir-fry veg + microwave jasmine rice + soy/oyster sauce. One wok, 15 min.
+2. **Mince bowl:** 250 g lean beef mince + taco/burrito seasoning + microwave rice or wraps + bagged salad + salsa/Greek yoghurt. 15 min.
+3. **Eggs + salmon:** 4 eggs scrambled + 100 g smoked salmon + 2 slices sourdough + avocado. 8 min — the fallback when wrecked.
+4. **Salmon fillet:** 200 g fillet pan-seared skin-down + microwave baby potatoes + frozen greens + lemon. 12 min.
+5. **Pre-marinated chicken breast** (Woolies/Coles) + bagged slaw + wraps or rice. 12 min.
+6. **Tuna pasta:** 2 tuna pouches + pasta + jar sauce + spinach. 15 min.
+
+**Thursday shop (Mudgee, 3 nights):** 3 × Youfoodz · 3–6 × Pure Pro 50 · crib carbs (rice cups, tuna pouches, bagels, PB, bars, fruit, nuts) · 3 dinners' ingredients from the list · Greek yoghurt · microwave rice/potatoes · frozen veg. Needs a pan, a hob and a microwave at the accommodation (Shane cooks there — assumed present).
+
+**Sydney days:** same feeds 1–3; dinner from the same list or anything ≥50 g protein; run/lift days add the carb top-up around the session.
+
+- **Default rule for every day:** ≥100 g protein by end of the working day; 160 g by bed. If the number looks short by evening, a shake closes it — never "make it up tomorrow".
+- Vegetables/fibre daily (reta + low volume = constipation risk).
 
 **Hydration: ~3 L/day** — reta blunts thirst; dehydration raises urate (gout) and inflates any Hct draw. Non-negotiable on shift days.
 
