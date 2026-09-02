@@ -7,6 +7,7 @@
 - **Thu 11 Sep: 孙振兴 Sun Zhenxing — 北京清华长庚医院.**
 - [x] ~~Translate the pack~~ — **BUILT 31 Aug: `beijing-pack-2026-09/`** — zh PDFs: 01 clinical brief (病史摘要 incl. RPA exam sentence + B Pos + all objective findings), 02 MRI report, 03 urodynamics, 04 RPA discharge + full bloods table, 05 questions (12, divergence phrased neutrally), + `en-originals/`. See its README for the physical carry-on checklist.
 - [ ] **Send the pack to Yujie's phone + print a paper set per consult.**
+- [ ] **Shane's own flights SYD⇄PEK ~15–22 Sep** — research saved in `shane-beijing-flights-2026-09.md` (pick: China Eastern via PVG ~A$1,426; beware trap fares). Book once dates are exact.
 - [ ] **Chase I-MED CD/USB collection before 9 Sep** (requested 27 Aug). Backup zip already on hand (`imaging/…-imed-dicom.zip`).
 - [ ] Consult questions per `china-option.md` (7 questions) + the divergence question: resection extent for HER anatomy (encased left L5 root) — Li said conservative release, Sun said subtotal resection + 终丝切断. Ask each to justify vs the other's position.
 - [ ] Insurance gate items (below, 25 Aug section) now have a hard deadline: resolved before or during the trip — 医保电子凭证 activated, 异地备案 done, the "1-month wait" product identified.

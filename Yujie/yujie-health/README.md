@@ -46,6 +46,7 @@ Private research project for partner (28F, Sydney). Working through chronic cons
 - `china-access-and-insurance.md` — **27 Aug: the MECHANICS, from official sources** — how an overseas Dalian-hukou citizen gets seen/admitted at 宣武/玉泉/七中心 (好大夫 → 加号 → 住院证 → bed queue), every insurance route with premium/wait/rates (灵活就业职工医保 = the one to use, ¥499.59/mo, cover from 当月/次月; 居民医保 3–6 mo; commercial = excluded), 备案/转诊 money flow, cost + timeline scenarios, exact 12393 questions (zh). Facts tagged [C]/[R]/[?].
 - `china-option.md` — Beijing surgery track: surgeon landscape (Xiu Bo † 2025; Xuanwu/Jian Fengzeng first choice), insurance mechanics + parent questions (zh), cost/timeline comparison, haodf remote-consult script (zh), decision criteria
 - `public-neurosurgeons-sydney.md` — **22 Aug: Brennan is private-only now.** Call list of Sydney neurosurgeons who operate on public patients, ranked (Kohan/St George, Reddy/POW, Olsson/Westmead, Dower/Nepean…), phone script, clinic referral contacts
+- `shane-beijing-flights-2026-09.md` — **2 Sep: Shane's SYD⇄PEK flight research** for ~15–22 Sep (China Eastern via PVG ~A$1,426 pick; Cathay A$1,692; Air China non-stop ~A$2,031; trap-fare warning; date grid). Re-run before booking.
 - `TODO.md` — consolidated action list (tonight → MRI day → GP visit → when report lands → standing red flags)
 
 ## How to use
