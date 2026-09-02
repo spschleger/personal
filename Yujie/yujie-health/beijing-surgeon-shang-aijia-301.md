@@ -19,7 +19,14 @@
 | Volume | ">2,000 adult + paediatric untethering operations" (self-reported, hospital bio) [2] |
 | Roles | Chair, congenital neural-tube-defect group, National Health Commission training expert committee; led 1 national key R&D programme + 2 NSFC grants; >60 papers, 16 SCI [1] |
 | Death | **31 Aug 2024, 18:58, at home**; obituary issued by 301 on 4 Sep 2024; farewell 6 Sep 2024. Cause not stated in the obituary; several overseas outlets allege suicide — unverified, irrelevant to us [4][5] |
-| Haodf | Profile 167080 converted to a memorial (悼念) 8 Sep 2024 [6] |
+| Haodf | Profile 167080 converted to a memorial (悼念) 8 Sep 2024 [6]; from outside China both Haodf and 微医 now return "该医生未收录 / 该专家不存在" |
+
+**Death re-verified 2 Sep 2026 (Shane asked "sure he's dead?").** Independent lines that agree:
+1. Obituary details identical across domestic outlets (Sina, Baidu Health 6 Sep 2024 "人民的好医生…尚爱加去世", a Baidu Health tribute) and overseas commentary: died 31 Aug 2024 18:58 in Beijing, notice 4 Sep, farewell 6 Sep 11:00. Notice was signed by two colleagues, 苏天崎 and 崔钰惠 — 苏天崎 = "Su T", a co-author on the unit's 2025–26 papers [4][5][15].
+2. Patient comments on the 6 Sep 2024 report describe surgeries scheduled with him for Sep 2024 that were cancelled by his death [15].
+3. **Publication record stops dead.** PubMed shows him on 3–8 papers every year 2020–2024; the last is Oct 2024 (in press before his death); **nothing in 2025 or 2026**, and the unit's 2025–26 dysraphism papers list 余新光/陶本章/苏天崎 but not him [8][9][10].
+4. Removed from the official 301 doctor directory; no clinic, conference or lecture listings for 2025–26 anywhere [13].
+The cause of death is genuinely unpublished (the notice omitted the customary "因病医治无效"); overseas sites speculate suicide or worse. Not our concern and not verifiable.
 
 ## 2. His team's published approach to adult lipoma tethered cord (the useful part)
 
@@ -30,6 +37,8 @@
 - **Outcomes (effective = cured + improved + stable / improved = cured + improved):** pain 88% / **74%**; refractory ulcers 100% / 55%; bowel 91% / 48%; bladder 88% / **43%**; distal weakness 82% / 45%; sensory 81% / 47%; foot deformity 91% / 13%; muscle wasting 90% / 23%. **Bladder and bowel are the least likely to improve**, pain the most — consistent with everything else in this folder.
 - **Complications:** CSF leak 5/105 (conservative), transient urinary retention 4, transient numbness common (2–8 wk). No infections.
 - **Their indication:** operate when pain, ulcers or bowel dysfunction dominate **or when any symptom is progressing** — Yujie qualifies on both counts.
+
+**Bai SC, Tao BZ, Wang LK, Yu XG, Xu BN, Shang AJ. *Aggressive resection of congenital lumbosacral lipomas in adults: indications, techniques, and outcomes in 122 patients.* World Neurosurg 2018;112:e331** (PMID 29337168) [16] — 122 adults, **total / near-total resection**. Bladder dysfunction the commonest symptom (82%). At 3 months: pain improved 87%, ulcers 70%; overall neuro status improved 73%, stable 20%. **Independent predictors of improvement: shorter pre-op symptom duration and presence of pain.** Neurosurgical complications 16/122, wound 2/122; 2 of 3 recurrences re-untethered. Authors' own caveat: "the long-term advantage of resecting additional lipoma in adults remains a point of discussion." So by 2018 the unit had moved from the 2016 "don't over-chase resection" stance to a Pang-style total/near-total programme in adults — which is Sun Zhenxing's side of the divergence, with the best adult numbers published from Beijing. Yujie's ~12-month pain course = the favourable predictor profile in this series.
 
 **Same unit, later papers (First Medical Center, tethered cord programme still active without Shang):**
 - Sun M, Tao B, Su T, Ma Y, Gao G, Wang H, **Yu X**. *Predictors of postoperative incisional CSF leak of closed spinal dysraphism in different age groups.* World Neurosurg 2025;204:124576 — **1,226 closed-dysraphism operations, Jan 2017–Dec 2022** (≈200/yr); in adults the only significant leak predictor was wound infection [8]. This is the strongest volume evidence for any Beijing unit in this folder.
@@ -52,7 +61,7 @@ The official 301 doctor directory no longer lists 尚爱加 [13]; Haodf's Beijin
 
 - **Nothing in the ranking.** Li Cuicui (7th MC, Wed 10 Sep) stays first; Sun Zhenxing (Changgung, Thu 11 Sep) second. If someone in the family pushes "301 尚爱加", the answer is: he died two years ago; the 7th Medical Center *is* 解放军总医院 (same institution, the old 八一脑科 neural-tube-defect centre), so "go to 301" is already satisfied.
 - **Optional add:** a 陶本章 脊髓拴系专病门诊 visit at 301 First MC (复兴路28号, west Beijing) as a third in-person opinion, only if the first two disagree on resection extent. Confirm he still practises there first (114 / hospital WeChat / Haodf 3354310361).
-- **Use the 2016 paper as a benchmark** in every consult: ask each surgeon to place their own adult-lipoma improvement rates for **bladder (~43%)** and **pain (~74%)** against it, and whether they accept subtotal resection when roots are embedded (301's published position) or aim for complete release (7th MC's published position).
+- **Use the 301 papers as the benchmark** in every consult: 2016 subtotal series (pain 74% / bladder 43% improved) vs 2018 total/near-total series (73% overall improved, complications 13%). Ask each surgeon where their own adult-lipoma numbers sit, and whether they would resect totally with the left L5 root embedded. Note 301's own predictors: shorter duration + pain → better outcome, i.e. **the clock argues for operating this year, not next.**
 
 ## 5. Verified vs inferred
 - **Verified:** identity, post, death date and obituary, the 2016 series and its numbers, the 2025–26 First MC papers and their authors, 陶本章's stated clinic and Haodf summary stats, the 301 directory contents.
@@ -74,3 +83,5 @@ The official 301 doctor directory no longer lists 尚爱加 [13]; Haodf's Beijin
 12. Haodf 余新光 — https://www.haodf.com/doctor/1373.html ; 和祐 listing — https://www.hyhospital.com/medicalteam/info.aspx?itemid=2395
 13. 301 neurosurgery directory — https://www.301hospital.com.cn/med_doctors/262/p/1.html (pp. 1–6)
 14. Haodf 脊髓拴系 recommended doctors — https://www.haodf.com/citiao/jibing-jisuishuanxizonghezheng/tuijian-doctor.html
+15. Baidu Health report 6 Sep 2024 — https://health.baidu.com/m/detail/ar_9924632130663262403
+16. PMID 29337168 — https://pubmed.ncbi.nlm.nih.gov/29337168/
