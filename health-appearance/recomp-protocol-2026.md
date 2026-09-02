@@ -1,7 +1,7 @@
 # Recomp Protocol — post-China block (Sep 2026 redesign)
 
 **Status:** designed 2 Sep 2026, **starts on return from China** (day 1 set once the return date is fixed; 23 Sep return is provisional). Nothing here is active until day 0.
-**Age:** 41 · **Height:** 185 cm · **Day-0 weight / target:** *(written on day 0 — see §4/§5)*
+**Age:** 41 · **Height:** 185 cm · **Provisional (2 Sep):** ~87 kg, **~20% BF (Shane's estimate — firm on ~20, not 15)** → ~17 kg fat / ~70 kg lean · **Day-0 weight / target:** *(written on day 0 — see §4/§5; photos on day 0 refine the BF estimate)*
 **Fixed inputs:** test 0.09 ml/day held · no hCG · reta from day 1 (§2) · protein 160 g flat (§1) · Push/Pull/Legs/Rest rotating across the Ulan roster (§3) · zero alcohol · candesartan 8 mg continues · CPAP nightly with the new mask (the parallel top health action — `sleep-apnea-treatment.md`).
 **Live authority for decisions:** `TRT-Health/current-plan.md`. Trackers: `TRT-Health/bloods-tracker.csv`, `bp-log.csv`. Lifting detail: `training-program-2026.md` (Layers 1–3; its weekly map is superseded by §3 here).
 
@@ -155,7 +155,7 @@ Shane trains most days. Mudgee evenings are compressed: back at the accommodatio
 
 **Block length: open-ended, formal reassessment at week 12.** At the week-12 check decide: (a) taper out over 4 weeks (weeks 13–16), or (b) extend in 4-week increments with the same check. No fixed end date; no assumption that Christmas ends it — the zero-alcohol rule holds until the block is formally closed.
 
-**Target: rate-based, set on day 0.** Landing weight = **day-0 weight − ~0.5 kg × working weeks** (≈ −6 kg at 12 weeks). The number is written into this section on day 0, not before. Bounded above by the gout rate cap (>0.7 kg/wk → eat more) and below by the reta check rule (<0.3 kg/wk → step up or add walking). Waist at navel and fortnightly photos are the composition read; the scale is the trend check.
+**Target: rate-based, set on day 0.** Landing weight = **day-0 weight − ~0.5 kg × working weeks** (≈ −6 kg at 12 weeks). The number is written into this section on day 0, not before. **Provisional math at 87 kg / 20% BF:** −6 kg of mostly fat with lean held → **~81 kg at ~14% BF** at week 12 — the same landing July aimed at, now derived from the rate rather than asserted. Shane's experience: he loses on ~2,400/day, so the weekly budget in §1 is believed, not just estimated. Bounded above by the gout rate cap (>0.7 kg/wk → eat more) and below by the reta check rule (<0.3 kg/wk → step up or add walking). Waist at navel and fortnightly photos are the composition read; the scale is the trend check.
 
 **Phases**
 
