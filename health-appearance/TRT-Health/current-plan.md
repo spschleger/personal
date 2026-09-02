@@ -3,7 +3,7 @@
 **Updated:** 2026-09-02
 **Companion files:** `bloods-summary.md`, `bloods-tracker.csv`, `semen-analysis-tracker.csv`, `bp-log.csv`, `../recomp-protocol-2026.md`, `../sleep-apnea-treatment.md`
 
-> **⏸ RECOMP POSTPONED (2026-06-23)** — on hold while BP is controlled (telmisartan + tadalafil) and CPAP is established, following the posterior-epistaxis pattern + uncontrolled BP (clinical detail in `../sleep-apnea-treatment.md`). **On hold:** test bump, reta start, the whole 16-wk block. **Test stays at 0.09.** hCG was already post-recomp → further deferred. Resume only from a stable baseline: BP controlled, CPAP bedded in, bleeding resolved, fit-for-work cleared. The decision logic below stands for *when* it resumes — it's paused, not changed.
+> **⏸ RECOMP POSTPONED (2026-06-23)** — on hold while BP is controlled (candesartan + tadalafil) and CPAP is established, following the posterior-epistaxis pattern + uncontrolled BP (clinical detail in `../sleep-apnea-treatment.md`). **On hold:** test bump, reta start, the whole 16-wk block. **Test stays at 0.09.** hCG was already post-recomp → further deferred. Resume only from a stable baseline: BP controlled, CPAP bedded in, bleeding resolved, fit-for-work cleared. The decision logic below stands for *when* it resumes — it's paused, not changed.
 
 This is the live "where things stand / what's next" across the interacting threads (TRT dose, hCG, recomp, CPAP/BP, bloods). Decisions here override older language in the recomp doc where they conflict.
 
@@ -14,13 +14,13 @@ This is the live "where things stand / what's next" across the interacting threa
 > **Pre-departure checklist (2–16 Sep):**
 > - [ ] **CPAP mask:** **order online, self-selected** (decided 2 Sep — no Sove re-fit); full-face alternative to the F20, delivered before 17 Sep so it is waiting on return. Leaning **AirFit F30** or another full-face (mouth-breather); Shane checking models/prices online himself.
 > - [ ] **Day-1 date** locked once the return date is confirmed.
-> - [ ] **Protocol redesign** completed and written into `../recomp-protocol-2026.md` (supersedes the July block).
+> - [x] **Protocol redesign COMPLETE 2 Sep** — `../recomp-protocol-2026.md` rewritten as one protocol (§1 diet · §2 pharma+bloods · §3 training · §4 targets+phases · §5 day-0 ritual + signals); July block retired to git history.
 > - [x] **Reta: DECIDED 2 Sep — YES, from day 1.** Vials on hand → **move to the fridge now** (unreconstituted); reconstitute one vial on day 0. Dose plan locked in `../recomp-protocol-2026.md` §2 (2 u → 4 u, ceiling 7 u ≈ 2 mg/wk).
 > - [x] **Bloods: DECIDED 2 Sep — no day-0 baseline; one mid-block panel wk 6–8.** Panel spec in `../recomp-protocol-2026.md` §2 (adds U&E — K/creatinine never rechecked on candesartan).
 > - [x] **Training section locked 2 Sep** — Push/Pull/Legs/Rest rotating across roster, Mudgee post-shift short sessions, 2× Z2 runs → `../recomp-protocol-2026.md` §3. Still open: confirm Sydney gym + Mudgee Anytime memberships are active for the return.
 > - [x] **Diet section locked 2 Sep** (160 g flat, no counting, zero alcohol, Mudgee self-cater) → `../recomp-protocol-2026.md` §1. Still open: **Shane lists 3–4 default meals with protein figures + the return-week shopping list.**
 > - [ ] **Lim consult 16 Sep** attended; SARPE quote + timeline captured in `../sleep-apnea-treatment.md`.
-> - [ ] **Day-0 ritual defined** for the first morning back: fasted weigh-in, measurements, photos, first reading in the trackers.
+> - [x] **Day-0 ritual defined** → `../recomp-protocol-2026.md` §5 (weight, 5-site tape, photos, RHR + BP).
 >
 > **📍 CURRENT BASELINE + DECISION (1 Sep) — supersedes the older restart plans below:** **Test settled at 0.09 ml/day only. hCG remains stopped.** Weight has increased over the past month during limited gym attendance and loose diet control; no clean current fasted weight recorded. **The existing recomp protocol is no longer active and will be redesigned from scratch on 2 Sep using a fresh starting weight, measurements and photos; reta does not have a locked start or dose until that review.** China: depart 17 Sep, return 23 Sep. How reta is handled during the trip is not yet decided; do not infer that it will be carried. **Getting a new CPAP mask and reinstating nightly CPAP remains the single biggest health action and runs in parallel.** Test stays at 0.09; no hCG restart or test bump.
 >
@@ -58,8 +58,6 @@ This is the live "where things stand / what's next" across the interacting threa
 **One free observation available:** if the "flat" query lifts as hCG clears over the next 1–2 weeks, that is a useful read on whether hCG was contributing to it. Conditions are still not clean, but it costs nothing to notice.
 
 **Fertility position unchanged:** the trial did its job — tolerance proven (47 days, zero side effects), Leydig signal reestablished, substantial ITT reactivation. The conception-time protocol (hCG 250 IU/day + rFSH 50–150 IU 3×/wk) is unaffected by stopping now, and would want **pharmacy-grade, not UGL**, material anyway.
-
-> *(Note: the recomp banner below still says "telmisartan" — actual med is candesartan 8mg; banner predates the med choice.)*
 
 ---
 

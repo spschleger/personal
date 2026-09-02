@@ -1,12 +1,22 @@
-# 16-Week Recomp Protocol (lifting-led, health-focused)
+# Recomp Protocol — post-China block (Sep 2026 redesign)
 
-> **⏸ POSTPONED TO POST-CHINA (decided 2026-09-02) — nothing below is the active prescription.** Recomp starts **after Shane returns from China on 23 Sep**, not before: too much on, and adherence over the next three weeks would be poor. Between now and 17 Sep the work is **design, not execution**: rebuild this protocol from a fresh fasted weight, measurements and baseline photos so that day 1 on return is fully specified (dose, phases, targets, schedule, diet) and nothing has to be decided in the moment. **Do not inherit the July dosing, phases, targets or schedule by default.** Reta has no locked day 1 or dose until the redesign is done. Fixed background: hCG stopped; testosterone 0.09 ml/day; China 17–23 Sep; new CPAP mask + nightly CPAP is the top parallel health action and must be in hand for the return. `TRT-Health/current-plan.md` is the live authority and carries the pre-departure checklist.
->
+**Status:** designed 2 Sep 2026, **starts on return from China** (day 1 set once the return date is fixed; 23 Sep return is provisional). Nothing here is active until day 0.
+**Age:** 41 · **Height:** 185 cm · **Day-0 weight / target:** *(written on day 0 — see §4/§5)*
+**Fixed inputs:** test 0.09 ml/day held · no hCG · reta from day 1 (§2) · protein 160 g flat (§1) · Push/Pull/Legs/Rest rotating across the Ulan roster (§3) · zero alcohol · candesartan 8 mg continues · CPAP nightly with the new mask (the parallel top health action — `sleep-apnea-treatment.md`).
+**Live authority for decisions:** `TRT-Health/current-plan.md`. Trackers: `TRT-Health/bloods-tracker.csv`, `bp-log.csv`. Lifting detail: `training-program-2026.md` (Layers 1–3; its weekly map is superseded by §3 here).
+
+> **Lineage:** this replaces the July 2026 16-week block (hCG + test 0.11 + reta; never executed). The July design is in git history (`git log -- health-appearance/recomp-protocol-2026.md`); its strategic frame, healthspan markers and maintenance philosophy are kept below because they still hold.
+
+## Strategic frame (unchanged from June)
+
+This is a longevity intervention with body composition as a side effect, not a vanity cut.
+- **Reta is a one-time tool**, used to break the historical failure mode (post-exercise compensatory hunger). Not a chronic dependency.
+- **Lean mass banked at 41+ stays** with continued stimulus and compounds into the 50s/60s/70s. Lifting leads.
+- **Modest Zone 2 (2×/wk)** is a BP/CV/HDL lever and halts the ~1%/yr VO2max decline. Health dose, not performance.
+- **Leaning out is also an OSA intervention** (peripharyngeal fat, neck) — which is why the airway is not traded for a test bump.
+- **Success = the leaner composition holds drug-free at the bridge.** Marathon block remains deferred indefinitely.
+
 ---
-
-# REDESIGN — post-China block (built section by section, Sep 2026)
-
-> Sections below are the **new** protocol as they get locked. Everything under the "Strategic Frame" heading further down is the **July block, retained for reference only** until the redesign is complete, then removed. Fixed inputs for the whole block: **test 0.09 ml/day held, no hCG, reta from day 1** (dose/ramp in the pharma section), lifting on **both Sydney and Mudgee days** (training section), day 1 set once the return date is fixed.
 
 ## 1. Diet + protein lock (locked 2 Sep 2026)
 
@@ -105,230 +115,50 @@
 
 **Sample first two weeks (if day 1 = Mon 28 Sep):** Mon Push · Tue Pull · Wed Legs · Thu Rest (run) · Fri Push-short · Sat Pull-short · Sun Legs-short (or swap with Mon Rest) · Mon Rest (run) · Tue Push · Wed Pull · Thu Legs · Fri Rest · Sat Push-short · Sun Pull-short … The cycle simply continues; the weekly map in `training-program-2026.md` is superseded by this rotation.
 
-> **2026-06-20 refocus:** Lifting-led recomp prioritising fat loss, lean mass, mobility, and health markers (BP/Hct/OSA). Running held to a health dose (2× 8–10 km/wk). **Marathon block deferred** — optional future block, revisited only after recomp + health markers are sorted. Dose/E2/Hct decisions now gated on bloods per `TRT-Health/current-plan.md`.
+## 4. Targets + phases (locked 2 Sep 2026)
 
-**Start date:** hCG D1 = 2026-07-13; recomp phase-1 kickoff = 2026-07-14 (formal baseline weigh-in + photos)
-**Age:** 41
-**Starting stats (baseline):** 185 cm, **85.2 kg (13 Jul AM, fasted)**, ~18–20% BF, BMI ~25. *(Formal day-1 baseline weigh-in + progress photos 14 Jul AM.)*
-**Target landing (week 16):** ~82 kg, 13–14% BF, lean ~71 kg
-**Long-term steady state goal:** 80 kg, 12% BF, sustained through training + habits
+**Block length: open-ended, formal reassessment at week 12.** At the week-12 check decide: (a) taper out over 4 weeks (weeks 13–16), or (b) extend in 4-week increments with the same check. No fixed end date; no assumption that Christmas ends it — the zero-alcohol rule holds until the block is formally closed.
 
----
+**Target: rate-based, set on day 0.** Landing weight = **day-0 weight − ~0.5 kg × working weeks** (≈ −6 kg at 12 weeks). The number is written into this section on day 0, not before. Bounded above by the gout rate cap (>0.7 kg/wk → eat more) and below by the reta check rule (<0.3 kg/wk → step up or add walking). Waist at navel and fortnightly photos are the composition read; the scale is the trend check.
 
-## Strategic Frame
+**Phases**
 
-This is not a vanity cut — it's a longevity intervention with body composition as a side effect.
+| Phase | Weeks | Reta | Training | Focus |
+|---|---|---|---|---|
+| 1 Re-entry | 1–2 | 2 u/day (~0.5 mg/wk) | PPL-Rest at 60–70% loads, runs ramping | GI tolerance, protein habit, movement quality, day-0 data captured |
+| 2 Working | 3–12 | 4 u/day (~1 mg/wk); check wk 7 + wk 10 | Full templates, RIR 2–3, 2× Z2 | The deficit does its work; bloods wk 6–8 |
+| **Week-12 check** | 12 | — | — | Taper or extend (4-wk increments) |
+| 3 Taper | last 4 wks | 3 u → 2 u → 1 u → 0 by week | Unchanged | Habit consolidation under declining drug load |
+| 4 Bridge | 8 wks post-taper | none | Unchanged, maintenance eating, protein 160, zero alcohol continues | **The proof:** does composition hold drug-free? Weigh weekly. Drift >1.5 kg up → extend habit work 4 wks before calling the block done. |
 
-- **Reta is a one-time tool**, not a chronic dependency. Used to break the historical failure mode (post-run compensatory hunger spike).
-- **TRT optimization** provides anabolic substrate for one-shot lean mass building during muscle-memory window.
-- **Lean mass banked at 41+ stays** (with continued training stimulus) and pays compound interest into 50s/60s/70s.
-- **Modest aerobic work** (2× 8–10 km/wk) maintains cardiovascular health and halts the ~1%/year VO2max decline — health-driven, not performance-driven. Doubles as a BP/CV lever.
-- **Success = the leaner composition holds drug-free** at the bridge. That's the proof-of-sustainability test — not a race.
+**Success = the leaner composition holds through the bridge**, not the low point on the scale. Reta stays a one-time tool; the block is judged at the end of the bridge.
 
-This 16-week reta block + bridge is the plan. An endurance/marathon build is **deferred** — optional future block, only after the recomp and health markers (BP, Hct, OSA) are sorted.
+## 5. Day-0 ritual + feedback signals (locked 2 Sep 2026)
 
----
+**Day 0 = the first morning of the first Sydney block after return (date set once the return date is fixed).** Capture, in this order, before food/coffee/pin:
+1. **Fasted, post-void weight** → the baseline the rate target hangs off. Write it into §4.
+2. **Tape, five sites:** waist at navel, chest, hips, thigh, arm. Same tape, same side, same morning routine every fortnight.
+3. **Photos:** front / side / back, same spot, same light, same pose. Fortnightly set.
+4. **Resting HR (Garmin overnight) + one BP cuff reading** — the recovery and candesartan baselines for the block.
+5. Then: reconstitute the first reta vial (evening pin), first session of the rotation, first protein tick.
 
-## Inputs (Locked)
+**Ongoing signals (replaces calorie math)**
 
-### Testosterone
-
-- Current: 0.09 ml/day cypionate = 22.5 mg/day = **157.5 mg/week**
-- Block protocol: **0.11 ml/day = 27.5 mg/day = 192.5 mg/week** (single step, **gated on hCG tolerance + the day-14 E2 reading** — proceed if hCG is sitting well and E2 hasn't swung wildly)
-- **Why 0.11 over 0.1:** more anabolic substrate for the one-shot lean-mass window; and rising SHBG (lean-out + reta) trims the free fraction, so the bigger step partly just *holds* free T rather than pushing it up. Lands free T ~1250 — top of Dave's band, under the 1500 ceiling. Cost = a marginally bigger OSA/airway nudge (Hct de-gated per Shane's call; recomp fat loss offsets the airway over time). Stacking on hCG runs it a hair hotter than 0.11 alone.
-- Return to 0.09 ml/day across weeks 18–19 (post-block)
-
-### hCG (added 2026-07-13 — runs alongside/ahead of the block)
-
-- **100 IU/day, IM, dual-loaded with the daily test in the same syringe** (oil + aqueous separate in the barrel but inject together; brief mix doesn't meaningfully degrade hCG). IM ≈ SubQ for steroidogenesis (faster peak, shorter tail); doesn't change draw timing.
-- **D1 = 13 Jul.** Ride 100 IU to ~4–6 weeks; bump to 125 only if testicular size/volume response underwhelms (titrate up, not start high).
-- **Week-1 = tolerance feel-test** (Dave: bad responders know within hours–days). **Day-14 bloods** (E2, free T, SHBG, Hct) = biochemical steady-state read → gates the test bump. Hct is a slow clock — a flat day-14 Hct isn't an all-clear; real erythropoietic read is ~6–8 wks.
-- Baseline for hCG endpoints = 22 Jun bloods (E2 207 / Hct 0.51 / free T 1034). **No semen analysis** (Shane's call, 13 Jul) — expects suppression, not of interest now; this hCG run is signal-reestablishment + volume + personal-response trial, not a fertility measurement. Fertility gets its own test **at conception time**, running Dave's Beyond-TRT protocol regardless of current state.
-
-### Retatrutide
-
-- 10 mg vial reconstituted in **2.5 ml bacteriostatic water** → 4 mg/ml
-- Daily dosing, SC, 0.3 ml insulin pin
-- **Start: 4 units/day** (1.12 mg/week)
-- Hold flat; bump rule is contingency only (see Phase 4)
-- Pin in the evening to clear morning runs (avoid GI overlap)
-- Store at 4°C, stable temperature, no repeated warming/cooling
-
-### Protein
-
-**176 g/day non-negotiable.** Only macro tracked. No calorie counting.
-
-### Cardio
-
-**2 × 8–10 km Zone 2 per week** (health/CV dose, not endurance-building). Ramp in over weeks 1–4. This is the floor that also serves BP/CV — don't drop below 2×. *(Supersedes the per-phase cardio cells below, which were written for the old 3×60-min marathon-prep model.)*
-
-### Lifting
-
-**4 sessions per week (priority pillar)**, upper/lower split. Lifting is the lean-mass / healthspan engine — it leads this block.
-
-### Mobility
-
-Dedicated mobility work (a focus this block) — structure TBD (see open item).
-
----
-
-## Phase 1: Training Reintroduction (Weeks 1–2)
-
-| Variable | Setting |
-|---|---|
-| T | 0.09 ml/day |
-| Reta | Not started |
-| Calories | Maintenance, eat to satiety |
-| Lifting | 3x/wk, 60% pre-injury loads, RPE 6–7, no failure |
-| Cardio | Week 1: 2× 30 min Z2. Week 2: 3× 40 min Z2 |
-| Focus | Injury tolerance, movement quality, sleep consistency |
-
-**Pre-start labs (do before week 1):** TT, FT, E2, HCT/Hgb, lipid panel (ApoB if available), hsCRP, fasting glucose, HbA1c, eGFR, LFTs. Baseline body data: weight, BF estimate, waist circumference, photos.
-
----
-
-## Phase 2: Stack Start (Week 3)
-
-| Variable | Setting |
-|---|---|
-| T | **Bump to 0.11 ml/day on day 1** |
-| Reta | **Start 4 u/day on day 1** |
-| Calories | Maintenance, drifting down via training burn |
-| Lifting | 3–4x/wk, 75% loads, RPE 7 |
-| Cardio | 3× 50 min Z2 |
-
-Single day-1 switch on all three. The reta PK ramp masks the pharmacological transition over weeks 3–4. **Gate:** this whole stack-start is contingent on the day-14 hCG bloods + hCG tolerance — if E2 swung hard or hCG isn't sitting well, hold/adjust before flipping the switch. (Day-14 draw ≈ week-3 day-1, so the timing lines up.)
-
-**Watch for:** GI side effects (mild nausea days 1–3 normal; worse = pause), sleep quality after T bump, protein adherence under appetite suppression.
-
----
-
-## Phase 3: Full Deficit Build (Weeks 4–6)
-
-| Variable | Setting |
-|---|---|
-| T | 0.11 ml/day held |
-| Reta | 4 u/day (reaches steady state ~end of week 6) |
-| Calories | Eat to satiety, training-driven deficit |
-| Lifting | 4x/wk, hypertrophy emphasis, RPE 7–8 |
-| Cardio | Week 4: 3× 60 min Z2 (target volume reached). Hold from here. |
-
-End of week 6: training fully reintroduced, reta at steady state, body in productive deficit.
-
----
-
-## Phase 4: Steady State (Weeks 7–12)
-
-| Variable | Setting |
-|---|---|
-| T | 0.11 ml/day |
-| Reta | 4 u/day (hold) |
-| Lifting | 4x/wk |
-| Cardio | 3× 60 min Z2 |
-
-### Bump Contingency Rule
-
-Apply at end of week 7 and again at week 10:
-
-- **Bump to 5 u/day if:** trailing 2-week weight trend < 0.3 kg/wk loss **and** appetite suppression feels mild (slipping the deficit)
-- **Hold 4 u/day otherwise**
-
-Expectation: hold 4 u the entire run. Cap at 6 u absolute maximum.
-
-### Week 10 Mid-Block Labs
-
-HCT, E2, lipids, FT. Actions:
-- **HCT:** primary lever is **dose** (reversible — pull test back if needed). Single reset donation only if climbing past **~0.54**; no routine/maintenance phlebotomy (per `TRT-Health/hct-oxygen-thrombosis-research.md`). Hct de-emphasized as a hard gate (Shane's informed call) but still monitored.
-- **E2 elevated:** **no action without genuine symptoms** (pro-E2 stance — manage by symptoms, not the number). If genuinely symptomatic → **reduce dose, NOT an AI** (no AI, ever). Identify the source: peripheral E2 tracks the test dose (pull test back toward 0.09); the intratesticular/hCG portion is AI-resistant anyway, so trim/hold hCG for that share.
-- Lipids/FT drift → adjust as needed
-
----
-
-## Phase 5: Taper (Weeks 13–16)
-
-| Week | Reta dose | Calories |
+| Signal | Cadence | Read |
 |---|---|---|
-| 13 | 3 u/day | Continue eating to satiety |
-| 14 | 2 u/day | Continue eating to satiety |
-| 15 | 1 u/day | Maintenance |
-| 16 | 0 u (last 2–3 days at 1 u, then stop) | Maintenance |
+| Weight, fasted post-void | Weekly, Mon AM Sydney | 2-week rolling trend is the only number that acts |
+| Protein ≥160 g | Daily tick | Two misses in a row = step reta down, fix food, don't lower the floor |
+| Waist + photos | Fortnightly | Composition truth when the scale is noisy |
+| Lift loads | Per session | >5% drop over 2 wks = under-fuelled → carbs around training |
+| Z2 pace at HR | Per run | Pace fading at same HR = fuelling breakdown |
+| RHR, sleep, mood | Daily | RHR +5 for 3 days or sleep collapsing = extra Rest in the rotation |
+| BP | Weekly Mon AM spot-check (existing) | Stays in `TRT-Health/bp-log.csv` |
+| CPAP hours | Nightly (myAir) | ≥4 h is the target; this block is also the CPAP re-entry |
 
-T held at 0.11 ml/day through end of week 16. Training continues. Last 2 weeks are habit-consolidation under declining drug load.
-
----
-
-## Post-Block Bridge (Weeks 17–24)
-
-- Maintenance calories, eat to satiety, protein still at 150–180 g/day
-- 3× 60 min Z2 + 4 lifting sessions/wk (sustainable baseline)
-- T tapered back to 0.09 ml/day across weeks 18–19 (2-week gap after reta exit for clean variable reading)
-- Week 18 labs: HCT, FT, E2, lipids, glucose
-
-**Diagnostic question:** does composition hold at ~82 kg without the drug?
-
-- If yes → marathon block is green-lit
-- If drift > 1.5 kg up → habit substrate not consolidated, extend bridge by 4 weeks
-
----
-
-## Marathon Block (DEFERRED — optional future block)
-
-> **Shelved as of 2026-06-20.** Not on the current plan. Revisit only after the recomp + health markers (BP, Hct, OSA) are sorted, and only if the endurance goal still appeals. Content retained below for reference.
-
-Dedicated 16–20 week training block. Runs at maintenance, drug-free.
-
-- Volume builds from current 3×60 min Z2 to 50–70 km/wk peak
-- Add tempo work, intervals, weekly long run
-- Lifting reduced to 2–3x/wk minimum (do not drop below 2x)
-- Composition likely drifts from 82 kg toward 80 kg organically as volume outpaces appetite
-- Marathon completion at ~80 kg, ~12% BF
-
-Realistic marathon time target: 3:45–4:00 with the base built; sub-3:30 achievable with dedicated execution.
-
----
-
-## Feedback Signals (Replace Calorie Counting)
-
-Track these instead:
-
-| Signal | Cadence | Interpretation |
-|---|---|---|
-| Weight (morning, fasted, post-void) | Weekly, same day | 2-week rolling trend is the signal |
-| Photos | Every 2 weeks | Catches body comp changes scale misses |
-| Lift performance | Per session | Drop > 5% over 2 wk = under-fueling |
-| Z2 HR at given pace | Per run | Pace drop at same HR = fuelling breakdown |
-| Sleep, energy, mood | Daily subjective | Chronic flatness = back off intensity |
-| Resting HR | Daily | Rising = overtraining marker |
-
-### Adjustment Rule (No Calorie Math)
-
-- **Trend < 0.3 kg/wk loss for 2 weeks:** bump reta (4→5u) OR add daily walk. Don't reduce food.
-- **Trend > 0.7 kg/wk loss:** eat more protein + carbs around training. Lean mass loss is the risk.
-- **Trend flat with strong training:** found maintenance at new bodyweight; nudge training volume.
-
----
-
-## Daily Operational Routine
-
-- Pin both T and reta at the same time of day, consistent order
-- Different pins, different vials, different sites
-- Reta SC: abdomen, thigh, or posterior triceps; rotate
-- Hydration target: ~3 L/day (reta blunts thirst drive)
-- Pin reta in evening, run in morning (avoid GI peak overlap)
-
-### Weekly Training Layout
-
-**Roster-aware (4 Sydney training days; Fri–Sun = 12-hr day shifts at Ulan/Mudgee):**
-
-| Day | Where | Session |
-|---|---|---|
-| Mon | Sydney | Lift — Push + Run Z2 |
-| Tue | Sydney | Lift — Pull + core |
-| Wed | Sydney | Lift — Push + Run Z2 |
-| Thu | Sydney → drive | Lift — Pull + core; drive to Mudgee PM |
-| Fri–Sun | Mudgee | 12-hr day shifts (activity/NEAT) + daily mobility |
-
-Machine/cable, **spine-decompressed** hypertrophy — two rotatable templates (Push/Pull) across the 4 Sydney days + 2 runs + daily mobility. No heavy axial loading (back-protective). Mudgee Anytime Fitness = flexibility/insurance + recovery (not extra load). Full detail in `training-program-2026.md`.
+**Adjustment rules** (all pre-committed; never act on one reading):
+- Trend <0.3 kg/wk for 2 wks → reta step-up per §2 check rule **or** add a daily walk. Don't cut food.
+- Trend >0.7 kg/wk → eat more protein + carbs around training. Lean mass is the risk.
+- Flat trend with strong training → new maintenance found; nudge run volume, not reta.
 
 ---
 
@@ -349,16 +179,6 @@ Machine/cable, **spine-decompressed** hypertrophy — two rotatable templates (P
 | Lift PRs + 10k time | Trend |
 
 **Additional one-time at age 41 with TRT + endurance volume:** baseline echocardiogram before marathon block; repeat in 3–5 years.
-
----
-
-## Failure Modes
-
-1. **Protein adherence weeks 6–10.** Most likely failure point. Appetite suppression makes 176g feel like work. Front-load with whey + lean meat in first two meals; shake as floor.
-2. **Re-injury weeks 5–8.** Pushing lifting back toward full intensity in a deficit. Conservative loading + autoregulation.
-3. **Impulsive bump trigger pre-week 7.** Early scale will be noisy. Trust the rule, not the day-to-day reading.
-4. **Under-fueling on long runs.** New failure mode without counting. Fuel runs adequately; carbs before/after long runs are mandatory.
-5. **Habit substrate not consolidating during taper.** Critical period weeks 13–16. Protein default, portion size, training cadence must become automatic before drug fully exits.
 
 ---
 
