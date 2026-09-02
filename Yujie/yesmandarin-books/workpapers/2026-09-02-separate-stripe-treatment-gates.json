@@ -1,0 +1,55 @@
+{
+  "observed_date": "2026-09-02",
+  "scope": "Non-Xero-linked Stripe account",
+  "sources": [
+    "sources/stripe/2026-08-25-separate-account-unified-payments.csv",
+    "sources/stripe/2026-08-25-separate-account-payouts-2025-07-01-to-2026-08-25.csv",
+    "sources/stripe/2026-08-25-separate-account-balance-transactions-2025-07-01-to-2026-08-25.csv",
+    "sources/bank/2025-12-09-to-2026-08-17-cba-business-account-1913.csv",
+    "sources/stripe/2026-08-25-control-summary.json"
+  ],
+  "later_chain": {
+    "charge_gross": "687.50",
+    "processing_fee_including_gst": "24.37",
+    "stripe_invoicing_fee_including_gst": "3.03",
+    "net_payout": "660.10",
+    "payout_id": "po_1T6MN2H67fTKgSywfxjbX2za",
+    "payout_destination_last4": "1913",
+    "stripe_created_date": "2026-03-02",
+    "bank_received_date": "2026-03-03",
+    "bank_narration": "Direct Credit 158824 YESMANDARIN YESMANDARIN-4XGSPM",
+    "control_check": "687.50 - 24.37 - 3.03 = 660.10",
+    "attribution": "unresolved"
+  },
+  "opening_boundary_chain": {
+    "amount": "1197.73",
+    "payout_id": "po_1Rg24cH67fTKgSywsy2Qwmlf",
+    "payout_destination_last4": "9316",
+    "stripe_created_date": "2025-07-01",
+    "arrival_date": "2025-07-02",
+    "source_interpretation": "The payout distributes a Stripe balance accumulated before the reconstruction period.",
+    "current_period_income_treatment": "excluded"
+  },
+  "safe_next_xero_step": {
+    "status": "requires_direction_before_write",
+    "recommendation": "Create a distinct clearing account for the separate Stripe account and reconcile only the source-matched 660.10 bank receipt to it. Do not post the payout as revenue. This would leave a visible 660.10 credit balance until the upstream charge and fees are posted.",
+    "reason_for_distinct_account": "The two Stripe accounts' IDs, balances and payout chains must remain account-scoped. Reusing the now-zero Xero-linked Stripe Clearing account would collapse two unproven account relationships."
+  },
+  "decision_gates": [
+    {
+      "question": "How should the unattributed 687.50 charge be classified?",
+      "required_evidence": "Customer, invoice, booking or other source that identifies the sale; absent that, an explicit suspense/unidentified-income treatment decision.",
+      "blocked_writes": ["687.50 gross receipt", "24.37 processing fee", "3.03 invoicing fee"]
+    },
+    {
+      "question": "Was the 1197.73 opening Stripe balance a YesMandarin business asset at 30 June 2025?",
+      "required_evidence": "Owner confirmation or prior-period source tying the balance to YesMandarin.",
+      "blocked_writes": ["1197.73 opening clearing balance", "1197.73 payout to owner drawings"]
+    }
+  ],
+  "non_decisions": [
+    "A payout is not revenue.",
+    "The 1197.73 opening-boundary payout is not current-period income.",
+    "The separate Stripe account must not be merged into the Xero-linked account's clearing history."
+  ]
+}
