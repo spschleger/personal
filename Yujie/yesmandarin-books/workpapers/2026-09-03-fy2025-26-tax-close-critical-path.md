@@ -5,13 +5,13 @@
 
 ## Current control
 
-- Xero live reconciliation queue: **140 of 253 statement lines remain**.
-- Deterministic projection from the 253-line bank worklist and the 113 line-by-line/batch reconciliation audits:
-  - **103 remaining lines are dated on or before 30 June 2026**;
+- Xero live reconciliation queue: **139 of 253 statement lines remain** after the first $76.80 Amazon business-supplies expense was reconciled.
+- Deterministic projection from the 253-line bank worklist and the 114 line-by-line/batch reconciliation audits:
+  - **102 remaining lines are dated on or before 30 June 2026**;
   - **37 remaining lines are dated 1 July–17 August 2026**.
 - Projected FY2025–26 remainder:
   - 15 credits totalling **$9,474.55**;
-  - 88 debits totalling **$2,712.38**.
+  - 87 debits totalling **$2,635.58**.
 - Source bank closing balance after the final 30 June 2026 transaction: **$25,086.17**. Xero must agree to this before the FY is called reconciled.
 - The per-line FY count is a deterministic projection from preserved audits, not a fresh Xero export. Reconfirm it against the live queue while posting.
 
@@ -22,14 +22,14 @@
 Resolve the 15 projected FY credits before expenses:
 
 - 14 customer receipts totalling **$9,165.00**. Match an existing invoice where payer, lesson reference, amount and chronology support it. Otherwise record a direct tuition sale only when the bank narration/source supports sales; never fabricate an invoice.
-- Shane reimbursement: **$309.55**. It exactly equals the four opening Amazon debits of $76.80, $76.80, $59.95 and $96.00. Treat the five-line chain as a net-zero related-party reimbursement, not revenue or deductible Amazon expense, subject to live Xero verification.
+- Shane reimbursement: **$309.55**. It exactly equals the four opening Amazon debits of $76.80, $76.80, $59.95 and $96.00. Shane confirmed on 3 September 2026 that the Amazon purchases were YesMandarin business supplies, not owner drawings. Record the purchases to the appropriate supplies/equipment expense account and the reimbursement to `881 - Owner A Funds Introduced`; the reimbursement is not revenue and does not reverse the business expenses. Confirm the exact expense account in Xero before posting.
 
 ### 2. Finish FY withdrawals
 
-Projected 88 debits totalling **$2,712.38** remain:
+Projected 87 debits totalling **$2,635.58** remain:
 
 - Transport NSW: 52 lines, **$862.85** — requires one business-use ruling; personal/mixed-use amounts must not be silently deducted.
-- Amazon/Prime: 14 lines, **$573.37** — four opening purchases are covered by Shane's exact $309.55 reimbursement; the rest need receipt/business-use support or personal treatment.
+- Amazon/Prime: 13 lines, **$496.57** remain after the first $76.80 debit was reconciled to `453 - Office Expenses` — Shane confirmed these are YesMandarin business supplies rather than owner drawings. Separate any capital asset if an item meets the asset treatment threshold; use `BAS Excluded` while the entity is not GST-registered.
 - Covau utilities: 3 lines, **$464.53**.
 - Google Workspace: 3 lines, **$36.42**.
 - Taobao and related foreign fees: 7 lines, **$84.07**.
@@ -60,4 +60,4 @@ Reconcile the remaining projected 37 lines dated 1 July–17 August 2026 and imp
 
 ## Immediate blocker observed
 
-At the latest attempt, Xero still showed the 140-line queue and balances but the reconciliation grid returned **Unable to load data**. No posting was attempted. Resume the five-line $309.55 reimbursement chain when the grid loads; stop temporary anti-sleep whenever the surface stalls.
+After Shane refreshed Xero, the grid loaded and the 140-line queue remained visible. An attempted owner-drawings setup was stopped before reconciliation when Shane corrected the treatment. The first $76.80 Amazon debit was then reconciled to `453 - Office Expenses`, `BAS Excluded`, and the queue visibly fell to 139. The other three opening Amazon debits total $232.75 and remain unreconciled. Reconcile the matching $309.55 deposit separately to `881 - Owner A Funds Introduced`; stop temporary anti-sleep whenever the surface stalls.

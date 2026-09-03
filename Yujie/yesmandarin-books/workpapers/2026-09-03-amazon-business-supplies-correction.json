@@ -1,0 +1,32 @@
+{
+  "as_of": "2026-09-03",
+  "account": "CBA Business Account ending 1913",
+  "decision_source": "Shane confirmed the Amazon purchases were YesMandarin business supplies rather than owner drawings.",
+  "opening_amazon_group": {
+    "amounts": [76.80, 76.80, 59.95, 96.00],
+    "total": 309.55
+  },
+  "xero_posting": {
+    "amount": 76.80,
+    "contact": "Amazon",
+    "account_code": "453",
+    "account_name": "Office Expenses",
+    "description": "Business supplies - Amazon",
+    "tax_rate": "BAS Excluded",
+    "verified_queue_before": 140,
+    "verified_queue_after": 139,
+    "status": "reconciled"
+  },
+  "remaining_opening_amazon": {
+    "amounts": [76.80, 59.95, 96.00],
+    "total": 232.75,
+    "status": "unreconciled"
+  },
+  "matching_owner_transfer": {
+    "amount": 309.55,
+    "treatment": "881 - Owner A Funds Introduced",
+    "income_effect": 0.00,
+    "status": "unreconciled"
+  },
+  "gst_basis": "BAS Excluded pending valid tax-invoice evidence; no GST credit inferred from bank narration."
+}

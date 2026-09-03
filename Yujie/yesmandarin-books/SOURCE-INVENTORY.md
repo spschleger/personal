@@ -4,7 +4,7 @@
 
 ## Current conclusion
 
-Xero reconstruction is in progress. The full supplied account `1913` statement range is imported and 113 of 253 lines are reconciled, leaving 140. Completed lines include 51 source-supported invoice-related receipts, two direct tuition-sales receipts, nine Digital Pacific expenses, all 27 Microsoft-related lines, all nine Xero subscription debits, all 13 office-rent debits, one owner-drawings transfer and the isolated separate-account Stripe payout. The opening balance and linked Stripe clearing chain are posted. Other expenses, transfers and ambiguous receipts remain unresolved. The latest full balance checkpoint showed statement balance $31,016.85 and book balance $22,663.14 after the Benjamin-Rashid Klaim direct sale; the later Take My Cans invoice matches were verified by queue movement.
+Xero reconstruction is in progress. The full supplied account `1913` statement range is imported and 114 of 253 lines are reconciled, leaving 139. Completed lines include 51 source-supported invoice-related receipts, two direct tuition-sales receipts, one $76.80 Amazon business-supplies expense, nine Digital Pacific expenses, all 27 Microsoft-related lines, all nine Xero subscription debits, all 13 office-rent debits, one owner-drawings transfer and the isolated separate-account Stripe payout. The opening balance and linked Stripe clearing chain are posted. Other expenses, transfers and ambiguous receipts remain unresolved. The latest full balance checkpoint showed statement balance $31,016.85 and book balance $22,663.14 after the Benjamin-Rashid Klaim direct sale; later completed lines are verified by queue movement.
 
 Use Xero as a historical invoice source during reconstruction. Treat complete bank statements as the cash source of truth. Xero will become the canonical books only after the source-backed reconstruction is verified.
 
@@ -77,6 +77,8 @@ Canonical source exports and controls are under `sources/bank/`:
 - The later $650 Daniel Lie row could not reuse INV-0066 after the explicitly referenced 13 May row consumed it. Shane confirmed on 3 September 2026 that the later receipt was a Term 3 Mandarin tuition sale agreed verbally. It was reconciled directly to `200 - Sales`, `BAS Excluded`, and visibly verified without creating a retrospective invoice. The $618 Benjamin-Rashid Klaim receipt explicitly narrated as one term of student fees was also reconciled directly to `200 - Sales`, `BAS Excluded`, without creating an invoice. The two 11 November 2025 Take My Cans receipts of $68 and $612 were matched as split and final payments against the source-supported $680 INV-0024; the queue reached 140. Audit: `workpapers/2026-09-03-xero-reconciliation-progress.json`.
 
 These postings do not enter the decided opening-capital balance or resolve the remaining transaction classifications.
+
+On 3 September 2026 Shane confirmed that the four opening Amazon debits totalling $309.55 were YesMandarin business supplies, not owner drawings. The first $76.80 debit was reconciled to `453 - Office Expenses`, `BAS Excluded`, after which Xero showed 139 lines remaining. The other three debits totalling $232.75 remain unreconciled. Shane's matching $309.55 deposit is to be treated separately as `881 - Owner A Funds Introduced`, not revenue.
 
 This proves the transaction sequence and balances for the supplied export range. It does not by itself categorise withdrawals or prove which deposits settle which invoices.
 
