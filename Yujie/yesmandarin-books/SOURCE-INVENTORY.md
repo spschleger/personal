@@ -122,7 +122,7 @@ The two Stripe accounts are available under the same Stripe login/account switch
 
 ### Consequence
 
-Stripe evidence is complete for the Xero-linked chain, which is posted and closed to zero. The separate account remains account-scoped: its $660.10 payout to business account `1913` and $1,197.73 opening-boundary payout to personal account `9316` remain isolated until the unattributed $687.50 charge and opening-balance treatment are resolved. A payout is not itself revenue.
+Stripe evidence is complete for the Xero-linked chain, which is posted and closed to zero. The separate account remains account-scoped. On 3 September 2026 its source-matched $660.10 payout to business account `1913` was reconciled to the distinct current-asset account `092 - Stripe Clearing - Separate`; this leaves a controlled $660.10 credit balance and does not recognise revenue. The upstream $687.50 charge, $24.37 processing fee and $3.03 invoicing fee remain unposted pending attribution. The $1,197.73 opening-boundary payout to personal account `9316` remains isolated and outside current-period income.
 
 ## Required next sources
 

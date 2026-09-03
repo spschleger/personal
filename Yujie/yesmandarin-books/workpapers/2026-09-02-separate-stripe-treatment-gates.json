@@ -1,5 +1,5 @@
 {
-  "observed_date": "2026-09-02",
+  "observed_date": "2026-09-03",
   "scope": "Non-Xero-linked Stripe account",
   "sources": [
     "sources/stripe/2026-08-25-separate-account-unified-payments.csv",
@@ -19,7 +19,22 @@
     "bank_received_date": "2026-03-03",
     "bank_narration": "Direct Credit 158824 YESMANDARIN YESMANDARIN-4XGSPM",
     "control_check": "687.50 - 24.37 - 3.03 = 660.10",
-    "attribution": "unresolved"
+    "attribution": "unresolved",
+    "xero_posting": {
+      "status": "posted_and_verified",
+      "bank_transaction_id": "171f8841-c016-4ed8-a77d-183d772d9a9f",
+      "transaction_type": "Receive Money",
+      "contact": "Stripe",
+      "date": "2026-03-03",
+      "amount": "660.10",
+      "account_code": "092",
+      "account_name": "Stripe Clearing - Separate",
+      "account_type": "Current Asset",
+      "tax_rate": "BAS Excluded",
+      "description": "Separate Stripe payout po_1T6MN2H67fTKgSywfxjbX2za; gross charge attribution unresolved",
+      "reconciliation_state": "Reconciled",
+      "verified_account_balance": "-660.10"
+    }
   },
   "opening_boundary_chain": {
     "amount": "1197.73",
@@ -31,8 +46,9 @@
     "current_period_income_treatment": "excluded"
   },
   "safe_next_xero_step": {
-    "status": "requires_direction_before_write",
-    "recommendation": "Create a distinct clearing account for the separate Stripe account and reconcile only the source-matched 660.10 bank receipt to it. Do not post the payout as revenue. This would leave a visible 660.10 credit balance until the upstream charge and fees are posted.",
+    "status": "completed_and_verified",
+    "treatment": "A distinct current-asset clearing account was created for the separate Stripe account, and only the source-matched 660.10 bank receipt was reconciled to it. No revenue was recognised.",
+    "remaining_balance": "The account has a visible 660.10 credit balance until the upstream 687.50 charge and 27.40 of fees are posted.",
     "reason_for_distinct_account": "The two Stripe accounts' IDs, balances and payout chains must remain account-scoped. Reusing the now-zero Xero-linked Stripe Clearing account would collapse two unproven account relationships."
   },
   "decision_gates": [
