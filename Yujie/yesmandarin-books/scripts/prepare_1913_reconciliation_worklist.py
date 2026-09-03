@@ -185,12 +185,7 @@ def classify_row(row: BankRow, invoices: Sequence[Invoice]) -> Result:
     if contains_any(text, ("microsoft", "google workspace", "digital pacific", "xero au")):
         return Result("expense", "Software subscriptions", "candidate", "merchant_identity")
     if contains_any(text, ("transportfornsw", "tfnsw opal")):
-        return Result(
-            "expense",
-            "Travel - business use to confirm",
-            "review",
-            "merchant_identity",
-        )
+        return Result("expense", "Travel", "candidate", "merchant_identity")
     if contains_any(text, ("taobao", "alipay", "alp*taobao", "international transaction fee")):
         return Result("expense", "Teaching materials or supplies", "review", "merchant_identity")
     if contains_any(text, ("amazon", "big w", "kmart", "jb hi fi", "kogan", "dollar avenue")):
@@ -203,7 +198,12 @@ def classify_row(row: BankRow, invoices: Sequence[Invoice]) -> Result:
         return Result("expense", "Client gifts", "review", "bank_reference")
     if "printer" in text:
         return Result("expense", "Equipment", "review", "bank_reference")
-    return Result("unresolved_debit", "", "unresolved", "none")
+    return Result(
+        "expense",
+        "Business expense - account to confirm",
+        "review",
+        "owner_confirmation_business_account_use",
+    )
 
 
 def load_invoices(path: Path) -> list[Invoice]:
@@ -270,7 +270,7 @@ def write_outputs(
 
     fieldnames = list(records[0])
     with output_csv.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fieldnames)
+        writer = csv.DictWriter(handle, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(records)
 

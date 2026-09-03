@@ -144,6 +144,35 @@ class ClassificationTests(unittest.TestCase):
         self.assertEqual(result.kind, "transfer_to_personal_account")
         self.assertEqual(result.status, "blocked_awaiting_9316")
 
+    def test_unknown_debit_is_business_expense_pending_account_classification(self):
+        result = MODULE.classify_row(
+            MODULE.BankRow(
+                "08/08/2026",
+                "-27.40",
+                "CARD PURCHASE UNKNOWN BUSINESS MERCHANT",
+            ),
+            [],
+        )
+
+        self.assertEqual(result.kind, "expense")
+        self.assertEqual(result.proposed_account, "Business expense - account to confirm")
+        self.assertEqual(result.status, "review")
+        self.assertEqual(result.evidence, "owner_confirmation_business_account_use")
+
+    def test_transport_is_confirmed_business_travel(self):
+        result = MODULE.classify_row(
+            MODULE.BankRow(
+                "08/08/2026",
+                "-7.52",
+                "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902",
+            ),
+            [],
+        )
+
+        self.assertEqual(result.kind, "expense")
+        self.assertEqual(result.proposed_account, "Travel")
+        self.assertEqual(result.status, "candidate")
+
     def test_recurring_software_expense_gets_proposal_not_final_treatment(self):
         result = MODULE.classify_row(
             MODULE.BankRow(
@@ -160,6 +189,20 @@ class ClassificationTests(unittest.TestCase):
 
 
 class WorklistTests(unittest.TestCase):
+    def test_generated_csv_uses_lf_line_endings(self):
+        bank_rows = [
+            MODULE.BankRow("08/08/2026", "-27.40", "CARD PURCHASE UNKNOWN BUSINESS MERCHANT")
+        ]
+
+        with tempfile.TemporaryDirectory() as directory:
+            output = Path(directory) / "worklist.csv"
+            summary = Path(directory) / "summary.json"
+            MODULE.write_outputs(bank_rows, [], output, summary)
+            contents = output.read_bytes()
+
+        self.assertNotIn(b"\r\n", contents)
+        self.assertIn(b"\n", contents)
+
     def test_reused_invoice_candidate_is_downgraded_for_review(self):
         invoices = [
             MODULE.Invoice("INV-0007", "Terry Tran", "620.00", "19/07/2025")

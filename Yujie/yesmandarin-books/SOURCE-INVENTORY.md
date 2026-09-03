@@ -80,6 +80,8 @@ These postings do not enter the decided opening-capital balance or resolve the r
 
 On 3 September 2026 Shane confirmed that the four opening Amazon debits totalling $309.55 were YesMandarin business supplies, not owner drawings. The first $76.80 debit was reconciled to `453 - Office Expenses`, `BAS Excluded`, after which Xero showed 139 lines remaining. The other three debits totalling $232.75 remain unreconciled. Shane's matching $309.55 deposit is to be treated separately as `881 - Owner A Funds Introduced`, not revenue.
 
+Shane also confirmed on 3 September 2026 that all external merchant expenditure from business account `1913` is YesMandarin business-purpose expenditure. Merchant lines no longer require separate personal-versus-business confirmation. They still require the correct expense or asset classification; transfers and clearing movements remain balance-sheet transactions rather than merchant expenses. Control: `workpapers/2026-09-03-business-account-use-confirmation.json`.
+
 This proves the transaction sequence and balances for the supplied export range. It does not by itself categorise withdrawals or prove which deposits settle which invoices.
 
 ## Payment flow
@@ -147,7 +149,7 @@ Account `1913` deterministic workpapers were generated on 25 August 2026:
 - Rebuild with `scripts/prepare_1913_reconciliation_worklist.py`; matching behaviour is covered by `tests/test_prepare_1913_reconciliation_worklist.py`.
 - The 253-row control totals remain exact: $44,572.45 credits, $16,818.43 debits and $27,754.02 net movement.
 - All 29 statement lines with one invoice candidate supported by an explicit invoice reference or payer-name evidence plus amount and date bounds were reconciled in Xero on 25 August 2026. Another 20 invoice-payment lines remain review items; 25 credits have no defensible invoice candidate.
-- Expense proposals are worklist aids, not tax conclusions: 67 are straightforward merchant/reference candidates, 97 require business-use or account review, and nine debits remain unresolved.
+- Expense proposals are worklist aids, not tax conclusions. Shane's 3 September 2026 owner confirmation establishes business purpose for external merchant debits; any remaining review is for the correct expense/asset account or the separate treatment of transfers, not personal-use suspicion.
 - The `9316` transfer stays blocked until the other side is supplied. The $660.10 Stripe payout is isolated to Stripe clearing rather than revenue, and Shane's $309.55 reimbursement is isolated from invoice income.
 
 Once the complete bank export is available:

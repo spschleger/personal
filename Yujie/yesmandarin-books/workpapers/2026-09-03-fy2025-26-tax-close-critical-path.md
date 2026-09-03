@@ -28,14 +28,14 @@ Resolve the 15 projected FY credits before expenses:
 
 Projected 87 debits totalling **$2,635.58** remain:
 
-- Transport NSW: 52 lines, **$862.85** — requires one business-use ruling; personal/mixed-use amounts must not be silently deducted.
+- Transport NSW: 52 lines, **$862.85** — Shane's owner confirmation establishes these as business travel expenditure; use the appropriate travel expense account.
 - Amazon/Prime: 13 lines, **$496.57** remain after the first $76.80 debit was reconciled to `453 - Office Expenses` — Shane confirmed these are YesMandarin business supplies rather than owner drawings. Separate any capital asset if an item meets the asset treatment threshold; use `BAS Excluded` while the entity is not GST-registered.
 - Covau utilities: 3 lines, **$464.53**.
 - Google Workspace: 3 lines, **$36.42**.
 - Taobao and related foreign fees: 7 lines, **$84.07**.
 - Other: 9 lines, **$691.14** — Kinokuniya, Kmart, Kogan Mobile, Dollar Avenue, JB Hi-Fi, printer, client gift card, Order Lemon and book shipping.
 
-Post source-supported business costs with `BAS Excluded`. Unsupported or personal costs go to owner drawings rather than disappearing or becoming deductions.
+Shane confirmed all external merchant expenditure from account `1913` is business-purpose expenditure. Post it to the appropriate expense account with `BAS Excluded`; separate any capital asset and keep transfers/clearing movements on the balance sheet. Do not re-open personal use line by line.
 
 ### 3. Close off-ledger FY items
 

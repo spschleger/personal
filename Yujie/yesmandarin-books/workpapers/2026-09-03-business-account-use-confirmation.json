@@ -1,0 +1,15 @@
+{
+  "as_of": "2026-09-03",
+  "account": "CBA Business Account ending 1913",
+  "owner_confirmation": "All account expenditures from this business account should be business expenses.",
+  "operational_rule": "Treat every external merchant debit from account 1913 as YesMandarin business-purpose expenditure. Do not ask for a separate personal-versus-business ruling for each merchant.",
+  "accounting_boundaries": [
+    "Business-purpose merchant costs are posted to the appropriate expense account.",
+    "A capital item remains a business asset rather than an immediate P&L expense when asset treatment applies.",
+    "Transfers between bank, Stripe, clearing, loan or owner accounts remain transfers or balance-sheet movements rather than merchant expenses.",
+    "The 309.55 Shane deposit is Owner A Funds Introduced and does not reverse the related Amazon business expenses."
+  ],
+  "tax_rate": "BAS Excluded",
+  "tax_basis": "The entity is not registered for GST; no input-tax credit is claimed.",
+  "evidence_scope": "Owner confirmation establishes business purpose. Merchant narration and receipts are still used to choose the correct expense or asset account and preserve support."
+}
