@@ -65,10 +65,8 @@
         "description": "Term 3 Mandarin tuition - verbal agreement",
         "tax_rate": "BAS Excluded"
       },
-      "xero_status": "Unreconciled; posting blocked on 2026-09-03 because the authenticated Mac browser surface was unavailable."
+      "xero_status": "Reconciled and visibly verified in Xero on 2026-09-03. The searched statement line disappeared, the queue fell from 144 to 143, and the Xero book balance increased from 21,395.14 to 22,045.14."
     }
   ],
-  "next_actions": [
-    "Reconcile the 2026-07-27 Daniel Lie receipt directly to 200 - Sales as Term 3 Mandarin tuition under a verbal agreement; do not allocate it to INV-0066 or create a retrospective invoice solely for reconciliation."
-  ]
+  "next_actions": []
 }
