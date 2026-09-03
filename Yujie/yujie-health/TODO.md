@@ -1,4 +1,10 @@
-# TODO — consolidated (updated 31 Aug 2026: Kohan DROPPED, Beijing consults BOOKED)
+# TODO — consolidated (updated 3 Sep 2026: dental gate added; Beijing consults booked)
+
+## NOW (3 Sep) — DENTAL GATE BEFORE BEIJING / POSSIBLE SURGERY
+- [ ] **Dentist within 24–48 hours, before the 9 Sep flight:** examine the painful wisdom tooth and obtain dental X-ray if indicated. Ask for a written diagnosis: simple eruption/pericoronitis, decay, or abscess; whether extraction is actually required; whether it is safe to defer; and the earliest safe extraction date.
+- [ ] **If infection/abscess is present:** treat promptly and tell both Beijing neurosurgeons about the infection, treatment, antibiotics and extraction date. Do not conceal it at pre-op assessment.
+- [ ] **Do not book a preventive extraction blindly this week.** The flight is only six days away; extraction wounds usually take about two weeks to heal and dry socket/infection often declares itself several days after extraction. If extraction is recommended now, ask the dentist who will provide follow-up while Yujie is travelling and ask the eventual neurosurgical team to approve the interval before surgery.
+- [ ] **Urgent dental care now** for facial/jaw swelling, pus or bad taste, fever, worsening severe pain, difficulty opening the mouth, swallowing or breathing.
 
 ## NOW (31 Aug) — BEIJING IN-PERSON CONSULTS (the main track)
 **Decided 31 Aug: Kohan abandoned — referral never sent. Beijing is now the primary track.**
