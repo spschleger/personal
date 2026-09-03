@@ -10,6 +10,7 @@ Shane's personal (non-venture) workspace — **the personal vault**, a private g
 - **`Work/`** — resumes, tickets/certs, employer docs. Documents only.
 - **`family-history/`** — Schleger + Jacklin dossiers, sources, the Vercel site.
 - **`tools/`** — small utilities (html2pdf).
+- **`inner-work/`** — identity/pattern work, dated records. Rule inside each file: not for rereading in place of acting.
 
 **`MACHINE.md`** — the machine rebuild manifest: where every category of state lives, identity inventory, restore paths. Keep a copy in `~/Documents/` (iCloud). Update after structural changes.
 
