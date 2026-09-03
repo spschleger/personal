@@ -1,0 +1,68 @@
+{
+  "as_of": "2026-09-03T11:59:21+10:00",
+  "status": "in_progress",
+  "account": "CBA Business Account ending 1913",
+  "source_statement_lines": 253,
+  "queue": {
+    "before_batch": 143,
+    "after_batch": 140,
+    "lines_reconciled_in_batch": 3,
+    "total_lines_reconciled_to_date": 113,
+    "completion_percent": 44.7
+  },
+  "transactions": [
+    {
+      "date": "2026-08-05",
+      "amount": "618.00",
+      "bank_payer": "BENJAMIN-RASHID KLAIM",
+      "bank_narration": "Benjamin Klaime Student Fees - One Term",
+      "treatment": "direct Receive Money sale",
+      "contact": "Benjamin-Rashid Klaim",
+      "account": "200 - Sales",
+      "description": "Mandarin student fees - one term",
+      "tax_rate": "BAS Excluded",
+      "invoice_created": false,
+      "verification": "The statement line disappeared after posting, the queue moved from 143 to 142, and the Xero book balance moved from 22045.14 to 22663.14."
+    },
+    {
+      "date": "2025-11-11",
+      "amount": "68.00",
+      "bank_payer": "TAKE MY CANS PTY LTD",
+      "bank_narration": "Mandarin 1st lesson Take My Cans Lachlan",
+      "treatment": "part payment matched to existing invoice",
+      "contact": "Take My Cans Pty Ltd",
+      "invoice": "INV-0024",
+      "invoice_date": "2025-11-10",
+      "invoice_original_amount": "680.00",
+      "verification": "Xero split INV-0024 into 68.00 and 612.00 portions; the 68.00 portion was selected and reconciled, and the queue moved from 142 to 141."
+    },
+    {
+      "date": "2025-11-11",
+      "amount": "612.00",
+      "bank_payer": "TAKE MY CANS PTY LTD",
+      "bank_narration": "Remaining 9 lessons Take My Cans Lachlan",
+      "treatment": "remaining payment matched to existing invoice",
+      "contact": "Take My Cans Pty Ltd",
+      "invoice": "INV-0024",
+      "invoice_remaining_amount": "612.00",
+      "verification": "The 612.00 invoice remainder and bank receipt were both selected in Xero, the amounts matched, the statement line disappeared, and the queue moved from 141 to 140."
+    }
+  ],
+  "controls": {
+    "take_my_cans_bank_receipts_total": "680.00",
+    "take_my_cans_invoice_total": "680.00",
+    "take_my_cans_difference": "0.00",
+    "search_result_after_reconciliation": "No TAKE MY CANS statement lines remained."
+  },
+  "evidence": [
+    "sources/bank/2025-07-01-to-2025-12-09-cba-business-account-1913.csv",
+    "sources/bank/2025-12-09-to-2026-08-17-cba-business-account-1913.csv",
+    "sources/xero/2026-08-24-sales-invoices.csv",
+    "Fresh Xero bank-reconciliation state inspected on 2026-09-03"
+  ],
+  "guardrails": [
+    "No invoice was created for the Benjamin-Rashid Klaim receipt.",
+    "INV-0024 was matched only to the two bank receipts whose payer, lesson narration, date and combined amount support the match.",
+    "No unsupported contractor, transport, Amazon, owner-movement or ambiguous transaction was posted in this batch."
+  ]
+}
