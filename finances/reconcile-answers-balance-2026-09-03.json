@@ -1,0 +1,15 @@
+{
+  "2026-08-27|-2007|V2942 25/08 LINKT BRISBANE BRISBANE 74940526237#0": {
+    "categoryId": 11,
+    "payee": "Linkt"
+  },
+  "2026-08-27|-900|V2942 25/08 BURWOOD RAILWAY NEWS BURWOOD 74742726237#0": {
+    "categoryId": 22,
+    "payee": "Burwood Railway News"
+  },
+  "2026-08-27|-5000|ONLINE K2774048670 Linked Acc Trns SCHLEGER SP#0": {
+    "categoryId": 18,
+    "payee": "Linked-account transfer — Max purchasing card",
+    "note": "Cash moved to an untracked card/account for Max purchasing ability; Shane directed Misc expenses on 2026-09-03."
+  }
+}

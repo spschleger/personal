@@ -1,0 +1,3604 @@
+{
+  "version": 1,
+  "digest": "93098bdd60e90b7cf13f4784f3fad4f6f2c7df5d647d20d0eaf867a4d695c129",
+  "selectedAccount": {
+    "source": "csv",
+    "accountRef": "946410617"
+  },
+  "snapshot": {
+    "source": "csv",
+    "accountRef": "946410617",
+    "accountConfirmed": true,
+    "historicalRepairFingerprints": [
+      "2026-08-27|-2007|V2942 25/08 LINKT BRISBANE BRISBANE 74940526237#0",
+      "2026-08-27|-5000|ONLINE K2774048670 Linked Acc Trns SCHLEGER SP#0",
+      "2026-08-27|-900|V2942 25/08 BURWOOD RAILWAY NEWS BURWOOD 74742726237#0"
+    ],
+    "decisions": {
+      "2026-08-27|-2007|V2942 25/08 LINKT BRISBANE BRISBANE 74940526237#0": {
+        "categoryId": 11,
+        "payee": "Linkt"
+      },
+      "2026-08-27|-5000|ONLINE K2774048670 Linked Acc Trns SCHLEGER SP#0": {
+        "categoryId": 18,
+        "note": "Cash moved to an untracked card/account for Max purchasing ability; Shane directed Misc expenses on 2026-09-03.",
+        "payee": "Linked-account transfer — Max purchasing card"
+      },
+      "2026-08-27|-900|V2942 25/08 BURWOOD RAILWAY NEWS BURWOOD 74742726237#0": {
+        "categoryId": 22,
+        "payee": "Burwood Railway News"
+      }
+    },
+    "watermark": "2026-09-03",
+    "exportMaximum": "2026-09-03",
+    "expectedCount": 165,
+    "sourceFacts": [
+      {
+        "fingerprint": "2026-08-04|-10000|SHANE PHONSE SCHLEG R8989048181 FUNDING#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-08-04",
+        "amountCents": -10000,
+        "description": "SHANE PHONSE SCHLEG R8989048181 FUNDING"
+      },
+      {
+        "fingerprint": "2026-08-04|-1050|V2942 02/08 MCDONALDS MUDGEE MUDGEE 74564726215#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-08-02",
+        "amountCents": -1050,
+        "description": "V2942 02/08 MCDONALDS MUDGEE MUDGEE 74564726215"
+      },
+      {
+        "fingerprint": "2026-08-04|-12|V2942 31/07 INTL TXN FEE-MC 74629216214#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": -12,
+        "description": "V2942 31/07 INTL TXN FEE-MC 74629216214"
+      },
+      {
+        "fingerprint": "2026-08-04|-12|V2942 31/07 INTL TXN FEE-MC 74938086213#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": -12,
+        "description": "V2942 31/07 INTL TXN FEE-MC 74938086213"
+      },
+      {
+        "fingerprint": "2026-08-04|-12|V2942 31/07 INTL TXN FEE-MC 74938086213#1",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": -12,
+        "description": "V2942 31/07 INTL TXN FEE-MC 74938086213"
+      },
+      {
+        "fingerprint": "2026-08-04|-12|V2942 31/07 INTL TXN FEE-MC 74938086213#2",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": -12,
+        "description": "V2942 31/07 INTL TXN FEE-MC 74938086213"
+      },
+      {
+        "fingerprint": "2026-08-04|-12|V2942 31/07 INTL TXN FEE-MC 74938086213#3",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": -12,
+        "description": "V2942 31/07 INTL TXN FEE-MC 74938086213"
+      },
+      {
+        "fingerprint": "2026-08-04|-13|V2942 31/07 INTL TXN FEE-MC 74629216214#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": -13,
+        "description": "V2942 31/07 INTL TXN FEE-MC 74629216214"
+      },
+      {
+        "fingerprint": "2026-08-04|-13|V2942 31/07 INTL TXN FEE-MC 74938086213#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": -13,
+        "description": "V2942 31/07 INTL TXN FEE-MC 74938086213"
+      },
+      {
+        "fingerprint": "2026-08-04|-14497|V2942 03/08 Reddy Express 1635 Mudgee 74363966215#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-08-03",
+        "amountCents": -14497,
+        "description": "V2942 03/08 Reddy Express 1635 Mudgee 74363966215"
+      },
+      {
+        "fingerprint": "2026-08-04|-2195|V2942 31/07 MCDONALDS MUDGEE MUDGEE 74564726215#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": -2195,
+        "description": "V2942 31/07 MCDONALDS MUDGEE MUDGEE 74564726215"
+      },
+      {
+        "fingerprint": "2026-08-04|-2600|V2942 03/08 BWS LIQUOR/WESTFIELD BURWBURWOOD 74278246215#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-08-03",
+        "amountCents": -2600,
+        "description": "V2942 03/08 BWS LIQUOR/WESTFIELD BURWBURWOOD 74278246215"
+      },
+      {
+        "fingerprint": "2026-08-04|-830|V2942 03/08 COLES 0861 BURWOOD 74363966215#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-08-03",
+        "amountCents": -830,
+        "description": "V2942 03/08 COLES 0861 BURWOOD 74363966215"
+      },
+      {
+        "fingerprint": "2026-08-04|12|V2942 01/08 INTL TXN FEE REV-MC 74629216214#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-08-01",
+        "amountCents": 12,
+        "description": "V2942 01/08 INTL TXN FEE REV-MC 74629216214"
+      },
+      {
+        "fingerprint": "2026-08-04|12|V2942 31/07 INTL TXN FEE REV-MC 74938086213#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": 12,
+        "description": "V2942 31/07 INTL TXN FEE REV-MC 74938086213"
+      },
+      {
+        "fingerprint": "2026-08-04|12|V2942 31/07 INTL TXN FEE REV-MC 74938086213#1",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": 12,
+        "description": "V2942 31/07 INTL TXN FEE REV-MC 74938086213"
+      },
+      {
+        "fingerprint": "2026-08-04|12|V2942 31/07 INTL TXN FEE REV-MC 74938086213#2",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": 12,
+        "description": "V2942 31/07 INTL TXN FEE REV-MC 74938086213"
+      },
+      {
+        "fingerprint": "2026-08-04|12|V2942 31/07 INTL TXN FEE REV-MC 74938086213#3",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": 12,
+        "description": "V2942 31/07 INTL TXN FEE REV-MC 74938086213"
+      },
+      {
+        "fingerprint": "2026-08-04|13|V2942 01/08 INTL TXN FEE REV-MC 74629216214#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-08-01",
+        "amountCents": 13,
+        "description": "V2942 01/08 INTL TXN FEE REV-MC 74629216214"
+      },
+      {
+        "fingerprint": "2026-08-04|13|V2942 31/07 INTL TXN FEE REV-MC 74938086213#0",
+        "postDate": "2026-08-04",
+        "purchaseDate": "2026-07-31",
+        "amountCents": 13,
+        "description": "V2942 31/07 INTL TXN FEE REV-MC 74938086213"
+      },
+      {
+        "fingerprint": "2026-08-05|-1299|V2942 04/08 Reddy Express 1691 Five Dock 74363966216#0",
+        "postDate": "2026-08-05",
+        "purchaseDate": "2026-08-04",
+        "amountCents": -1299,
+        "description": "V2942 04/08 Reddy Express 1691 Five Dock 74363966216"
+      },
+      {
+        "fingerprint": "2026-08-05|-1943|V2942 03/08 BP CAPERTEE 9854 CAPERTEE 00625117601#0",
+        "postDate": "2026-08-05",
+        "purchaseDate": "2026-08-03",
+        "amountCents": -1943,
+        "description": "V2942 03/08 BP CAPERTEE 9854 CAPERTEE 00625117601"
+      },
+      {
+        "fingerprint": "2026-08-05|-2007|V2942 03/08 LINKT BRISBANE BRISBANE 74940526215#0",
+        "postDate": "2026-08-05",
+        "purchaseDate": "2026-08-03",
+        "amountCents": -2007,
+        "description": "V2942 03/08 LINKT BRISBANE BRISBANE 74940526215"
+      },
+      {
+        "fingerprint": "2026-08-05|-4069|V2942 03/08 SICHUAN PTY LTD BURWOOD 74564456216#0",
+        "postDate": "2026-08-05",
+        "purchaseDate": "2026-08-03",
+        "amountCents": -4069,
+        "description": "V2942 03/08 SICHUAN PTY LTD BURWOOD 74564456216"
+      },
+      {
+        "fingerprint": "2026-08-05|-560|V2942 03/08 7-ELEVEN 2152 BURWOOD 74564456216#0",
+        "postDate": "2026-08-05",
+        "purchaseDate": "2026-08-03",
+        "amountCents": -560,
+        "description": "V2942 03/08 7-ELEVEN 2152 BURWOOD 74564456216"
+      },
+      {
+        "fingerprint": "2026-08-05|-560|V2942 04/08 COLES 0861 BURWOOD 74363966216#0",
+        "postDate": "2026-08-05",
+        "purchaseDate": "2026-08-04",
+        "amountCents": -560,
+        "description": "V2942 04/08 COLES 0861 BURWOOD 74363966216"
+      },
+      {
+        "fingerprint": "2026-08-06|-1881|V2942 05/08 Piqle Burwood 74249236217#0",
+        "postDate": "2026-08-06",
+        "purchaseDate": "2026-08-05",
+        "amountCents": -1881,
+        "description": "V2942 05/08 Piqle Burwood 74249236217"
+      },
+      {
+        "fingerprint": "2026-08-06|-189|V2942 05/08 VERCEL MKT NEON VERCEL.COM 24011346217#0",
+        "postDate": "2026-08-06",
+        "purchaseDate": "2026-08-05",
+        "amountCents": -189,
+        "description": "V2942 05/08 VERCEL MKT NEON VERCEL.COM 24011346217"
+      },
+      {
+        "fingerprint": "2026-08-06|-35000|SHANE PHONSE SCHLEG B9057136268 FUNDING#0",
+        "postDate": "2026-08-06",
+        "purchaseDate": "2026-08-06",
+        "amountCents": -35000,
+        "description": "SHANE PHONSE SCHLEG B9057136268 FUNDING"
+      },
+      {
+        "fingerprint": "2026-08-06|-599|V2942 05/08 Reddy Express 1691 Five Dock 74363966217#0",
+        "postDate": "2026-08-06",
+        "purchaseDate": "2026-08-05",
+        "amountCents": -599,
+        "description": "V2942 05/08 Reddy Express 1691 Five Dock 74363966217"
+      },
+      {
+        "fingerprint": "2026-08-06|-650|V2942 05/08 SPEEDWAY FUELS HABER HABERFIELD 74564506217#0",
+        "postDate": "2026-08-06",
+        "purchaseDate": "2026-08-05",
+        "amountCents": -650,
+        "description": "V2942 05/08 SPEEDWAY FUELS HABER HABERFIELD 74564506217"
+      },
+      {
+        "fingerprint": "2026-08-06|-6807|EFTPOS 05/08 22:06XERO AU INV-54249012#0",
+        "postDate": "2026-08-06",
+        "purchaseDate": "2026-08-05",
+        "amountCents": -6807,
+        "description": "EFTPOS 05/08 22:06XERO AU INV-54249012"
+      },
+      {
+        "fingerprint": "2026-08-06|242486|06799 MASTERMYNE GROUP Shane Schleger#0",
+        "postDate": "2026-08-06",
+        "purchaseDate": "2026-08-06",
+        "amountCents": 242486,
+        "description": "06799 MASTERMYNE GROUP Shane Schleger"
+      },
+      {
+        "fingerprint": "2026-08-07|-1740|V2942 06/08 HJs Lithgow Lithgow 74773886218#0",
+        "postDate": "2026-08-07",
+        "purchaseDate": "2026-08-06",
+        "amountCents": -1740,
+        "description": "V2942 06/08 HJs Lithgow Lithgow 74773886218"
+      },
+      {
+        "fingerprint": "2026-08-07|-2007|V2942 04/08 LINKT BRISBANE BRISBANE 74940526217#0",
+        "postDate": "2026-08-07",
+        "purchaseDate": "2026-08-04",
+        "amountCents": -2007,
+        "description": "V2942 04/08 LINKT BRISBANE BRISBANE 74940526217"
+      },
+      {
+        "fingerprint": "2026-08-07|-29999|V2942 05/08 THE ATHLETES FOOT ESTORE 0431100980 74069886217#0",
+        "postDate": "2026-08-07",
+        "purchaseDate": "2026-08-05",
+        "amountCents": -29999,
+        "description": "V2942 05/08 THE ATHLETES FOOT ESTORE 0431100980 74069886217"
+      },
+      {
+        "fingerprint": "2026-08-07|-459|V2942 06/08 Reddy Express 1635 Mudgee 74363966218#0",
+        "postDate": "2026-08-07",
+        "purchaseDate": "2026-08-06",
+        "amountCents": -459,
+        "description": "V2942 06/08 Reddy Express 1635 Mudgee 74363966218"
+      },
+      {
+        "fingerprint": "2026-08-07|-7|V2942 05/08 INTL TXN FEE-MC 24011346217#0",
+        "postDate": "2026-08-07",
+        "purchaseDate": "2026-08-05",
+        "amountCents": -7,
+        "description": "V2942 05/08 INTL TXN FEE-MC 24011346217"
+      },
+      {
+        "fingerprint": "2026-08-07|-70000|INTERNET TRANSFER Rent and Bills#0",
+        "postDate": "2026-08-07",
+        "purchaseDate": "2026-08-07",
+        "amountCents": -70000,
+        "description": "INTERNET TRANSFER Rent and Bills"
+      },
+      {
+        "fingerprint": "2026-08-07|-9670|V2942 06/08 7 ELEVEN 2201 BURWOOD 04181107997#0",
+        "postDate": "2026-08-07",
+        "purchaseDate": "2026-08-06",
+        "amountCents": -9670,
+        "description": "V2942 06/08 7 ELEVEN 2201 BURWOOD 04181107997"
+      },
+      {
+        "fingerprint": "2026-08-10|-13000|V2942 06/08 ZIPMONEY* P905275200 ZIP.CO 74201336218#0",
+        "postDate": "2026-08-10",
+        "purchaseDate": "2026-08-06",
+        "amountCents": -13000,
+        "description": "V2942 06/08 ZIPMONEY* P905275200 ZIP.CO 74201336218"
+      },
+      {
+        "fingerprint": "2026-08-10|-20000|LAYTON LARKINS X8889058998 21399562#0",
+        "postDate": "2026-08-10",
+        "purchaseDate": "2026-08-10",
+        "amountCents": -20000,
+        "description": "LAYTON LARKINS X8889058998 21399562"
+      },
+      {
+        "fingerprint": "2026-08-10|-20000|Shane Phonse Schleg J5974607797 21416610#0",
+        "postDate": "2026-08-10",
+        "purchaseDate": "2026-08-10",
+        "amountCents": -20000,
+        "description": "Shane Phonse Schleg J5974607797 21416610"
+      },
+      {
+        "fingerprint": "2026-08-10|-2095|V2942 09/08 COLES 5753 MUDGEE 74363966221#0",
+        "postDate": "2026-08-10",
+        "purchaseDate": "2026-08-09",
+        "amountCents": -2095,
+        "description": "V2942 09/08 COLES 5753 MUDGEE 74363966221"
+      },
+      {
+        "fingerprint": "2026-08-10|-2295|V2942 07/08 BROADVIEW AUST PTY LTD MUDGEE 74940526219#0",
+        "postDate": "2026-08-10",
+        "purchaseDate": "2026-08-07",
+        "amountCents": -2295,
+        "description": "V2942 07/08 BROADVIEW AUST PTY LTD MUDGEE 74940526219"
+      },
+      {
+        "fingerprint": "2026-08-10|-2700|V2942 09/08 LIQUORLAND 3631 MUDGEE 74363966221#0",
+        "postDate": "2026-08-10",
+        "purchaseDate": "2026-08-09",
+        "amountCents": -2700,
+        "description": "V2942 09/08 LIQUORLAND 3631 MUDGEE 74363966221"
+      },
+      {
+        "fingerprint": "2026-08-10|-300|V2942 06/08 ANYTIME FITNESS MUDGEE MUDGEE 74229856219#0",
+        "postDate": "2026-08-10",
+        "purchaseDate": "2026-08-06",
+        "amountCents": -300,
+        "description": "V2942 06/08 ANYTIME FITNESS MUDGEE MUDGEE 74229856219"
+      },
+      {
+        "fingerprint": "2026-08-10|-31501|V2942 05/08 PORTENO PL SURRY HILL 74940526218#0",
+        "postDate": "2026-08-10",
+        "purchaseDate": "2026-08-05",
+        "amountCents": -31501,
+        "description": "V2942 05/08 PORTENO PL SURRY HILL 74940526218"
+      },
+      {
+        "fingerprint": "2026-08-10|20000|LAYTON LARKINS21399562#0",
+        "postDate": "2026-08-10",
+        "purchaseDate": "2026-08-10",
+        "amountCents": 20000,
+        "description": "LAYTON LARKINS21399562"
+      },
+      {
+        "fingerprint": "2026-08-10|20000|LAYTON LARKINSA#0",
+        "postDate": "2026-08-10",
+        "purchaseDate": "2026-08-10",
+        "amountCents": 20000,
+        "description": "LAYTON LARKINSA"
+      },
+      {
+        "fingerprint": "2026-08-11|-14999|V2942 10/08 PNG PTY LTD PROSPECT 01879296910#0",
+        "postDate": "2026-08-11",
+        "purchaseDate": "2026-08-10",
+        "amountCents": -14999,
+        "description": "V2942 10/08 PNG PTY LTD PROSPECT 01879296910"
+      },
+      {
+        "fingerprint": "2026-08-11|-1750|V2942 10/08 OPORTOS ASHFIELD CROYDON 01004412676#0",
+        "postDate": "2026-08-11",
+        "purchaseDate": "2026-08-10",
+        "amountCents": -1750,
+        "description": "V2942 10/08 OPORTOS ASHFIELD CROYDON 01004412676"
+      },
+      {
+        "fingerprint": "2026-08-11|-1999|1052287914706 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "postDate": "2026-08-11",
+        "purchaseDate": "2026-08-11",
+        "amountCents": -1999,
+        "description": "1052287914706 PAYPAL AUSTRALIA SHANE SCHLEGER"
+      },
+      {
+        "fingerprint": "2026-08-11|-560|V2942 10/08 COLES 0861 BURWOOD 74363966222#0",
+        "postDate": "2026-08-11",
+        "purchaseDate": "2026-08-10",
+        "amountCents": -560,
+        "description": "V2942 10/08 COLES 0861 BURWOOD 74363966222"
+      },
+      {
+        "fingerprint": "2026-08-12|-1390|V2942 10/08 AMPOL HAZELBROO 22545F HAZELBROOK 74940526222#0",
+        "postDate": "2026-08-12",
+        "purchaseDate": "2026-08-10",
+        "amountCents": -1390,
+        "description": "V2942 10/08 AMPOL HAZELBROO 22545F HAZELBROOK 74940526222"
+      },
+      {
+        "fingerprint": "2026-08-12|-14263|V2942 10/08 CALTEX MUDGEE 74940526222#0",
+        "postDate": "2026-08-12",
+        "purchaseDate": "2026-08-10",
+        "amountCents": -14263,
+        "description": "V2942 10/08 CALTEX MUDGEE 74940526222"
+      },
+      {
+        "fingerprint": "2026-08-12|-1975000|ONLINE T5382309702 Linked Acc Trns SCHLEGER SP#0",
+        "postDate": "2026-08-12",
+        "purchaseDate": "2026-08-12",
+        "amountCents": -1975000,
+        "description": "ONLINE T5382309702 Linked Acc Trns SCHLEGER SP"
+      },
+      {
+        "fingerprint": "2026-08-12|-2500|V2942 11/08 A&E LEGACY HOLDINGS P Glebe 74249236223#0",
+        "postDate": "2026-08-12",
+        "purchaseDate": "2026-08-11",
+        "amountCents": -2500,
+        "description": "V2942 11/08 A&E LEGACY HOLDINGS P Glebe 74249236223"
+      },
+      {
+        "fingerprint": "2026-08-12|-3700|EFTPOS 12/08 08:23XERO AU INV-55084373#0",
+        "postDate": "2026-08-12",
+        "purchaseDate": "2026-08-12",
+        "amountCents": -3700,
+        "description": "EFTPOS 12/08 08:23XERO AU INV-55084373"
+      },
+      {
+        "fingerprint": "2026-08-12|-914|V2942 11/08 RW TRUST - CCCP MER ADVAMSYDNEY 01634918099#0",
+        "postDate": "2026-08-12",
+        "purchaseDate": "2026-08-11",
+        "amountCents": -914,
+        "description": "V2942 11/08 RW TRUST - CCCP MER ADVAMSYDNEY 01634918099"
+      },
+      {
+        "fingerprint": "2026-08-12|1975000|LOAN PROCEEDS FROM A/C 31-163-9012#0",
+        "postDate": "2026-08-12",
+        "purchaseDate": "2026-08-12",
+        "amountCents": 1975000,
+        "description": "LOAN PROCEEDS FROM A/C 31-163-9012"
+      },
+      {
+        "fingerprint": "2026-08-13|-4974|V2942 12/08 RW TRUST - CCCP MER ADVAMSYDNEY 00410550874#0",
+        "postDate": "2026-08-13",
+        "purchaseDate": "2026-08-12",
+        "amountCents": -4974,
+        "description": "V2942 12/08 RW TRUST - CCCP MER ADVAMSYDNEY 00410550874"
+      },
+      {
+        "fingerprint": "2026-08-13|-50|V2942 12/08 OFFICEWORKS 0201 FIVE FIVE DOCK 74363966224#0",
+        "postDate": "2026-08-13",
+        "purchaseDate": "2026-08-12",
+        "amountCents": -50,
+        "description": "V2942 12/08 OFFICEWORKS 0201 FIVE FIVE DOCK 74363966224"
+      },
+      {
+        "fingerprint": "2026-08-13|-570|V2942 12/08 COLES 0861 BURWOOD 74363966224#0",
+        "postDate": "2026-08-13",
+        "purchaseDate": "2026-08-12",
+        "amountCents": -570,
+        "description": "V2942 12/08 COLES 0861 BURWOOD 74363966224"
+      },
+      {
+        "fingerprint": "2026-08-13|-59896|V2942 12/08 ZIPMONEY* P906813358 ZIP.CO 74201336224#0",
+        "postDate": "2026-08-13",
+        "purchaseDate": "2026-08-12",
+        "amountCents": -59896,
+        "description": "V2942 12/08 ZIPMONEY* P906813358 ZIP.CO 74201336224"
+      },
+      {
+        "fingerprint": "2026-08-13|-8400|V2942 10/08 TELSTRA SERVICES MELBOURNE 74940526223#0",
+        "postDate": "2026-08-13",
+        "purchaseDate": "2026-08-10",
+        "amountCents": -8400,
+        "description": "V2942 10/08 TELSTRA SERVICES MELBOURNE 74940526223"
+      },
+      {
+        "fingerprint": "2026-08-13|-8800|EFTPOS 12/08 18:10Pin* imedical \\PyrmoW\\ch_rf9p90rO#0",
+        "postDate": "2026-08-13",
+        "purchaseDate": "2026-08-12",
+        "amountCents": -8800,
+        "description": "EFTPOS 12/08 18:10Pin* imedical \\PyrmoW\\ch_rf9p90rO"
+      },
+      {
+        "fingerprint": "2026-08-13|-998|V2942 12/08 Reddy Express 1691 Five Dock 74363966224#0",
+        "postDate": "2026-08-13",
+        "purchaseDate": "2026-08-12",
+        "amountCents": -998,
+        "description": "V2942 12/08 Reddy Express 1691 Five Dock 74363966224"
+      },
+      {
+        "fingerprint": "2026-08-13|275480|06799 MASTERMYNE GROUP Shane Schleger#0",
+        "postDate": "2026-08-13",
+        "purchaseDate": "2026-08-13",
+        "amountCents": 275480,
+        "description": "06799 MASTERMYNE GROUP Shane Schleger"
+      },
+      {
+        "fingerprint": "2026-08-14|-1131|V2942 12/08 SMP*Hero Sushi Burwood Burwood 74126916224#0",
+        "postDate": "2026-08-14",
+        "purchaseDate": "2026-08-12",
+        "amountCents": -1131,
+        "description": "V2942 12/08 SMP*Hero Sushi Burwood Burwood 74126916224"
+      },
+      {
+        "fingerprint": "2026-08-14|-1461|V2942 13/08 GROK XAI WWW.GROK.C 24011346225#0",
+        "postDate": "2026-08-14",
+        "purchaseDate": "2026-08-13",
+        "amountCents": -1461,
+        "description": "V2942 13/08 GROK XAI WWW.GROK.C 24011346225"
+      },
+      {
+        "fingerprint": "2026-08-14|-70000|INTERNET TRANSFER Rent and Bills#0",
+        "postDate": "2026-08-14",
+        "purchaseDate": "2026-08-14",
+        "amountCents": -70000,
+        "description": "INTERNET TRANSFER Rent and Bills"
+      },
+      {
+        "fingerprint": "2026-08-14|-749|V2942 13/08 Reddy Express 1635 Mudgee 74363966225#0",
+        "postDate": "2026-08-14",
+        "purchaseDate": "2026-08-13",
+        "amountCents": -749,
+        "description": "V2942 13/08 Reddy Express 1635 Mudgee 74363966225"
+      },
+      {
+        "fingerprint": "2026-08-14|-9344|V2942 13/08 7 ELEVEN 2201 BURWOOD 03483483794#0",
+        "postDate": "2026-08-14",
+        "purchaseDate": "2026-08-13",
+        "amountCents": -9344,
+        "description": "V2942 13/08 7 ELEVEN 2201 BURWOOD 03483483794"
+      },
+      {
+        "fingerprint": "2026-08-14|59896|ONLINE N2655809706 Linked Acc Trns SCHLEGER JA#0",
+        "postDate": "2026-08-14",
+        "purchaseDate": "2026-08-14",
+        "amountCents": 59896,
+        "description": "ONLINE N2655809706 Linked Acc Trns SCHLEGER JA"
+      },
+      {
+        "fingerprint": "2026-08-17|-1495|V2942 14/08 BROADVIEW AUST PTY LTD MUDGEE 74940526226#0",
+        "postDate": "2026-08-17",
+        "purchaseDate": "2026-08-14",
+        "amountCents": -1495,
+        "description": "V2942 14/08 BROADVIEW AUST PTY LTD MUDGEE 74940526226"
+      },
+      {
+        "fingerprint": "2026-08-17|-1499|1052419435498 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "postDate": "2026-08-17",
+        "purchaseDate": "2026-08-17",
+        "amountCents": -1499,
+        "description": "1052419435498 PAYPAL AUSTRALIA SHANE SCHLEGER"
+      },
+      {
+        "fingerprint": "2026-08-17|-1595|V2942 13/08 CRAVEABLE BRANDS STORE LITHGOW 74940526225#0",
+        "postDate": "2026-08-17",
+        "purchaseDate": "2026-08-13",
+        "amountCents": -1595,
+        "description": "V2942 13/08 CRAVEABLE BRANDS STORE LITHGOW 74940526225"
+      },
+      {
+        "fingerprint": "2026-08-17|-21000|V2942 13/08 PAYPAL *GETMOSH 4029357733 74245376228#0",
+        "postDate": "2026-08-17",
+        "purchaseDate": "2026-08-13",
+        "amountCents": -21000,
+        "description": "V2942 13/08 PAYPAL *GETMOSH 4029357733 74245376228"
+      },
+      {
+        "fingerprint": "2026-08-17|-2700|V2942 16/08 LIQUORLAND 3631 MUDGEE 74363966228#0",
+        "postDate": "2026-08-17",
+        "purchaseDate": "2026-08-16",
+        "amountCents": -2700,
+        "description": "V2942 16/08 LIQUORLAND 3631 MUDGEE 74363966228"
+      },
+      {
+        "fingerprint": "2026-08-17|-2935|V2942 16/08 COLES 5753 MUDGEE 74363966228#0",
+        "postDate": "2026-08-17",
+        "purchaseDate": "2026-08-16",
+        "amountCents": -2935,
+        "description": "V2942 16/08 COLES 5753 MUDGEE 74363966228"
+      },
+      {
+        "fingerprint": "2026-08-17|-51|V2942 13/08 INTL TXN FEE-SC 24011346225#0",
+        "postDate": "2026-08-17",
+        "purchaseDate": "2026-08-13",
+        "amountCents": -51,
+        "description": "V2942 13/08 INTL TXN FEE-SC 24011346225"
+      },
+      {
+        "fingerprint": "2026-08-17|-669|V2942 15/08 Reddy Express 1635 Mudgee 74363966227#0",
+        "postDate": "2026-08-17",
+        "purchaseDate": "2026-08-15",
+        "amountCents": -669,
+        "description": "V2942 15/08 Reddy Express 1635 Mudgee 74363966227"
+      },
+      {
+        "fingerprint": "2026-08-17|-799|1052376566201 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "postDate": "2026-08-17",
+        "purchaseDate": "2026-08-17",
+        "amountCents": -799,
+        "description": "1052376566201 PAYPAL AUSTRALIA SHANE SCHLEGER"
+      },
+      {
+        "fingerprint": "2026-08-18|-126837|V2942 17/08 APPLE R238 SYDNEY SYDNEY 74564456229#0",
+        "postDate": "2026-08-18",
+        "purchaseDate": "2026-08-17",
+        "amountCents": -126837,
+        "description": "V2942 17/08 APPLE R238 SYDNEY SYDNEY 74564456229"
+      },
+      {
+        "fingerprint": "2026-08-18|-13059|V2942 17/08 Reddy Express 1635 Mudgee 74363966229#0",
+        "postDate": "2026-08-18",
+        "purchaseDate": "2026-08-17",
+        "amountCents": -13059,
+        "description": "V2942 17/08 Reddy Express 1635 Mudgee 74363966229"
+      },
+      {
+        "fingerprint": "2026-08-18|-1726|V2942 17/08 RW TRUST - CCCP MER ADVAMSYDNEY 00331312414#0",
+        "postDate": "2026-08-18",
+        "purchaseDate": "2026-08-17",
+        "amountCents": -1726,
+        "description": "V2942 17/08 RW TRUST - CCCP MER ADVAMSYDNEY 00331312414"
+      },
+      {
+        "fingerprint": "2026-08-18|-611|V2942 17/08 EzyMart 460 George St Sydney 74249236229#0",
+        "postDate": "2026-08-18",
+        "purchaseDate": "2026-08-17",
+        "amountCents": -611,
+        "description": "V2942 17/08 EzyMart 460 George St Sydney 74249236229"
+      },
+      {
+        "fingerprint": "2026-08-19|-1310|V2942 17/08 AMPOL NORTH RICHMOND NORTH RICH 74940526229#0",
+        "postDate": "2026-08-19",
+        "purchaseDate": "2026-08-17",
+        "amountCents": -1310,
+        "description": "V2942 17/08 AMPOL NORTH RICHMOND NORTH RICH 74940526229"
+      },
+      {
+        "fingerprint": "2026-08-19|-14499|PL LOAN REPAYMENT TO A/C 311639012 SCHLEGER SHANE#0",
+        "postDate": "2026-08-19",
+        "purchaseDate": "2026-08-19",
+        "amountCents": -14499,
+        "description": "PL LOAN REPAYMENT TO A/C 311639012 SCHLEGER SHANE"
+      },
+      {
+        "fingerprint": "2026-08-19|-1750|V2942 17/08 HJs Burwood NSW Burwood 74773886229#0",
+        "postDate": "2026-08-19",
+        "purchaseDate": "2026-08-17",
+        "amountCents": -1750,
+        "description": "V2942 17/08 HJs Burwood NSW Burwood 74773886229"
+      },
+      {
+        "fingerprint": "2026-08-19|-2007|V2942 17/08 LINKT BRISBANE BRISBANE 74940526229#0",
+        "postDate": "2026-08-19",
+        "purchaseDate": "2026-08-17",
+        "amountCents": -2007,
+        "description": "V2942 17/08 LINKT BRISBANE BRISBANE 74940526229"
+      },
+      {
+        "fingerprint": "2026-08-19|-2500|V2942 17/08 BP CAPERTEE 9854 CAPERTEE 00097998270#0",
+        "postDate": "2026-08-19",
+        "purchaseDate": "2026-08-17",
+        "amountCents": -2500,
+        "description": "V2942 17/08 BP CAPERTEE 9854 CAPERTEE 00097998270"
+      },
+      {
+        "fingerprint": "2026-08-19|-2680|V2942 18/08 LAMB AND CUMIN CHATSWOOD 74466026230#0",
+        "postDate": "2026-08-19",
+        "purchaseDate": "2026-08-18",
+        "amountCents": -2680,
+        "description": "V2942 18/08 LAMB AND CUMIN CHATSWOOD 74466026230"
+      },
+      {
+        "fingerprint": "2026-08-19|-2826|V2942 18/08 VERCEL INC. VERCEL.COM 24011346230#0",
+        "postDate": "2026-08-19",
+        "purchaseDate": "2026-08-18",
+        "amountCents": -2826,
+        "description": "V2942 18/08 VERCEL INC. VERCEL.COM 24011346230"
+      },
+      {
+        "fingerprint": "2026-08-19|-710|V2942 18/08 COLES 0861 BURWOOD 74363966230#0",
+        "postDate": "2026-08-19",
+        "purchaseDate": "2026-08-18",
+        "amountCents": -710,
+        "description": "V2942 18/08 COLES 0861 BURWOOD 74363966230"
+      },
+      {
+        "fingerprint": "2026-08-19|-749|V2942 18/08 Reddy Express 1691 Five Dock 74363966230#0",
+        "postDate": "2026-08-19",
+        "purchaseDate": "2026-08-18",
+        "amountCents": -749,
+        "description": "V2942 18/08 Reddy Express 1691 Five Dock 74363966230"
+      },
+      {
+        "fingerprint": "2026-08-20|-1290|V2942 19/08 RBG SYDNEY SYDNEY 74564726231#0",
+        "postDate": "2026-08-20",
+        "purchaseDate": "2026-08-19",
+        "amountCents": -1290,
+        "description": "V2942 19/08 RBG SYDNEY SYDNEY 74564726231"
+      },
+      {
+        "fingerprint": "2026-08-20|-1610|1052470319640 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "postDate": "2026-08-20",
+        "purchaseDate": "2026-08-20",
+        "amountCents": -1610,
+        "description": "1052470319640 PAYPAL AUSTRALIA SHANE SCHLEGER"
+      },
+      {
+        "fingerprint": "2026-08-20|-24900|V2942 18/08 JB BURWOOD BURWOOD 74564456231#0",
+        "postDate": "2026-08-20",
+        "purchaseDate": "2026-08-18",
+        "amountCents": -24900,
+        "description": "V2942 18/08 JB BURWOOD BURWOOD 74564456231"
+      },
+      {
+        "fingerprint": "2026-08-20|-37500|V2942 18/08 I-MED NETWORK LTD - CHATSWOOD 74940526230#0",
+        "postDate": "2026-08-20",
+        "purchaseDate": "2026-08-18",
+        "amountCents": -37500,
+        "description": "V2942 18/08 I-MED NETWORK LTD - CHATSWOOD 74940526230"
+      },
+      {
+        "fingerprint": "2026-08-20|-5547|EFTPOS 20/08 05:04GENEA\\#0",
+        "postDate": "2026-08-20",
+        "purchaseDate": "2026-08-20",
+        "amountCents": -5547,
+        "description": "EFTPOS 20/08 05:04GENEA\\"
+      },
+      {
+        "fingerprint": "2026-08-20|-749|V2942 19/08 REDDY EXPRESS FIVE DOCK FIVE DOCK 74363966231#0",
+        "postDate": "2026-08-20",
+        "purchaseDate": "2026-08-19",
+        "amountCents": -749,
+        "description": "V2942 19/08 REDDY EXPRESS FIVE DOCK FIVE DOCK 74363966231"
+      },
+      {
+        "fingerprint": "2026-08-20|-99|V2942 18/08 INTL TXN FEE-MC 24011346230#0",
+        "postDate": "2026-08-20",
+        "purchaseDate": "2026-08-18",
+        "amountCents": -99,
+        "description": "V2942 18/08 INTL TXN FEE-MC 24011346230"
+      },
+      {
+        "fingerprint": "2026-08-20|151737|ONLINE M4562697706 Linked Acc Trns SCHLEGER JA#0",
+        "postDate": "2026-08-20",
+        "purchaseDate": "2026-08-20",
+        "amountCents": 151737,
+        "description": "ONLINE M4562697706 Linked Acc Trns SCHLEGER JA"
+      },
+      {
+        "fingerprint": "2026-08-20|257344|06799 MASTERMYNE GROUP Shane Schleger#0",
+        "postDate": "2026-08-20",
+        "purchaseDate": "2026-08-20",
+        "amountCents": 257344,
+        "description": "06799 MASTERMYNE GROUP Shane Schleger"
+      },
+      {
+        "fingerprint": "2026-08-20|44468|ONLINE G2682839506 Linked Acc Trns SCHLEGER JA#0",
+        "postDate": "2026-08-20",
+        "purchaseDate": "2026-08-20",
+        "amountCents": 44468,
+        "description": "ONLINE G2682839506 Linked Acc Trns SCHLEGER JA"
+      },
+      {
+        "fingerprint": "2026-08-21|-14999|V2942 20/08 PNG PROSPECT PROSPECT 00371255144#0",
+        "postDate": "2026-08-21",
+        "purchaseDate": "2026-08-20",
+        "amountCents": -14999,
+        "description": "V2942 20/08 PNG PROSPECT PROSPECT 00371255144"
+      },
+      {
+        "fingerprint": "2026-08-21|-1625|V2942 19/08 MCDONALDS STANMORE STANMORE 74564726232#0",
+        "postDate": "2026-08-21",
+        "purchaseDate": "2026-08-19",
+        "amountCents": -1625,
+        "description": "V2942 19/08 MCDONALDS STANMORE STANMORE 74564726232"
+      },
+      {
+        "fingerprint": "2026-08-21|-3000|V2942 20/08 TARGET 5171 BURWOOD 74363966232#0",
+        "postDate": "2026-08-21",
+        "purchaseDate": "2026-08-20",
+        "amountCents": -3000,
+        "description": "V2942 20/08 TARGET 5171 BURWOOD 74363966232"
+      },
+      {
+        "fingerprint": "2026-08-21|-3468|V2942 20/08 AQUARIUS CARWASH MUDGEE MUDGEE 74229856232#0",
+        "postDate": "2026-08-21",
+        "purchaseDate": "2026-08-20",
+        "amountCents": -3468,
+        "description": "V2942 20/08 AQUARIUS CARWASH MUDGEE MUDGEE 74229856232"
+      },
+      {
+        "fingerprint": "2026-08-21|-70000|INTERNET TRANSFER Rent and Bills#0",
+        "postDate": "2026-08-21",
+        "purchaseDate": "2026-08-21",
+        "amountCents": -70000,
+        "description": "INTERNET TRANSFER Rent and Bills"
+      },
+      {
+        "fingerprint": "2026-08-21|-9738|V2942 20/08 7 ELEVEN 2201 BURWOOD 02845998143#0",
+        "postDate": "2026-08-21",
+        "purchaseDate": "2026-08-20",
+        "amountCents": -9738,
+        "description": "V2942 20/08 7 ELEVEN 2201 BURWOOD 02845998143"
+      },
+      {
+        "fingerprint": "2026-08-24|-1018|V2942 21/08 Reddy Express 1635 Mudgee 74363966233#0",
+        "postDate": "2026-08-24",
+        "purchaseDate": "2026-08-21",
+        "amountCents": -1018,
+        "description": "V2942 21/08 Reddy Express 1635 Mudgee 74363966233"
+      },
+      {
+        "fingerprint": "2026-08-24|-1895|V2942 20/08 CRAVEABLE BRANDS STORE LITHGOW 74940526232#0",
+        "postDate": "2026-08-24",
+        "purchaseDate": "2026-08-20",
+        "amountCents": -1895,
+        "description": "V2942 20/08 CRAVEABLE BRANDS STORE LITHGOW 74940526232"
+      },
+      {
+        "fingerprint": "2026-08-24|-2007|V2942 20/08 LINKT BRISBANE BRISBANE 74940526232#0",
+        "postDate": "2026-08-24",
+        "purchaseDate": "2026-08-20",
+        "amountCents": -2007,
+        "description": "V2942 20/08 LINKT BRISBANE BRISBANE 74940526232"
+      },
+      {
+        "fingerprint": "2026-08-24|-2095|V2942 22/08 BROADVIEW AUST PTY LTD MUDGEE 74940526234#0",
+        "postDate": "2026-08-24",
+        "purchaseDate": "2026-08-22",
+        "amountCents": -2095,
+        "description": "V2942 22/08 BROADVIEW AUST PTY LTD MUDGEE 74940526234"
+      },
+      {
+        "fingerprint": "2026-08-24|-2700|V2942 23/08 LIQUORLAND 3631 MUDGEE 74363966235#0",
+        "postDate": "2026-08-24",
+        "purchaseDate": "2026-08-23",
+        "amountCents": -2700,
+        "description": "V2942 23/08 LIQUORLAND 3631 MUDGEE 74363966235"
+      },
+      {
+        "fingerprint": "2026-08-25|-1045|V2942 24/08 7-ELEVEN 2194 BLAXLAND 74564456236#0",
+        "postDate": "2026-08-25",
+        "purchaseDate": "2026-08-24",
+        "amountCents": -1045,
+        "description": "V2942 24/08 7-ELEVEN 2194 BLAXLAND 74564456236"
+      },
+      {
+        "fingerprint": "2026-08-25|-1595|V2942 24/08 7 ELEVEN 2118 CAMPERDOWN 03548784558#0",
+        "postDate": "2026-08-25",
+        "purchaseDate": "2026-08-24",
+        "amountCents": -1595,
+        "description": "V2942 24/08 7 ELEVEN 2118 CAMPERDOWN 03548784558"
+      },
+      {
+        "fingerprint": "2026-08-25|-758|V2942 23/08 AMPOL MUDGEE 22267F MUDGEE 74940526235#0",
+        "postDate": "2026-08-25",
+        "purchaseDate": "2026-08-23",
+        "amountCents": -758,
+        "description": "V2942 23/08 AMPOL MUDGEE 22267F MUDGEE 74940526235"
+      },
+      {
+        "fingerprint": "2026-08-26|-14499|PL LOAN REPAYMENT TO A/C 311639012 SCHLEGER SHANE#0",
+        "postDate": "2026-08-26",
+        "purchaseDate": "2026-08-26",
+        "amountCents": -14499,
+        "description": "PL LOAN REPAYMENT TO A/C 311639012 SCHLEGER SHANE"
+      },
+      {
+        "fingerprint": "2026-08-26|-17699|V2942 24/08 BP CAPERTEE 9854 CAPERTEE 02802537625#0",
+        "postDate": "2026-08-26",
+        "purchaseDate": "2026-08-24",
+        "amountCents": -17699,
+        "description": "V2942 24/08 BP CAPERTEE 9854 CAPERTEE 02802537625"
+      },
+      {
+        "fingerprint": "2026-08-26|-570|V2942 25/08 COLES 0861 BURWOOD 74363966237#0",
+        "postDate": "2026-08-26",
+        "purchaseDate": "2026-08-25",
+        "amountCents": -570,
+        "description": "V2942 25/08 COLES 0861 BURWOOD 74363966237"
+      },
+      {
+        "fingerprint": "2026-08-27|-2007|V2942 25/08 LINKT BRISBANE BRISBANE 74940526237#0",
+        "postDate": "2026-08-27",
+        "purchaseDate": "2026-08-25",
+        "amountCents": -2007,
+        "description": "V2942 25/08 LINKT BRISBANE BRISBANE 74940526237"
+      },
+      {
+        "fingerprint": "2026-08-27|-2531|V2942 24/08 NSWH SLHD RPA CP CAMPERDOWN 74940526237#0",
+        "postDate": "2026-08-27",
+        "purchaseDate": "2026-08-24",
+        "amountCents": -2531,
+        "description": "V2942 24/08 NSWH SLHD RPA CP CAMPERDOWN 74940526237"
+      },
+      {
+        "fingerprint": "2026-08-27|-30000|V2942 26/08 CCWEB SDRO PARRAMATTA 74564726238#0",
+        "postDate": "2026-08-27",
+        "purchaseDate": "2026-08-26",
+        "amountCents": -30000,
+        "description": "V2942 26/08 CCWEB SDRO PARRAMATTA 74564726238"
+      },
+      {
+        "fingerprint": "2026-08-27|-5000|ONLINE K2774048670 Linked Acc Trns SCHLEGER SP#0",
+        "postDate": "2026-08-27",
+        "purchaseDate": "2026-08-27",
+        "amountCents": -5000,
+        "description": "ONLINE K2774048670 Linked Acc Trns SCHLEGER SP"
+      },
+      {
+        "fingerprint": "2026-08-27|-749|V2942 26/08 REDDY EXPRESS FIVE DOCK FIVE DOCK 74363966238#0",
+        "postDate": "2026-08-27",
+        "purchaseDate": "2026-08-26",
+        "amountCents": -749,
+        "description": "V2942 26/08 REDDY EXPRESS FIVE DOCK FIVE DOCK 74363966238"
+      },
+      {
+        "fingerprint": "2026-08-27|-900|V2942 25/08 BURWOOD RAILWAY NEWS BURWOOD 74742726237#0",
+        "postDate": "2026-08-27",
+        "purchaseDate": "2026-08-25",
+        "amountCents": -900,
+        "description": "V2942 25/08 BURWOOD RAILWAY NEWS BURWOOD 74742726237"
+      },
+      {
+        "fingerprint": "2026-08-27|-950|V2942 26/08 A1 JUICE PTY LTD BONDI JUNC 04111087685#0",
+        "postDate": "2026-08-27",
+        "purchaseDate": "2026-08-26",
+        "amountCents": -950,
+        "description": "V2942 26/08 A1 JUICE PTY LTD BONDI JUNC 04111087685"
+      },
+      {
+        "fingerprint": "2026-08-27|257344|06799 MASTERMYNE GROUP Shane Schleger#0",
+        "postDate": "2026-08-27",
+        "purchaseDate": "2026-08-27",
+        "amountCents": 257344,
+        "description": "06799 MASTERMYNE GROUP Shane Schleger"
+      },
+      {
+        "fingerprint": "2026-08-28|-1130|V2942 26/08 AMPOL CONCORD 22362 CONCORD 74940526238#0",
+        "postDate": "2026-08-28",
+        "purchaseDate": "2026-08-26",
+        "amountCents": -1130,
+        "description": "V2942 26/08 AMPOL CONCORD 22362 CONCORD 74940526238"
+      },
+      {
+        "fingerprint": "2026-08-28|-449|EFTPOS 27/08 21:23Apple\\APPLE.COM/BILL5FMHT4a0#0",
+        "postDate": "2026-08-28",
+        "purchaseDate": "2026-08-27",
+        "amountCents": -449,
+        "description": "EFTPOS 27/08 21:23Apple\\APPLE.COM/BILL5FMHT4a0"
+      },
+      {
+        "fingerprint": "2026-08-28|-70000|INTERNET TRANSFER Rent and Bills#0",
+        "postDate": "2026-08-28",
+        "purchaseDate": "2026-08-28",
+        "amountCents": -70000,
+        "description": "INTERNET TRANSFER Rent and Bills"
+      },
+      {
+        "fingerprint": "2026-08-28|-745|V2942 27/08 7-ELEVEN 2152 BURWOOD 74564456239#0",
+        "postDate": "2026-08-28",
+        "purchaseDate": "2026-08-27",
+        "amountCents": -745,
+        "description": "V2942 27/08 7-ELEVEN 2152 BURWOOD 74564456239"
+      },
+      {
+        "fingerprint": "2026-08-31|-10590|V2942 27/08 AMPOL EASTERN C 28577F EASTERN CR 74940526239#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-27",
+        "amountCents": -10590,
+        "description": "V2942 27/08 AMPOL EASTERN C 28577F EASTERN CR 74940526239"
+      },
+      {
+        "fingerprint": "2026-08-31|-1260|V2942 27/08 NSWH SLHD RPA CP CAMPERDOWN 74940526239#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-27",
+        "amountCents": -1260,
+        "description": "V2942 27/08 NSWH SLHD RPA CP CAMPERDOWN 74940526239"
+      },
+      {
+        "fingerprint": "2026-08-31|-1745|V2942 28/08 BROADVIEW AUST PTY LTD MUDGEE 74940526240#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-28",
+        "amountCents": -1745,
+        "description": "V2942 28/08 BROADVIEW AUST PTY LTD MUDGEE 74940526240"
+      },
+      {
+        "fingerprint": "2026-08-31|-1894|V2942 28/08 Reddy Express 1635 Mudgee 74363966240#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-28",
+        "amountCents": -1894,
+        "description": "V2942 28/08 Reddy Express 1635 Mudgee 74363966240"
+      },
+      {
+        "fingerprint": "2026-08-31|-1900|V2942 28/08 KMART 3330 MUDGEE 74363966240#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-28",
+        "amountCents": -1900,
+        "description": "V2942 28/08 KMART 3330 MUDGEE 74363966240"
+      },
+      {
+        "fingerprint": "2026-08-31|-2007|V2942 27/08 LINKT BRISBANE BRISBANE 74940526239#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-27",
+        "amountCents": -2007,
+        "description": "V2942 27/08 LINKT BRISBANE BRISBANE 74940526239"
+      },
+      {
+        "fingerprint": "2026-08-31|-20985|V2942 26/08 HYDROEXPERT 0280417959 74245376239#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-26",
+        "amountCents": -20985,
+        "description": "V2942 26/08 HYDROEXPERT 0280417959 74245376239"
+      },
+      {
+        "fingerprint": "2026-08-31|-2635|V2942 27/08 HJs Lithgow Lithgow 74773886239#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-27",
+        "amountCents": -2635,
+        "description": "V2942 27/08 HJs Lithgow Lithgow 74773886239"
+      },
+      {
+        "fingerprint": "2026-08-31|-2700|V2942 30/08 LIQUORLAND 3631 MUDGEE 74363966242#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-30",
+        "amountCents": -2700,
+        "description": "V2942 30/08 LIQUORLAND 3631 MUDGEE 74363966242"
+      },
+      {
+        "fingerprint": "2026-08-31|-3911|V2942 29/08 1635-REDDY EXPRESS MUDG MUDGEE 74363966241#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-29",
+        "amountCents": -3911,
+        "description": "V2942 29/08 1635-REDDY EXPRESS MUDG MUDGEE 74363966241"
+      },
+      {
+        "fingerprint": "2026-08-31|-475|V2942 30/08 1635-REDDY EXPRESS MUDG MUDGEE 74363966242#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-30",
+        "amountCents": -475,
+        "description": "V2942 30/08 1635-REDDY EXPRESS MUDG MUDGEE 74363966242"
+      },
+      {
+        "fingerprint": "2026-08-31|-49500|V2942 27/08 DAVID NEVILLE WILSON NEWTOWN 74940526239#0",
+        "postDate": "2026-08-31",
+        "purchaseDate": "2026-08-27",
+        "amountCents": -49500,
+        "description": "V2942 27/08 DAVID NEVILLE WILSON NEWTOWN 74940526239"
+      },
+      {
+        "fingerprint": "2026-09-01|-1050|V2942 30/08 AMPOL MUDGEE 22267F MUDGEE 74940526242#0",
+        "postDate": "2026-09-01",
+        "purchaseDate": "2026-08-30",
+        "amountCents": -1050,
+        "description": "V2942 30/08 AMPOL MUDGEE 22267F MUDGEE 74940526242"
+      },
+      {
+        "fingerprint": "2026-09-01|-2000|V2942 01/09 SLAR GROUP PTY LTD BURWOOD#0",
+        "postDate": "2026-09-01",
+        "purchaseDate": "2026-09-01",
+        "amountCents": -2000,
+        "description": "V2942 01/09 SLAR GROUP PTY LTD BURWOOD"
+      },
+      {
+        "fingerprint": "2026-09-01|-2842|V2942 31/08 Kazzi Beach Greek Mosman 74249236243#0",
+        "postDate": "2026-09-01",
+        "purchaseDate": "2026-08-31",
+        "amountCents": -2842,
+        "description": "V2942 31/08 Kazzi Beach Greek Mosman 74249236243"
+      },
+      {
+        "fingerprint": "2026-09-01|-610|V2942 31/08 7 ELEVEN 2201 BURWOOD 02445675980#0",
+        "postDate": "2026-09-01",
+        "purchaseDate": "2026-08-31",
+        "amountCents": -610,
+        "description": "V2942 31/08 7 ELEVEN 2201 BURWOOD 02445675980"
+      },
+      {
+        "fingerprint": "2026-09-02|-13497|EFTPOS 02/09 14:00PMHydro Glenwood#0",
+        "postDate": "2026-09-02",
+        "purchaseDate": "2026-09-02",
+        "amountCents": -13497,
+        "description": "EFTPOS 02/09 14:00PMHydro Glenwood"
+      },
+      {
+        "fingerprint": "2026-09-02|-14499|PL LOAN REPAYMENT TO A/C 311639012 SCHLEGER SHANE#0",
+        "postDate": "2026-09-02",
+        "purchaseDate": "2026-09-02",
+        "amountCents": -14499,
+        "description": "PL LOAN REPAYMENT TO A/C 311639012 SCHLEGER SHANE"
+      },
+      {
+        "fingerprint": "2026-09-02|-14676|V2942 31/08 CALTEX MUDGEE 74940526243#0",
+        "postDate": "2026-09-02",
+        "purchaseDate": "2026-08-31",
+        "amountCents": -14676,
+        "description": "V2942 31/08 CALTEX MUDGEE 74940526243"
+      },
+      {
+        "fingerprint": "2026-09-02|-2007|V2942 31/08 LINKT BRISBANE BRISBANE 74940526243#0",
+        "postDate": "2026-09-02",
+        "purchaseDate": "2026-08-31",
+        "amountCents": -2007,
+        "description": "V2942 31/08 LINKT BRISBANE BRISBANE 74940526243"
+      },
+      {
+        "fingerprint": "2026-09-02|-2813|V2942 31/08 BP CAPERTEE 9854 CAPERTEE 03825731559#0",
+        "postDate": "2026-09-02",
+        "purchaseDate": "2026-08-31",
+        "amountCents": -2813,
+        "description": "V2942 31/08 BP CAPERTEE 9854 CAPERTEE 03825731559"
+      },
+      {
+        "fingerprint": "2026-09-02|-375|V2942 01/09 COLES 0861 BURWOOD 74363966244#0",
+        "postDate": "2026-09-02",
+        "purchaseDate": "2026-09-01",
+        "amountCents": -375,
+        "description": "V2942 01/09 COLES 0861 BURWOOD 74363966244"
+      },
+      {
+        "fingerprint": "2026-09-02|-550|POS 02/09 MCDONALDS STANMORE STANMORE#0",
+        "postDate": "2026-09-02",
+        "purchaseDate": "2026-09-02",
+        "amountCents": -550,
+        "description": "POS 02/09 MCDONALDS STANMORE STANMORE"
+      },
+      {
+        "fingerprint": "2026-09-02|-599|POS 02/09 1691-REDDY EXPRESS FIVE FIVE DOCK#0",
+        "postDate": "2026-09-02",
+        "purchaseDate": "2026-09-02",
+        "amountCents": -599,
+        "description": "POS 02/09 1691-REDDY EXPRESS FIVE FIVE DOCK"
+      },
+      {
+        "fingerprint": "2026-09-02|-760|POS 02/09 COLES 0861 BURWOOD#0",
+        "postDate": "2026-09-02",
+        "purchaseDate": "2026-09-02",
+        "amountCents": -760,
+        "description": "POS 02/09 COLES 0861 BURWOOD"
+      },
+      {
+        "fingerprint": "2026-09-03|-1395|POS 03/09 CRAVEABLE BRANDS STORE LITHGOW#0",
+        "postDate": "2026-09-03",
+        "purchaseDate": "2026-09-03",
+        "amountCents": -1395,
+        "description": "POS 03/09 CRAVEABLE BRANDS STORE LITHGOW"
+      },
+      {
+        "fingerprint": "2026-09-03|-371|POS 02/09 VERCEL MKT NEON +19513836898#0",
+        "postDate": "2026-09-03",
+        "purchaseDate": "2026-09-02",
+        "amountCents": -371,
+        "description": "POS 02/09 VERCEL MKT NEON +19513836898"
+      },
+      {
+        "fingerprint": "2026-09-03|-9562|POS 03/09 7 ELEVEN 2201 BURWOOD#0",
+        "postDate": "2026-09-03",
+        "purchaseDate": "2026-09-03",
+        "amountCents": -9562,
+        "description": "POS 03/09 7 ELEVEN 2201 BURWOOD"
+      },
+      {
+        "fingerprint": "2026-09-03|257344|06799 Shane Schleger MASTERMYNE GROUP#0",
+        "postDate": "2026-09-03",
+        "purchaseDate": "2026-09-03",
+        "amountCents": 257344,
+        "description": "06799 Shane Schleger MASTERMYNE GROUP"
+      }
+    ],
+    "unresolvedFingerprints": [
+      "2026-08-27|-2007|V2942 25/08 LINKT BRISBANE BRISBANE 74940526237#0",
+      "2026-08-27|-5000|ONLINE K2774048670 Linked Acc Trns SCHLEGER SP#0",
+      "2026-08-27|-900|V2942 25/08 BURWOOD RAILWAY NEWS BURWOOD 74742726237#0"
+    ],
+    "targetPreconditions": [
+      {
+        "transactionId": 101,
+        "bankRef": "2026-07-08|4505|365169048 AYWQ MCARE BENEFITS SHANE SCHLEGAER#0",
+        "date": "2026-07-08",
+        "amountCents": 4505
+      },
+      {
+        "transactionId": 102,
+        "bankRef": "2026-07-15|-15|V2942 12/07 INTL TXN FEE-MC 74629216195#0",
+        "date": "2026-07-15",
+        "amountCents": 15
+      },
+      {
+        "transactionId": 103,
+        "bankRef": "2026-07-16|323|V2942 15/07 ALP*Programming Shanghai 74938086197#0",
+        "date": "2026-07-16",
+        "amountCents": -323
+      },
+      {
+        "transactionId": 104,
+        "bankRef": "2026-07-17|-1499|1051731463051 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "date": "2026-07-17",
+        "amountCents": 1499
+      },
+      {
+        "transactionId": 105,
+        "bankRef": "2026-07-17|11|V2942 15/07 INTL TXN FEE REV-MC 74938086197#0",
+        "date": "2026-07-17",
+        "amountCents": -11
+      },
+      {
+        "transactionId": 106,
+        "bankRef": "2026-07-17|229|V2942 16/07 ALP*Programming Shanghai 74938086198#0",
+        "date": "2026-07-17",
+        "amountCents": -229
+      },
+      {
+        "transactionId": 107,
+        "bankRef": "2026-07-20|-8|V2942 16/07 INTL TXN FEE-MC 74938086198#0",
+        "date": "2026-07-17",
+        "amountCents": 8
+      },
+      {
+        "transactionId": 108,
+        "bankRef": "2026-07-17|-11|V2942 15/07 INTL TXN FEE-MC 74938086197#0",
+        "date": "2026-07-17",
+        "amountCents": 11
+      },
+      {
+        "transactionId": 109,
+        "bankRef": "2026-07-17|-12|V2942 15/07 INTL TXN FEE-MC 74938086197#0",
+        "date": "2026-07-17",
+        "amountCents": 12
+      },
+      {
+        "transactionId": 110,
+        "bankRef": "2026-07-20|8|V2942 16/07 INTL TXN FEE REV-MC 74938086198#0",
+        "date": "2026-07-20",
+        "amountCents": -8
+      },
+      {
+        "transactionId": 111,
+        "bankRef": "2026-07-20|247|V2942 19/07 ALP*Programming Shanghai 74938086201#0",
+        "date": "2026-07-20",
+        "amountCents": -247
+      },
+      {
+        "transactionId": 112,
+        "bankRef": "2026-07-20|-207|V2942 16/07 Alipay*Programming Shanghai 74629216199#0",
+        "date": "2026-07-20",
+        "amountCents": 207
+      },
+      {
+        "transactionId": 113,
+        "bankRef": "2026-07-17|-8|V2942 15/07 INTL TXN FEE-MC 74938086197#0",
+        "date": "2026-07-20",
+        "amountCents": 8
+      },
+      {
+        "transactionId": 114,
+        "bankRef": "2026-07-20|-749|V2942 17/07 Reddy Express 1635 Mudgee 74363966198#0",
+        "date": "2026-07-20",
+        "amountCents": 749
+      },
+      {
+        "transactionId": 115,
+        "bankRef": "2026-07-21|-19400|EFTPOS 21/07 02:02AMCAL EXPRESS CHEM\\#0",
+        "date": "2026-07-21",
+        "amountCents": 19400
+      },
+      {
+        "transactionId": 116,
+        "bankRef": "2026-07-21|9|V2942 19/07 INTL TXN FEE REV-MC 74938086201#0",
+        "date": "2026-07-21",
+        "amountCents": -9
+      },
+      {
+        "transactionId": 117,
+        "bankRef": "2026-07-24|-7|V2942 22/07 INTL TXN FEE-MC 74938086204#0",
+        "date": "2026-07-21",
+        "amountCents": 7
+      },
+      {
+        "transactionId": 118,
+        "bankRef": "2026-07-21|-165|V2942 17/07 INTL TXN FEE-MC 74008606198#0",
+        "date": "2026-07-21",
+        "amountCents": 165
+      },
+      {
+        "transactionId": 119,
+        "bankRef": "2026-07-21|-9|V2942 19/07 INTL TXN FEE-MC 74938086201#0",
+        "date": "2026-07-21",
+        "amountCents": 9
+      },
+      {
+        "transactionId": 12,
+        "bankRef": "2026-07-03|-7872|V2942 02/07 7-ELEVEN 2201 BURWOOD 74564456183#0",
+        "date": "2026-07-02",
+        "amountCents": 7872
+      },
+      {
+        "transactionId": 120,
+        "bankRef": "2026-07-21|-1148|V2942 20/07 Reddy Express 1691 Five Dock 74363966201#0",
+        "date": "2026-07-21",
+        "amountCents": 1148
+      },
+      {
+        "transactionId": 121,
+        "bankRef": "2026-07-21|-1522|V2942 20/07 RW TRUST - CCCP MER ADVAMSYDNEY 01230485927#0",
+        "date": "2026-07-21",
+        "amountCents": 1522
+      },
+      {
+        "transactionId": 122,
+        "bankRef": "2026-07-21|-782|V2942 20/07 SAL'S YORK ST PTY LTD SYDNEY 74466026201#0",
+        "date": "2026-07-21",
+        "amountCents": 782
+      },
+      {
+        "transactionId": 123,
+        "bankRef": "2026-07-21|-46817|V2942 20/07 VIRGIN AU WWW.VIRGIN 74316016201#0",
+        "date": "2026-07-21",
+        "amountCents": 46817
+      },
+      {
+        "transactionId": 124,
+        "bankRef": "2026-07-22|-2188|1051820628509 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "date": "2026-07-22",
+        "amountCents": 2188
+      },
+      {
+        "transactionId": 125,
+        "bankRef": "2026-07-22|345|V2942 21/07 ALP*Programming Shanghai 74938086203#0",
+        "date": "2026-07-22",
+        "amountCents": -345
+      },
+      {
+        "transactionId": 126,
+        "bankRef": "2026-07-22|-3179|V2942 20/07 SICHUAN PTY LTD BURWOOD 74564456202#0",
+        "date": "2026-07-22",
+        "amountCents": 3179
+      },
+      {
+        "transactionId": 127,
+        "bankRef": "2026-07-22|-291|V2942 21/07 ALP*Programming Shanghai 74938086203#0",
+        "date": "2026-07-22",
+        "amountCents": 291
+      },
+      {
+        "transactionId": 128,
+        "bankRef": "2026-07-22|-348|V2942 21/07 ALP*Programming Shanghai 74938086203#0",
+        "date": "2026-07-22",
+        "amountCents": 348
+      },
+      {
+        "transactionId": 129,
+        "bankRef": "2026-07-22|-560|V2942 21/07 COLES 0706 RHODES 74363966202#0",
+        "date": "2026-07-22",
+        "amountCents": 560
+      },
+      {
+        "transactionId": 13,
+        "bankRef": "2026-07-03|-749|V2942 02/07 ELITE TRADING AUSTR LIDSDALE 74564726183#0",
+        "date": "2026-07-02",
+        "amountCents": 749
+      },
+      {
+        "transactionId": 130,
+        "bankRef": "2026-07-22|-560|V2942 21/07 COLES 0861 BURWOOD 74363966202#0",
+        "date": "2026-07-22",
+        "amountCents": 560
+      },
+      {
+        "transactionId": 131,
+        "bankRef": "2026-07-22|-4000|V2942 21/07 SQ *MOE & CO RHODES Rhodes 74064146202#0",
+        "date": "2026-07-22",
+        "amountCents": 4000
+      },
+      {
+        "transactionId": 133,
+        "bankRef": "2026-07-24|-49290|V2942 22/07 PRIMAL ZONE PL SYDNEY 74940526203#0",
+        "date": "2026-07-22",
+        "amountCents": 49290
+      },
+      {
+        "transactionId": 134,
+        "bankRef": "2026-07-24|-1295|V2942 22/07 MCDONALDS MUDGEE MUDGEE 74564726204#0",
+        "date": "2026-07-22",
+        "amountCents": 1295
+      },
+      {
+        "transactionId": 135,
+        "bankRef": "2026-07-23|290242|06799 MASTERMYNE GROUP Shane Schleger#0",
+        "date": "2026-07-23",
+        "amountCents": 290242
+      },
+      {
+        "transactionId": 136,
+        "bankRef": "2026-07-23|12|V2942 21/07 INTL TXN FEE REV-MC 74938086203#0",
+        "date": "2026-07-23",
+        "amountCents": -12
+      },
+      {
+        "transactionId": 137,
+        "bankRef": "2026-07-23|406|V2942 22/07 ALP*Programming Shanghai 74938086204#0",
+        "date": "2026-07-23",
+        "amountCents": -406
+      },
+      {
+        "transactionId": 138,
+        "bankRef": "2026-07-27|-10|V2942 23/07 INTL TXN FEE-MC 74938086205#0",
+        "date": "2026-07-23",
+        "amountCents": 10
+      },
+      {
+        "transactionId": 139,
+        "bankRef": "2026-07-28|-12|V2942 25/07 INTL TXN FEE-MC 74629216208#0",
+        "date": "2026-07-23",
+        "amountCents": 12
+      },
+      {
+        "transactionId": 14,
+        "bankRef": "2026-07-06|-2225|V2942 02/07 MCDONALDS MUDGEE MUDGEE 74564726184#0",
+        "date": "2026-07-02",
+        "amountCents": 2225
+      },
+      {
+        "transactionId": 140,
+        "bankRef": "2026-07-23|-2007|V2942 21/07 LINKT BRISBANE BRISBANE 74940526202#0",
+        "date": "2026-07-23",
+        "amountCents": 2007
+      },
+      {
+        "transactionId": 141,
+        "bankRef": "2026-07-23|-2071|V2942 21/07 SAHARA BY THE PARK - INSTBURWOOD 74076436202#0",
+        "date": "2026-07-23",
+        "amountCents": 2071
+      },
+      {
+        "transactionId": 142,
+        "bankRef": "2026-07-23|-1131|V2942 21/07 SMP*Hero Sushi Burwood Burwood 74126916202#0",
+        "date": "2026-07-23",
+        "amountCents": 1131
+      },
+      {
+        "transactionId": 143,
+        "bankRef": "2026-07-23|-1460|V2942 21/07 SQ *CAFE SIENNA Burwood 74064146202#0",
+        "date": "2026-07-23",
+        "amountCents": 1460
+      },
+      {
+        "transactionId": 144,
+        "bankRef": "2026-07-23|-211|V2942 22/07 ALP*Programming Shanghai 74938086204#0",
+        "date": "2026-07-23",
+        "amountCents": 211
+      },
+      {
+        "transactionId": 145,
+        "bankRef": "2026-07-23|-307|V2942 22/07 ALP*Programming Shanghai 74938086204#0",
+        "date": "2026-07-23",
+        "amountCents": 307
+      },
+      {
+        "transactionId": 146,
+        "bankRef": "2026-07-23|-408|V2942 22/07 ALP*Programming Shanghai 74938086204#0",
+        "date": "2026-07-23",
+        "amountCents": 408
+      },
+      {
+        "transactionId": 147,
+        "bankRef": "2026-07-23|-749|V2942 22/07 Reddy Express 1691 Five Dock 74363966203#0",
+        "date": "2026-07-23",
+        "amountCents": 749
+      },
+      {
+        "transactionId": 148,
+        "bankRef": "2026-07-23|-61000|V2942 22/07 SUTTONS MOTORS ARNCL ARNCLIFFE 74564726203#0",
+        "date": "2026-07-23",
+        "amountCents": 61000
+      },
+      {
+        "transactionId": 149,
+        "bankRef": "2026-07-23|-1222|V2942 22/07 Twopeck and C FishChip Sydney 74773886203#0",
+        "date": "2026-07-23",
+        "amountCents": 1222
+      },
+      {
+        "transactionId": 15,
+        "bankRef": "2026-07-03|-400|V2942 02/07 Reddy Express 1635 Mudgee 74363966183#0",
+        "date": "2026-07-02",
+        "amountCents": 400
+      },
+      {
+        "transactionId": 150,
+        "bankRef": "2026-07-23|-1112|V2942 22/07 Yo-Chi Burwood Burwood 74249236203#0",
+        "date": "2026-07-23",
+        "amountCents": 1112
+      },
+      {
+        "transactionId": 151,
+        "bankRef": "2026-07-23|-10525|V2942 22/07 7-ELEVEN 2201 BURWOOD 74564456203#0",
+        "date": "2026-07-23",
+        "amountCents": 10525
+      },
+      {
+        "transactionId": 152,
+        "bankRef": "2026-07-24|-275|V2942 23/07 ALP*Programming Shanghai 74938086205#0",
+        "date": "2026-07-23",
+        "amountCents": 275
+      },
+      {
+        "transactionId": 153,
+        "bankRef": "2026-07-24|-2543|V2942 23/07 Reddy Express 1635 Mudgee 74363966204#0",
+        "date": "2026-07-23",
+        "amountCents": 2543
+      },
+      {
+        "transactionId": 154,
+        "bankRef": "2026-07-27|-13000|V2942 23/07 ZIPMONEY* P900641606 ZIP.CO 74201336204#0",
+        "date": "2026-07-24",
+        "amountCents": 13000
+      },
+      {
+        "transactionId": 155,
+        "bankRef": "2026-07-27|-1745|V2942 24/07 BROADVIEW AUST PTY LTD MUDGEE 74940526205#0",
+        "date": "2026-07-24",
+        "amountCents": 1745
+      },
+      {
+        "transactionId": 156,
+        "bankRef": "2026-07-24|-70000|SHANE SCHLEGER J5644008255 Rent and Bills#0",
+        "date": "2026-07-24",
+        "amountCents": 70000
+      },
+      {
+        "transactionId": 158,
+        "bankRef": "2026-07-27|-749|V2942 24/07 Reddy Express 1635 Mudgee 74363966205#0",
+        "date": "2026-07-24",
+        "amountCents": 749
+      },
+      {
+        "transactionId": 159,
+        "bankRef": "2026-07-21|-7|V2942 16/07 INTL TXN FEE-MC 74629216199#0",
+        "date": "2026-07-16",
+        "amountCents": 7
+      },
+      {
+        "transactionId": 16,
+        "bankRef": "2026-07-06|-1500|V2942 03/07 Reddy Express 1635 Mudgee 74363966184#0",
+        "date": "2026-07-03",
+        "amountCents": 1500
+      },
+      {
+        "transactionId": 160,
+        "bankRef": "2026-07-23|-10|V2942 21/07 INTL TXN FEE-MC 74938086203#0",
+        "date": "2026-07-21",
+        "amountCents": 10
+      },
+      {
+        "transactionId": 161,
+        "bankRef": "2026-07-24|-14|V2942 22/07 INTL TXN FEE-MC 74938086204#0",
+        "date": "2026-07-22",
+        "amountCents": 14
+      },
+      {
+        "transactionId": 162,
+        "bankRef": "2026-07-24|14|V2942 22/07 INTL TXN FEE REV-MC 74938086204#0",
+        "date": "2026-07-22",
+        "amountCents": -14
+      },
+      {
+        "transactionId": 163,
+        "bankRef": "2026-07-27|-1076|V2942 23/07 TFNSW OPAL FARE SYDNEY 74940526204#0",
+        "date": "2026-07-23",
+        "amountCents": 1076
+      },
+      {
+        "transactionId": 164,
+        "bankRef": "2026-07-27|4|V2942 23/07 INTL TXN FEE REV-MC 74938086205#0",
+        "date": "2026-07-23",
+        "amountCents": -4
+      },
+      {
+        "transactionId": 165,
+        "bankRef": "2026-07-24|127|V2942 23/07 ALP*Programming Shanghai 74938086205#0",
+        "date": "2026-07-23",
+        "amountCents": -127
+      },
+      {
+        "transactionId": 166,
+        "bankRef": "2026-07-27|-1248|V2942 25/07 Reddy Express 1635 Mudgee 74363966206#0",
+        "date": "2026-07-25",
+        "amountCents": 1248
+      },
+      {
+        "transactionId": 167,
+        "bankRef": "2026-07-27|-459|V2942 25/07 Reddy Express 1635 Mudgee 74363966206#0",
+        "date": "2026-07-25",
+        "amountCents": 459
+      },
+      {
+        "transactionId": 168,
+        "bankRef": "2026-07-27|-338|V2942 25/07 Alipay*Programming Shanghai 74629216208#0",
+        "date": "2026-07-25",
+        "amountCents": 338
+      },
+      {
+        "transactionId": 169,
+        "bankRef": "2026-07-29|-2370|V2942 26/07 AMPOL EASTERN C 28576F EASTERN CR 74940526208#0",
+        "date": "2026-07-26",
+        "amountCents": 2370
+      },
+      {
+        "transactionId": 170,
+        "bankRef": "2026-07-29|-858|V2942 26/07 AMPOL CONCORD 22362 CONCORD 74940526208#0",
+        "date": "2026-07-26",
+        "amountCents": 858
+      },
+      {
+        "transactionId": 171,
+        "bankRef": "2026-07-28|-1530|V2942 26/07 MCDONALDS MUDGEE MUDGEE 74564726208#0",
+        "date": "2026-07-26",
+        "amountCents": 1530
+      },
+      {
+        "transactionId": 172,
+        "bankRef": "2026-07-28|-11|V2942 26/07 INTL TXN FEE-MC 74938086208#0",
+        "date": "2026-07-26",
+        "amountCents": 11
+      },
+      {
+        "transactionId": 173,
+        "bankRef": "2026-07-28|-9|V2942 26/07 INTL TXN FEE-MC 74938086208#0",
+        "date": "2026-07-26",
+        "amountCents": 9
+      },
+      {
+        "transactionId": 174,
+        "bankRef": "2026-07-28|-1295|V2942 26/07 BROADVIEW AUST PTY LTD MUDGEE 74940526207#0",
+        "date": "2026-07-26",
+        "amountCents": 1295
+      },
+      {
+        "transactionId": 175,
+        "bankRef": "2026-07-28|-13083|V2942 26/07 AMPOL MUDGEE 22267F MUDGEE 74940526207#0",
+        "date": "2026-07-26",
+        "amountCents": 13083
+      },
+      {
+        "transactionId": 176,
+        "bankRef": "2026-07-28|9|V2942 26/07 INTL TXN FEE REV-MC 74938086208#0",
+        "date": "2026-07-26",
+        "amountCents": -9
+      },
+      {
+        "transactionId": 177,
+        "bankRef": "2026-07-27|-1068|V2942 26/07 Reddy Express 1635 Mudgee 74363966207#0",
+        "date": "2026-07-26",
+        "amountCents": 1068
+      },
+      {
+        "transactionId": 178,
+        "bankRef": "2026-07-27|-2900|V2942 26/07 LIQUORLAND 3631 MUDGEE 74363966207#0",
+        "date": "2026-07-26",
+        "amountCents": 2900
+      },
+      {
+        "transactionId": 179,
+        "bankRef": "2026-07-27|-309|V2942 26/07 ALP*Programming Shanghai 74938086208#0",
+        "date": "2026-07-26",
+        "amountCents": 309
+      },
+      {
+        "transactionId": 180,
+        "bankRef": "2026-07-27|-247|V2942 26/07 ALP*Programming Shanghai 74938086208#0",
+        "date": "2026-07-26",
+        "amountCents": 247
+      },
+      {
+        "transactionId": 181,
+        "bankRef": "2026-07-27|245|V2942 26/07 ALP*Programming Shanghai 74938086208#0",
+        "date": "2026-07-26",
+        "amountCents": -245
+      },
+      {
+        "transactionId": 182,
+        "bankRef": "2026-07-29|-2871|V2942 27/07 MAD MEX SD2 MASCOT 00862584508#0",
+        "date": "2026-07-27",
+        "amountCents": 2871
+      },
+      {
+        "transactionId": 183,
+        "bankRef": "2026-07-29|-1295|V2942 27/07 KFC MACKAY NORTH RURAL VIEW 74564456209#0",
+        "date": "2026-07-27",
+        "amountCents": 1295
+      },
+      {
+        "transactionId": 184,
+        "bankRef": "2026-07-29|-8|V2942 27/07 INTL TXN FEE-MC 74938086209#0",
+        "date": "2026-07-27",
+        "amountCents": 8
+      },
+      {
+        "transactionId": 185,
+        "bankRef": "2026-07-29|-3846|V2942 27/07 BBT HOTELS PTY LTD MACKAY 74564726209#0",
+        "date": "2026-07-27",
+        "amountCents": 3846
+      },
+      {
+        "transactionId": 186,
+        "bankRef": "2026-07-29|8|V2942 27/07 INTL TXN FEE REV-MC 74938086209#0",
+        "date": "2026-07-27",
+        "amountCents": -8
+      },
+      {
+        "transactionId": 187,
+        "bankRef": "2026-07-28|-1277|V2942 27/07 S-RINA PTY LTD BUCASIA 74564456208#0",
+        "date": "2026-07-27",
+        "amountCents": 1277
+      },
+      {
+        "transactionId": 188,
+        "bankRef": "2026-07-28|-858|V2942 27/07 S-RINA PTY LTD BUCASIA 74564456208#0",
+        "date": "2026-07-27",
+        "amountCents": 858
+      },
+      {
+        "transactionId": 189,
+        "bankRef": "2026-07-28|-3000|V2942 27/07 OFFICEWORKS 0410 MACKAY 74363966208#0",
+        "date": "2026-07-27",
+        "amountCents": 3000
+      },
+      {
+        "transactionId": 19,
+        "bankRef": "2026-07-06|-1588|V2942 03/07 Reddy Express 1635 Mudgee 74363966184#0",
+        "date": "2026-07-03",
+        "amountCents": 1588
+      },
+      {
+        "transactionId": 190,
+        "bankRef": "2026-07-28|-560|V2942 27/07 COLES 0861 BURWOOD 74363966208#0",
+        "date": "2026-07-27",
+        "amountCents": 560
+      },
+      {
+        "transactionId": 191,
+        "bankRef": "2026-07-28|-230|V2942 27/07 ALP*Programming Shanghai 74938086209#0",
+        "date": "2026-07-27",
+        "amountCents": 230
+      },
+      {
+        "transactionId": 192,
+        "bankRef": "2026-07-28|229|V2942 27/07 ALP*Programming Shanghai 74938086209#0",
+        "date": "2026-07-27",
+        "amountCents": -229
+      },
+      {
+        "transactionId": 193,
+        "bankRef": "2026-07-27|-799|1051904881220 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "date": "2026-07-27",
+        "amountCents": 799
+      },
+      {
+        "transactionId": 194,
+        "bankRef": "2026-07-30|-2237|V2942 28/07 TFNSW OPAL FARE SYDNEY 74940526209#0",
+        "date": "2026-07-28",
+        "amountCents": 2237
+      },
+      {
+        "transactionId": 195,
+        "bankRef": "2026-07-30|-3324|V2942 28/07 SHAMROCK HOTEL MOTEL MACKAY 74564726210#0",
+        "date": "2026-07-28",
+        "amountCents": 3324
+      },
+      {
+        "transactionId": 196,
+        "bankRef": "2026-07-30|-32400|V2942 28/07 KENNARDS HIRE HO QLD SEVEN HILL 74940526209#0",
+        "date": "2026-07-28",
+        "amountCents": 32400
+      },
+      {
+        "transactionId": 197,
+        "bankRef": "2026-07-30|-9|V2942 28/07 INTL TXN FEE-MC 74938086210#0",
+        "date": "2026-07-28",
+        "amountCents": 9
+      },
+      {
+        "transactionId": 198,
+        "bankRef": "2026-07-30|-13990|V2942 28/07 HYDROEXPERT 0280417959 74245376209#0",
+        "date": "2026-07-28",
+        "amountCents": 13990
+      },
+      {
+        "transactionId": 199,
+        "bankRef": "2026-07-30|-690|V2942 28/07 BP MOSS MARINE 4358 MACKAY 03978381397#0",
+        "date": "2026-07-28",
+        "amountCents": 690
+      },
+      {
+        "transactionId": 200,
+        "bankRef": "2026-07-30|-449|V2942 28/07 APPLE.COM/BILL SYDNEY 74798066209#0",
+        "date": "2026-07-28",
+        "amountCents": 449
+      },
+      {
+        "transactionId": 201,
+        "bankRef": "2026-07-30|-1270|V2942 28/07 AMPOL MACKAY 11896F RURAL VIEW 74940526209#0",
+        "date": "2026-07-28",
+        "amountCents": 1270
+      },
+      {
+        "transactionId": 202,
+        "bankRef": "2026-07-30|9|V2942 28/07 INTL TXN FEE REV-MC 74938086210#0",
+        "date": "2026-07-28",
+        "amountCents": -9
+      },
+      {
+        "transactionId": 203,
+        "bankRef": "2026-07-29|-1757|V2942 28/07 S-RINA PTY LTD BUCASIA 74564456209#0",
+        "date": "2026-07-28",
+        "amountCents": 1757
+      },
+      {
+        "transactionId": 204,
+        "bankRef": "2026-07-29|-3485|V2942 28/07 BITE* BBRURAL VIEW SANCROX 74201336209#0",
+        "date": "2026-07-28",
+        "amountCents": 3485
+      },
+      {
+        "transactionId": 205,
+        "bankRef": "2026-07-29|-269|V2942 28/07 ALP*Programming Shanghai 74938086210#0",
+        "date": "2026-07-28",
+        "amountCents": 269
+      },
+      {
+        "transactionId": 206,
+        "bankRef": "2026-07-29|268|V2942 28/07 ALP*Programming Shanghai 74938086210#0",
+        "date": "2026-07-28",
+        "amountCents": -268
+      },
+      {
+        "transactionId": 207,
+        "bankRef": "2026-07-30|-1900|V2942 29/07 WASTE SERVICES PAGET 03938673838#0",
+        "date": "2026-07-29",
+        "amountCents": 1900
+      },
+      {
+        "transactionId": 208,
+        "bankRef": "2026-07-30|-1098|V2942 29/07 REDDY EXPRESS MACKAY NO MOUNT PLEA 74363966210#0",
+        "date": "2026-07-29",
+        "amountCents": 1098
+      },
+      {
+        "transactionId": 209,
+        "bankRef": "2026-07-30|-1070|V2942 29/07 EG GROUP/10 EIMIO ROAD RURAL VIEW 74278246210#0",
+        "date": "2026-07-29",
+        "amountCents": 1070
+      },
+      {
+        "transactionId": 21,
+        "bankRef": "2026-07-06|-13000|V2942 02/07 ZIPMONEY* P894045806 ZIP.CO 74201336183#0",
+        "date": "2026-07-03",
+        "amountCents": 13000
+      },
+      {
+        "transactionId": 210,
+        "bankRef": "2026-07-31|-1280|V2942 29/07 MCDONALDS NORTHERN RURAL VIEW 74564726211#0",
+        "date": "2026-07-29",
+        "amountCents": 1280
+      },
+      {
+        "transactionId": 211,
+        "bankRef": "2026-07-31|-1095|V2942 29/07 MCDONALDS ANDERGROVE ANDERGROVE 74564726211#0",
+        "date": "2026-07-29",
+        "amountCents": 1095
+      },
+      {
+        "transactionId": 212,
+        "bankRef": "2026-07-31|-2170|V2942 29/07 BP NTHRN BEACHES 9048 RURAL VIEW 02342775777#0",
+        "date": "2026-07-29",
+        "amountCents": 2170
+      },
+      {
+        "transactionId": 213,
+        "bankRef": "2026-08-03|-1968|V2942 29/07 BUNNINGS 773000 MACKAY 74940526211#0",
+        "date": "2026-07-29",
+        "amountCents": 1968
+      },
+      {
+        "transactionId": 214,
+        "bankRef": "2026-08-03|-1880|V2942 30/07 SO OPERATIONS AUST PTY BRISBANE A 74940526211#0",
+        "date": "2026-07-30",
+        "amountCents": 1880
+      },
+      {
+        "transactionId": 215,
+        "bankRef": "2026-07-31|-335|V2942 30/07 ALP*Programming Shanghai 74938086212#0",
+        "date": "2026-07-30",
+        "amountCents": 335
+      },
+      {
+        "transactionId": 216,
+        "bankRef": "2026-08-03|-1255|V2942 30/07 BP CAPERTEE 9854 CAPERTEE 03750840443#0",
+        "date": "2026-07-30",
+        "amountCents": 1255
+      },
+      {
+        "transactionId": 217,
+        "bankRef": "2026-07-31|-2916|V2942 30/07 VERCEL INC. VERCEL.COM 24011346211#0",
+        "date": "2026-07-30",
+        "amountCents": 2916
+      },
+      {
+        "transactionId": 218,
+        "bankRef": "2026-08-03|-5882|V2942 30/07 AMPOL MACKAY 11896F RURAL VIEW 74940526211#0",
+        "date": "2026-07-30",
+        "amountCents": 5882
+      },
+      {
+        "transactionId": 219,
+        "bankRef": "2026-07-31|-12613|V2942 30/07 MEDIBANK PHI DEBIT MELBOURNE 74564726211#0",
+        "date": "2026-07-30",
+        "amountCents": 12613
+      },
+      {
+        "transactionId": 22,
+        "bankRef": "2026-07-06|-12613|V2942 03/07 MEDIBANK PHI DEBIT MELBOURNE 74564726184#0",
+        "date": "2026-07-03",
+        "amountCents": 12613
+      },
+      {
+        "transactionId": 220,
+        "bankRef": "2026-08-03|-8502|V2942 30/07 AMPOL EASTERN C 28577F EASTERN CR 74940526211#0",
+        "date": "2026-07-30",
+        "amountCents": 8502
+      },
+      {
+        "transactionId": 221,
+        "bankRef": "2026-08-03|-8309|V2942 30/07 CWH GRANVILLE GRANVILLE 00866730275#0",
+        "date": "2026-07-30",
+        "amountCents": 8309
+      },
+      {
+        "transactionId": 222,
+        "bankRef": "2026-08-03|-1700|V2942 30/07 SLAR GROUP PTY LTD BURWOOD 74940526211#0",
+        "date": "2026-07-30",
+        "amountCents": 1700
+      },
+      {
+        "transactionId": 223,
+        "bankRef": "2026-07-31|-6995|V2942 30/07 LEIDINN GROUP PTY LTD LIDCOMBE 74466026211#0",
+        "date": "2026-07-30",
+        "amountCents": 6995
+      },
+      {
+        "transactionId": 224,
+        "bankRef": "2026-07-30|315976|06799 MASTERMYNE GROUP Shane Schleger#0",
+        "date": "2026-07-30",
+        "amountCents": 315976
+      },
+      {
+        "transactionId": 225,
+        "bankRef": "2026-08-03|-383|V2942 31/07 ALP*Programming Shanghai 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": 383
+      },
+      {
+        "transactionId": 226,
+        "bankRef": "2026-08-03|-383|V2942 31/07 Alipay*Programming Shanghai 74629216214#0",
+        "date": "2026-07-31",
+        "amountCents": 383
+      },
+      {
+        "transactionId": 227,
+        "bankRef": "2026-08-03|-340|V2942 31/07 ALP*Programming Shanghai 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": 340
+      },
+      {
+        "transactionId": 228,
+        "bankRef": "2026-08-03|-340|V2942 31/07 ALP*Programming Shanghai 74938086213#1",
+        "date": "2026-07-31",
+        "amountCents": 340
+      },
+      {
+        "transactionId": 229,
+        "bankRef": "2026-08-03|-340|V2942 31/07 Alipay*Programming Shanghai 74629216214#0",
+        "date": "2026-07-31",
+        "amountCents": 340
+      },
+      {
+        "transactionId": 23,
+        "bankRef": "2026-07-06|-1248|V2942 04/07 Reddy Express 1635 Mudgee 74363966185#0",
+        "date": "2026-07-04",
+        "amountCents": 1248
+      },
+      {
+        "transactionId": 230,
+        "bankRef": "2026-08-03|-1985|V2942 31/07 COLES 5753 MUDGEE 74363966212#0",
+        "date": "2026-07-31",
+        "amountCents": 1985
+      },
+      {
+        "transactionId": 231,
+        "bankRef": "2026-08-03|-13000|V2942 30/07 ZIPMONEY* P902903302 ZIP.CO 74201336211#0",
+        "date": "2026-07-30",
+        "amountCents": 13000
+      },
+      {
+        "transactionId": 232,
+        "bankRef": "2026-07-23|-12|V2942 21/07 INTL TXN FEE-MC 74938086203#0",
+        "date": "2026-07-21",
+        "amountCents": 12
+      },
+      {
+        "transactionId": 233,
+        "bankRef": "2026-07-24|-11|V2942 22/07 INTL TXN FEE-MC 74938086204#0",
+        "date": "2026-07-22",
+        "amountCents": 11
+      },
+      {
+        "transactionId": 234,
+        "bankRef": "2026-07-16|-349|V2942 15/07 ALP*Programming Shanghai 74938086197#0",
+        "date": "2026-07-15",
+        "amountCents": 349
+      },
+      {
+        "transactionId": 235,
+        "bankRef": "2026-07-16|-327|V2942 15/07 ALP*Programming Shanghai 74938086197#0",
+        "date": "2026-07-15",
+        "amountCents": 327
+      },
+      {
+        "transactionId": 236,
+        "bankRef": "2026-07-08|-70000|SHANE SCHLEGER A9992358631#0",
+        "date": "2026-07-08",
+        "amountCents": 70000
+      },
+      {
+        "transactionId": 237,
+        "bankRef": "2026-07-08|70000|SHANE SCHLEGER Z9992136683 Rent and Bills#0",
+        "date": "2026-07-08",
+        "amountCents": -70000
+      },
+      {
+        "transactionId": 238,
+        "bankRef": "2026-08-05|-560|V2942 04/08 COLES 0861 BURWOOD 74363966216#0",
+        "date": "2026-08-04",
+        "amountCents": 560
+      },
+      {
+        "transactionId": 239,
+        "bankRef": "2026-08-05|-1299|V2942 04/08 Reddy Express 1691 Five Dock 74363966216#0",
+        "date": "2026-08-04",
+        "amountCents": 1299
+      },
+      {
+        "transactionId": 24,
+        "bankRef": "2026-07-06|-1645|V2942 04/07 BROADVIEW AUST PTY LTD MUDGEE 74940526185#0",
+        "date": "2026-07-04",
+        "amountCents": 1645
+      },
+      {
+        "transactionId": 240,
+        "bankRef": "2026-08-04|-830|V2942 03/08 COLES 0861 BURWOOD 74363966215#0",
+        "date": "2026-08-03",
+        "amountCents": 830
+      },
+      {
+        "transactionId": 241,
+        "bankRef": "2026-08-04|-2600|V2942 03/08 BWS LIQUOR/WESTFIELD BURWBURWOOD 74278246215#0",
+        "date": "2026-08-03",
+        "amountCents": 2600
+      },
+      {
+        "transactionId": 242,
+        "bankRef": "2026-08-05|-560|V2942 03/08 7-ELEVEN 2152 BURWOOD 74564456216#0",
+        "date": "2026-08-03",
+        "amountCents": 560
+      },
+      {
+        "transactionId": 243,
+        "bankRef": "2026-08-05|-4069|V2942 03/08 SICHUAN PTY LTD BURWOOD 74564456216#0",
+        "date": "2026-08-03",
+        "amountCents": 4069
+      },
+      {
+        "transactionId": 244,
+        "bankRef": "2026-08-05|-2007|V2942 03/08 LINKT BRISBANE BRISBANE 74940526215#0",
+        "date": "2026-08-03",
+        "amountCents": 2007
+      },
+      {
+        "transactionId": 245,
+        "bankRef": "2026-08-05|-1943|V2942 03/08 BP CAPERTEE 9854 CAPERTEE 00625117601#0",
+        "date": "2026-08-03",
+        "amountCents": 1943
+      },
+      {
+        "transactionId": 246,
+        "bankRef": "2026-08-04|-14497|V2942 03/08 Reddy Express 1635 Mudgee 74363966215#0",
+        "date": "2026-08-03",
+        "amountCents": 14497
+      },
+      {
+        "transactionId": 247,
+        "bankRef": "2026-08-03|-70000|SHANE SCHLEGER D1662186410 Rent and Bills#0",
+        "date": "2026-08-03",
+        "amountCents": 70000
+      },
+      {
+        "transactionId": 248,
+        "bankRef": "2026-08-03|-2237|V2942 31/07 TFNSW OPAL FARE SYDNEY 74940526212#0",
+        "date": "2026-07-31",
+        "amountCents": 2237
+      },
+      {
+        "transactionId": 249,
+        "bankRef": "2026-08-03|-349|V2942 31/07 ALP*Programming Shanghai 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": 349
+      },
+      {
+        "transactionId": 25,
+        "bankRef": "2026-07-03|-2007|V2942 30/06 LINKT BRISBANE BRISBANE 74940526182#0",
+        "date": "2026-07-02",
+        "amountCents": 2007
+      },
+      {
+        "transactionId": 250,
+        "bankRef": "2026-08-03|-347|V2942 31/07 ALP*Programming Shanghai 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": 347
+      },
+      {
+        "transactionId": 251,
+        "bankRef": "2026-08-03|-102|V2942 30/07 INTL TXN FEE-MC 24011346211#0",
+        "date": "2026-07-30",
+        "amountCents": 102
+      },
+      {
+        "transactionId": 252,
+        "bankRef": "2026-08-03|-12|V2942 30/07 INTL TXN FEE-MC 74938086212#0",
+        "date": "2026-07-30",
+        "amountCents": 12
+      },
+      {
+        "transactionId": 253,
+        "bankRef": "2026-08-03|-4550|V2942 02/08 LIQUORLAND 3631 MUDGEE 74363966214#0",
+        "date": "2026-08-02",
+        "amountCents": 4550
+      },
+      {
+        "transactionId": 254,
+        "bankRef": "2026-08-03|-560|V2942 02/08 COLES 5753 MUDGEE 74363966214#0",
+        "date": "2026-08-02",
+        "amountCents": 560
+      },
+      {
+        "transactionId": 255,
+        "bankRef": "2026-08-03|-969|V2942 01/08 Reddy Express 1635 Mudgee 74363966213#0",
+        "date": "2026-08-01",
+        "amountCents": 969
+      },
+      {
+        "transactionId": 256,
+        "bankRef": "2026-08-03|378|V2942 31/07 ALP*Programming Shanghai 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": -378
+      },
+      {
+        "transactionId": 257,
+        "bankRef": "2026-08-03|345|V2942 31/07 ALP*Programming Shanghai 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": -345
+      },
+      {
+        "transactionId": 258,
+        "bankRef": "2026-08-03|342|V2942 31/07 ALP*Programming Shanghai 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": -342
+      },
+      {
+        "transactionId": 259,
+        "bankRef": "2026-08-03|335|V2942 31/07 ALP*Programming Shanghai 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": -335
+      },
+      {
+        "transactionId": 26,
+        "bankRef": null,
+        "date": "2026-07-04",
+        "amountCents": 14369
+      },
+      {
+        "transactionId": 260,
+        "bankRef": "2026-08-03|335|V2942 31/07 ALP*Programming Shanghai 74938086213#1",
+        "date": "2026-07-31",
+        "amountCents": -335
+      },
+      {
+        "transactionId": 261,
+        "bankRef": "2026-08-03|7120|V2942 30/07 KENNARDS HIRE HO QLD SEVEN HILL 74940526211#0",
+        "date": "2026-07-30",
+        "amountCents": -7120
+      },
+      {
+        "transactionId": 262,
+        "bankRef": "2026-08-03|12|V2942 30/07 INTL TXN FEE REV-MC 74938086212#0",
+        "date": "2026-07-30",
+        "amountCents": -12
+      },
+      {
+        "transactionId": 263,
+        "bankRef": "2026-08-03|378|V2942 01/08 Alipay*Programming Shanghai 74629216214#0",
+        "date": "2026-08-01",
+        "amountCents": -378
+      },
+      {
+        "transactionId": 264,
+        "bankRef": "2026-08-03|335|V2942 01/08 Alipay*Programming Shanghai 74629216214#0",
+        "date": "2026-08-01",
+        "amountCents": -335
+      },
+      {
+        "transactionId": 265,
+        "bankRef": "2026-08-04|-1050|V2942 02/08 MCDONALDS MUDGEE MUDGEE 74564726215#0",
+        "date": "2026-08-02",
+        "amountCents": 1050
+      },
+      {
+        "transactionId": 266,
+        "bankRef": "2026-08-04|-2195|V2942 31/07 MCDONALDS MUDGEE MUDGEE 74564726215#0",
+        "date": "2026-07-31",
+        "amountCents": 2195
+      },
+      {
+        "transactionId": 267,
+        "bankRef": "2026-07-31|331|V2942 30/07 ALP*Programming Shanghai 74938086212#0",
+        "date": "2026-07-30",
+        "amountCents": -331
+      },
+      {
+        "transactionId": 268,
+        "bankRef": "2026-08-06|-6807|EFTPOS 05/08 22:06XERO AU INV-54249012#0",
+        "date": "2026-08-05",
+        "amountCents": 6807
+      },
+      {
+        "transactionId": 269,
+        "bankRef": "2026-08-10|-31501|V2942 05/08 PORTENO PL SURRY HILL 74940526218#0",
+        "date": "2026-08-05",
+        "amountCents": 31501
+      },
+      {
+        "transactionId": 27,
+        "bankRef": "2026-07-07|-765|V2942 04/07 MCDONALDS MUDGEE MUDGEE 74564726187#0",
+        "date": "2026-07-04",
+        "amountCents": 765
+      },
+      {
+        "transactionId": 270,
+        "bankRef": "2026-08-06|-599|V2942 05/08 Reddy Express 1691 Five Dock 74363966217#0",
+        "date": "2026-08-05",
+        "amountCents": 599
+      },
+      {
+        "transactionId": 271,
+        "bankRef": "2026-08-06|-1881|V2942 05/08 Piqle Burwood 74249236217#0",
+        "date": "2026-08-05",
+        "amountCents": 1881
+      },
+      {
+        "transactionId": 272,
+        "bankRef": "2026-08-07|-29999|V2942 05/08 THE ATHLETES FOOT ESTORE 0431100980 74069886217#0",
+        "date": "2026-08-05",
+        "amountCents": 29999
+      },
+      {
+        "transactionId": 273,
+        "bankRef": "2026-08-06|-650|V2942 05/08 SPEEDWAY FUELS HABER HABERFIELD 74564506217#0",
+        "date": "2026-08-05",
+        "amountCents": 650
+      },
+      {
+        "transactionId": 274,
+        "bankRef": "2026-08-07|-2007|V2942 04/08 LINKT BRISBANE BRISBANE 74940526217#0",
+        "date": "2026-08-04",
+        "amountCents": 2007
+      },
+      {
+        "transactionId": 275,
+        "bankRef": "2026-08-04|-10000|SHANE PHONSE SCHLEG R8989048181 FUNDING#0",
+        "date": "2026-08-04",
+        "amountCents": 10000
+      },
+      {
+        "transactionId": 276,
+        "bankRef": "2026-08-04|-13|V2942 31/07 INTL TXN FEE-MC 74629216214#0",
+        "date": "2026-07-31",
+        "amountCents": 13
+      },
+      {
+        "transactionId": 277,
+        "bankRef": "2026-08-04|-13|V2942 31/07 INTL TXN FEE-MC 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": 13
+      },
+      {
+        "transactionId": 278,
+        "bankRef": "2026-08-04|-12|V2942 31/07 INTL TXN FEE-MC 74629216214#0",
+        "date": "2026-07-31",
+        "amountCents": 12
+      },
+      {
+        "transactionId": 279,
+        "bankRef": "2026-08-04|-12|V2942 31/07 INTL TXN FEE-MC 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": 12
+      },
+      {
+        "transactionId": 28,
+        "bankRef": "2026-07-07|-1000|V2942 05/07 AMPOL MUDGEE 22267F MUDGEE 74940526186#0",
+        "date": "2026-07-05",
+        "amountCents": 1000
+      },
+      {
+        "transactionId": 280,
+        "bankRef": "2026-08-04|-12|V2942 31/07 INTL TXN FEE-MC 74938086213#1",
+        "date": "2026-07-31",
+        "amountCents": 12
+      },
+      {
+        "transactionId": 281,
+        "bankRef": "2026-08-04|-12|V2942 31/07 INTL TXN FEE-MC 74938086213#2",
+        "date": "2026-07-31",
+        "amountCents": 12
+      },
+      {
+        "transactionId": 282,
+        "bankRef": "2026-08-04|-12|V2942 31/07 INTL TXN FEE-MC 74938086213#3",
+        "date": "2026-07-31",
+        "amountCents": 12
+      },
+      {
+        "transactionId": 283,
+        "bankRef": "2026-08-04|13|V2942 31/07 INTL TXN FEE REV-MC 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": -13
+      },
+      {
+        "transactionId": 284,
+        "bankRef": "2026-08-04|12|V2942 31/07 INTL TXN FEE REV-MC 74938086213#0",
+        "date": "2026-07-31",
+        "amountCents": -12
+      },
+      {
+        "transactionId": 285,
+        "bankRef": "2026-08-04|12|V2942 31/07 INTL TXN FEE REV-MC 74938086213#1",
+        "date": "2026-07-31",
+        "amountCents": -12
+      },
+      {
+        "transactionId": 286,
+        "bankRef": "2026-08-04|12|V2942 31/07 INTL TXN FEE REV-MC 74938086213#2",
+        "date": "2026-07-31",
+        "amountCents": -12
+      },
+      {
+        "transactionId": 287,
+        "bankRef": "2026-08-04|12|V2942 31/07 INTL TXN FEE REV-MC 74938086213#3",
+        "date": "2026-07-31",
+        "amountCents": -12
+      },
+      {
+        "transactionId": 288,
+        "bankRef": "2026-08-04|13|V2942 01/08 INTL TXN FEE REV-MC 74629216214#0",
+        "date": "2026-08-01",
+        "amountCents": -13
+      },
+      {
+        "transactionId": 289,
+        "bankRef": "2026-08-04|12|V2942 01/08 INTL TXN FEE REV-MC 74629216214#0",
+        "date": "2026-08-01",
+        "amountCents": -12
+      },
+      {
+        "transactionId": 29,
+        "bankRef": "2026-07-07|-11317|V2942 05/07 BP MUDGEE 2022 MUDGEE 04283838795#0",
+        "date": "2026-07-05",
+        "amountCents": 11317
+      },
+      {
+        "transactionId": 290,
+        "bankRef": "2026-08-12|-1390|V2942 10/08 AMPOL HAZELBROO 22545F HAZELBROOK 74940526222#0",
+        "date": "2026-08-10",
+        "amountCents": 1390
+      },
+      {
+        "transactionId": 291,
+        "bankRef": "2026-08-12|-14263|V2942 10/08 CALTEX MUDGEE 74940526222#0",
+        "date": "2026-08-10",
+        "amountCents": 14263
+      },
+      {
+        "transactionId": 292,
+        "bankRef": "2026-08-10|-2700|V2942 09/08 LIQUORLAND 3631 MUDGEE 74363966221#0",
+        "date": "2026-08-09",
+        "amountCents": 2700
+      },
+      {
+        "transactionId": 293,
+        "bankRef": "2026-08-10|-2095|V2942 09/08 COLES 5753 MUDGEE 74363966221#0",
+        "date": "2026-08-09",
+        "amountCents": 2095
+      },
+      {
+        "transactionId": 294,
+        "bankRef": "2026-08-10|-13000|V2942 06/08 ZIPMONEY* P905275200 ZIP.CO 74201336218#0",
+        "date": "2026-08-06",
+        "amountCents": 13000
+      },
+      {
+        "transactionId": 295,
+        "bankRef": "2026-08-10|-2295|V2942 07/08 BROADVIEW AUST PTY LTD MUDGEE 74940526219#0",
+        "date": "2026-08-07",
+        "amountCents": 2295
+      },
+      {
+        "transactionId": 296,
+        "bankRef": "2026-08-07|-9670|V2942 06/08 7 ELEVEN 2201 BURWOOD 04181107997#0",
+        "date": "2026-08-06",
+        "amountCents": 9670
+      },
+      {
+        "transactionId": 297,
+        "bankRef": "2026-08-07|-459|V2942 06/08 Reddy Express 1635 Mudgee 74363966218#0",
+        "date": "2026-08-06",
+        "amountCents": 459
+      },
+      {
+        "transactionId": 298,
+        "bankRef": "2026-08-07|-1740|V2942 06/08 HJs Lithgow Lithgow 74773886218#0",
+        "date": "2026-08-06",
+        "amountCents": 1740
+      },
+      {
+        "transactionId": 299,
+        "bankRef": "2026-08-07|-7|V2942 05/08 INTL TXN FEE-MC 24011346217#0",
+        "date": "2026-08-05",
+        "amountCents": 7
+      },
+      {
+        "transactionId": 30,
+        "bankRef": "2026-07-07|-1200|V2942 05/07 MCDONALDS LITHGOW LITHGOW 74564726187#0",
+        "date": "2026-07-05",
+        "amountCents": 1200
+      },
+      {
+        "transactionId": 300,
+        "bankRef": "2026-08-07|-70000|INTERNET TRANSFER Rent and Bills#0",
+        "date": "2026-08-07",
+        "amountCents": 70000
+      },
+      {
+        "transactionId": 301,
+        "bankRef": "2026-08-06|-189|V2942 05/08 VERCEL MKT NEON VERCEL.COM 24011346217#0",
+        "date": "2026-08-05",
+        "amountCents": 189
+      },
+      {
+        "transactionId": 302,
+        "bankRef": "2026-08-06|242486|06799 MASTERMYNE GROUP Shane Schleger#0",
+        "date": "2026-08-06",
+        "amountCents": 242486
+      },
+      {
+        "transactionId": 303,
+        "bankRef": "2026-08-10|-300|V2942 06/08 ANYTIME FITNESS MUDGEE MUDGEE 74229856219#0",
+        "date": "2026-08-06",
+        "amountCents": 300
+      },
+      {
+        "transactionId": 304,
+        "bankRef": "2026-08-06|-35000|SHANE PHONSE SCHLEG B9057136268 FUNDING#0",
+        "date": "2026-08-06",
+        "amountCents": 35000
+      },
+      {
+        "transactionId": 305,
+        "bankRef": "2026-08-13|-50|V2942 12/08 OFFICEWORKS 0201 FIVE FIVE DOCK 74363966224#0",
+        "date": "2026-08-12",
+        "amountCents": 50
+      },
+      {
+        "transactionId": 306,
+        "bankRef": "2026-08-13|-8800|EFTPOS 12/08 18:10Pin* imedical \\PyrmoW\\ch_rf9p90rO#0",
+        "date": "2026-08-12",
+        "amountCents": 8800
+      },
+      {
+        "transactionId": 307,
+        "bankRef": "2026-08-13|-4974|V2942 12/08 RW TRUST - CCCP MER ADVAMSYDNEY 00410550874#0",
+        "date": "2026-08-12",
+        "amountCents": 4974
+      },
+      {
+        "transactionId": 308,
+        "bankRef": "2026-08-13|-998|V2942 12/08 Reddy Express 1691 Five Dock 74363966224#0",
+        "date": "2026-08-12",
+        "amountCents": 998
+      },
+      {
+        "transactionId": 309,
+        "bankRef": "2026-08-14|-1131|V2942 12/08 SMP*Hero Sushi Burwood Burwood 74126916224#0",
+        "date": "2026-08-12",
+        "amountCents": 1131
+      },
+      {
+        "transactionId": 31,
+        "bankRef": "2026-07-08|-1150|V2942 06/07 STARBUCKS COFFEE B02 BURWOOD 74564456188#0",
+        "date": "2026-07-06",
+        "amountCents": 1150
+      },
+      {
+        "transactionId": 310,
+        "bankRef": "2026-08-13|-570|V2942 12/08 COLES 0861 BURWOOD 74363966224#0",
+        "date": "2026-08-12",
+        "amountCents": 570
+      },
+      {
+        "transactionId": 311,
+        "bankRef": "2026-08-12|-3700|EFTPOS 12/08 08:23XERO AU INV-55084373#0",
+        "date": "2026-08-12",
+        "amountCents": 3700
+      },
+      {
+        "transactionId": 312,
+        "bankRef": "2026-08-12|-2500|V2942 11/08 A&E LEGACY HOLDINGS P Glebe 74249236223#0",
+        "date": "2026-08-11",
+        "amountCents": 2500
+      },
+      {
+        "transactionId": 313,
+        "bankRef": "2026-08-12|-914|V2942 11/08 RW TRUST - CCCP MER ADVAMSYDNEY 01634918099#0",
+        "date": "2026-08-11",
+        "amountCents": 914
+      },
+      {
+        "transactionId": 314,
+        "bankRef": "2026-08-13|-8400|V2942 10/08 TELSTRA SERVICES MELBOURNE 74940526223#0",
+        "date": "2026-08-10",
+        "amountCents": 8400
+      },
+      {
+        "transactionId": 315,
+        "bankRef": "2026-08-11|-14999|V2942 10/08 PNG PTY LTD PROSPECT 01879296910#0",
+        "date": "2026-08-10",
+        "amountCents": 14999
+      },
+      {
+        "transactionId": 316,
+        "bankRef": "2026-08-11|-1750|V2942 10/08 OPORTOS ASHFIELD CROYDON 01004412676#0",
+        "date": "2026-08-10",
+        "amountCents": 1750
+      },
+      {
+        "transactionId": 317,
+        "bankRef": "2026-08-11|-560|V2942 10/08 COLES 0861 BURWOOD 74363966222#0",
+        "date": "2026-08-10",
+        "amountCents": 560
+      },
+      {
+        "transactionId": 318,
+        "bankRef": "2026-08-11|-1999|1052287914706 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "date": "2026-08-11",
+        "amountCents": 1999
+      },
+      {
+        "transactionId": 319,
+        "bankRef": "2026-08-17|-1495|V2942 14/08 BROADVIEW AUST PTY LTD MUDGEE 74940526226#0",
+        "date": "2026-08-14",
+        "amountCents": 1495
+      },
+      {
+        "transactionId": 32,
+        "bankRef": "2026-07-08|-2007|V2942 06/07 LINKT BRISBANE BRISBANE 74940526187#0",
+        "date": "2026-07-06",
+        "amountCents": 2007
+      },
+      {
+        "transactionId": 320,
+        "bankRef": "2026-08-14|-70000|INTERNET TRANSFER Rent and Bills#0",
+        "date": "2026-08-14",
+        "amountCents": 70000
+      },
+      {
+        "transactionId": 321,
+        "bankRef": "2026-08-17|-1595|V2942 13/08 CRAVEABLE BRANDS STORE LITHGOW 74940526225#0",
+        "date": "2026-08-13",
+        "amountCents": 1595
+      },
+      {
+        "transactionId": 322,
+        "bankRef": "2026-08-14|-749|V2942 13/08 Reddy Express 1635 Mudgee 74363966225#0",
+        "date": "2026-08-13",
+        "amountCents": 749
+      },
+      {
+        "transactionId": 323,
+        "bankRef": "2026-08-14|-9344|V2942 13/08 7 ELEVEN 2201 BURWOOD 03483483794#0",
+        "date": "2026-08-13",
+        "amountCents": 9344
+      },
+      {
+        "transactionId": 324,
+        "bankRef": "2026-08-17|-21000|V2942 13/08 PAYPAL *GETMOSH 4029357733 74245376228#0",
+        "date": "2026-08-13",
+        "amountCents": 21000
+      },
+      {
+        "transactionId": 325,
+        "bankRef": "2026-08-14|-1461|V2942 13/08 GROK XAI WWW.GROK.C 24011346225#0",
+        "date": "2026-08-13",
+        "amountCents": 1461
+      },
+      {
+        "transactionId": 326,
+        "bankRef": "2026-08-13|275480|06799 MASTERMYNE GROUP Shane Schleger#0",
+        "date": "2026-08-13",
+        "amountCents": 275480
+      },
+      {
+        "transactionId": 327,
+        "bankRef": "2026-08-20|44468|ONLINE G2682839506 Linked Acc Trns SCHLEGER JA#0",
+        "date": "2026-08-20",
+        "amountCents": 44468
+      },
+      {
+        "transactionId": 328,
+        "bankRef": "2026-08-21|-3468|V2942 20/08 AQUARIUS CARWASH MUDGEE MUDGEE 74229856232#0",
+        "date": "2026-08-20",
+        "amountCents": 3468
+      },
+      {
+        "transactionId": 329,
+        "bankRef": "2026-08-20|-2007|V2942 20/08 Linkt Brisbane#0",
+        "date": "2026-08-20",
+        "amountCents": 2007
+      },
+      {
+        "transactionId": 33,
+        "bankRef": "2026-07-07|-560|V2942 06/07 COLES 0861 BURWOOD 74363966187#0",
+        "date": "2026-07-06",
+        "amountCents": 560
+      },
+      {
+        "transactionId": 330,
+        "bankRef": "2026-08-20|-1895|V2942 20/08 CRAVEABLE BRANDS STORE LITHGOW#0",
+        "date": "2026-08-20",
+        "amountCents": 1895
+      },
+      {
+        "transactionId": 331,
+        "bankRef": "2026-08-20|257344|06799 MASTERMYNE GROUP Shane Schleger#0",
+        "date": "2026-08-20",
+        "amountCents": 257344
+      },
+      {
+        "transactionId": 332,
+        "bankRef": "2026-08-21|-14999|V2942 20/08 PNG PROSPECT PROSPECT 00371255144#0",
+        "date": "2026-08-20",
+        "amountCents": 14999
+      },
+      {
+        "transactionId": 333,
+        "bankRef": "2026-08-21|-9738|V2942 20/08 7 ELEVEN 2201 BURWOOD 02845998143#0",
+        "date": "2026-08-20",
+        "amountCents": 9738
+      },
+      {
+        "transactionId": 334,
+        "bankRef": "2026-08-21|-3000|V2942 20/08 TARGET 5171 BURWOOD 74363966232#0",
+        "date": "2026-08-20",
+        "amountCents": 3000
+      },
+      {
+        "transactionId": 335,
+        "bankRef": "2026-08-20|-1610|1052470319640 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "date": "2026-08-20",
+        "amountCents": 1610
+      },
+      {
+        "transactionId": 336,
+        "bankRef": "2026-08-20|-5547|EFTPOS 20/08 05:04GENEA\\#0",
+        "date": "2026-08-20",
+        "amountCents": 5547
+      },
+      {
+        "transactionId": 337,
+        "bankRef": "2026-08-20|-1290|V2942 19/08 RBG SYDNEY SYDNEY 74564726231#0",
+        "date": "2026-08-19",
+        "amountCents": 1290
+      },
+      {
+        "transactionId": 338,
+        "bankRef": "2026-08-21|-1625|V2942 19/08 MCDONALDS STANMORE STANMORE 74564726232#0",
+        "date": "2026-08-19",
+        "amountCents": 1625
+      },
+      {
+        "transactionId": 339,
+        "bankRef": "2026-08-20|-749|V2942 19/08 REDDY EXPRESS FIVE DOCK FIVE DOCK 74363966231#0",
+        "date": "2026-08-19",
+        "amountCents": 749
+      },
+      {
+        "transactionId": 34,
+        "bankRef": "2026-07-08|-1131|V2942 06/07 SMP*Hero Sushi Burwood Burwood 74126916187#0",
+        "date": "2026-07-06",
+        "amountCents": 1131
+      },
+      {
+        "transactionId": 340,
+        "bankRef": "2026-08-19|-14499|PL LOAN REPAYMENT TO A/C 311639012 SCHLEGER SHANE#0",
+        "date": "2026-08-19",
+        "amountCents": 14499
+      },
+      {
+        "transactionId": 341,
+        "bankRef": "2026-08-19|-2826|V2942 18/08 VERCEL INC. VERCEL.COM 24011346230#0",
+        "date": "2026-08-18",
+        "amountCents": 2826
+      },
+      {
+        "transactionId": 342,
+        "bankRef": "2026-08-19|-749|V2942 18/08 Reddy Express 1691 Five Dock 74363966230#0",
+        "date": "2026-08-18",
+        "amountCents": 749
+      },
+      {
+        "transactionId": 343,
+        "bankRef": "2026-08-19|-2680|V2942 18/08 LAMB AND CUMIN CHATSWOOD 74466026230#0",
+        "date": "2026-08-18",
+        "amountCents": 2680
+      },
+      {
+        "transactionId": 344,
+        "bankRef": "2026-08-19|-710|V2942 18/08 COLES 0861 BURWOOD 74363966230#0",
+        "date": "2026-08-18",
+        "amountCents": 710
+      },
+      {
+        "transactionId": 345,
+        "bankRef": "2026-08-19|-2007|V2942 17/08 LINKT BRISBANE BRISBANE 74940526229#0",
+        "date": "2026-08-17",
+        "amountCents": 2007
+      },
+      {
+        "transactionId": 346,
+        "bankRef": "2026-08-19|-1750|V2942 17/08 HJs Burwood NSW Burwood 74773886229#0",
+        "date": "2026-08-17",
+        "amountCents": 1750
+      },
+      {
+        "transactionId": 347,
+        "bankRef": "2026-08-19|-2500|V2942 17/08 BP CAPERTEE 9854 CAPERTEE 00097998270#0",
+        "date": "2026-08-17",
+        "amountCents": 2500
+      },
+      {
+        "transactionId": 348,
+        "bankRef": "2026-08-19|-1310|V2942 17/08 AMPOL NORTH RICHMOND NORTH RICH 74940526229#0",
+        "date": "2026-08-17",
+        "amountCents": 1310
+      },
+      {
+        "transactionId": 349,
+        "bankRef": "2026-08-20|-37500|V2942 18/08 I-MED NETWORK LTD - CHATSWOOD 74940526230#0",
+        "date": "2026-08-18",
+        "amountCents": 37500
+      },
+      {
+        "transactionId": 35,
+        "bankRef": "2026-07-08|-660|V2942 07/07 JNO BUWOOD PTY LTD Burwood 74249236188#0",
+        "date": "2026-07-07",
+        "amountCents": 660
+      },
+      {
+        "transactionId": 350,
+        "bankRef": "2026-08-18|-1726|V2942 17/08 RW TRUST - CCCP MER ADVAMSYDNEY 00331312414#0",
+        "date": "2026-08-17",
+        "amountCents": 1726
+      },
+      {
+        "transactionId": 351,
+        "bankRef": "2026-08-18|-13059|V2942 17/08 Reddy Express 1635 Mudgee 74363966229#0",
+        "date": "2026-08-17",
+        "amountCents": 13059
+      },
+      {
+        "transactionId": 352,
+        "bankRef": "2026-08-18|-611|V2942 17/08 EzyMart 460 George St Sydney 74249236229#0",
+        "date": "2026-08-17",
+        "amountCents": 611
+      },
+      {
+        "transactionId": 353,
+        "bankRef": "2026-08-17|-2700|V2942 16/08 LIQUORLAND 3631 MUDGEE 74363966228#0",
+        "date": "2026-08-16",
+        "amountCents": 2700
+      },
+      {
+        "transactionId": 354,
+        "bankRef": "2026-08-17|-2935|V2942 16/08 COLES 5753 MUDGEE 74363966228#0",
+        "date": "2026-08-16",
+        "amountCents": 2935
+      },
+      {
+        "transactionId": 355,
+        "bankRef": "2026-08-17|-669|V2942 15/08 Reddy Express 1635 Mudgee 74363966227#0",
+        "date": "2026-08-15",
+        "amountCents": 669
+      },
+      {
+        "transactionId": 356,
+        "bankRef": "2026-08-17|-51|V2942 13/08 INTL TXN FEE-SC 24011346225#0",
+        "date": "2026-08-13",
+        "amountCents": 51
+      },
+      {
+        "transactionId": 357,
+        "bankRef": "2026-08-17|-799|1052376566201 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "date": "2026-08-17",
+        "amountCents": 799
+      },
+      {
+        "transactionId": 358,
+        "bankRef": "2026-08-17|-1499|1052419435498 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "date": "2026-08-17",
+        "amountCents": 1499
+      },
+      {
+        "transactionId": 359,
+        "bankRef": "2026-08-21|-1018|POS 21/08 Reddy Express 1635 Mudgee#0",
+        "date": "2026-08-21",
+        "amountCents": 1018
+      },
+      {
+        "transactionId": 36,
+        "bankRef": "2026-07-08|-1423|V2942 07/07 Piqle Burwood 74249236188#0",
+        "date": "2026-07-07",
+        "amountCents": 1423
+      },
+      {
+        "transactionId": 360,
+        "bankRef": "2026-08-21|-70000|INTERNET TRANSFER Rent and Bills#0",
+        "date": "2026-08-21",
+        "amountCents": 70000
+      },
+      {
+        "transactionId": 361,
+        "bankRef": "2026-08-22|-2095|POS 22/08 BROADVIEW AUST PTY LTD MUDGEE#0",
+        "date": "2026-08-22",
+        "amountCents": 2095
+      },
+      {
+        "transactionId": 362,
+        "bankRef": "2026-08-24|-1045|POS 24/08 7-ELEVEN 2194 BLAXLAND#0",
+        "date": "2026-08-24",
+        "amountCents": 1045
+      },
+      {
+        "transactionId": 363,
+        "bankRef": "2026-08-24|-17699|POS 24/08 BP CAPERTEE 9854 CAPERTEE#0",
+        "date": "2026-08-24",
+        "amountCents": 17699
+      },
+      {
+        "transactionId": 364,
+        "bankRef": "2026-08-23|-758|POS 23/08 AMPOL MUDGEE 22267F MUDGEE#0",
+        "date": "2026-08-23",
+        "amountCents": 758
+      },
+      {
+        "transactionId": 365,
+        "bankRef": "2026-08-23|-2700|POS 23/08 LIQUORLAND 3631 MUDGEE#0",
+        "date": "2026-08-23",
+        "amountCents": 2700
+      },
+      {
+        "transactionId": 368,
+        "bankRef": "2026-08-24|-2531|POS 24/08 Royal Prince Alfred Ho Camperdown#0",
+        "date": "2026-08-24",
+        "amountCents": 2531
+      },
+      {
+        "transactionId": 369,
+        "bankRef": "2026-08-24|-1595|POS 24/08 7 ELEVEN 2118 CAMPERDOWN#0",
+        "date": "2026-08-24",
+        "amountCents": 1595
+      },
+      {
+        "transactionId": 37,
+        "bankRef": "2026-07-08|-860|V2942 07/07 COLES 0861 BURWOOD 74363966188#0",
+        "date": "2026-07-07",
+        "amountCents": 860
+      },
+      {
+        "transactionId": 371,
+        "bankRef": "2026-08-20|-99|V2942 18/08 INTL TXN FEE-MC 24011346230#0",
+        "date": "2026-08-18",
+        "amountCents": 99
+      },
+      {
+        "transactionId": 372,
+        "bankRef": "redbark:8b5ba681-fdcd-4a24-8a25-a8972ae0e48f:bank_tx_05a48020fbeb32c92551b52510c09c5583544fc9c7af693cd72ced1fa19ae964",
+        "date": "2026-08-26",
+        "amountCents": 14499
+      },
+      {
+        "transactionId": 373,
+        "bankRef": "redbark:8b5ba681-fdcd-4a24-8a25-a8972ae0e48f:bank_tx_0d4c66e7331b3e7994cb90fd70ce6661a439a5e36dc40c922a8f233cb4741144",
+        "date": "2026-08-25",
+        "amountCents": 570
+      },
+      {
+        "transactionId": 38,
+        "bankRef": "2026-07-08|-7620|V2942 07/07 AMAZON RETA* AMAZON AU SYDNEY 74201336188#0",
+        "date": "2026-07-07",
+        "amountCents": 7620
+      },
+      {
+        "transactionId": 384,
+        "bankRef": "2026-08-27|257344|06799 Shane Schleger MASTERMYNE GROUP#0",
+        "date": "2026-08-27",
+        "amountCents": 257344
+      },
+      {
+        "transactionId": 385,
+        "bankRef": "2026-08-31|-2635|V2942 27/08 HJs Lithgow Lithgow 74773886239#0",
+        "date": "2026-08-27",
+        "amountCents": 2635
+      },
+      {
+        "transactionId": 386,
+        "bankRef": "2026-08-31|-10590|V2942 27/08 AMPOL EASTERN C 28577F EASTERN CR 74940526239#0",
+        "date": "2026-08-27",
+        "amountCents": 10590
+      },
+      {
+        "transactionId": 387,
+        "bankRef": "2026-08-31|-1260|V2942 27/08 NSWH SLHD RPA CP CAMPERDOWN 74940526239#0",
+        "date": "2026-08-27",
+        "amountCents": 1260
+      },
+      {
+        "transactionId": 388,
+        "bankRef": "2026-08-31|-49500|V2942 27/08 DAVID NEVILLE WILSON NEWTOWN 74940526239#0",
+        "date": "2026-08-27",
+        "amountCents": 49500
+      },
+      {
+        "transactionId": 389,
+        "bankRef": "2026-08-31|-2007|V2942 27/08 LINKT BRISBANE BRISBANE 74940526239#0",
+        "date": "2026-08-27",
+        "amountCents": 2007
+      },
+      {
+        "transactionId": 39,
+        "bankRef": "2026-07-08|-3180|V2942 07/07 OPENAI *CHATGPT SUBSCR OPENAI.COM 24492166188#0",
+        "date": "2026-07-08",
+        "amountCents": 3180
+      },
+      {
+        "transactionId": 390,
+        "bankRef": "2026-08-31|-20985|V2942 26/08 HYDROEXPERT 0280417959 74245376239#0",
+        "date": "2026-08-26",
+        "amountCents": 20985
+      },
+      {
+        "transactionId": 391,
+        "bankRef": "2026-08-28|-745|V2942 27/08 7-ELEVEN 2152 BURWOOD 74564456239#0",
+        "date": "2026-08-27",
+        "amountCents": 745
+      },
+      {
+        "transactionId": 392,
+        "bankRef": "2026-08-26|-749|POS 26/08 REDDY EXPRESS FIVE DOCK FIVE DOCK#0",
+        "date": "2026-08-26",
+        "amountCents": 749
+      },
+      {
+        "transactionId": 393,
+        "bankRef": "2026-08-26|-30000|POS 26/08 CCWEB SDRO PARRAMATTA#0",
+        "date": "2026-08-26",
+        "amountCents": 30000
+      },
+      {
+        "transactionId": 394,
+        "bankRef": "2026-08-26|-950|POS 26/08 A1 JUICE PTY LTD BONDI JUNCTI#0",
+        "date": "2026-08-26",
+        "amountCents": 950
+      },
+      {
+        "transactionId": 395,
+        "bankRef": "2026-08-28|-1130|V2942 26/08 AMPOL CONCORD 22362 CONCORD 74940526238#0",
+        "date": "2026-08-26",
+        "amountCents": 1130
+      },
+      {
+        "transactionId": 396,
+        "bankRef": "2026-08-31|-2842|POS 31/08 Kazzi Beach Greek Mosman#0",
+        "date": "2026-08-31",
+        "amountCents": 2842
+      },
+      {
+        "transactionId": 397,
+        "bankRef": "2026-09-02|-2813|V2942 31/08 BP CAPERTEE 9854 CAPERTEE 03825731559#0",
+        "date": "2026-08-31",
+        "amountCents": 2813
+      },
+      {
+        "transactionId": 398,
+        "bankRef": "2026-09-02|-14676|V2942 31/08 CALTEX MUDGEE 74940526243#0",
+        "date": "2026-08-31",
+        "amountCents": 14676
+      },
+      {
+        "transactionId": 399,
+        "bankRef": "2026-09-02|-2007|V2942 31/08 LINKT BRISBANE BRISBANE 74940526243#0",
+        "date": "2026-08-31",
+        "amountCents": 2007
+      },
+      {
+        "transactionId": 40,
+        "bankRef": "2026-07-09|-861|V2942 08/07 SQ *GOODE MANORS Glebe 74064146189#0",
+        "date": "2026-07-08",
+        "amountCents": 861
+      },
+      {
+        "transactionId": 400,
+        "bankRef": "2026-08-31|-610|POS 31/08 7 ELEVEN 2201 BURWOOD#0",
+        "date": "2026-08-31",
+        "amountCents": 610
+      },
+      {
+        "transactionId": 401,
+        "bankRef": "2026-08-31|-475|V2942 30/08 1635-REDDY EXPRESS MUDG MUDGEE 74363966242#0",
+        "date": "2026-08-30",
+        "amountCents": 475
+      },
+      {
+        "transactionId": 402,
+        "bankRef": "2026-08-31|-2700|V2942 30/08 LIQUORLAND 3631 MUDGEE 74363966242#0",
+        "date": "2026-08-30",
+        "amountCents": 2700
+      },
+      {
+        "transactionId": 403,
+        "bankRef": "2026-08-31|-3911|V2942 29/08 1635-REDDY EXPRESS MUDG MUDGEE 74363966241#0",
+        "date": "2026-08-29",
+        "amountCents": 3911
+      },
+      {
+        "transactionId": 404,
+        "bankRef": "2026-08-31|-1894|V2942 28/08 Reddy Express 1635 Mudgee 74363966240#0",
+        "date": "2026-08-28",
+        "amountCents": 1894
+      },
+      {
+        "transactionId": 405,
+        "bankRef": "2026-08-31|-1900|V2942 28/08 KMART 3330 MUDGEE 74363966240#0",
+        "date": "2026-08-28",
+        "amountCents": 1900
+      },
+      {
+        "transactionId": 406,
+        "bankRef": "2026-08-31|-1745|V2942 28/08 BROADVIEW AUST PTY LTD MUDGEE 74940526240#0",
+        "date": "2026-08-28",
+        "amountCents": 1745
+      },
+      {
+        "transactionId": 407,
+        "bankRef": "2026-08-30|-1050|V2942 30/08 AMPOL MUDGEE 22267F MUDGEE#0",
+        "date": "2026-08-30",
+        "amountCents": 1050
+      },
+      {
+        "transactionId": 408,
+        "bankRef": "2026-08-28|-449|EFTPOS 27/08 21:23Apple\\APPLE.COM/BILL5FMHT4a0#0",
+        "date": "2026-08-27",
+        "amountCents": 449
+      },
+      {
+        "transactionId": 409,
+        "bankRef": "2026-08-28|-70000|INTERNET TRANSFER Rent and Bills#0",
+        "date": "2026-08-28",
+        "amountCents": 70000
+      },
+      {
+        "transactionId": 41,
+        "bankRef": "2026-07-08|257344|06799 MASTERMYNE GROUP Shane Schleger#0",
+        "date": "2026-07-08",
+        "amountCents": 257344
+      },
+      {
+        "transactionId": 410,
+        "bankRef": "2026-09-01|-2000|POS 01/09 SLAR GROUP PTY LTD BURWOOD#0",
+        "date": "2026-09-01",
+        "amountCents": 2000
+      },
+      {
+        "transactionId": 411,
+        "bankRef": "2026-09-02|-375|V2942 01/09 COLES 0861 BURWOOD 74363966244#0",
+        "date": "2026-09-01",
+        "amountCents": 375
+      },
+      {
+        "transactionId": 412,
+        "bankRef": "2026-09-03|257344|06799 Shane Schleger MASTERMYNE GROUP#0",
+        "date": "2026-09-03",
+        "amountCents": 257344
+      },
+      {
+        "transactionId": 413,
+        "bankRef": "2026-09-03|-1395|POS 03/09 CRAVEABLE BRANDS STORE LITHGOW#0",
+        "date": "2026-09-03",
+        "amountCents": 1395
+      },
+      {
+        "transactionId": 414,
+        "bankRef": "2026-09-03|-371|POS 02/09 VERCEL MKT NEON +19513836898#0",
+        "date": "2026-09-02",
+        "amountCents": 371
+      },
+      {
+        "transactionId": 415,
+        "bankRef": "2026-09-03|-9562|POS 03/09 7 ELEVEN 2201 BURWOOD#0",
+        "date": "2026-09-03",
+        "amountCents": 9562
+      },
+      {
+        "transactionId": 416,
+        "bankRef": "2026-09-02|-760|POS 02/09 COLES 0861 BURWOOD#0",
+        "date": "2026-09-02",
+        "amountCents": 760
+      },
+      {
+        "transactionId": 417,
+        "bankRef": "2026-09-02|-599|POS 02/09 1691-REDDY EXPRESS FIVE FIVE DOCK#0",
+        "date": "2026-09-02",
+        "amountCents": 599
+      },
+      {
+        "transactionId": 418,
+        "bankRef": "2026-09-02|-550|POS 02/09 MCDONALDS STANMORE STANMORE#0",
+        "date": "2026-09-02",
+        "amountCents": 550
+      },
+      {
+        "transactionId": 419,
+        "bankRef": "2026-09-02|-14499|PL LOAN REPAYMENT TO A/C 311639012 SCHLEGER SHANE#0",
+        "date": "2026-09-02",
+        "amountCents": 14499
+      },
+      {
+        "transactionId": 42,
+        "bankRef": "2026-07-09|-560|V2942 08/07 COLES 0861 BURWOOD 74363966189#0",
+        "date": "2026-07-08",
+        "amountCents": 560
+      },
+      {
+        "transactionId": 420,
+        "bankRef": "2026-09-02|-13497|EFTPOS 02/09 14:00PMHydro Glenwood#0",
+        "date": "2026-09-02",
+        "amountCents": 13497
+      },
+      {
+        "transactionId": 43,
+        "bankRef": "2026-07-10|-1232|V2942 08/07 SMP*Hero Sushi Burwood Burwood 74126916189#0",
+        "date": "2026-07-08",
+        "amountCents": 1232
+      },
+      {
+        "transactionId": 44,
+        "bankRef": "2026-07-09|-9300|V2942 08/07 Montrose Medical Glebe 74249236189#0",
+        "date": "2026-07-08",
+        "amountCents": 9300
+      },
+      {
+        "transactionId": 45,
+        "bankRef": "2026-07-09|-1522|V2942 08/07 RW TRUST - CCCP MER ADVAMSYDNEY 03269324219#0",
+        "date": "2026-07-08",
+        "amountCents": 1522
+      },
+      {
+        "transactionId": 46,
+        "bankRef": "2026-07-08|-7619|V2942 07/07 AMAZON RETA* AMAZON AU SYDNEY 74201336188#0",
+        "date": "2026-07-07",
+        "amountCents": 7619
+      },
+      {
+        "transactionId": 47,
+        "bankRef": "2026-07-08|-3959|V2942 07/07 MCM SOUP PTY LTD BURWOOD 74564726188#0",
+        "date": "2026-07-07",
+        "amountCents": 3959
+      },
+      {
+        "transactionId": 48,
+        "bankRef": "2026-07-08|-70000|SHANE SCHLEGER Z9992136683 Rent and Bills#0",
+        "date": "2026-07-08",
+        "amountCents": 70000
+      },
+      {
+        "transactionId": 49,
+        "bankRef": "2026-07-10|-7608|V2942 09/07 Reddy Express 1684 Berkshire 74363966190#0",
+        "date": "2026-07-09",
+        "amountCents": 7608
+      },
+      {
+        "transactionId": 50,
+        "bankRef": "2026-07-13|-515|V2942 09/07 MCDONALDS MUDGEE MUDGEE 74564726191#0",
+        "date": "2026-07-09",
+        "amountCents": 515
+      },
+      {
+        "transactionId": 51,
+        "bankRef": "2026-07-13|-397|V2942 09/07 BUNNINGS 775000 MARSDEN PA 74940526190#0",
+        "date": "2026-07-09",
+        "amountCents": 397
+      },
+      {
+        "transactionId": 52,
+        "bankRef": "2026-07-13|-550|V2942 09/07 MGM AND ASSOCIATES PTY LITHGOW 74229856191#0",
+        "date": "2026-07-09",
+        "amountCents": 550
+      },
+      {
+        "transactionId": 53,
+        "bankRef": "2026-07-10|-18900|V2942 09/07 PROUDS 250 BURWOOD 74564456190#0",
+        "date": "2026-07-09",
+        "amountCents": 18900
+      },
+      {
+        "transactionId": 54,
+        "bankRef": "2026-07-13|-1399|V2942 10/07 Reddy Express 1635 Mudgee 74363966191#0",
+        "date": "2026-07-10",
+        "amountCents": 1399
+      },
+      {
+        "transactionId": 55,
+        "bankRef": "2026-07-13|-13000|V2942 09/07 ZIPMONEY* P896416480 ZIP.CO 74201336190#0",
+        "date": "2026-07-10",
+        "amountCents": 13000
+      },
+      {
+        "transactionId": 56,
+        "bankRef": "2026-07-13|-1895|V2942 10/07 BROADVIEW AUST PTY LTD MUDGEE 74940526191#0",
+        "date": "2026-07-10",
+        "amountCents": 1895
+      },
+      {
+        "transactionId": 57,
+        "bankRef": "2026-07-13|-7400|V2942 10/07 TELSTRA SERVICES MELBOURNE 74940526192#0",
+        "date": "2026-07-10",
+        "amountCents": 7400
+      },
+      {
+        "transactionId": 58,
+        "bankRef": "2026-07-09|-111|V2942 07/07 INTL TXN FEE-MC 24492166188#0",
+        "date": "2026-07-09",
+        "amountCents": 111
+      },
+      {
+        "transactionId": 6,
+        "bankRef": null,
+        "date": "2026-07-01",
+        "amountCents": 454447
+      },
+      {
+        "transactionId": 60,
+        "bankRef": "2026-07-13|-1248|V2942 11/07 Reddy Express 1635 Mudgee 74363966192#0",
+        "date": "2026-07-11",
+        "amountCents": 1248
+      },
+      {
+        "transactionId": 61,
+        "bankRef": "2026-07-14|-1290|V2942 12/07 AMPOL MUDGEE 22267F MUDGEE 74940526193#0",
+        "date": "2026-07-12",
+        "amountCents": 1290
+      },
+      {
+        "transactionId": 62,
+        "bankRef": "2026-07-14|-415|V2942 12/07 Alipay*Programming Shanghai 74629216195#0",
+        "date": "2026-07-12",
+        "amountCents": 415
+      },
+      {
+        "transactionId": 63,
+        "bankRef": "2026-07-13|-9830|V2942 12/07 Reddy Express 1635 Mudgee 74363966193#0",
+        "date": "2026-07-12",
+        "amountCents": 9830
+      },
+      {
+        "transactionId": 64,
+        "bankRef": "2026-07-14|-1295|V2942 12/07 BROADVIEW AUST PTY LTD MUDGEE 74940526193#0",
+        "date": "2026-07-12",
+        "amountCents": 1295
+      },
+      {
+        "transactionId": 65,
+        "bankRef": "2026-07-14|-1450|V2942 12/07 MCDONALDS CROYDON PR CROYDON PA 74564726194#0",
+        "date": "2026-07-12",
+        "amountCents": 1450
+      },
+      {
+        "transactionId": 66,
+        "bankRef": "2026-07-15|-2007|V2942 13/07 LINKT BRISBANE BRISBANE 74940526194#0",
+        "date": "2026-07-13",
+        "amountCents": 2007
+      },
+      {
+        "transactionId": 67,
+        "bankRef": "2026-07-13|-1999|1051599894987 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+        "date": "2026-07-13",
+        "amountCents": 1999
+      },
+      {
+        "transactionId": 68,
+        "bankRef": "2026-07-14|-1148|V2942 13/07 Reddy Express 1691 Five Dock 74363966194#0",
+        "date": "2026-07-13",
+        "amountCents": 1148
+      },
+      {
+        "transactionId": 69,
+        "bankRef": "2026-07-14|-460|V2942 13/07 7-ELEVEN 2152 BURWOOD 74564456194#0",
+        "date": "2026-07-13",
+        "amountCents": 460
+      },
+      {
+        "transactionId": 7,
+        "bankRef": "2026-07-01|-70000|SHANE SCHLEGER T3178038085 Rent and Bills#0",
+        "date": "2026-07-01",
+        "amountCents": 70000
+      },
+      {
+        "transactionId": 70,
+        "bankRef": "2026-07-15|-860|V2942 14/07 SQ *LUNEBURGER BURWOOD Burwood 74064146195#0",
+        "date": "2026-07-14",
+        "amountCents": 860
+      },
+      {
+        "transactionId": 71,
+        "bankRef": "2026-07-15|-1248|V2942 14/07 Reddy Express 1691 Five Dock 74363966195#0",
+        "date": "2026-07-14",
+        "amountCents": 1248
+      },
+      {
+        "transactionId": 72,
+        "bankRef": "2026-07-16|-2477|V2942 14/07 TENKOMORI BURWOOD PTY HAYMARKET 74940526195#0",
+        "date": "2026-07-14",
+        "amountCents": 2477
+      },
+      {
+        "transactionId": 73,
+        "bankRef": "2026-07-15|-560|V2942 14/07 COLES 0861 BURWOOD 74363966195#0",
+        "date": "2026-07-14",
+        "amountCents": 560
+      },
+      {
+        "transactionId": 74,
+        "bankRef": "2026-07-16|-227|V2942 15/07 ALP*Programming Shanghai 74938086197#0",
+        "date": "2026-07-15",
+        "amountCents": 227
+      },
+      {
+        "transactionId": 75,
+        "bankRef": "2026-07-16|-560|V2942 15/07 COLES 0861 BURWOOD 74363966196#0",
+        "date": "2026-07-15",
+        "amountCents": 560
+      },
+      {
+        "transactionId": 76,
+        "bankRef": "2026-07-17|-1131|V2942 15/07 SMP*Hero Sushi Burwood Burwood 74126916196#0",
+        "date": "2026-07-15",
+        "amountCents": 1131
+      },
+      {
+        "transactionId": 77,
+        "bankRef": "2026-07-17|-8579|V2942 15/07 AMPOL EASTERN C 28577F EASTERN CR 74940526196#0",
+        "date": "2026-07-15",
+        "amountCents": 8579
+      },
+      {
+        "transactionId": 78,
+        "bankRef": "2026-07-17|-2007|V2942 15/07 LINKT BRISBANE BRISBANE 74940526196#0",
+        "date": "2026-07-15",
+        "amountCents": 2007
+      },
+      {
+        "transactionId": 79,
+        "bankRef": "2026-07-17|-1518|V2942 15/07 BP CAPERTEE 9854 CAPERTEE 00436124373#0",
+        "date": "2026-07-15",
+        "amountCents": 1518
+      },
+      {
+        "transactionId": 81,
+        "bankRef": "2026-07-17|-2899|V2942 15/07 Netflix.com Melbourne 24016816196#0",
+        "date": "2026-07-16",
+        "amountCents": 2899
+      },
+      {
+        "transactionId": 82,
+        "bankRef": "2026-07-17|-1399|V2942 16/07 Reddy Express 1635 Mudgee 74363966197#0",
+        "date": "2026-07-16",
+        "amountCents": 1399
+      },
+      {
+        "transactionId": 83,
+        "bankRef": "2026-07-16|257344|06799 MASTERMYNE GROUP Shane Schleger#0",
+        "date": "2026-07-16",
+        "amountCents": 257344
+      },
+      {
+        "transactionId": 84,
+        "bankRef": "2026-07-16|-70000|SHANE SCHLEGER M0781342012#0",
+        "date": "2026-07-16",
+        "amountCents": 70000
+      },
+      {
+        "transactionId": 85,
+        "bankRef": "2026-07-17|-231|V2942 16/07 ALP*Programming Shanghai 74938086198#0",
+        "date": "2026-07-16",
+        "amountCents": 231
+      },
+      {
+        "transactionId": 86,
+        "bankRef": "2026-07-17|-12613|V2942 16/07 MEDIBANK PHI DEBIT MELBOURNE 74564726197#0",
+        "date": "2026-07-16",
+        "amountCents": 12613
+      },
+      {
+        "transactionId": 87,
+        "bankRef": "2026-07-17|-450|V2942 16/07 SHELL MUDGEE MUDGEE 74564456197#0",
+        "date": "2026-07-16",
+        "amountCents": 450
+      },
+      {
+        "transactionId": 89,
+        "bankRef": "2026-07-20|-4725|V2942 17/07 2CO.COM�ASTRILL SYSTEM AMSTERDAM 74008606198#0",
+        "date": "2026-07-18",
+        "amountCents": 4725
+      },
+      {
+        "transactionId": 9,
+        "bankRef": null,
+        "date": "2026-07-01",
+        "amountCents": 16378
+      },
+      {
+        "transactionId": 90,
+        "bankRef": "2026-07-20|-13000|V2942 16/07 ZIPMONEY* P898654079 ZIP.CO 74201336198#0",
+        "date": "2026-07-18",
+        "amountCents": 13000
+      },
+      {
+        "transactionId": 91,
+        "bankRef": "2026-07-20|-749|V2942 18/07 Reddy Express 1635 Mudgee 74363966199#0",
+        "date": "2026-07-18",
+        "amountCents": 749
+      },
+      {
+        "transactionId": 92,
+        "bankRef": "2026-07-20|-459|V2942 18/07 Reddy Express 1635 Mudgee 74363966199#0",
+        "date": "2026-07-18",
+        "amountCents": 459
+      },
+      {
+        "transactionId": 93,
+        "bankRef": "2026-07-21|-1855|V2942 18/07 MCDONALDS MUDGEE MUDGEE 74564726201#0",
+        "date": "2026-07-18",
+        "amountCents": 1855
+      },
+      {
+        "transactionId": 94,
+        "bankRef": "2026-07-21|-12460|V2942 19/07 AMPOL MUDGEE 22267F MUDGEE 74940526200#0",
+        "date": "2026-07-19",
+        "amountCents": 12460
+      },
+      {
+        "transactionId": 95,
+        "bankRef": "2026-07-20|-249|V2942 19/07 ALP*Programming Shanghai 74938086201#0",
+        "date": "2026-07-19",
+        "amountCents": 249
+      },
+      {
+        "transactionId": 96,
+        "bankRef": "2026-07-20|-5547|EFTPOS 18/07 05:07GENEA\\#0",
+        "date": "2026-07-18",
+        "amountCents": 5547
+      },
+      {
+        "transactionId": 97,
+        "bankRef": "2026-07-20|377800|ATO001000023620650 ATO SHANE SCHLEGER#0",
+        "date": "2026-07-18",
+        "amountCents": 377800
+      },
+      {
+        "transactionId": 98,
+        "bankRef": "2026-07-20|-1399|V2942 19/07 Reddy Express 1635 Mudgee 74363966200#0",
+        "date": "2026-07-19",
+        "amountCents": 1399
+      },
+      {
+        "transactionId": 99,
+        "bankRef": "2026-07-21|-1430|V2942 19/07 MCDONALDS LITHGOW LITHGOW 74564726201#0",
+        "date": "2026-07-19",
+        "amountCents": 1430
+      }
+    ]
+  },
+  "candidates": [
+    {
+      "fingerprint": "2026-08-27|-2007|V2942 25/08 LINKT BRISBANE BRISBANE 74940526237#0",
+      "dispositions": {
+        "provisional": [],
+        "canonical": [
+          {
+            "canonicalRef": "2026-08-31|-2007|V2942 27/08 LINKT BRISBANE BRISBANE 74940526239#0",
+            "date": "2026-08-27",
+            "payee": "Linkt"
+          },
+          {
+            "canonicalRef": "2026-08-20|-2007|V2942 20/08 Linkt Brisbane#0",
+            "date": "2026-08-20",
+            "payee": "Linkt"
+          },
+          {
+            "canonicalRef": "2026-09-02|-2007|V2942 31/08 LINKT BRISBANE BRISBANE 74940526243#0",
+            "date": "2026-08-31",
+            "payee": "Linkt"
+          },
+          {
+            "canonicalRef": "2026-08-19|-2007|V2942 17/08 LINKT BRISBANE BRISBANE 74940526229#0",
+            "date": "2026-08-17",
+            "payee": "Linkt"
+          },
+          {
+            "canonicalRef": "2026-08-07|-2007|V2942 04/08 LINKT BRISBANE BRISBANE 74940526217#0",
+            "date": "2026-08-04",
+            "payee": "Linkt"
+          }
+        ]
+      }
+    },
+    {
+      "fingerprint": "2026-08-27|-900|V2942 25/08 BURWOOD RAILWAY NEWS BURWOOD 74742726237#0",
+      "dispositions": {
+        "provisional": [],
+        "canonical": []
+      }
+    },
+    {
+      "fingerprint": "2026-08-27|-5000|ONLINE K2774048670 Linked Acc Trns SCHLEGER SP#0",
+      "dispositions": {
+        "provisional": [],
+        "canonical": []
+      }
+    }
+  ],
+  "decisions": {
+    "2026-08-27|-2007|V2942 25/08 LINKT BRISBANE BRISBANE 74940526237#0": {
+      "categoryId": 11,
+      "payee": "Linkt"
+    },
+    "2026-08-27|-900|V2942 25/08 BURWOOD RAILWAY NEWS BURWOOD 74742726237#0": {
+      "categoryId": 22,
+      "payee": "Burwood Railway News"
+    },
+    "2026-08-27|-5000|ONLINE K2774048670 Linked Acc Trns SCHLEGER SP#0": {
+      "categoryId": 18,
+      "payee": "Linked-account transfer — Max purchasing card",
+      "note": "Cash moved to an untracked card/account for Max purchasing ability; Shane directed Misc expenses on 2026-09-03."
+    }
+  }
+}

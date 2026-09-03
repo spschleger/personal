@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "reason": "Repair three posted NAB debits omitted behind the CSV watermark; together they explain the exact $79.07 app-to-bank balance discrepancy identified 2026-09-03.",
+  "fingerprints": [
+    "2026-08-27|-2007|V2942 25/08 LINKT BRISBANE BRISBANE 74940526237#0",
+    "2026-08-27|-900|V2942 25/08 BURWOOD RAILWAY NEWS BURWOOD 74742726237#0",
+    "2026-08-27|-5000|ONLINE K2774048670 Linked Acc Trns SCHLEGER SP#0"
+  ]
+}
