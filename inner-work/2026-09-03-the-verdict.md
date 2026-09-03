@@ -90,6 +90,11 @@ Grounded in what worked with smoking: identity, not behaviour; felt as already t
 
 **The scene (rehearse the end state, Murphy's method):** morning, phone in hand, the lawyer's reply open. Three of the six are a hard no. Reading it slowly. The body stays loose. What's present is relief and curiosity, and a small satisfaction that the line has finally been surveyed. Nodding once. Opening the notes and writing the next binary question. Feel the relief specifically, in the chest and shoulders, as if it's already happened. Stay in it until it feels ordinary.
 
+
+**The déjà vu state (Shane's own technique, from the running years).** Not on this machine's transcripts (pre-rebuild or claude.ai), so this is a placeholder for Shane to fill: a conjured state of déjà vu, meditated on while running, used as motivational fuel. It fits the method exactly: déjà vu is the felt sense that this has already happened, which is the lever Murphy names as "feel it as already true", delivered pre-verbally rather than as a sentence. Use it as the state in which the scene above is held. Describe here how it was conjured, what it felt like, and what it was pointed at:
+
+- (Shane to fill)
+
 **Secondary scenes for later sessions:** a doctor saying no on the phone and the conversation staying friendly; a customer replying "not for me" and me thanking him; showing someone work at sixty percent and hearing the flaws listed. Same felt quality each time: loose, curious, still standing, next question.
 
 **Suggestion set (present tense, felt, repeated at the drowsy edge before sleep and on waking):**
