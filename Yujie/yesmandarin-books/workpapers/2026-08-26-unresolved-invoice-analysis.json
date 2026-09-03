@@ -56,11 +56,19 @@
           "source_status": "Already consumed by the explicitly referenced 2026-05-13 bank receipt"
         }
       ],
-      "conclusion": "No surviving invoice in the 2026-08-24 Xero export supports the later Term 3 receipt. It likely relates to a missing or not-yet-created invoice, but creating one requires source details or Felicity's confirmation.",
-      "xero_status": "Unreconciled."
+      "conclusion": "No surviving invoice in the 2026-08-24 Xero export supports the later Term 3 receipt. Shane confirmed on 2026-09-03 that Daniel Lie is a student, had paid another invoice, and this receipt is sales from a verbal agreement. Do not create a retrospective invoice solely to clear the bank line; record the receipt directly as sales income.",
+      "decided_treatment": {
+        "date": "2026-09-03",
+        "transaction": "Receive Money",
+        "contact": "Daniel Lie",
+        "account": "200 - Sales",
+        "description": "Term 3 Mandarin tuition - verbal agreement",
+        "tax_rate": "BAS Excluded"
+      },
+      "xero_status": "Unreconciled; posting blocked on 2026-09-03 because the authenticated Mac browser surface was unavailable."
     }
   ],
   "next_actions": [
-    "Obtain the Term 3 invoice or service details for Daniel Lie before creating or allocating any invoice."
+    "Reconcile the 2026-07-27 Daniel Lie receipt directly to 200 - Sales as Term 3 Mandarin tuition under a verbal agreement; do not allocate it to INV-0066 or create a retrospective invoice solely for reconciliation."
   ]
 }
