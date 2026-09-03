@@ -56,6 +56,65 @@ The Micko lawyer brief. Send before the flight on 9 September, unedited. Cover l
 
 The goal is not a good answer. The goal is one verdict from a stranger on my own work, and still standing afterwards.
 
+## All findings from the full read (3 Sep 2026)
+
+The complete list, so nothing has to be re-derived. Each one was confirmed ("everything you've written there is very true").
+
+1. **The border is a stranger's written verdict on my work, on their schedule.** Not the serious world. In person and against reality I'm fine. I did the exact act for Yujie (two Beijing neurosurgeons, replies in a day). The block is specific to verdicts on my own work.
+2. **I built an industrial apparatus for verdicts without strangers.** 315-agent research runs, three-vote adversarial checks, 145 and 105-check validations, 265 synthetic customers. Every kill in five months came from a simulated verdict. External verdicts on any venture: zero. The apparatus is excellent and it is also the mechanism, because it makes the private phase feel like progress indefinitely.
+3. **My agents carry the traits I withhold from myself.** Max: letting someone walk away is complicit in their loss; never accept "I'll think about it" without showing what it costs. Micko: nobody proves suffering to get in. Me: full proof required before I enter any room; the brief in "I'll think about it" for five weeks. Inbound-first forever is sound doctrine and also a business shaped so I never initiate.
+4. **Infrastructure is my respectable pivot.** Bigger-better I've named and catch. Fresh-start rebuilds, fleet wiring, reconcilers, tooling I haven't. The August fleet build happened while the brief sat in drafts. The tell is the pleasure of the clean slate: clean-room folder, "forces a genuinely fresh rebuild", everything else to archive.
+5. **I'm an options-maximiser and exercising feels like loss.** Nothing killed except by external verdict; everything parked, archived, frozen, kept as insurance, thirteen runner-up names recorded. Archive is the graveyard that isn't one. The loan is the same shape: paid 21 percent for liquidity in the name of optionality, then didn't deploy it.
+6. **"Locked" is a free ritual.** LOCKED, DECIDED, SIGNED, CANONICAL all through the record; each was the one. What actually stuck (job, IP buyout, TRT, loan, domains) all cost money paid to a stranger. I buy the domain the same night because it's the cheapest irreversible act available. Revealed preference: airway surgery "untouchable" in July, personal loan for Micko three weeks later.
+7. **Every venture is my current body project, productised.** Coal LSL (own claim), fertility (own hCG), bloods (own trackers), Micko (tadalafil), Wisper (the week reta and recomp were on my mind). Founder-as-customer is a strength; the cost is the venture pivots when my body focus pivots, and that cycle churns too.
+8. **I execute for others what I defer for myself.** Yujie's DICOMs frame by frame, Beijing surgeons, her books and content, Mum's debt cleared first; my own recomp shelved, my own coach unspoken to for a year. The caring engine is my most reliable executor. The pre-customer phase is the only phase with nobody to care for, and every pivot resets me into it. I don't need conviction to start; I need one named person who is currently losing.
+9. **I accept any verdict on outcome and none on process.** Statute over guidance, the judge not ASIC, advice quality not production method, symptoms not lab numbers, human review is a failure mode. Usually right. And it explains the rooms I avoid: customers judge results; lawyers, licensees and labs judge thinking before there are results. Every gate before customer one is a process room.
+10. **Every constraint becomes doctrine, so none gets removed.** Line cap = scarcity, inbound-only = carrier-safe, solo = no dilution, underground = exclusivity. I keep converging on a business where no other human has to say yes. I dislike every intermediary (advisers, Xero, TM images, review queues), and the intermediaries I can't design away are exactly where things stall.
+11. **The identity shift was aimed at the wrong target.** Not belief in myself; I have that in competence and the record backs it. The smoking shift was internal, no stranger in the loop. This one has a stranger in the loop by definition. The identity that moves it is *someone whose work is seen before it's finished*.
+12. **Chosen, not choosing.** I've been picked for competence my whole career. Being picked requires visible work. A venture's work is invisible until I show it, which is the act I've never had to do. The founder picks himself and asks strangers for things. That isn't subordination; the one asking holds the plan and the chequebook.
+13. **I sell only through agents.** The most persuasive thing about me is the honesty in the record (funding reality corrected mid-session, confounds named first, own arguments retracted), and no stranger has ever seen it, because I never sell myself, only via Max or Micko.
+
+## Material for hypnosis sessions
+
+Grounded in what worked with smoking: identity, not behaviour; felt as already true; specific, repeated, emotionally loaded, over time. The one structural difference this time: the smoker's new identity acted on its own with no one else involved. This identity needs a stranger in the loop, so **the scene rehearsed is the receipt of the verdict, and every session closes with a named act the next morning**. Session at night, send in the morning. No session without a send attached to it, or it's inward work wearing a robe.
+
+**Target identity (choose the phrasing that feels true in the drowsy state, not the cleverest):**
+- I'm the client.
+- I'm someone whose work gets seen before it's finished.
+- I have results. Small ones first.
+- I ask for the no.
+
+**Not this:** "I'm not afraid of judgement", "I believe in myself", "I am brave." Negations and generalities don't take. Competence-belief is already full.
+
+**The old identity to let die, named so it can be:** the person with potential. The one who could have learned anything, whose design is brilliant, untested. Thank it and put it down, the way the smoker was put down.
+
+**The scene (rehearse the end state, Murphy's method):** morning, phone in hand, the lawyer's reply open. Three of the six are a hard no. Reading it slowly. The body stays loose. What's present is relief and curiosity, and a small satisfaction that the line has finally been surveyed. Nodding once. Opening the notes and writing the next binary question. Feel the relief specifically, in the chest and shoulders, as if it's already happened. Stay in it until it feels ordinary.
+
+**Secondary scenes for later sessions:** a doctor saying no on the phone and the conversation staying friendly; a customer replying "not for me" and me thanking him; showing someone work at sixty percent and hearing the flaws listed. Same felt quality each time: loose, curious, still standing, next question.
+
+**Suggestion set (present tense, felt, repeated at the drowsy edge before sleep and on waking):**
+- The no is information. I asked for it.
+- I'm the one asking. They work for me.
+- I can lose. I'm not being graded.
+- My work is seen unfinished, and that's how it gets finished.
+- Every verdict I receive makes me larger, not smaller.
+- I send in the morning.
+
+**Session shape (v0, rewrite in your own voice):**
+1. Settle. Slow the breath. Let the day go. Count down, ten to one, heavier each number.
+2. Deepen. Underground, end of shift, the quiet after the machines stop. Nothing to prove down here. The rock doesn't grade.
+3. Name and release. "I was the one with potential. That kept me safe. I don't need it now." Let it go down the drift behind you.
+4. Install. Say the identity lines slowly, as fact. "I'm the client. My work gets seen. I ask for the no."
+5. Rehearse the scene above in full sensory detail. Hold the relief. Hold it longer than feels necessary.
+6. Future-pace. Tomorrow morning: the exact message, the exact recipient, the thumb on send, the ordinary feeling afterwards. See the day carrying on.
+7. Return. Count up, one to five, alert, and say out loud what gets sent in the morning.
+
+**First session's send:** the lawyer brief, before 9 September.
+
+**Log each session and its send here:**
+
+- (date) — session: (which scene) — morning send: (what, to whom) — sent: yes/no
+
 ---
 
 *Companion: the letter to Max at `max-personal/ON-SHANE.md`. Claude's memory carries the same standing rule.*
