@@ -1,0 +1,346 @@
+{
+  "as_of": "2026-09-08",
+  "status": "complete_14_credit_review_one_existing_invoice_match_posted_and_verified",
+  "scope": "All 14 FY2025-26 credits that remained after the 8 September approved expense batch, plus a read-only missing-fact inventory for the eight remaining FY debits.",
+  "account": "CBA Business Account ending 1913",
+  "guardrails": [
+    "No new invoice, income transaction, account, bank rule, transfer, payment commitment or outbound communication was created.",
+    "Only the Hab receipt was reconciled because the payer identity, existing invoice contact evidence, amount and unpaid balance were unequivocal and no conflicting match was present.",
+    "Direct tuition treatments below are proposals for parent judgement, not postings.",
+    "Bank descriptions that state Mandarin, Chinese lessons, term fees, lessons, student or classes are retained as purpose evidence rather than labelled as no evidence.",
+    "BAS Excluded is the established non-GST treatment for direct tuition receipts in this reconstruction; no GST is claimed."
+  ],
+  "controls": {
+    "credit_count": 14,
+    "credit_total": "9165.00",
+    "source_rows": [69, 71, 125, 126, 156, 163, 164, 178, 183, 184, 192, 193, 196, 198],
+    "outcome_counts": {
+      "reconciled_to_existing_invoice": 1,
+      "direct_tuition_candidate_pending_parent": 7,
+      "invoice_or_direct_tuition_choice_pending_identity_confirmation": 1,
+      "held_for_nature_or_identity_fact": 5
+    },
+    "outcome_totals": {
+      "reconciled_to_existing_invoice": "680.00",
+      "direct_tuition_candidate_pending_parent": "3994.00",
+      "invoice_or_direct_tuition_choice_pending_identity_confirmation": "558.00",
+      "held_for_nature_or_identity_fact": "3933.00"
+    },
+    "xero_queue_before_credit_write": 59,
+    "xero_queue_after_credit_write": 58,
+    "book_balance_before_credit_write": "21616.57",
+    "book_balance_after_credit_write": "22296.57",
+    "book_balance_movement": "680.00",
+    "statement_balance": "31016.85",
+    "remaining_after_write": {
+      "all_unreconciled_statement_lines": 58,
+      "fy2025_26_unreconciled_lines": 21,
+      "fy2025_26_credits": 13,
+      "fy2025_26_debits": 8,
+      "post_2026_06_30_lines": 37
+    }
+  },
+  "evidence_sources": [
+    "sources/bank/2025-07-01-to-2026-08-17-xero-bank-import.csv",
+    "sources/xero/2026-08-24-sales-invoices.csv",
+    "workpapers/2026-08-25-account-1913-reconciliation-worklist.csv",
+    "workpapers/2026-08-25-xero-invoice-reconciliation-result.json",
+    "workpapers/2026-09-08-fy2025-26-remaining-inventory-and-mapping-proposals.json",
+    "live Xero Bank Reconciliation and Review reconciled in the signed-in Max Chrome session"
+  ],
+  "credit_inventory": [
+    {
+      "source_row": 69,
+      "date": "2026-01-27",
+      "amount": "588.00",
+      "payer": "Aidan Lam",
+      "bank_description": "Fast Transfer From Lam A Aidan Lam mandarin",
+      "bank_purpose_evidence": "The payer and the word 'mandarin' establish a Mandarin-related receipt.",
+      "local_invoice_evidence": "INV-0085 is an Aidan Lam invoice for $588 dated 7 August 2026, but workpapers/2026-08-25-xero-invoice-reconciliation-result.json proves it was settled by the later 9 August 2026 $588 Aidan Lam bank receipt.",
+      "live_xero_evidence": "The 27 January row remained in the live queue with no invoice match offered; the full-queue capture shows a blank match/create form for this row.",
+      "match_conclusion": "Do not reuse INV-0085; that would duplicate its later verified payment.",
+      "proposed_treatment": "Parent may approve direct tuition recognition to 200 - Sales, BAS Excluded, without creating an invoice.",
+      "decision_status": "direct_tuition_candidate_pending_parent",
+      "action_taken": "none",
+      "evidence_path": "workpapers/evidence/2026-09-08-fy-credit-review/open-queue-aidan-bianca-john.png"
+    },
+    {
+      "source_row": 71,
+      "date": "2026-01-29",
+      "amount": "588.00",
+      "payer": "Bianca Wong",
+      "bank_description": "Fast Transfer From BIANCA WONG Chinese lesson Bianca wong",
+      "bank_purpose_evidence": "The bank narration explicitly identifies a Chinese lesson.",
+      "local_invoice_evidence": "INV-0084 is a Bianca Wong invoice for $588 dated 7 August 2026, but workpapers/2026-08-25-xero-invoice-reconciliation-result.json proves it was settled by the later 16 August 2026 $588 Bianca Wong bank receipt.",
+      "live_xero_evidence": "The live January row offered a previous direct 200 - Sales/BAS Excluded create suggestion, not an unpaid invoice match.",
+      "match_conclusion": "Do not reuse INV-0084; that would duplicate its later verified payment.",
+      "proposed_treatment": "Parent may approve direct tuition recognition to 200 - Sales, BAS Excluded, without creating an invoice.",
+      "decision_status": "direct_tuition_candidate_pending_parent",
+      "action_taken": "none",
+      "evidence_path": "workpapers/evidence/2026-09-08-fy-credit-review/open-queue-aidan-bianca-john.png"
+    },
+    {
+      "source_row": 125,
+      "date": "2026-04-14",
+      "amount": "585.00",
+      "payer": "John L Potter",
+      "bank_description": "Fast Transfer From JOHN L POTTER Term Fees Mandarin John Potter",
+      "bank_purpose_evidence": "The bank narration explicitly identifies Mandarin term fees.",
+      "local_invoice_evidence": "No John Potter contact or $585 same-payer invoice exists in the preserved Xero invoice export.",
+      "live_xero_evidence": "The isolated live row showed no proposed invoice match and a blank create form.",
+      "match_conclusion": "No existing invoice can be used.",
+      "proposed_treatment": "Parent may approve direct tuition recognition to 200 - Sales, BAS Excluded, without creating an invoice.",
+      "decision_status": "direct_tuition_candidate_pending_parent",
+      "action_taken": "none",
+      "evidence_path": "workpapers/evidence/2026-09-08-fy-credit-review/open-queue-aidan-bianca-john.png"
+    },
+    {
+      "source_row": 126,
+      "date": "2026-04-17",
+      "amount": "590.00",
+      "payer": "Anthony Dengate",
+      "bank_description": "Fast Transfer From Anthony Dengate Mandarin Lessons Anthony Dengate",
+      "bank_purpose_evidence": "The bank narration explicitly identifies Mandarin lessons.",
+      "local_invoice_evidence": "No Anthony Dengate contact or same-payer invoice exists in the preserved invoice export. The export's $590 invoice is INV-0055 for Nyoka Axton and was already paid; it is not payer identity evidence.",
+      "live_xero_evidence": "The isolated live row showed no proposed invoice match and a blank create form.",
+      "match_conclusion": "No existing invoice can be used.",
+      "proposed_treatment": "Parent may approve direct tuition recognition to 200 - Sales, BAS Excluded, without creating an invoice.",
+      "decision_status": "direct_tuition_candidate_pending_parent",
+      "action_taken": "none"
+    },
+    {
+      "source_row": 156,
+      "date": "2026-05-20",
+      "amount": "1300.00",
+      "payer": "Hero Li",
+      "bank_description": "Fast Transfer From HERO LI CREDIT TO ACCOUNT Hero Li",
+      "bank_purpose_evidence": "The bank establishes payer identity only; it does not state lessons, tuition or another purpose.",
+      "local_invoice_evidence": "INV-0070 is a $1,300 invoice dated 19 May 2026 for XO Maintenance Pty Ltd, with email hero_vsop@icloud.com, and the preserved export showed $1,300 due.",
+      "live_xero_evidence": "Xero offered the 19 May XO Maintenance Pty Ltd INV-0070 transaction for the exact $1,300 amount.",
+      "match_conclusion": "Strong candidate but not unequivocal: the bank payer Hero Li is not the invoice contact XO Maintenance Pty Ltd and there is no invoice reference in the bank narration.",
+      "proposed_treatment": "Hold. If Felicity confirms Hero Li paid INV-0070 for XO Maintenance Pty Ltd, match the existing invoice; otherwise obtain the receipt's actual purpose before any direct treatment.",
+      "exact_missing_fact": "Is Hero Li the payer for XO Maintenance Pty Ltd's INV-0070, and was this $1,300 receipt payment of that invoice?",
+      "decision_status": "held_for_nature_or_identity_fact",
+      "action_taken": "none",
+      "evidence_path": "workpapers/evidence/2026-09-08-fy-credit-review/hero-inv0070-candidate.png"
+    },
+    {
+      "source_row": 163,
+      "date": "2026-06-05",
+      "amount": "680.00",
+      "payer": "Courtney McMillan",
+      "bank_description": "Fast Transfer From COURTNEY MCMILLAN Courtney McMillan student Courtney",
+      "bank_purpose_evidence": "The narration identifies Courtney as a student, supporting a tuition/student-fee purpose.",
+      "local_invoice_evidence": "No Courtney McMillan contact exists in the preserved invoice export.",
+      "live_xero_evidence": "Xero offered Jack Anderson's INV-0071 for $680 and stated that two other possible matches existed; none supplied Courtney payer identity.",
+      "match_conclusion": "The existing matches are conflicting amount matches and must not be used.",
+      "proposed_treatment": "Parent may approve direct tuition recognition to 200 - Sales, BAS Excluded, without creating an invoice.",
+      "decision_status": "direct_tuition_candidate_pending_parent",
+      "action_taken": "none"
+    },
+    {
+      "source_row": 164,
+      "date": "2026-06-06",
+      "amount": "177.00",
+      "payer": "Jessica Chen",
+      "bank_description": "Fast Transfer From MISS JESSICA SUE CHEN CREDIT TO ACCOUNT Jessica Chen",
+      "bank_purpose_evidence": "The bank establishes payer identity only.",
+      "local_invoice_evidence": "The only Jessica invoice in the export is later INV-0079 dated 7 August 2026 for $195, not $177.",
+      "live_xero_evidence": "The isolated live row showed no proposed invoice match and a blank create form.",
+      "match_conclusion": "No existing invoice match; the later different-amount invoice is not evidence for this receipt.",
+      "proposed_treatment": "Hold until the receipt purpose is confirmed.",
+      "exact_missing_fact": "What did Jessica Chen's 6 June $177 payment pay for?",
+      "decision_status": "held_for_nature_or_identity_fact",
+      "action_taken": "none"
+    },
+    {
+      "source_row": 178,
+      "date": "2026-06-15",
+      "amount": "1280.00",
+      "payer": "Jutamas Suetrong",
+      "bank_description": "Fast Transfer From JUTAMAS SUETRONG Jutamas Jutamas",
+      "bank_purpose_evidence": "The bank establishes payer identity only.",
+      "local_invoice_evidence": "No Jutamas Suetrong contact or $1,280 same-payer invoice exists in the preserved invoice export.",
+      "live_xero_evidence": "The isolated live row showed no proposed invoice match and a blank create form.",
+      "match_conclusion": "No existing invoice match and no source-backed receipt nature.",
+      "proposed_treatment": "Hold until the receipt purpose is confirmed.",
+      "exact_missing_fact": "What did Jutamas Suetrong's 15 June $1,280 payment pay for?",
+      "decision_status": "held_for_nature_or_identity_fact",
+      "action_taken": "none"
+    },
+    {
+      "source_row": 183,
+      "date": "2026-06-16",
+      "amount": "345.00",
+      "payer": "Maria John",
+      "bank_description": "Fast Transfer From MARIA JOHN Payment for 5 lessons from Suguru",
+      "bank_purpose_evidence": "The bank narration explicitly identifies payment for five lessons and student/contact Suguru.",
+      "local_invoice_evidence": "INV-0078 for Suguru is a zero-dollar invoice dated 8 July 2026 and cannot absorb $345. The bank source also contains a separate later 5 August 2026 $345 Maria John/Suguru receipt, so the June receipt must not be silently conflated with the later receipt.",
+      "live_xero_evidence": "Searching Maria John returned the 16 June and 5 August bank lines; no invoice match was offered for the June line.",
+      "match_conclusion": "No existing invoice can be used; the zero invoice is not a $345 receivable.",
+      "proposed_treatment": "Parent may approve direct tuition recognition to 200 - Sales, BAS Excluded, for the explicitly described five lessons, without creating an invoice.",
+      "decision_status": "direct_tuition_candidate_pending_parent",
+      "action_taken": "none"
+    },
+    {
+      "source_row": 184,
+      "date": "2026-06-16",
+      "amount": "680.00",
+      "payer": "Habtemariam Musgun / Hab",
+      "bank_description": "Fast Transfer From HABTEMARIAM MUSGUN Hab",
+      "bank_purpose_evidence": "Bank payer full name and reference 'Hab' align to the existing customer contact.",
+      "local_invoice_evidence": "INV-0074 is for contact Hab, email habtemariam.musgun@gmail.com, dated 16 June 2026, total and preserved unpaid balance $680, for full-term private Mandarin classes.",
+      "live_xero_evidence": "The existing invoice was the exact live match, and after reconciliation Xero Review reconciled shows exactly one 16 June 2026 Payment: Hab, document type Invoice payment, account 200 - Sales, received $680.00, method Manual.",
+      "match_conclusion": "Unequivocal existing invoice match: exact identity through full-name email/contact alias, same date, exact amount and unpaid balance, with no conflicting candidate.",
+      "proposed_treatment": "Reconciled to existing INV-0074; no new income transaction or invoice was created.",
+      "decision_status": "reconciled_to_existing_invoice",
+      "action_taken": "reconciled_and_postwrite_verified",
+      "postwrite_effect": {
+        "queue": "59 -> 58",
+        "book_balance": "21616.57 -> 22296.57",
+        "movement": "680.00"
+      },
+      "evidence_path": "workpapers/evidence/2026-09-08-fy-credit-review/hab-postwrite-review.png"
+    },
+    {
+      "source_row": 192,
+      "date": "2026-06-23",
+      "amount": "558.00",
+      "payer": "Wai K Chan",
+      "bank_description": "Fast Transfer From Wai K Chan Mandarin lessons dorafa term 1",
+      "bank_purpose_evidence": "The bank narration explicitly identifies Mandarin lessons for Dorafa, term 1.",
+      "local_invoice_evidence": "INV-0076 is a $558 group-class invoice dated 26 June 2026 for Nitchakan; the preserved export showed $558 due, but no local source links Wai K Chan or Dorafa to Nitchakan.",
+      "live_xero_evidence": "Xero offered Nitchakan INV-0076 for this exact amount; it also offered the same invoice to the separate Alexander O'Neill $558 bank line on the same day.",
+      "match_conclusion": "Conflicting match. Amount and class nature are not enough to identify Nitchakan as Dorafa or Wai K Chan.",
+      "proposed_treatment": "If Felicity confirms Nitchakan is the billed contact for Dorafa and Wai K Chan paid INV-0076, match that invoice. If INV-0076 is unrelated, parent may instead approve direct tuition recognition to 200 - Sales, BAS Excluded.",
+      "exact_missing_fact": "Is Nitchakan the billed contact for student Dorafa, and did Wai K Chan's $558 settle INV-0076?",
+      "decision_status": "invoice_or_direct_tuition_choice_pending_identity_confirmation",
+      "action_taken": "none"
+    },
+    {
+      "source_row": 193,
+      "date": "2026-06-23",
+      "amount": "558.00",
+      "payer": "Alexander O'Neill",
+      "bank_description": "Fast Transfer From O'Neill A F ALEXANDER O'NEILL",
+      "bank_purpose_evidence": "The bank establishes payer identity only.",
+      "local_invoice_evidence": "No Alexander O'Neill contact exists in the preserved invoice export. The $558 INV-0076 belongs to Nitchakan.",
+      "live_xero_evidence": "Xero offered Nitchakan INV-0076 for this row solely on amount/date proximity; the same invoice was also offered to Wai K Chan's separate $558 row.",
+      "match_conclusion": "Conflicting, wrong-name amount match; do not use INV-0076.",
+      "proposed_treatment": "Hold until the receipt purpose is confirmed.",
+      "exact_missing_fact": "What did Alexander O'Neill's 23 June $558 payment pay for?",
+      "decision_status": "held_for_nature_or_identity_fact",
+      "action_taken": "none"
+    },
+    {
+      "source_row": 196,
+      "date": "2026-06-26",
+      "amount": "618.00",
+      "payer": "Jen Rollins",
+      "bank_description": "Fast Transfer From Rollins J E Jen Rollins",
+      "bank_purpose_evidence": "The bank establishes payer identity only.",
+      "local_invoice_evidence": "No Jen Rollins contact or same-payer invoice exists in the preserved invoice export.",
+      "live_xero_evidence": "The isolated live row showed no proposed invoice match and a blank create form.",
+      "match_conclusion": "No existing invoice match and no source-backed receipt nature.",
+      "proposed_treatment": "Hold until the receipt purpose is confirmed.",
+      "exact_missing_fact": "What did Jen Rollins' 26 June $618 payment pay for?",
+      "decision_status": "held_for_nature_or_identity_fact",
+      "action_taken": "none",
+      "evidence_path": "workpapers/evidence/2026-09-08-fy-credit-review/rollins-no-match.png"
+    },
+    {
+      "source_row": 198,
+      "date": "2026-06-27",
+      "amount": "618.00",
+      "payer": "Jenny Bisset",
+      "bank_description": "Fast Transfer From J BISSET Mandarin classes Jenny Bisset",
+      "bank_purpose_evidence": "The bank narration explicitly identifies Mandarin classes.",
+      "local_invoice_evidence": "No Jenny Bisset contact or same-payer invoice exists in the preserved invoice export.",
+      "live_xero_evidence": "The isolated live row showed no proposed invoice match and a blank create form.",
+      "match_conclusion": "No existing invoice can be used.",
+      "proposed_treatment": "Parent may approve direct tuition recognition to 200 - Sales, BAS Excluded, without creating an invoice.",
+      "decision_status": "direct_tuition_candidate_pending_parent",
+      "action_taken": "none",
+      "evidence_path": "workpapers/evidence/2026-09-08-fy-credit-review/bisset-no-match.png"
+    }
+  ],
+  "remaining_fy_debit_missing_facts": [
+    {
+      "source_row": 24,
+      "date": "2025-08-29",
+      "amount": "-17.47",
+      "bank_description": "TAOBAO 125 LONDON WA GB Card xx7902 AUD 17.47 Value Date: 26/08/2025",
+      "known": "Taobao merchant, amount and value date.",
+      "exact_missing_fact": "What item was bought in the Taobao order, or can the order detail/receipt be supplied?"
+    },
+    {
+      "source_row": 133,
+      "date": "2026-04-28",
+      "amount": "-200.00",
+      "bank_description": "KOGAN MOBILE NORTH SYDNEY AU Card xx7902 Value Date: 24/04/2026",
+      "known": "Kogan Mobile merchant and business-account payment.",
+      "exact_missing_fact": "Was this a handset/device, mobile service or prepaid credit, and is the Kogan receipt/order detail available?"
+    },
+    {
+      "source_row": 142,
+      "date": "2026-05-05",
+      "amount": "-80.00",
+      "bank_description": "Transfer To M LI PayID Phone from CommBank App Printer",
+      "known": "The bank reference establishes a printer-related business purchase.",
+      "exact_missing_fact": "Was the $80 paid to buy the printer itself or to reimburse M Li for one, and is there a receipt or model/item record?"
+    },
+    {
+      "source_row": 160,
+      "date": "2026-06-03",
+      "amount": "-300.00",
+      "bank_description": "Transfer To Mark Zheng PayID Phone from CommBank App Client gift card",
+      "known": "The bank reference establishes a client gift card.",
+      "exact_missing_fact": "Which client/business occasion was the gift for, and is the gift-card receipt available?"
+    },
+    {
+      "source_row": 168,
+      "date": "2026-06-10",
+      "amount": "-31.93",
+      "bank_description": "ALP*Taobao Shanghai CN Card xx7902 CNY 152.19 Value Date: 07/06/2026",
+      "known": "Taobao merchant, currency amount and value date.",
+      "exact_missing_fact": "What item was bought in this Taobao order, or can the order detail/receipt be supplied?"
+    },
+    {
+      "source_row": 171,
+      "date": "2026-06-11",
+      "amount": "-14.44",
+      "bank_description": "ORDER LEMON HAYMARKET Sydney AU Card xx7902 Value Date: 09/06/2026",
+      "known": "Order Lemon merchant and business-account payment.",
+      "exact_missing_fact": "What product or service was purchased from Order Lemon, and is the receipt available?"
+    },
+    {
+      "source_row": 172,
+      "date": "2026-06-11",
+      "amount": "-6.88",
+      "bank_description": "Alipay*Taobao Shanghai CN Card xx7902 CNY 32.80 Value Date: 07/06/2026",
+      "known": "Taobao merchant, currency amount and value date.",
+      "exact_missing_fact": "What item was bought in this Taobao order, or can the order detail/receipt be supplied?"
+    },
+    {
+      "source_row": 174,
+      "date": "2026-06-11",
+      "amount": "-25.54",
+      "bank_description": "Alipay*Taobao Shanghai CN Card xx7902 CNY 121.75 Value Date: 07/06/2026",
+      "known": "Taobao merchant, currency amount and value date.",
+      "exact_missing_fact": "What item was bought in this Taobao order, or can the order detail/receipt be supplied?"
+    }
+  ],
+  "post_write_review": {
+    "location": "Xero Review reconciled",
+    "search": "Hab",
+    "verified_record": {
+      "date": "2026-06-16",
+      "payment_contact": "Hab",
+      "document_type": "Invoice payment",
+      "account_code": "200 - Sales",
+      "received": "680.00",
+      "method": "Manual"
+    },
+    "result": "Exactly one record returned. The source line no longer appears in the unreconciled queue; the queue and book-balance movements equal one $680 receipt."
+  }
+}
