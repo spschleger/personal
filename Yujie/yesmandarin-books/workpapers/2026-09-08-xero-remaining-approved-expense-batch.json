@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-09-08",
+  "status": "posted_and_live_verified",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Five parent-approved book/bank-fee rows plus three conditionally approved Covau utility rows for FY2025-26.",
+  "controls": {
+    "visible_browser": "normal signed-in Chrome session for YesMandarin",
+    "duplicate_check": "Each source line was isolated in the live unreconciled queue before posting; no existing Xero match was offered and no prior posting audit contained these source rows.",
+    "queue_before": 67,
+    "queue_after": 59,
+    "posted_count": 8,
+    "book_balance_before": "22117.05",
+    "book_balance_after": "21616.57",
+    "book_balance_movement": "-500.48",
+    "statement_balance": "31016.85",
+    "tax_rate": "BAS Excluded",
+    "new_accounts_created": 0,
+    "post_2026_06_30_rows_posted": 0
+  },
+  "transactions": [
+    {"source_row": 13, "date": "2025-07-18", "amount": "-15.70", "contact": "Kinokuniya", "description": "Teaching books - Kinokuniya", "account": "453 - Office Expenses", "tax_rate": "BAS Excluded", "evidence": "workpapers/evidence/2026-09-08-remaining-expense-batch/kinokuniya.png"},
+    {"source_row": 57, "date": "2025-12-18", "amount": "-224.33", "contact": "Covau Energy", "description": "Covau energy utility", "account": "445 - Light, Power, Heating", "tax_rate": "BAS Excluded", "evidence": "workpapers/evidence/2026-09-08-remaining-expense-batch/covau-december.png"},
+    {"source_row": 58, "date": "2025-12-18", "amount": "-224.33", "contact": "Covau Energy", "description": "Covau energy utility", "account": "445 - Light, Power, Heating", "tax_rate": "BAS Excluded", "evidence": "workpapers/evidence/2026-09-08-remaining-expense-batch/covau-december.png"},
+    {"source_row": 116, "date": "2026-04-02", "amount": "-15.87", "contact": "Covau Energy", "description": "Covau energy utility", "account": "445 - Light, Power, Heating", "tax_rate": "BAS Excluded", "evidence": "workpapers/evidence/2026-09-08-remaining-expense-batch/covau-april.png"},
+    {"source_row": 169, "date": "2026-06-10", "amount": "-1.12", "contact": "Commonwealth Bank", "description": "International Transaction Fee", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded", "evidence": "workpapers/evidence/2026-09-08-remaining-expense-batch/international-fees.png"},
+    {"source_row": 173, "date": "2026-06-11", "amount": "-0.24", "contact": "Commonwealth Bank", "description": "International Transaction Fee", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded", "evidence": "workpapers/evidence/2026-09-08-remaining-expense-batch/international-fees.png"},
+    {"source_row": 175, "date": "2026-06-11", "amount": "-0.89", "contact": "Commonwealth Bank", "description": "International Transaction Fee", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded", "evidence": "workpapers/evidence/2026-09-08-remaining-expense-batch/international-fees.png"},
+    {"source_row": 179, "date": "2026-06-15", "amount": "-18.00", "contact": "X Pang", "description": "Books shipping fee", "account": "453 - Office Expenses", "tax_rate": "BAS Excluded", "evidence": "workpapers/evidence/2026-09-08-remaining-expense-batch/x-pang.png"}
+  ],
+  "post_write_review": {
+    "location": "Xero Review reconciled",
+    "verified_fields": ["date", "payment contact", "document type", "account code", "spent", "method"],
+    "result": "All eight source rows appeared once with document type Spend money, method Manual, exact dates, amounts, contacts and approved existing accounts.",
+    "tax_evidence": "BAS Excluded was visibly selected in each prepared row immediately before reconciliation; Review reconciled does not expose tax rate in its table."
+  },
+  "remaining_checkpoint": {
+    "all_unreconciled_statement_lines": 59,
+    "fy2025_26_unreconciled_lines": 22,
+    "post_2026_06_30_unreconciled_lines": 37,
+    "later_covau_row": {"date": "2026-07-02", "amount": "-239.67", "status": "not_posted_outside_fy_scope"}
+  },
+  "guardrails": [
+    "No Taobao row was classified or posted.",
+    "No income or credit row was posted.",
+    "No new account, bank rule, invoice, payment, transfer or tax conclusion was created."
+  ]
+}
