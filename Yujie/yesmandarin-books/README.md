@@ -25,6 +25,10 @@ Current evidence, source hashes and reconstruction state: [`SOURCE-INVENTORY.md`
 - The non-Xero-linked Stripe account's $687.50 charge remains unattributed. Its source-matched $660.10 payout to account `1913` was reconciled on 3 September 2026 to the distinct current-asset account `092 - Stripe Clearing - Separate`, leaving a visible $660.10 credit balance and no revenue effect. The $24.37 processing fee and $3.03 invoicing fee remain unposted with the gross charge. The $1,197.73 opening-boundary payout remains isolated and outside current-period income. Audit: `workpapers/2026-09-02-separate-stripe-treatment-gates.json`.
 - Shane must personally stop Xero's scheduled 12 September 2026 cancellation if the subscription is to continue.
 
+## Equipment scope clarification — 7 September 2026
+
+Shane confirms there are no material business assets: furniture is incidental in value and other purchases are consumables. Keep routine expense processing moving; only raise specific durable items if their source evidence warrants separate accounting or tax treatment. See `workpapers/2026-09-07-equipment-scope-confirmation.md`.
+
 ## Done means
 
 - Every relevant bank/card statement period is represented in the canonical books.
