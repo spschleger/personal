@@ -1,14 +1,14 @@
 {
   "as_of": "2026-09-08",
-  "status": "four_prior_interrupted_run_postings_reconstructed_and_live_control_verified",
+  "status": "recovery_complete_six_direct_tuition_receipts_verified",
   "account": "CBA Business Account ending 1913",
   "scope": "Bounded recovery of the interrupted direct-tuition batch. This audit distinguishes writes made by the prior interrupted worker from this recovery run and does not claim discovery as a new posting.",
   "run_attribution": {
     "prior_interrupted_run_posted_count": 4,
     "prior_interrupted_run_posted_total": "2351.00",
-    "this_recovery_run_posted_count": 0,
-    "this_recovery_run_posted_total": "0.00",
-    "basis": "The prior transcript records completion clicks before each later post-write search/detail readback. Xero transaction History & Notes timestamps are 02:18AM Aidan, 02:22AM Bianca and 02:30AM John on 8 September 2026; Anthony was prepared immediately afterward and the queue/book controls moved from 55/$24,057.57 to 54/$24,647.57. The four-row source total and movement from the pre-batch 58/$22,296.57 checkpoint agree exactly."
+    "this_recovery_run_posted_count": 2,
+    "this_recovery_run_posted_total": "963.00",
+    "basis": "The prior transcript records completion clicks before each later post-write search/detail readback. Xero transaction History & Notes timestamps are 02:18AM Aidan, 02:22AM Bianca and 02:30AM John on 8 September 2026; Anthony was prepared immediately afterward and the queue/book controls moved from 55/$24,057.57 to 54/$24,647.57. The four-row source total and movement from the pre-batch 58/$22,296.57 checkpoint agree exactly. This recovery run then posted only Maria John $345 and Jenny Bisset $618 after name and amount duplicate checks; visible post-write controls and exact reconciled records prove both writes."
   },
   "controls": {
     "source_statement_lines": 253,
@@ -25,9 +25,17 @@
       "fy2025_26_unreconciled_lines": 17,
       "post_2026_06_30_unreconciled_lines": 37
     },
-    "queue_movement": -4,
-    "book_balance_movement": "2351.00",
-    "live_recovery_readback": "Visible signed-in Chrome showed Reconcile (54), statement balance $31,016.85 and balance in Xero $24,647.57 while Maria John search returned the separate 16 June and 5 August $345 bank lines."
+    "live_recovery_readback": "Visible signed-in Chrome showed Reconcile (52), statement balance $31,016.85 and balance in Xero $25,610.57 after Maria John and Jenny Bisset were posted.",
+    "after_two_recovery_run_posts": {
+      "unreconciled_statement_lines": 52,
+      "book_balance": "25610.57",
+      "fy2025_26_unreconciled_lines": 15,
+      "post_2026_06_30_unreconciled_lines": 37
+    },
+    "total_queue_movement_from_pre_batch": -6,
+    "total_book_balance_movement_from_pre_batch": "3314.00",
+    "recovery_run_queue_movement": -2,
+    "recovery_run_book_balance_movement": "963.00"
   },
   "transactions": [
     {
@@ -82,18 +90,61 @@
       "verification": "Pre-write evidence shows the isolated exact source row and completed Receive Money form. The prior transcript then records the completion click, followed by a no-result source search and exact control movement from 55/$24,057.57 to 54/$24,647.57. This source-specific subtraction proves one $590 posting and prevents reposting; a fresh detail screenshot remains desirable but is not needed to infer another write.",
       "evidence": "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-prewrite.png",
       "postwrite_evidence": "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-postwrite.png"
+    },
+    {
+      "source_row": 183,
+      "date": "2026-06-16",
+      "amount": "345.00",
+      "contact": "Maria John",
+      "bank_description": "Fast Transfer From MARIA JOHN Payment for 5 lessons from Suguru",
+      "transaction_type": "Receive Money",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "posting_attribution": "this_recovery_run",
+      "duplicate_verification": "Find & Match returned no result for Maria John and no result for amount 345 before posting; the separate 5 August $345 bank line was not touched.",
+      "verification": "The exact pre-write form, post-write queue/book control, reconciled-list row, reconciled statement detail and View Transaction detail were captured.",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/maria-find-match-name-no-results.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/maria-find-match-amount-no-results.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/maria-prewrite-exact.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/maria-postwrite-control.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/maria-review-exact.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/maria-reconciled-statement-detail.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/maria-posted-detail.png"
+      ]
+    },
+    {
+      "source_row": 198,
+      "date": "2026-06-27",
+      "amount": "618.00",
+      "contact": "Jenny Bisset",
+      "bank_description": "Fast Transfer From J BISSET Mandarin classes Jenny Bisset",
+      "transaction_type": "Receive Money",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "posting_attribution": "this_recovery_run",
+      "duplicate_verification": "Find & Match returned no result for Jenny Bisset and no result for amount 618 before posting.",
+      "verification": "The exact pre-write form, post-write queue/book control, reconciled-list row and exact reconciled statement detail were captured. The statement detail identifies 27 June 2026, Jenny Bisset, $618 and the Mandarin classes bank narration.",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-find-match-name-no-results.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-find-match-amount-no-results.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-prewrite-exact.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-postwrite-control.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-review-exact.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-reconciled-statement-detail.png"
+      ]
     }
   ],
   "duplicate_controls": {
     "Aidan Lam": "INV-0085 belongs to the later verified 9 August 2026 $588 receipt and was not reused.",
     "Bianca Wong": "INV-0084 belongs to the later verified 16 August 2026 $588 receipt and was not reused.",
     "John L Potter": "No same-payer invoice exists in the preserved invoice export; prior live Find & Match amount search returned no result.",
-    "Anthony Dengate": "No same-payer invoice exists in the preserved invoice export; prior live Find & Match amount search returned no result. The $590 INV-0055 belongs to Nyoka Axton and was already paid."
+    "Anthony Dengate": "No same-payer invoice exists in the preserved invoice export; prior live Find & Match amount search returned no result. The $590 INV-0055 belongs to Nyoka Axton and was already paid.",
+    "Maria John": "No Find & Match result for the exact contact or $345 amount before posting; the separate 5 August $345 bank line remained distinct.",
+    "Jenny Bisset": "No Find & Match result for the exact contact or $618 amount before posting."
   },
   "held_or_pending": {
-    "row_163_courtney_mcmillan_680": "Held. Three same-value candidates INV-0039 Yohans, INV-0071 Jack Anderson and INV-0092 Sean provide no Courtney identity; do not post or match.",
-    "row_183_maria_john_345": "Pending bounded live duplicate verification/posting. Recovery capture shows the 16 June and separate 5 August $345 bank lines; the create form was not complete and no write occurred in this recovery checkpoint.",
-    "row_198_jenny_bisset_618": "Pending bounded live duplicate verification/posting; no write occurred in this recovery checkpoint."
+    "row_163_courtney_mcmillan_680": "Held. Three same-value candidates INV-0039 Yohans, INV-0071 Jack Anderson and INV-0092 Sean provide no Courtney identity; do not post or match."
   },
   "remaining_missing_facts": {
     "credits": [
