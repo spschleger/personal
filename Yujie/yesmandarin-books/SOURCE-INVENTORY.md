@@ -4,7 +4,7 @@
 
 ## Current conclusion
 
-Xero reconstruction is in progress. The full supplied account `1913` statement range is imported and 185 of 253 lines are reconciled, leaving 68. The recovered 17-line FY2025–26 merchant batch is exactly read back in Xero and totals $428.25 across Amazon, Kmart, Dollar Avenue, JB Hi-Fi, Google Workspace and Transport for NSW. The latest full checkpoint is statement balance $31,016.85 and book balance $21,807.50. The complete FY2025–26 Transport population is now 52 audit-backed rows totalling $862.85; 13 post-30 June 2026 Transport rows remain outside that completion claim. Other expenses, transfers and ambiguous receipts remain unresolved. Audit: `workpapers/2026-09-08-xero-merchant-expense-batch-3-recovery.json`.
+Xero reconstruction is in progress. The full supplied account `1913` statement range is imported and 186 of 253 lines are reconciled, leaving 67. The recovered 17-line FY2025–26 merchant batch is exactly read back in Xero and totals $428.25 across Amazon, Kmart, Dollar Avenue, JB Hi-Fi, Google Workspace and Transport for NSW. The confirmed $309.55 Shane reimbursement is also exactly verified as `881 - Owner A Funds Introduced`, not revenue. The latest full checkpoint is statement balance $31,016.85 and book balance $22,117.05. The complete FY2025–26 Transport population is now 52 audit-backed rows totalling $862.85; 13 post-30 June 2026 Transport rows remain outside that completion claim. Other expenses, transfers and ambiguous receipts remain unresolved. Audits: `workpapers/2026-09-08-xero-merchant-expense-batch-3-recovery.json` and `workpapers/2026-09-08-xero-owner-funds-introduced.json`.
 
 Use Xero as a historical invoice source during reconstruction. Treat complete bank statements as the cash source of truth. Xero will become the canonical books only after the source-backed reconstruction is verified.
 
@@ -150,7 +150,7 @@ Account `1913` deterministic workpapers were generated on 25 August 2026:
 - The 253-row control totals remain exact: $44,572.45 credits, $16,818.43 debits and $27,754.02 net movement.
 - All 29 statement lines with one invoice candidate supported by an explicit invoice reference or payer-name evidence plus amount and date bounds were reconciled in Xero on 25 August 2026. Another 20 invoice-payment lines remain review items; 25 credits have no defensible invoice candidate.
 - Expense proposals are worklist aids, not tax conclusions. Shane's 3 September 2026 owner confirmation establishes business purpose for external merchant debits; any remaining review is for the correct expense/asset account or the separate treatment of transfers, not personal-use suspicion.
-- The `9316` transfer stays blocked until the other side is supplied. The $660.10 Stripe payout is isolated to Stripe clearing rather than revenue, and Shane's $309.55 reimbursement is isolated from invoice income.
+- The `9316` transfer stays blocked until the other side is supplied. The $660.10 Stripe payout is isolated to Stripe clearing rather than revenue. Shane's $309.55 reimbursement is posted to `881 - Owner A Funds Introduced` and remains isolated from invoice income.
 
 Once the complete bank export is available:
 

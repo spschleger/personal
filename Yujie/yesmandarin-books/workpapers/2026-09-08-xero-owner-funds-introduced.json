@@ -1,0 +1,65 @@
+{
+  "as_of": "2026-09-08",
+  "status": "completed_and_exactly_verified",
+  "account": "CBA Business Account ending 1913",
+  "scope": "The confirmed 11 July 2025 Shane reimbursement of the four opening Amazon purchases, posted as owner funds introduced rather than revenue.",
+  "basis": {
+    "source_row": 8,
+    "statement_date": "2025-07-11",
+    "amount": "309.55",
+    "bank_description": "Fast Transfer From MR SHANE PHONSE SCHLE Repay amazon purchases Shane Schleger",
+    "owner_confirmation": "Shane confirmed on 3 September 2026 that the matching 309.55 deposit is an owner contribution for the Amazon purchases, not revenue and not an expense reversal.",
+    "prior_treatment_record": "workpapers/2026-09-03-amazon-business-supplies-correction.json"
+  },
+  "pre_write_duplicate_control": {
+    "find_and_match_search": "309.55",
+    "result_count": 0,
+    "evidence": "workpapers/evidence/2026-09-08-owner-funds-introduced/find-and-match-no-results.png"
+  },
+  "posting": {
+    "contact": "Shane Schleger",
+    "document_type": "Receive money",
+    "account": "881 - Owner A Funds Introduced",
+    "description": "Owner reimbursement for Amazon purchases",
+    "tax_rate": "BAS Excluded",
+    "method": "Manual",
+    "create_panel_evidence": "workpapers/evidence/2026-09-08-owner-funds-introduced/create-panel.png"
+  },
+  "queue_and_balance_control": {
+    "queue_before": 68,
+    "queue_after": 67,
+    "book_balance_before": "21807.50",
+    "book_balance_after": "22117.05",
+    "book_balance_movement": "309.55",
+    "statement_balance": "31016.85",
+    "evidence": "workpapers/evidence/2026-09-08-owner-funds-introduced/queue-67-book-22117.05.png"
+  },
+  "post_write_exact_record_verification": {
+    "location": "Xero Review reconciled",
+    "search": "309.55",
+    "result_count": 1,
+    "date": "2025-07-11",
+    "payment_contact": "Shane Schleger",
+    "document_type": "Receive money",
+    "account_code": "881 - Owner A Funds Introduced",
+    "received": "309.55",
+    "method": "Manual",
+    "evidence": "workpapers/evidence/2026-09-08-owner-funds-introduced/exact-readback.png"
+  },
+  "remaining_control": {
+    "all_unreconciled_statement_lines": 67,
+    "fy2025_26_unreconciled_lines": 30,
+    "post_2026_06_30_unreconciled_lines": 37
+  },
+  "bounded_continuation": {
+    "requested_maximum": 10,
+    "posted_count": 1,
+    "reason_for_stop": "The next visible FY rows were Kinokuniya teaching materials, Taobao purchases and Covau utilities. The prior blocked-batch control explicitly withheld those rows because an exact established Xero account mapping was unavailable. No classification was guessed merely to reach the maximum."
+  },
+  "guardrails": [
+    "The receipt was not classified as sales or other income.",
+    "No invoice, Stripe item, personal-account transfer, credential, permission prompt, purchase or outbound communication was actioned.",
+    "No new account, contact, bank rule or tax conclusion was created.",
+    "No post-30 June 2026 row was included."
+  ]
+}

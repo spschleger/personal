@@ -8,6 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 RECOVERY = ROOT / "workpapers/2026-09-08-xero-merchant-expense-batch-3-recovery.json"
+OWNER_FUNDS = ROOT / "workpapers/2026-09-08-xero-owner-funds-introduced.json"
 BLOCKED = ROOT / "workpapers/2026-09-07-xero-merchant-expense-batch-3-blocked.json"
 WORKLIST = ROOT / "workpapers/2026-08-25-account-1913-reconciliation-worklist.csv"
 TRANSPORT_AUDITS = (
@@ -96,6 +97,19 @@ class MerchantExpenseBatch3RecoveryTests(unittest.TestCase):
         self.assertEqual(sum(-amount for amount in source_transport.values()), Decimal("862.85"))
         self.assertEqual(sum(-amount for amount in audited.values()), Decimal("862.85"))
         self.assertEqual(self.audit["transport_completion_control"]["source_minus_audited_rows"], [])
+
+    def test_owner_funds_receipt_agrees_to_source_and_queue_arithmetic(self):
+        owner = load_json(OWNER_FUNDS)
+        source = self.worklist[owner["basis"]["source_row"]]
+        self.assertEqual(owner["basis"]["source_row"], 8)
+        self.assertEqual(Decimal(source["amount"]), Decimal(owner["basis"]["amount"]))
+        self.assertEqual(source["description"], owner["basis"]["bank_description"])
+        self.assertEqual(owner["posting"]["account"], "881 - Owner A Funds Introduced")
+        self.assertEqual(owner["post_write_exact_record_verification"]["result_count"], 1)
+        control = owner["queue_and_balance_control"]
+        self.assertEqual(control["queue_before"] - control["queue_after"], 1)
+        self.assertEqual(Decimal(control["book_balance_after"]) - Decimal(control["book_balance_before"]), Decimal("309.55"))
+        self.assertEqual(owner["remaining_control"]["fy2025_26_unreconciled_lines"], 30)
 
 
 if __name__ == "__main__":
