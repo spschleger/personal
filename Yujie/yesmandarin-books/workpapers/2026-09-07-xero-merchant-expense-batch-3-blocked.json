@@ -1,0 +1,125 @@
+{
+  "as_of": "2026-09-07",
+  "status": "blocked_before_write",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Recomputed the complete FY2025-26 Transport population against every source-row posting audit, then prepared a 17-line source-backed merchant-expense batch across established Xero account mappings. No Xero line was posted.",
+  "transport_recomputation": {
+    "source": "workpapers/2026-08-25-account-1913-reconciliation-worklist.csv",
+    "definition": "Rows dated through 30 June 2026 whose proposed account is Travel or whose bank description identifies Transport for NSW.",
+    "source_row_count": 52,
+    "source_spend_total": "862.85",
+    "posted_audits_checked": [
+      "workpapers/2026-09-07-xero-transport-expense-batch.json",
+      "workpapers/2026-09-07-xero-transport-expense-batch-2.json",
+      "workpapers/2026-08-26-xero-expense-reconciliation-result.json",
+      "workpapers/2026-09-07-xero-ordinary-merchant-expense-batch.json"
+    ],
+    "audited_posted_source_row_count": 50,
+    "audited_posted_spend_total": "742.85",
+    "remaining_source_rows": [
+      {
+        "source_row": 146,
+        "statement_date": "2026-05-08",
+        "amount": "-60.00",
+        "merchant": "Transport for NSW"
+      },
+      {
+        "source_row": 154,
+        "statement_date": "2026-05-19",
+        "amount": "-60.00",
+        "merchant": "Transport for NSW"
+      }
+    ],
+    "remaining_count": 2,
+    "remaining_spend_total": "120.00",
+    "conclusion": "The prior batch-2 assertion that all 52 FY2025-26 Transport rows were posted is not supported. Its transactions arrays contain 50 unique FY Transport source rows. The two omitted 60.00 rows were also absent from its three-result 60.00 Review-reconciled read-back, which covered only 3 April, 18 April and 16 May 2026. During this attempted continuation, the live TFNSW filter opened the 8 May 2026 60.00 row for preparation while the queue stayed at 85; no write was verified. Treat both omitted source rows as unreconciled until exact Xero read-back proves otherwise."
+  },
+  "live_pre_write_control": {
+    "queue": 85,
+    "total_reconciled": 168,
+    "statement_balance": "31016.85",
+    "book_balance": "22235.75",
+    "queue_and_balance_evidence": "/Users/sps/.hermes/cache/images/computer_use_f342ff55153f482fa4872d2e8591dade.png",
+    "qualification": "Queue 85 and statement balance 31016.85 were re-read live before browser recovery. Book balance 22235.75 is the prior exact batch-2 checkpoint. The queue did not change while the 8 May Transport row was prepared, so it was not treated as posted."
+  },
+  "selection_control": {
+    "candidate_count": 17,
+    "candidate_spend_total": "428.25",
+    "selection_rule": "FY2025-26 negative merchant lines not present in source-row posting audits or in the fully completed Digital Pacific, Microsoft, Xero-subscription and rent populations; only existing mappings already evidenced in prior workpapers were used.",
+    "categories": {
+      "Amazon business supplies": {
+        "count": 9,
+        "spend_total": "208.83",
+        "account": "453 - Office Expenses",
+        "tax_rate": "BAS Excluded"
+      },
+      "Other routine business supplies": {
+        "count": 3,
+        "spend_total": "63.00",
+        "account": "453 - Office Expenses",
+        "tax_rate": "BAS Excluded"
+      },
+      "Google Workspace subscriptions": {
+        "count": 3,
+        "spend_total": "36.42",
+        "account": "485 - Subscriptions",
+        "tax_rate": "BAS Excluded"
+      },
+      "Transport for NSW": {
+        "count": 2,
+        "spend_total": "120.00",
+        "account": "493 - Travel - National",
+        "tax_rate": "BAS Excluded"
+      }
+    },
+    "transactions": [
+      {"source_row": 25, "statement_date": "2025-09-02", "amount": "-9.99", "merchant": "Amazon Prime", "account": "453 - Office Expenses", "description": "Business supplies - Amazon", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 34, "statement_date": "2025-10-01", "amount": "-9.99", "merchant": "Amazon Prime", "account": "453 - Office Expenses", "description": "Business supplies - Amazon", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 43, "statement_date": "2025-10-31", "amount": "-9.99", "merchant": "Amazon Prime", "account": "453 - Office Expenses", "description": "Business supplies - Amazon", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 53, "statement_date": "2025-12-02", "amount": "-9.99", "merchant": "Amazon Prime", "account": "453 - Office Expenses", "description": "Business supplies - Amazon", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 61, "statement_date": "2025-12-31", "amount": "-9.99", "merchant": "Amazon Prime", "account": "453 - Office Expenses", "description": "Business supplies - Amazon", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 62, "statement_date": "2025-12-31", "amount": "-69.00", "merchant": "Amazon", "account": "453 - Office Expenses", "description": "Business supplies - Amazon", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 63, "statement_date": "2026-01-07", "amount": "-69.90", "merchant": "Amazon", "account": "453 - Office Expenses", "description": "Business supplies - Amazon", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 68, "statement_date": "2026-01-21", "amount": "-8.00", "merchant": "Kmart", "account": "453 - Office Expenses", "description": "Business supplies - Kmart", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 72, "statement_date": "2026-01-31", "amount": "-9.99", "merchant": "Amazon Prime", "account": "453 - Office Expenses", "description": "Business supplies - Amazon", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 93, "statement_date": "2026-03-03", "amount": "-9.99", "merchant": "Amazon Prime", "account": "453 - Office Expenses", "description": "Business supplies - Amazon", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 118, "statement_date": "2026-04-03", "amount": "-10.46", "merchant": "Google Workspace", "account": "485 - Subscriptions", "description": "Google Workspace subscription", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 139, "statement_date": "2026-05-02", "amount": "-6.00", "merchant": "Dollar Avenue", "account": "453 - Office Expenses", "description": "Business supplies - Dollar Avenue", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 140, "statement_date": "2026-05-05", "amount": "-49.00", "merchant": "JB Hi-Fi", "account": "453 - Office Expenses", "description": "Business supplies - JB Hi-Fi", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 141, "statement_date": "2026-05-05", "amount": "-12.98", "merchant": "Google Workspace", "account": "485 - Subscriptions", "description": "Google Workspace subscription", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 146, "statement_date": "2026-05-08", "amount": "-60.00", "merchant": "Transport for NSW", "account": "493 - Travel - National", "description": "Business travel - Transport NSW", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 154, "statement_date": "2026-05-19", "amount": "-60.00", "merchant": "Transport for NSW", "account": "493 - Travel - National", "description": "Business travel - Transport NSW", "tax_rate": "BAS Excluded", "posting_status": "not_posted"},
+      {"source_row": 162, "statement_date": "2026-06-04", "amount": "-12.98", "merchant": "Google Workspace", "account": "485 - Subscriptions", "description": "Google Workspace subscription", "tax_rate": "BAS Excluded", "posting_status": "not_posted"}
+    ],
+    "excluded_from_candidate_batch": "Utilities, teaching materials, foreign fees, Kogan Mobile, client gift, printer transfer, Order Lemon and book-shipping rows were left unselected because an exact existing Xero account mapping or live bill/contact check was not available. No new category or tax conclusion was guessed."
+  },
+  "duplicate_and_bill_control": {
+    "source_row_exclusion": "passed",
+    "selected_source_rows_overlap_posted_audits": 0,
+    "live_bill_match_check": "blocked_by_xero_login",
+    "rule": "Before any future Spend money write, reopen the exact statement line and prefer a supported existing bill match when present. Do not post from this candidate list without that live check."
+  },
+  "write_result": {
+    "posted_count": 0,
+    "posted_spend_total": "0.00",
+    "queue_after": 85,
+    "book_balance_after": "22235.75",
+    "projected_only_if_all_candidates_are_later_posted": {
+      "queue": 68,
+      "fy2025_26_unreconciled": 31,
+      "book_balance": "21807.50"
+    }
+  },
+  "blocker": {
+    "type": "xero_login_required",
+    "detail": "Existing-profile browser control raised Chrome's remote-debugging permission prompt; no permission choice was made. A graceful browser recovery then returned Xero to its login page. No credentials or 1Password data were accessed or typed, and no further Xero action was attempted.",
+    "login_page_evidence": "/Users/sps/.hermes/cache/images/computer_use_a0b6181e238a4094a6a2db7fa99b99c4.png",
+    "raw_control_transcript": "/Users/sps/.hermes/cache/delegation/live/deleg_298334b3/task-0.log"
+  },
+  "guardrails": [
+    "No Xero write was claimed from typed but unverified field preparation.",
+    "No credential, remote-debugging permission, purchase, outbound communication or money movement was actioned.",
+    "No new account, contact, category, GST conclusion or Stripe entry was created.",
+    "No post-30 June 2026 statement line was selected."
+  ]
+}
