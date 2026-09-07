@@ -1,0 +1,135 @@
+{
+  "as_of": "2026-09-07",
+  "status": "completed_bounded_batch",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Twenty-five remaining FY2025-26 Transport for NSW merchant expense statement lines; no post-30 June line was included.",
+  "basis": {
+    "business_purpose": "Shane's 3 September 2026 confirmation that external merchant expenditure from account 1913 is YesMandarin business-purpose expenditure.",
+    "source_identity": "The preserved CBA statement worklist identifies each selected debit as TRANSPORTFORNSW OPAL or TRANSPORTFORNSW TAP.",
+    "expense_account": "493 - Travel - National",
+    "account_basis": "Existing Xero travel account selected; no new account was created.",
+    "gst_status": "Entity recorded as not registered for GST.",
+    "tax_rate_used": "BAS Excluded",
+    "contact": "Transport for NSW",
+    "description": "Business travel - Transport NSW"
+  },
+  "pre_write_duplicate_control": {
+    "queue_live_before": 110,
+    "exact_prior_record_checked_live": {
+      "source_row": 180,
+      "statement_date": "2026-06-16",
+      "amount": "-9.10",
+      "review_result_count": 1,
+      "payment_contact": "Transport for NSW",
+      "document_type": "Spend money",
+      "account_code": "493 - Travel - National",
+      "method": "Manual",
+      "evidence": "/Users/sps/.hermes/cache/images/computer_use_cd424930955e4a388ef7b53585c816dc.png"
+    },
+    "prior_batch_audit": "workpapers/2026-09-07-xero-transport-expense-batch.json",
+    "selection_control": "The 25 selected rows are the complete source-worklist set of Transport for NSW debits dated through 30 June 2026 not present in the prior 25-row batch."
+  },
+  "queue_control": {
+    "source_statement_lines": 253,
+    "queue_before": 110,
+    "queue_after": 85,
+    "new_lines_reconciled": 25,
+    "total_lines_reconciled_to_date": 168,
+    "completion_percent": 66.4,
+    "projected_fy2025_26_unreconciled_before": 73,
+    "projected_fy2025_26_unreconciled_after": 48,
+    "projected_post_2026_06_30_unreconciled": 37
+  },
+  "balance_control": {
+    "statement_balance": "31016.85",
+    "book_balance_before": "22793.37",
+    "book_balance_after": "22235.75",
+    "book_balance_movement": "-557.62",
+    "queue_after_evidence": "/Users/sps/.hermes/cache/images/computer_use_f342ff55153f482fa4872d2e8591dade.png"
+  },
+  "batch_control": {
+    "transaction_count": 25,
+    "spent_total": "557.62",
+    "document_type": "Spend money",
+    "method": "Manual",
+    "run_started": "2026-09-07T18:20:05+10:00",
+    "queue_verified_at": "2026-09-07T19:01:56+10:00"
+  },
+  "transactions": [
+    {"source_row": 97, "statement_date": "2026-03-04", "amount": "-40.00"},
+    {"source_row": 103, "statement_date": "2026-03-12", "amount": "-40.00"},
+    {"source_row": 104, "statement_date": "2026-03-12", "amount": "-40.00"},
+    {"source_row": 109, "statement_date": "2026-03-26", "amount": "-40.00"},
+    {"source_row": 110, "statement_date": "2026-03-26", "amount": "-15.00"},
+    {"source_row": 117, "statement_date": "2026-04-03", "amount": "-60.00"},
+    {"source_row": 127, "statement_date": "2026-04-18", "amount": "-60.00"},
+    {"source_row": 138, "statement_date": "2026-05-01", "amount": "-40.00"},
+    {"source_row": 152, "statement_date": "2026-05-16", "amount": "-60.00"},
+    {"source_row": 161, "statement_date": "2026-06-04", "amount": "-20.00"},
+    {"source_row": 167, "statement_date": "2026-06-09", "amount": "-40.00"},
+    {"source_row": 181, "statement_date": "2026-06-16", "amount": "-9.14"},
+    {"source_row": 182, "statement_date": "2026-06-16", "amount": "-9.41"},
+    {"source_row": 185, "statement_date": "2026-06-17", "amount": "-7.31"},
+    {"source_row": 187, "statement_date": "2026-06-19", "amount": "-7.52"},
+    {"source_row": 188, "statement_date": "2026-06-20", "amount": "-10.55"},
+    {"source_row": 189, "statement_date": "2026-06-23", "amount": "-3.76"},
+    {"source_row": 190, "statement_date": "2026-06-23", "amount": "-7.52"},
+    {"source_row": 191, "statement_date": "2026-06-23", "amount": "-10.10"},
+    {"source_row": 194, "statement_date": "2026-06-24", "amount": "-3.76"},
+    {"source_row": 195, "statement_date": "2026-06-25", "amount": "-3.03"},
+    {"source_row": 197, "statement_date": "2026-06-27", "amount": "-6.07"},
+    {"source_row": 199, "statement_date": "2026-06-30", "amount": "-9.41"},
+    {"source_row": 200, "statement_date": "2026-06-30", "amount": "-7.52"},
+    {"source_row": 201, "statement_date": "2026-06-30", "amount": "-7.52"}
+  ],
+  "post_write_exact_record_verification": {
+    "location": "Xero Review reconciled",
+    "verified_fields": ["date", "payment contact", "document type", "account code", "spent", "method"],
+    "expected_common_fields": {
+      "payment_contact": "Transport for NSW",
+      "document_type": "Spend money",
+      "account_code": "493 - Travel - National",
+      "method": "Manual"
+    },
+    "amount_searches": [
+      {"search": "40.00", "result_count": 6, "dates": ["2026-06-09", "2026-05-01", "2026-03-26", "2026-03-12", "2026-03-12", "2026-03-04"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_fcf50f38e8ed452bb1a13f9751a5d525.png"},
+      {"search": "60.00", "result_count": 3, "dates": ["2026-05-16", "2026-04-18", "2026-04-03"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_48cf3384caa1437f80ad3a060fe65a49.png"},
+      {"search": "15.00", "result_count": 1, "dates": ["2026-03-26"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_da76018420e647c3856bc574633015d1.png"},
+      {"search": "20.00", "result_count": 1, "dates": ["2026-06-04"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_0699c582cb654fe3bdaaf4e7ca9151aa.png"},
+      {"search": "9.14", "result_count": 2, "dates": ["2026-06-16", "2026-06-02"], "new_batch_dates": ["2026-06-16"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_8f3720795fcd4bc8983288572dcb80c6.png"},
+      {"search": "9.41", "result_count": 2, "dates": ["2026-06-30", "2026-06-16"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_b36b32261b1a4433a0d2f52981d5fcb9.png"},
+      {"search": "7.31", "result_count": 1, "dates": ["2026-06-17"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_518a7561062c47b5b87a562494df730c.png"},
+      {"search": "7.52", "result_count": 13, "dates": ["2026-06-30", "2026-06-30", "2026-06-23", "2026-06-19", "2026-06-13", "2026-06-12", "2026-04-18", "2026-04-10", "2026-04-08", "2026-03-06", "2026-03-05", "2026-02-20", "2026-02-18"], "new_batch_dates": ["2026-06-30", "2026-06-30", "2026-06-23", "2026-06-19"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_f50b1224bb2d47fab435f3623789f5f7.png"},
+      {"search": "10.55", "result_count": 1, "dates": ["2026-06-20"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_b43270d16f0048e3af20b64307637f8b.png"},
+      {"search": "3.76", "result_count": 7, "dates": ["2026-06-24", "2026-06-23", "2026-05-19", "2026-04-21", "2026-03-27", "2026-03-26", "2026-02-28"], "new_batch_dates": ["2026-06-24", "2026-06-23"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_37f5d571ffbc4b1698c0ea5d9e15aa8c.png"},
+      {"search": "10.10", "result_count": 1, "dates": ["2026-06-23"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_3f35fd052eb74dd5b028e27b506489f9.png"},
+      {"search": "3.03", "result_count": 1, "dates": ["2026-06-25"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_d185cbcd456d40dcb213af63091cf9a2.png"},
+      {"search": "6.07", "result_count": 1, "dates": ["2026-06-27"], "evidence": "/Users/sps/.hermes/cache/images/computer_use_c54c8ef40ba34d6caac4185056737bca.png"}
+    ],
+    "new_batch_result_count": 25,
+    "treatment_field_evidence": "The first prepared create panel visibly showed Transport for NSW, 493 - Travel - National, Business travel - Transport NSW and BAS Excluded before reconciliation. Xero then prefilled those same fields for the remaining filtered rows; the run stopped when the first visible remaining row became 1 July 2026. Review reconciled independently showed every selected date and amount with contact Transport for NSW, Spend money, account 493 - Travel - National and Manual method.",
+    "treatment_field_evidence_retention": "The create-panel and filtered 30 June-to-1 July cutoff states were verified live during the run, but their early temporary screenshots were evicted from the rolling computer-use cache. The prior batch workpaper independently preserves the same established account, description and tax treatment; this batch's durable controls are the exact source-row set, queue and balance movement, and exact Review reconciled read-back."
+  },
+  "remaining_control": {
+    "all_unreconciled_statement_lines": 85,
+    "projected_fy2025_26_unreconciled_lines": 48,
+    "projected_post_2026_06_30_unreconciled_lines": 37,
+    "projected_transport_rows_fy2025_26": 0,
+    "projected_transport_rows_later": 13,
+    "qualification": "Transport remaining counts are source-worklist projections; the filtered live queue visibly rolled from 30 June to 1 July after the 25th write. No later-period row was posted."
+  },
+  "guardrails": [
+    "No credentials, login, purchase, outbound communication, owner receipt, transfer, income line or Stripe item was actioned.",
+    "No new account, contact or bank rule was created.",
+    "No GST amount or input-tax credit was claimed.",
+    "No July-August 2026 row was posted.",
+    "No uncertain write was retried; when queue counts lagged, the worker waited for live state to settle."
+  ],
+  "evidence_sources": [
+    "sources/bank/2025-12-09-to-2026-08-17-cba-business-account-1913.csv",
+    "workpapers/2026-08-25-account-1913-reconciliation-worklist.csv",
+    "workpapers/2026-09-07-xero-transport-expense-batch.json",
+    "workpapers/2026-09-03-business-account-use-confirmation.json",
+    "Fresh Xero create-panel, queue, balance and Review reconciled state inspected on 7 September 2026"
+  ]
+}
