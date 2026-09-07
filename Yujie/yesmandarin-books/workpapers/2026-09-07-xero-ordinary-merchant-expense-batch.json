@@ -1,0 +1,135 @@
+{
+  "as_of": "2026-09-07",
+  "status": "completed_bounded_batch",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Four FY2025-26 ordinary Amazon merchant expense lines, after first verifying the previously posted Amazon line.",
+  "basis": {
+    "business_purpose": "Shane's 3 September 2026 confirmation that external merchant expenditure from account 1913 is YesMandarin business-purpose expenditure.",
+    "equipment_scope": "Shane's 7 September 2026 clarification that furniture is incidental and other purchases are consumables, with no material assets identified.",
+    "gst_status": "Entity recorded as not registered for GST.",
+    "tax_rate_used": "BAS Excluded",
+    "expense_account": "453 - Office Expenses"
+  },
+  "pre_write_duplicate_control": {
+    "search": "Amazon in Xero Review reconciled",
+    "observed_before_batch": {
+      "date": "2025-07-01",
+      "contact": "Amazon",
+      "document_type": "Spend money",
+      "account": "453 - Office Expenses",
+      "spent": "76.80",
+      "result_count": 1
+    },
+    "conclusion": "The prior Amazon posting existed exactly once before this batch. The unreconciled queue separately showed the second source-backed 1 July 2025 Amazon debit for 76.80, so posting that distinct statement line did not duplicate the prior reconciled line."
+  },
+  "queue_and_balance_control": {
+    "queue_before": 139,
+    "queue_after": 135,
+    "new_lines_reconciled": 4,
+    "total_lines_reconciled_to_date": 118,
+    "source_statement_lines": 253,
+    "completion_percent": 46.6,
+    "statement_balance_before": "31016.85",
+    "statement_balance_after": "31016.85",
+    "book_balance_before": "23266.34",
+    "book_balance_after": "22978.60",
+    "book_balance_change": "-287.74",
+    "batch_spend_total": "287.74"
+  },
+  "transactions": [
+    {
+      "source_row": 2,
+      "statement_date": "2025-07-01",
+      "amount": "-76.80",
+      "bank_description": "AMAZON AU RETAIL SYDNEY AU Card xx7902 Value Date: 26/06/2025",
+      "contact": "Amazon",
+      "document_type": "Spend money",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "queue_before": 139,
+      "queue_after": 138,
+      "book_balance_before": "23266.34",
+      "book_balance_after": "23189.54"
+    },
+    {
+      "source_row": 5,
+      "statement_date": "2025-07-10",
+      "amount": "-96.00",
+      "bank_description": "AMAZON AU RETAIL SYDNEY AU Card xx7902 Value Date: 07/07/2025",
+      "contact": "Amazon",
+      "document_type": "Spend money",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "queue_before": 138,
+      "queue_after": 137,
+      "book_balance_before": "23189.54",
+      "book_balance_after": "23093.54"
+    },
+    {
+      "source_row": 3,
+      "statement_date": "2025-07-09",
+      "amount": "-59.95",
+      "bank_description": "AMAZON MARKETPLACE AU SYDNEY SOUTH AU Card xx7902 Value Date: 07/07/2025",
+      "contact": "Amazon",
+      "document_type": "Spend money",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "queue_before": 137,
+      "queue_after": 136,
+      "book_balance_before": "23093.54",
+      "book_balance_after": "23033.59"
+    },
+    {
+      "source_row": 15,
+      "statement_date": "2025-07-29",
+      "amount": "-54.99",
+      "bank_description": "AMAZON MARKETPLACE AU SYDNEY SOUTH AU Card xx7902 Value Date: 24/07/2025",
+      "contact": "Amazon",
+      "document_type": "Spend money",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "queue_before": 136,
+      "queue_after": 135,
+      "book_balance_before": "23033.59",
+      "book_balance_after": "22978.60"
+    }
+  ],
+  "post_write_exact_record_verification": {
+    "search": "Amazon in Xero Review reconciled",
+    "result_count": 5,
+    "rows": [
+      {"date": "2025-07-29", "contact": "Amazon", "document_type": "Spend money", "account": "453 - Office Expenses", "spent": "54.99"},
+      {"date": "2025-07-10", "contact": "Amazon", "document_type": "Spend money", "account": "453 - Office Expenses", "spent": "96.00"},
+      {"date": "2025-07-09", "contact": "Amazon", "document_type": "Spend money", "account": "453 - Office Expenses", "spent": "59.95"},
+      {"date": "2025-07-01", "contact": "Amazon", "document_type": "Spend money", "account": "453 - Office Expenses", "spent": "76.80"},
+      {"date": "2025-07-01", "contact": "Amazon", "document_type": "Spend money", "account": "453 - Office Expenses", "spent": "76.80"}
+    ],
+    "treatment_field_evidence": "For each newly posted row, the create panel visibly showed contact Amazon, 453 - Office Expenses, description Business supplies - Amazon and BAS Excluded immediately before OK. After posting, Review reconciled independently showed the date, contact, Spend money type, account and amount for all five Amazon records. Queue movement and book-balance movement are supporting controls, not the sole evidence of treatment."
+  },
+  "remaining_control": {
+    "all_unreconciled_statement_lines": 135,
+    "projected_fy2025_26_unreconciled_lines": 98,
+    "projected_post_2026_06_30_unreconciled_lines": 37,
+    "opening_amazon_group_status": "All four opening Amazon debits totalling 309.55 are now reconciled to 453 - Office Expenses; the matching 309.55 Shane receipt remains separately unreconciled for 881 - Owner A Funds Introduced.",
+    "projected_other_fy_amazon_prime_lines": 9,
+    "projected_other_fy_amazon_prime_total": "208.83"
+  },
+  "guardrails": [
+    "No owner receipt, transfer, income line, subscription, purchase or outbound message was actioned.",
+    "No tax assumption was added.",
+    "The 309.55 Shane receipt was not posted as income or used to reverse expenses.",
+    "The batch stopped at four merchant lines after exact post-write review rather than extending into differently classified Amazon Prime or other merchants."
+  ],
+  "evidence_sources": [
+    "sources/bank/2025-07-01-to-2025-12-09-cba-business-account-1913.csv",
+    "workpapers/2026-08-25-account-1913-reconciliation-worklist.csv",
+    "workpapers/2026-09-03-amazon-business-supplies-correction.json",
+    "workpapers/2026-09-03-business-account-use-confirmation.json",
+    "workpapers/2026-09-07-equipment-scope-confirmation.md",
+    "Fresh Xero reconciliation and Review reconciled state inspected on 7 September 2026"
+  ]
+}
