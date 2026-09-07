@@ -1,0 +1,582 @@
+{
+  "as_of": "2026-09-08",
+  "status": "read_only_preparation_complete_no_xero_writes",
+  "account": "CBA Business Account ending 1913",
+  "checkpoint": {
+    "source_statement_lines": 253,
+    "reconciled": 186,
+    "remaining_all": 67,
+    "remaining_fy2025_26": 30,
+    "remaining_post_2026_06_30": 37,
+    "book_balance": "22117.05",
+    "statement_balance": "31016.85"
+  },
+  "inventory_basis": {
+    "source": "workpapers/2026-08-25-account-1913-reconciliation-worklist.csv",
+    "cutoff": "2026-06-30",
+    "method": "Exact source-row subtraction against all completed posting audits and complete-population controls. Source row 12 is excluded because workpapers/2026-09-01-xero-microsoft-reconciliation-progress.json verifies the 14 July 2025 $2,000 transfer was reconciled to 880 - Owner A Drawings.",
+    "prior_audits_not_duplicated": [
+      "workpapers/2026-09-08-xero-merchant-expense-batch-3-recovery.json",
+      "workpapers/2026-09-08-xero-owner-funds-introduced.json"
+    ]
+  },
+  "controls": {
+    "inventory_count": 30,
+    "debit_count": 16,
+    "debit_total": "1176.74",
+    "credit_count": 14,
+    "credit_total": "9165.00",
+    "net_movement": "7988.26",
+    "source_rows": [
+      13,
+      24,
+      57,
+      58,
+      69,
+      71,
+      116,
+      125,
+      126,
+      133,
+      142,
+      156,
+      160,
+      163,
+      164,
+      168,
+      169,
+      171,
+      172,
+      173,
+      174,
+      175,
+      178,
+      179,
+      183,
+      184,
+      192,
+      193,
+      196,
+      198
+    ]
+  },
+  "category_controls": {
+    "Teaching materials": {
+      "count": 2,
+      "signed_total": "-33.70"
+    },
+    "Teaching materials or supplies": {
+      "count": 7,
+      "signed_total": "-84.07"
+    },
+    "Utilities": {
+      "count": 3,
+      "signed_total": "-464.53"
+    },
+    "Unresolved credit": {
+      "count": 14,
+      "signed_total": "9165.00"
+    },
+    "Equipment or supplies": {
+      "count": 1,
+      "signed_total": "-200.00"
+    },
+    "Equipment": {
+      "count": 1,
+      "signed_total": "-80.00"
+    },
+    "Client gifts": {
+      "count": 1,
+      "signed_total": "-300.00"
+    },
+    "Business expense - account to confirm": {
+      "count": 1,
+      "signed_total": "-14.44"
+    }
+  },
+  "mapping_proposals": [
+    {
+      "group": "books_and_teaching_materials",
+      "source_rows": [
+        13,
+        179
+      ],
+      "source_total": "33.70",
+      "source_evidence": "Kinokuniya is identified by merchant name; row 179 bank reference explicitly says Books shipping fee. The worklist classifies both as Teaching materials.",
+      "proposed_existing_account": "453 - Office Expenses",
+      "basis": "Existing Xero account 453 has already been used and exactly read back for YesMandarin business supplies and consumables. The owner confirmed incidental purchases are consumables, not material assets.",
+      "confidence": "high",
+      "parent_judgement": "Approve 453 for the two specifically book/teaching-material rows.",
+      "posting_status": "not_posted_pending_parent_judgement"
+    },
+    {
+      "group": "covau_energy_utilities",
+      "source_rows": [
+        57,
+        58,
+        116
+      ],
+      "source_total": "464.53",
+      "source_evidence": "All three bank lines identify COVAU/COVAU ENERGY; row 116 also carries customer 1434251 and invoice 243753.",
+      "proposed_existing_account": "445 - Light, Power, Heating (candidate; exact live-chart presence/description not verified in this run)",
+      "basis": "The supplier and invoice narration establish energy/utility nature. This is more specific than Office Expenses.",
+      "confidence": "high_on_nature_low_on_exact_live_code",
+      "parent_judgement": "Use the existing utility account only after exact live chart confirmation; do not post to 445 from this proposal alone.",
+      "posting_status": "not_posted"
+    },
+    {
+      "group": "international_transaction_fees",
+      "source_rows": [
+        169,
+        173,
+        175
+      ],
+      "source_total": "2.25",
+      "source_evidence": "Each bank line is explicitly International Transaction Fee and shares the Taobao purchase value date.",
+      "proposed_existing_account": "404 - Bank Fees",
+      "basis": "Existing account 404 is evidenced by six posted and audited Stripe processing-fee entries in workpapers/2026-09-02-xero-stripe-clearing-reconstruction.json.",
+      "confidence": "high",
+      "parent_judgement": "Approve 404 for the three explicit fee rows; keep separate from the purchase item classification.",
+      "posting_status": "not_posted_pending_parent_judgement"
+    },
+    {
+      "group": "taobao_purchases_item_nature_unverified",
+      "source_rows": [
+        24,
+        168,
+        172,
+        174
+      ],
+      "source_total": "81.82",
+      "source_evidence": "Bank evidence proves Taobao/Alipay merchant, CNY/AUD amounts and dates only; no local receipt or item description was found.",
+      "proposed_existing_account": null,
+      "basis": "Merchant identity alone does not establish what was bought. The earlier worklist label Teaching materials or supplies is a review aid, not item-level evidence.",
+      "confidence": "blocked_on_item_nature",
+      "parent_judgement": "Obtain/order-detail evidence; if it proves teaching consumables, 453 - Office Expenses is the existing supported supplies mapping. Do not guess from merchant alone.",
+      "posting_status": "not_posted"
+    },
+    {
+      "group": "other_unresolved_debits",
+      "source_rows": [
+        133,
+        142,
+        160,
+        171
+      ],
+      "source_total": "594.44",
+      "source_evidence": "Narrations identify Kogan Mobile $200, Printer $80, Client gift card $300 and Order Lemon $14.44.",
+      "proposed_existing_account": null,
+      "basis": "Kogan and Order Lemon do not identify the purchased item/service; printer and client gift have identifiable purposes but require parent account-treatment judgement before posting.",
+      "confidence": "mixed",
+      "parent_judgement": "Review individually; do not force into Office Expenses solely because they are ordinary business-purpose transactions.",
+      "posting_status": "not_posted"
+    },
+    {
+      "group": "unresolved_receipts",
+      "source_rows": [
+        69,
+        71,
+        125,
+        126,
+        156,
+        163,
+        164,
+        178,
+        183,
+        184,
+        192,
+        193,
+        196,
+        198
+      ],
+      "source_total": "9165.00",
+      "source_evidence": "Payer and some tuition/lesson narrations are preserved, but existing controls forbid amount-only identity and speculative sales conclusions.",
+      "proposed_existing_account": null,
+      "basis": "Requires invoice/contact evidence review; no Stripe, income or tax conclusion made here.",
+      "confidence": "blocked",
+      "parent_judgement": "Resolve separately against invoice and payer evidence.",
+      "posting_status": "not_posted"
+    }
+  ],
+  "live_xero_chart_inspection": {
+    "attempted": true,
+    "result": "blocked_by_visible_chrome_cua_window_targeting_before_chart_opened",
+    "detail": "The logged-in Max Chrome showed Xero Review reconciled, but opening the Accounting menu failed and cmd-L created a separate Omnibox Popup window. cua-driver then refused/failed exact-window keyboard delivery because the Chrome process owned sibling top-level windows. Stopped after bounded retries; no permission prompt, credential, or Xero write was touched.",
+    "evidence_paths": [
+      "/Users/sps/.hermes/cache/images/computer_use_fb8976aab75a408ebfb088234053029b.png",
+      "/Users/sps/.hermes/cache/images/computer_use_83e74559574b4820884eb7f79f6db788.png"
+    ]
+  },
+  "source_document_search": {
+    "scope": "/Users/sps/personal/Yujie",
+    "result": "No local Kinokuniya, Taobao or Covau receipts/invoices were found beyond bank exports and existing workpapers."
+  },
+  "transactions": [
+    {
+      "source_row": 13,
+      "statement_date": "2025-07-18",
+      "amount": "-15.70",
+      "bank_description": "KINOKUNIYA BOOK STOR SYDNEY AU",
+      "kind": "expense",
+      "source_worklist_classification": "Teaching materials",
+      "evidence": "merchant_identity",
+      "group": "books_and_teaching_materials",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 24,
+      "statement_date": "2025-08-29",
+      "amount": "-17.47",
+      "bank_description": "TAOBAO 125 LONDON WA GB Card xx7902 AUD 17.47 Value Date: 26/08/2025",
+      "kind": "expense",
+      "source_worklist_classification": "Teaching materials or supplies",
+      "evidence": "merchant_identity",
+      "group": "taobao_purchases_item_nature_unverified",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 57,
+      "statement_date": "2025-12-18",
+      "amount": "-224.33",
+      "bank_description": "COVAU ENERGY SYDNEY AU Card xx7902 Value Date: 15/12/2025",
+      "kind": "expense",
+      "source_worklist_classification": "Utilities",
+      "evidence": "merchant_identity",
+      "group": "covau_energy_utilities",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 58,
+      "statement_date": "2025-12-18",
+      "amount": "-224.33",
+      "bank_description": "COVAU ENERGY SYDNEY AU Card xx7902 Value Date: 15/12/2025",
+      "kind": "expense",
+      "source_worklist_classification": "Utilities",
+      "evidence": "merchant_identity",
+      "group": "covau_energy_utilities",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 69,
+      "statement_date": "2026-01-27",
+      "amount": "588.00",
+      "bank_description": "Fast Transfer From Lam A Aidan Lam mandarin",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 71,
+      "statement_date": "2026-01-29",
+      "amount": "588.00",
+      "bank_description": "Fast Transfer From BIANCA WONG Chinese lesson Bianca wong",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 116,
+      "statement_date": "2026-04-02",
+      "amount": "-15.87",
+      "bank_description": "Direct Debit 466119 COVAU PTY LTD 1434251 INV 243753",
+      "kind": "expense",
+      "source_worklist_classification": "Utilities",
+      "evidence": "merchant_identity",
+      "group": "covau_energy_utilities",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 125,
+      "statement_date": "2026-04-14",
+      "amount": "585.00",
+      "bank_description": "Fast Transfer From JOHN L POTTER Term Fees Mandarin John Potter",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 126,
+      "statement_date": "2026-04-17",
+      "amount": "590.00",
+      "bank_description": "Fast Transfer From Anthony Dengate Mandarin Lessons Anthony Dengate",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 133,
+      "statement_date": "2026-04-28",
+      "amount": "-200.00",
+      "bank_description": "KOGAN MOBILE NORTH SYDNEY AU Card xx7902 Value Date: 24/04/2026",
+      "kind": "expense",
+      "source_worklist_classification": "Equipment or supplies",
+      "evidence": "merchant_identity",
+      "group": "kogan_mobile",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 142,
+      "statement_date": "2026-05-05",
+      "amount": "-80.00",
+      "bank_description": "Transfer To M LI PayID Phone from CommBank App Printer",
+      "kind": "expense",
+      "source_worklist_classification": "Equipment",
+      "evidence": "bank_reference",
+      "group": "printer",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 156,
+      "statement_date": "2026-05-20",
+      "amount": "1300.00",
+      "bank_description": "Fast Transfer From HERO LI CREDIT TO ACCOUNT Hero Li",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 160,
+      "statement_date": "2026-06-03",
+      "amount": "-300.00",
+      "bank_description": "Transfer To Mark Zheng PayID Phone from CommBank App Client gift card",
+      "kind": "expense",
+      "source_worklist_classification": "Client gifts",
+      "evidence": "bank_reference",
+      "group": "client_gift_card",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 163,
+      "statement_date": "2026-06-05",
+      "amount": "680.00",
+      "bank_description": "Fast Transfer From COURTNEY MCMILLAN Courtney McMillan student Courtney",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 164,
+      "statement_date": "2026-06-06",
+      "amount": "177.00",
+      "bank_description": "Fast Transfer From MISS JESSICA SUE CHEN CREDIT TO ACCOUNT Jessica Chen",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 168,
+      "statement_date": "2026-06-10",
+      "amount": "-31.93",
+      "bank_description": "ALP*Taobao Shanghai CN Card xx7902 CNY 152.19 Value Date: 07/06/2026",
+      "kind": "expense",
+      "source_worklist_classification": "Teaching materials or supplies",
+      "evidence": "merchant_identity",
+      "group": "taobao_purchases_item_nature_unverified",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 169,
+      "statement_date": "2026-06-10",
+      "amount": "-1.12",
+      "bank_description": "International Transaction Fee Value Date: 07/06/2026",
+      "kind": "expense",
+      "source_worklist_classification": "Teaching materials or supplies",
+      "evidence": "merchant_identity",
+      "group": "international_transaction_fees",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 171,
+      "statement_date": "2026-06-11",
+      "amount": "-14.44",
+      "bank_description": "ORDER LEMON HAYMARKET Sydney AU Card xx7902 Value Date: 09/06/2026",
+      "kind": "expense",
+      "source_worklist_classification": "Business expense - account to confirm",
+      "evidence": "owner_confirmation_business_account_use",
+      "group": "order_lemon",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 172,
+      "statement_date": "2026-06-11",
+      "amount": "-6.88",
+      "bank_description": "Alipay*Taobao Shanghai CN Card xx7902 CNY 32.80 Value Date: 07/06/2026",
+      "kind": "expense",
+      "source_worklist_classification": "Teaching materials or supplies",
+      "evidence": "merchant_identity",
+      "group": "taobao_purchases_item_nature_unverified",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 173,
+      "statement_date": "2026-06-11",
+      "amount": "-0.24",
+      "bank_description": "International Transaction Fee Value Date: 07/06/2026",
+      "kind": "expense",
+      "source_worklist_classification": "Teaching materials or supplies",
+      "evidence": "merchant_identity",
+      "group": "international_transaction_fees",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 174,
+      "statement_date": "2026-06-11",
+      "amount": "-25.54",
+      "bank_description": "Alipay*Taobao Shanghai CN Card xx7902 CNY 121.75 Value Date: 07/06/2026",
+      "kind": "expense",
+      "source_worklist_classification": "Teaching materials or supplies",
+      "evidence": "merchant_identity",
+      "group": "taobao_purchases_item_nature_unverified",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 175,
+      "statement_date": "2026-06-11",
+      "amount": "-0.89",
+      "bank_description": "International Transaction Fee Value Date: 07/06/2026",
+      "kind": "expense",
+      "source_worklist_classification": "Teaching materials or supplies",
+      "evidence": "merchant_identity",
+      "group": "international_transaction_fees",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 178,
+      "statement_date": "2026-06-15",
+      "amount": "1280.00",
+      "bank_description": "Fast Transfer From JUTAMAS SUETRONG Jutamas Jutamas",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 179,
+      "statement_date": "2026-06-15",
+      "amount": "-18.00",
+      "bank_description": "Transfer To X PANG PayID Phone from CommBank App Books shipping fee",
+      "kind": "expense",
+      "source_worklist_classification": "Teaching materials",
+      "evidence": "merchant_identity",
+      "group": "books_and_teaching_materials",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 183,
+      "statement_date": "2026-06-16",
+      "amount": "345.00",
+      "bank_description": "Fast Transfer From MARIA JOHN Payment for 5 lessons from Suguru",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 184,
+      "statement_date": "2026-06-16",
+      "amount": "680.00",
+      "bank_description": "Fast Transfer From HABTEMARIAM MUSGUN Hab",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 192,
+      "statement_date": "2026-06-23",
+      "amount": "558.00",
+      "bank_description": "Fast Transfer From Wai K Chan Mandarin lessons dorafa term 1",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 193,
+      "statement_date": "2026-06-23",
+      "amount": "558.00",
+      "bank_description": "Fast Transfer From O'Neill A F ALEXANDER O'NEILL",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 196,
+      "statement_date": "2026-06-26",
+      "amount": "618.00",
+      "bank_description": "Fast Transfer From Rollins J E Jen Rollins",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    },
+    {
+      "source_row": 198,
+      "statement_date": "2026-06-27",
+      "amount": "618.00",
+      "bank_description": "Fast Transfer From J BISSET Mandarin classes Jenny Bisset",
+      "kind": "unresolved_credit",
+      "source_worklist_classification": "Unresolved credit",
+      "evidence": "none",
+      "group": "unresolved_receipts",
+      "posting_status": "unreconciled_at_checkpoint_186",
+      "proposed_mapping_status": "see_mapping_proposals"
+    }
+  ],
+  "guardrails": [
+    "No Xero transaction was posted or edited.",
+    "No proposed unresolved category was posted before parent judgement.",
+    "No prior merchant or owner-funds row was duplicated.",
+    "No new account, tax conclusion, Stripe conclusion, contractor conclusion, permission action, credential action, purchase, commitment or outbound communication occurred."
+  ]
+}

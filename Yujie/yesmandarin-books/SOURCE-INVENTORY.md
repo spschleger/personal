@@ -6,6 +6,8 @@
 
 Xero reconstruction is in progress. The full supplied account `1913` statement range is imported and 186 of 253 lines are reconciled, leaving 67. The recovered 17-line FY2025–26 merchant batch is exactly read back in Xero and totals $428.25 across Amazon, Kmart, Dollar Avenue, JB Hi-Fi, Google Workspace and Transport for NSW. The confirmed $309.55 Shane reimbursement is also exactly verified as `881 - Owner A Funds Introduced`, not revenue. The latest full checkpoint is statement balance $31,016.85 and book balance $22,117.05. The complete FY2025–26 Transport population is now 52 audit-backed rows totalling $862.85; 13 post-30 June 2026 Transport rows remain outside that completion claim. Other expenses, transfers and ambiguous receipts remain unresolved. Audits: `workpapers/2026-09-08-xero-merchant-expense-batch-3-recovery.json` and `workpapers/2026-09-08-xero-owner-funds-introduced.json`.
 
+The full 30-row FY2025–26 remainder and evidence-backed mapping proposals are in `workpapers/2026-09-08-fy2025-26-remaining-inventory-and-mapping-proposals.json`. Its source-row controls prove 16 debits totalling $1,176.74, 14 credits totalling $9,165.00 and net movement of $7,988.26. The preparation was read-only: it proposes existing `453 - Office Expenses` for the two explicitly evidenced book/teaching-material rows and `404 - Bank Fees` for the three explicit international-fee rows, leaves Taobao purchase contents unguessed, and requires exact live-chart confirmation before any Covau utility-account posting.
+
 Use Xero as a historical invoice source during reconstruction. Treat complete bank statements as the cash source of truth. Xero will become the canonical books only after the source-backed reconstruction is verified.
 
 ## Xero organisation
