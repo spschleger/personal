@@ -1,6 +1,6 @@
 {
   "as_of": "2026-09-08",
-  "status": "recovery_complete_six_direct_tuition_receipts_verified",
+  "status": "recovery_complete_six_direct_tuition_receipts_freshly_detail_verified",
   "account": "CBA Business Account ending 1913",
   "scope": "Bounded recovery of the interrupted direct-tuition batch. This audit distinguishes writes made by the prior interrupted worker from this recovery run and does not claim discovery as a new posting.",
   "run_attribution": {
@@ -8,7 +8,7 @@
     "prior_interrupted_run_posted_total": "2351.00",
     "this_recovery_run_posted_count": 2,
     "this_recovery_run_posted_total": "963.00",
-    "basis": "The prior transcript records completion clicks before each later post-write search/detail readback. Xero transaction History & Notes timestamps are 02:18AM Aidan, 02:22AM Bianca and 02:30AM John on 8 September 2026; Anthony was prepared immediately afterward and the queue/book controls moved from 55/$24,057.57 to 54/$24,647.57. The four-row source total and movement from the pre-batch 58/$22,296.57 checkpoint agree exactly. This recovery run then posted only Maria John $345 and Jenny Bisset $618 after name and amount duplicate checks; visible post-write controls and exact reconciled records prove both writes."
+    "basis": "The prior transcript records completion clicks before each later post-write search/detail readback. Xero transaction History & Notes timestamps are 02:18AM Aidan, 02:22AM Bianca, 02:30AM John and 02:39AM Anthony on 8 September 2026. Before the present repair, Anthony's source-specific proof was the exact pre-write form plus completion/queue inference and control movement from 55/$24,057.57 to 54/$24,647.57; anthony-postwrite.png was not an exact transaction-detail readback. This repair freshly read Anthony's reconciled statement detail and posted Receive Money detail without writing. The four-row source total and movement from the pre-batch 58/$22,296.57 checkpoint agree exactly. This recovery run then posted only Maria John $345 and Jenny Bisset $618 after name and amount duplicate checks; visible post-write controls and exact reconciled records prove both writes."
   },
   "controls": {
     "source_statement_lines": 253,
@@ -87,9 +87,13 @@
       "account": "200 - Sales",
       "tax_rate": "BAS Excluded",
       "posting_attribution": "prior_interrupted_run",
-      "verification": "Pre-write evidence shows the isolated exact source row and completed Receive Money form. The prior transcript then records the completion click, followed by a no-result source search and exact control movement from 55/$24,057.57 to 54/$24,647.57. This source-specific subtraction proves one $590 posting and prevents reposting; a fresh detail screenshot remains desirable but is not needed to infer another write.",
-      "evidence": "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-prewrite.png",
-      "postwrite_evidence": "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-postwrite.png"
+      "verification": "Fresh visible-Chrome readback now shows the exact reconciled statement line and posted Receive Money detail: 17 April 2026, Anthony Dengate, $590.00, the exact bank description, 200 - Sales, BAS Excluded and Tax Exclusive display; History & Notes says reconciled by Felicity Cao at 2:39AM on 8 September 2026. Attribution to the prior interrupted run is supported separately by that timestamp plus the earlier pre-write/completion transcript and exact queue/book movement. Before this repair, anthony-postwrite.png showed absence from the queue and control movement only and was not exact posted-detail evidence.",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-prewrite.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-postwrite.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-reconciled-statement-detail-fresh.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-posted-detail-fresh.png"
+      ]
     },
     {
       "source_row": 183,
@@ -124,14 +128,15 @@
       "tax_rate": "BAS Excluded",
       "posting_attribution": "this_recovery_run",
       "duplicate_verification": "Find & Match returned no result for Jenny Bisset and no result for amount 618 before posting.",
-      "verification": "The exact pre-write form, post-write queue/book control, reconciled-list row and exact reconciled statement detail were captured. The statement detail identifies 27 June 2026, Jenny Bisset, $618 and the Mandarin classes bank narration.",
+      "verification": "The exact pre-write form, post-write queue/book control, reconciled-list row and exact reconciled statement detail were captured. A fresh visible-Chrome posted-detail readback now also shows 27 June 2026, Jenny Bisset, $618.00, the exact Mandarin classes description, 200 - Sales, BAS Excluded and Tax Exclusive display; History & Notes says reconciled by Felicity Cao at 3:36AM on 8 September 2026.",
       "evidence": [
         "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-find-match-name-no-results.png",
         "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-find-match-amount-no-results.png",
         "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-prewrite-exact.png",
         "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-postwrite-control.png",
         "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-review-exact.png",
-        "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-reconciled-statement-detail.png"
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-reconciled-statement-detail.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-posted-detail.png"
       ]
     }
   ],

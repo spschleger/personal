@@ -14,13 +14,14 @@ This folder preserves visible-Chrome evidence from the interrupted tuition posti
 - `row069-aidan-posted-detail.png` — 27 January 2026 Aidan Lam $588 Receive Money detail, Sales, BAS Excluded; history says reconciled at 2:18AM.
 - `row071-bianca-posted-detail.png` — 29 January 2026 Bianca Wong $588 Receive Money detail, Sales, BAS Excluded; history says reconciled at 2:22AM.
 - `row126-john-potter-posted-detail.png` — despite the legacy filename, this is source row **125**, 14 April 2026 John L Potter $585 Receive Money detail, Sales, BAS Excluded; history says reconciled at 2:30AM.
-- `anthony-prewrite.png` and `anthony-postwrite.png` — source row 126 isolated with exact completed form, then absent from the queue with the queue/book control at 54 / $24,647.57.
+- `anthony-prewrite.png` and `anthony-postwrite.png` — historical source row 126 pre-write evidence, followed by absence from the queue and the 54 / $24,647.57 control. The latter is queue/control evidence, not an exact posted-detail readback.
+- `anthony-reconciled-statement-detail-fresh.png` and `anthony-posted-detail-fresh.png` — fresh read-only proof of the actual 17 April 2026 Anthony Dengate $590 statement match and posted `Receive Money` detail: exact description, `200 - Sales`, `BAS Excluded`, Tax Exclusive display and 2:39AM reconciliation history.
 - `*-find-match-amount-no-results.png` — prior full live Find & Match amount checks.
 - `courtney-all-three-amount-matches.png`, `courtney-yohans-inv0039-detail.png`, `courtney-jack-inv0071-detail.png`, `courtney-sean-inv0092-detail.png` — the three $680 invoice candidates identify Yohans, Jack and Sean, not Courtney; Courtney remains held.
 - `recovery-current-maria-control.png` — fresh recovery capture: 54 pending, $24,647.57 book balance; Maria search shows separate 16 June and 5 August $345 bank lines. The open June create form contains only the selected Maria John contact, with account/description/tax not completed.
 - `maria-find-match-name-no-results.png` and `maria-find-match-amount-no-results.png` — pre-write duplicate checks for Maria John and $345.
 - `maria-prewrite-exact.png`, `maria-postwrite-control.png`, `maria-review-exact.png`, `maria-reconciled-statement-detail.png` and `maria-posted-detail.png` — exact Maria form, finalised control and reconciled transaction proof.
 - `jenny-find-match-name-no-results.png` and `jenny-find-match-amount-no-results.png` — pre-write duplicate checks for Jenny Bisset and $618.
-- `jenny-prewrite-exact.png`, `jenny-postwrite-control.png`, `jenny-review-exact.png` and `jenny-reconciled-statement-detail.png` — exact Jenny form, final 52 / $25,610.57 control, reconciled-list row and exact statement-to-payment proof.
+- `jenny-prewrite-exact.png`, `jenny-postwrite-control.png`, `jenny-review-exact.png`, `jenny-reconciled-statement-detail.png` and `jenny-posted-detail.png` — exact Jenny form, final 52 / $25,610.57 control, reconciled-list row, statement-to-payment proof and fresh posted detail including `200 - Sales`, `BAS Excluded`, Tax Exclusive display and 3:36AM reconciliation history.
 
 Machine-readable audit: `../../2026-09-08-xero-direct-tuition-batch-recovery.json`.

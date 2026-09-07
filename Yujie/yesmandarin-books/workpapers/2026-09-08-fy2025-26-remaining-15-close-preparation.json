@@ -1,0 +1,231 @@
+{
+  "as_of": "2026-09-08",
+  "status": "read_only_close_preparation_complete_no_xero_writes",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Exact source-supported inventory of the 15 FY2025-26 lines remaining after the six-receipt direct-tuition batch, plus a concise list of facts still needed. Proposals are for parent judgement only; this file does not authorise or record any posting.",
+  "checkpoint": {
+    "unreconciled_statement_lines": 52,
+    "fy2025_26_unreconciled_lines": 15,
+    "post_2026_06_30_unreconciled_lines": 37,
+    "book_balance": "25610.57",
+    "statement_balance": "31016.85"
+  },
+  "controls": {
+    "remaining_count": 15,
+    "credit_count": 7,
+    "credit_total": "5171.00",
+    "debit_count": 8,
+    "debit_total": "676.26",
+    "net_movement": "4494.74",
+    "source_rows": [24, 133, 142, 156, 160, 163, 164, 168, 171, 172, 174, 178, 192, 193, 196]
+  },
+  "fresh_read_only_xero_verification": {
+    "method": "Visible signed-in Chrome only. No Xero form was submitted and no transaction was created, changed, removed or redone.",
+    "anthony_dengate": {
+      "source_row": 126,
+      "date": "2026-04-17",
+      "amount": "590.00",
+      "contact": "Anthony Dengate",
+      "transaction_type": "Receive Money",
+      "description": "Fast Transfer From Anthony Dengate Mandarin Lessons Anthony Dengate",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "amounts_tax_basis": "Tax Exclusive",
+      "history": "Reconciled by Felicity Cao on 8 September 2026 at 2:39AM; credit payment on 17 April 2026 for $590.00.",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-reconciled-statement-detail-fresh.png",
+        "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-posted-detail-fresh.png"
+      ],
+      "verification_boundary": "This fresh readback proves the posted transaction's exact fields and existence. Attribution to the prior interrupted run remains supported by its history timestamp plus the earlier pre-write/completion transcript and exact queue/book movement; the old anthony-postwrite.png alone was only queue/control evidence."
+    },
+    "jenny_bisset": {
+      "source_row": 198,
+      "date": "2026-06-27",
+      "amount": "618.00",
+      "contact": "Jenny Bisset",
+      "transaction_type": "Receive Money",
+      "description": "Fast Transfer From J BISSET Mandarin classes Jenny Bisset",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "amounts_tax_basis": "Tax Exclusive",
+      "history": "Reconciled by Felicity Cao on 8 September 2026 at 3:36AM; credit payment on 27 June 2026 for $618.00.",
+      "evidence": "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-posted-detail.png"
+    }
+  },
+  "remaining_credits": [
+    {
+      "source_row": 156,
+      "date": "2026-05-20",
+      "amount": "1300.00",
+      "payer": "Hero Li",
+      "bank_description": "Fast Transfer From HERO LI CREDIT TO ACCOUNT Hero Li",
+      "source_evidence": "INV-0070 is a $1,300 invoice dated 19 May 2026 for XO Maintenance Pty Ltd using hero_vsop@icloud.com; Xero offered it by amount, but the bank narration does not identify the company or invoice.",
+      "parent_judgement_proposal": "Match INV-0070 only if payer identity is confirmed; otherwise hold for the receipt purpose.",
+      "genuine_missing_fact": "Did Hero Li pay XO Maintenance Pty Ltd's INV-0070 with this receipt?"
+    },
+    {
+      "source_row": 163,
+      "date": "2026-06-05",
+      "amount": "680.00",
+      "payer": "Courtney McMillan",
+      "bank_description": "Fast Transfer From COURTNEY MCMILLAN Courtney McMillan student Courtney",
+      "source_evidence": "The narration identifies Courtney as a student. No Courtney contact exists in the preserved invoice export; the three $680 invoice candidates identify Yohans, Jack Anderson and Sean, not Courtney.",
+      "parent_judgement_proposal": "Do not use an amount-only invoice match. The source supports parent consideration of a direct student-fee/tuition receipt without fabricating an invoice.",
+      "genuine_missing_fact": null,
+      "why_no_question": "The bank already supplies student-purpose evidence. What remains is parent accounting judgement, not another request for business use or an amount-only identity guess."
+    },
+    {
+      "source_row": 164,
+      "date": "2026-06-06",
+      "amount": "177.00",
+      "payer": "Jessica Chen",
+      "bank_description": "Fast Transfer From MISS JESSICA SUE CHEN CREDIT TO ACCOUNT Jessica Chen",
+      "source_evidence": "The bank establishes payer only. The sole Jessica invoice is later INV-0079 dated 7 August 2026 for $195, not this receipt.",
+      "parent_judgement_proposal": "Hold until purpose is supplied; do not use the later different-amount invoice.",
+      "genuine_missing_fact": "What did Jessica Chen's $177 payment pay for?"
+    },
+    {
+      "source_row": 178,
+      "date": "2026-06-15",
+      "amount": "1280.00",
+      "payer": "Jutamas Suetrong",
+      "bank_description": "Fast Transfer From JUTAMAS SUETRONG Jutamas Jutamas",
+      "source_evidence": "The bank establishes payer only; no same-payer invoice exists in the preserved invoice export.",
+      "parent_judgement_proposal": "Hold until purpose is supplied.",
+      "genuine_missing_fact": "What did Jutamas Suetrong's $1,280 payment pay for?"
+    },
+    {
+      "source_row": 192,
+      "date": "2026-06-23",
+      "amount": "558.00",
+      "payer": "Wai K Chan",
+      "bank_description": "Fast Transfer From Wai K Chan Mandarin lessons dorafa term 1",
+      "source_evidence": "The narration proves Mandarin lessons for Dorafa. INV-0076 is a $558 group-class invoice for Nitchakan, but no preserved source links Nitchakan to Dorafa or Wai K Chan; Xero also offered that invoice to Alexander O'Neill's separate $558 receipt.",
+      "parent_judgement_proposal": "Match INV-0076 only if billed-contact identity is confirmed; otherwise consider the source-supported direct tuition treatment separately.",
+      "genuine_missing_fact": "Is Nitchakan the billed contact for Dorafa, and did Wai K Chan's receipt settle INV-0076?"
+    },
+    {
+      "source_row": 193,
+      "date": "2026-06-23",
+      "amount": "558.00",
+      "payer": "Alexander O'Neill",
+      "bank_description": "Fast Transfer From O'Neill A F ALEXANDER O'NEILL",
+      "source_evidence": "The bank establishes payer only. No Alexander invoice exists; INV-0076 belongs to Nitchakan and was offered solely by amount/date proximity to two different receipts.",
+      "parent_judgement_proposal": "Hold until purpose is supplied; do not use INV-0076 on amount alone.",
+      "genuine_missing_fact": "What did Alexander O'Neill's $558 payment pay for?"
+    },
+    {
+      "source_row": 196,
+      "date": "2026-06-26",
+      "amount": "618.00",
+      "payer": "Jen Rollins",
+      "bank_description": "Fast Transfer From Rollins J E Jen Rollins",
+      "source_evidence": "The bank establishes payer only; no same-payer invoice exists in the preserved invoice export.",
+      "parent_judgement_proposal": "Hold until purpose is supplied.",
+      "genuine_missing_fact": "What did Jen Rollins' $618 payment pay for?"
+    }
+  ],
+  "remaining_debits": [
+    {
+      "source_row": 24,
+      "date": "2025-08-29",
+      "amount": "-17.47",
+      "bank_description": "TAOBAO 125 LONDON WA GB Card xx7902 AUD 17.47 Value Date: 26/08/2025",
+      "source_evidence": "Merchant, amount and value date only.",
+      "parent_judgement_proposal": "Hold the account mapping until item/order evidence identifies the cost nature.",
+      "genuine_missing_fact": "Item or order contents."
+    },
+    {
+      "source_row": 133,
+      "date": "2026-04-28",
+      "amount": "-200.00",
+      "bank_description": "KOGAN MOBILE NORTH SYDNEY AU Card xx7902 Value Date: 24/04/2026",
+      "source_evidence": "The exact bank merchant is KOGAN MOBILE, which supports a mobile-related purchase and makes service/prepaid credit plausible, but it does not prove service rather than a handset/device.",
+      "parent_judgement_proposal": "Distinguish device from mobile service/prepaid before choosing the accounting category; do not infer the category from merchant alone.",
+      "genuine_missing_fact": "Was the $200 for a handset/device or for mobile service/prepaid credit?"
+    },
+    {
+      "source_row": 142,
+      "date": "2026-05-05",
+      "amount": "-80.00",
+      "bank_description": "Transfer To M LI PayID Phone from CommBank App Printer",
+      "source_evidence": "The bank reference identifies a printer-related payment; the owner says there are no material business assets and remaining incidental purchases are consumables.",
+      "parent_judgement_proposal": "Parent may judge this as routine low-value office/small-equipment expenditure from the existing evidence. No account or tax treatment is asserted here.",
+      "genuine_missing_fact": null,
+      "why_no_question": "A printer model and repeated business-use confirmation are not automatically needed to choose a routine small-equipment expense. A receipt remains useful substantiation if available, but its absence is an evidence note rather than a reason to repeat answered questions."
+    },
+    {
+      "source_row": 160,
+      "date": "2026-06-03",
+      "amount": "-300.00",
+      "bank_description": "Transfer To Mark Zheng PayID Phone from CommBank App Client gift card",
+      "source_evidence": "The bank reference identifies a client gift card, but not the client or occasion.",
+      "parent_judgement_proposal": "Hold detailed classification/support until the client and business occasion are identified.",
+      "genuine_missing_fact": "Which client and business occasion was the $300 gift card for?"
+    },
+    {
+      "source_row": 168,
+      "date": "2026-06-10",
+      "amount": "-31.93",
+      "bank_description": "ALP*Taobao Shanghai CN Card xx7902 CNY 152.19 Value Date: 07/06/2026",
+      "source_evidence": "Merchant, CNY/AUD amount and value date only.",
+      "parent_judgement_proposal": "Hold the account mapping until item/order evidence identifies the cost nature.",
+      "genuine_missing_fact": "Item or order contents."
+    },
+    {
+      "source_row": 171,
+      "date": "2026-06-11",
+      "amount": "-14.44",
+      "bank_description": "ORDER LEMON HAYMARKET Sydney AU Card xx7902 Value Date: 09/06/2026",
+      "source_evidence": "Merchant, amount and value date only; the owner has already confirmed business purpose for external merchant expenditure from account 1913.",
+      "parent_judgement_proposal": "Identify the product/service before choosing the expense category; do not ask again whether it was business use.",
+      "genuine_missing_fact": "What product or service was bought from Order Lemon?"
+    },
+    {
+      "source_row": 172,
+      "date": "2026-06-11",
+      "amount": "-6.88",
+      "bank_description": "Alipay*Taobao Shanghai CN Card xx7902 CNY 32.80 Value Date: 07/06/2026",
+      "source_evidence": "Merchant, CNY/AUD amount and value date only.",
+      "parent_judgement_proposal": "Hold the account mapping until item/order evidence identifies the cost nature.",
+      "genuine_missing_fact": "Item or order contents."
+    },
+    {
+      "source_row": 174,
+      "date": "2026-06-11",
+      "amount": "-25.54",
+      "bank_description": "Alipay*Taobao Shanghai CN Card xx7902 CNY 121.75 Value Date: 07/06/2026",
+      "source_evidence": "Merchant, CNY/AUD amount and value date only.",
+      "parent_judgement_proposal": "Hold the account mapping until item/order evidence identifies the cost nature.",
+      "genuine_missing_fact": "Item or order contents."
+    }
+  ],
+  "concise_unresolved_factual_questions": [
+    "20 May 2026 +$1,300 Hero Li — did this pay XO Maintenance Pty Ltd's INV-0070?",
+    "6 Jun 2026 +$177 Jessica Chen; 15 Jun +$1,280 Jutamas Suetrong; 23 Jun +$558 Alexander O'Neill; 26 Jun +$618 Jen Rollins — what did each payment pay for?",
+    "23 Jun 2026 +$558 Wai K Chan — is Nitchakan the billed contact for Dorafa, and did this settle INV-0076?",
+    "Taobao: 29 Aug 2025 -$17.47; 10 Jun 2026 -$31.93; 11 Jun -$6.88 and -$25.54 — what items/orders were bought?",
+    "28 Apr 2026 -$200 Kogan Mobile — handset/device or mobile service/prepaid credit?",
+    "3 Jun 2026 -$300 Mark Zheng, client gift card — which client and business occasion?",
+    "11 Jun 2026 -$14.44 Order Lemon — what product or service was bought?"
+  ],
+  "questions_not_needed": [
+    "Do not ask again whether the external merchant debits were business-use; the owner already confirmed business purpose for account 1913 merchant expenditure.",
+    "Do not require the 5 May 2026 $80 printer model merely to consider routine small-equipment expense treatment; note/request a receipt only as available substantiation.",
+    "Do not ask Courtney McMillan for invoice identity by amount: the three $680 invoice candidates are different named people. Courtney remains one of the seven credits, with student-purpose narration and a parent-judgement direct-receipt proposal."
+  ],
+  "source_files": [
+    "sources/bank/2025-07-01-to-2026-08-17-xero-bank-import.csv",
+    "sources/xero/2026-08-24-sales-invoices.csv",
+    "workpapers/2026-09-03-business-account-use-confirmation.json",
+    "workpapers/2026-09-07-equipment-scope-confirmation.md",
+    "workpapers/2026-09-08-fy2025-26-credit-evidence-inventory.json",
+    "workpapers/2026-09-08-xero-direct-tuition-batch-recovery.json"
+  ],
+  "guardrails": [
+    "No Xero writes were authorised or made in this run.",
+    "No account or tax treatment for any remaining line is asserted as fact.",
+    "No business-purpose question is repeated where owner evidence already answers it.",
+    "No credential, permission, outbound payment, commitment or communication was created."
+  ]
+}

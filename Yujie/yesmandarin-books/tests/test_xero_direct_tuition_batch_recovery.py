@@ -65,6 +65,27 @@ class DirectTuitionBatchRecoveryTests(unittest.TestCase):
             for evidence in row["evidence"]:
                 self.assertTrue((ROOT / evidence).is_file(), evidence)
 
+    def test_anthony_repair_distinguishes_old_inference_from_fresh_detail(self):
+        anthony = next(row for row in self.rows if row["source_row"] == 126)
+        self.assertIn("Fresh visible-Chrome readback", anthony["verification"])
+        self.assertIn("anthony-postwrite.png", anthony["verification"])
+        self.assertIn("was not exact posted-detail evidence", anthony["verification"])
+        self.assertIn("2:39AM", anthony["verification"])
+        for evidence in anthony["evidence"]:
+            self.assertTrue((ROOT / evidence).is_file(), evidence)
+        self.assertTrue(
+            any(evidence.endswith("anthony-posted-detail-fresh.png") for evidence in anthony["evidence"])
+        )
+
+    def test_jenny_fresh_posted_detail_is_preserved(self):
+        jenny = next(row for row in self.rows if row["source_row"] == 198)
+        self.assertIn("3:36AM", jenny["verification"])
+        self.assertIn("Tax Exclusive", jenny["verification"])
+        self.assertIn(
+            "workpapers/evidence/2026-09-08-direct-tuition-batch/jenny-posted-detail.png",
+            jenny["evidence"],
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
