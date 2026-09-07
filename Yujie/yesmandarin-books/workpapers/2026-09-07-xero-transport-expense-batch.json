@@ -1,0 +1,112 @@
+{
+  "as_of": "2026-09-07",
+  "status": "completed_bounded_batch",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Twenty-five FY2025-26 Transport for NSW merchant expense statement lines.",
+  "basis": {
+    "business_purpose": "Shane's 3 September 2026 confirmation that external merchant expenditure from account 1913 is YesMandarin business-purpose expenditure.",
+    "source_identity": "The preserved CBA statement worklist identifies each selected debit as TRANSPORTFORNSW TAP.",
+    "expense_account": "493 - Travel - National",
+    "account_basis": "Existing Xero travel account selected; no new account was created.",
+    "gst_status": "Entity recorded as not registered for GST.",
+    "tax_rate_used": "BAS Excluded",
+    "contact": "Transport for NSW",
+    "description": "Business travel - Transport NSW"
+  },
+  "queue_control": {
+    "source_statement_lines": 253,
+    "queue_before": 135,
+    "queue_after": 110,
+    "new_lines_reconciled": 25,
+    "total_lines_reconciled_to_date": 143,
+    "completion_percent": 56.5,
+    "projected_fy2025_26_unreconciled_before": 98,
+    "projected_fy2025_26_unreconciled_after": 73,
+    "projected_post_2026_06_30_unreconciled": 37
+  },
+  "batch_control": {
+    "transaction_count": 25,
+    "spent_total": "185.23",
+    "document_type": "Spend money",
+    "method": "Manual",
+    "run_started": "2026-09-07T17:14:24+10:00",
+    "queue_verified_at": "2026-09-07T18:10:24+10:00",
+    "elapsed_seconds": 3360,
+    "elapsed_minutes": 56.0,
+    "throughput_lines_per_hour": 26.8
+  },
+  "transactions": [
+    {"source_row": 82, "statement_date": "2026-02-13", "amount": "-5.38"},
+    {"source_row": 83, "statement_date": "2026-02-14", "amount": "-18.28"},
+    {"source_row": 86, "statement_date": "2026-02-17", "amount": "-15.20"},
+    {"source_row": 87, "statement_date": "2026-02-18", "amount": "-7.52"},
+    {"source_row": 88, "statement_date": "2026-02-20", "amount": "-7.52"},
+    {"source_row": 89, "statement_date": "2026-02-24", "amount": "-3.34"},
+    {"source_row": 90, "statement_date": "2026-02-24", "amount": "-16.75"},
+    {"source_row": 92, "statement_date": "2026-02-28", "amount": "-3.76"},
+    {"source_row": 94, "statement_date": "2026-03-03", "amount": "-3.34"},
+    {"source_row": 95, "statement_date": "2026-03-03", "amount": "-5.38"},
+    {"source_row": 98, "statement_date": "2026-03-05", "amount": "-7.52"},
+    {"source_row": 100, "statement_date": "2026-03-06", "amount": "-7.52"},
+    {"source_row": 111, "statement_date": "2026-03-26", "amount": "-3.76"},
+    {"source_row": 112, "statement_date": "2026-03-27", "amount": "-3.76"},
+    {"source_row": 115, "statement_date": "2026-03-31", "amount": "-5.38"},
+    {"source_row": 119, "statement_date": "2026-04-08", "amount": "-7.52"},
+    {"source_row": 121, "statement_date": "2026-04-10", "amount": "-7.52"},
+    {"source_row": 128, "statement_date": "2026-04-18", "amount": "-7.52"},
+    {"source_row": 130, "statement_date": "2026-04-21", "amount": "-3.76"},
+    {"source_row": 149, "statement_date": "2026-05-12", "amount": "-7.46"},
+    {"source_row": 155, "statement_date": "2026-05-19", "amount": "-3.76"},
+    {"source_row": 159, "statement_date": "2026-06-02", "amount": "-9.14"},
+    {"source_row": 176, "statement_date": "2026-06-12", "amount": "-7.52"},
+    {"source_row": 177, "statement_date": "2026-06-13", "amount": "-7.52"},
+    {"source_row": 180, "statement_date": "2026-06-16", "amount": "-9.10"}
+  ],
+  "post_write_exact_record_verification": {
+    "location": "Xero Review reconciled",
+    "verified_fields": ["date", "payment contact", "document type", "account code", "spent", "method"],
+    "expected_common_fields": {
+      "payment_contact": "Transport for NSW",
+      "document_type": "Spend money",
+      "account_code": "493 - Travel - National",
+      "method": "Manual"
+    },
+    "amount_searches": [
+      {"search": "5.38", "result_count": 3, "dates": ["2026-03-31", "2026-03-03", "2026-02-13"]},
+      {"search": "7.52", "result_count": 9, "dates": ["2026-06-13", "2026-06-12", "2026-04-18", "2026-04-10", "2026-04-08", "2026-03-06", "2026-03-05", "2026-02-20", "2026-02-18"]},
+      {"search": "18.28", "result_count": 1, "dates": ["2026-02-14"]},
+      {"search": "15.20", "result_count": 1, "dates": ["2026-02-17"]},
+      {"search": "3.34", "result_count": 2, "dates": ["2026-03-03", "2026-02-24"]},
+      {"search": "16.75", "result_count": 1, "dates": ["2026-02-24"]},
+      {"search": "3.76", "result_count": 5, "dates": ["2026-05-19", "2026-04-21", "2026-03-27", "2026-03-26", "2026-02-28"]},
+      {"search": "7.46", "result_count": 1, "dates": ["2026-05-12"]},
+      {"search": "9.14", "result_count": 1, "dates": ["2026-06-02"]},
+      {"search": "9.10", "result_count": 1, "dates": ["2026-06-16"]}
+    ],
+    "result_count_total": 25,
+    "treatment_field_evidence": "The prepared create panels visibly showed Transport for NSW, 493 - Travel - National, Business travel - Transport NSW and BAS Excluded before reconciliation. Review reconciled then independently showed every posted date and amount with contact Transport for NSW, Spend money, account 493 - Travel - National and Manual method.",
+    "negative_control": "A 9.41 Review reconciled search returned zero results, consistent with source row 182 remaining outside this bounded batch."
+  },
+  "remaining_control": {
+    "all_unreconciled_statement_lines": 110,
+    "projected_fy2025_26_unreconciled_lines": 73,
+    "projected_post_2026_06_30_unreconciled_lines": 37,
+    "projected_transport_rows_outside_batch": 38,
+    "projected_transport_rows_outside_batch_fy2025_26": 25,
+    "projected_transport_rows_outside_batch_later": 13,
+    "qualification": "Transport remaining counts are source-worklist projections. The 9.41 negative control was checked live; the other projected remaining Transport rows were not individually searched in Xero."
+  },
+  "guardrails": [
+    "No credentials, login, purchase, outbound communication, owner receipt, transfer, income line or Stripe item was actioned.",
+    "No new account or contact was created.",
+    "No GST amount or input-tax credit was claimed.",
+    "The run stopped after the bounded 25-line batch and exact read-back; no uncertain write was retried."
+  ],
+  "evidence_sources": [
+    "sources/bank/2025-12-09-to-2026-08-17-cba-business-account-1913.csv",
+    "workpapers/2026-08-25-account-1913-reconciliation-worklist.csv",
+    "workpapers/2026-08-26-xero-expense-reconciliation-result.json",
+    "workpapers/2026-09-03-business-account-use-confirmation.json",
+    "Fresh Xero create-panel, queue and Review reconciled state inspected on 7 September 2026"
+  ]
+}
