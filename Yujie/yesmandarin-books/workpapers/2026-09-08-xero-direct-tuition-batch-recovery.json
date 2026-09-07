@@ -1,0 +1,121 @@
+{
+  "as_of": "2026-09-08",
+  "status": "four_prior_interrupted_run_postings_reconstructed_and_live_control_verified",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Bounded recovery of the interrupted direct-tuition batch. This audit distinguishes writes made by the prior interrupted worker from this recovery run and does not claim discovery as a new posting.",
+  "run_attribution": {
+    "prior_interrupted_run_posted_count": 4,
+    "prior_interrupted_run_posted_total": "2351.00",
+    "this_recovery_run_posted_count": 0,
+    "this_recovery_run_posted_total": "0.00",
+    "basis": "The prior transcript records completion clicks before each later post-write search/detail readback. Xero transaction History & Notes timestamps are 02:18AM Aidan, 02:22AM Bianca and 02:30AM John on 8 September 2026; Anthony was prepared immediately afterward and the queue/book controls moved from 55/$24,057.57 to 54/$24,647.57. The four-row source total and movement from the pre-batch 58/$22,296.57 checkpoint agree exactly."
+  },
+  "controls": {
+    "source_statement_lines": 253,
+    "statement_balance": "31016.85",
+    "before_prior_interrupted_run": {
+      "unreconciled_statement_lines": 58,
+      "book_balance": "22296.57",
+      "fy2025_26_unreconciled_lines": 21,
+      "post_2026_06_30_unreconciled_lines": 37
+    },
+    "after_four_prior_interrupted_run_posts": {
+      "unreconciled_statement_lines": 54,
+      "book_balance": "24647.57",
+      "fy2025_26_unreconciled_lines": 17,
+      "post_2026_06_30_unreconciled_lines": 37
+    },
+    "queue_movement": -4,
+    "book_balance_movement": "2351.00",
+    "live_recovery_readback": "Visible signed-in Chrome showed Reconcile (54), statement balance $31,016.85 and balance in Xero $24,647.57 while Maria John search returned the separate 16 June and 5 August $345 bank lines."
+  },
+  "transactions": [
+    {
+      "source_row": 69,
+      "date": "2026-01-27",
+      "amount": "588.00",
+      "contact": "Aidan Lam",
+      "bank_description": "Fast Transfer From Lam A Aidan Lam mandarin",
+      "transaction_type": "Receive Money",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "posting_attribution": "prior_interrupted_run",
+      "verification": "Reconciled transaction detail visibly showed the exact date, contact, amount, description, Sales account and BAS Excluded; History & Notes says reconciled by Felicity Cao at 2:18AM on 8 September 2026.",
+      "evidence": "workpapers/evidence/2026-09-08-direct-tuition-batch/row069-aidan-posted-detail.png"
+    },
+    {
+      "source_row": 71,
+      "date": "2026-01-29",
+      "amount": "588.00",
+      "contact": "Bianca Wong",
+      "bank_description": "Fast Transfer From BIANCA WONG Chinese lesson Bianca wong",
+      "transaction_type": "Receive Money",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "posting_attribution": "prior_interrupted_run",
+      "verification": "Reconciled transaction detail visibly showed the exact date, contact, amount, description, Sales account and BAS Excluded; History & Notes says reconciled by Felicity Cao at 2:22AM on 8 September 2026.",
+      "evidence": "workpapers/evidence/2026-09-08-direct-tuition-batch/row071-bianca-posted-detail.png"
+    },
+    {
+      "source_row": 125,
+      "date": "2026-04-14",
+      "amount": "585.00",
+      "contact": "John L Potter",
+      "bank_description": "Fast Transfer From JOHN L POTTER Term Fees Mandarin John Potter",
+      "transaction_type": "Receive Money",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "posting_attribution": "prior_interrupted_run",
+      "verification": "Reconciled transaction detail visibly showed the exact date, contact, amount, description, Sales account and BAS Excluded; History & Notes says reconciled by Felicity Cao at 2:30AM on 8 September 2026.",
+      "evidence": "workpapers/evidence/2026-09-08-direct-tuition-batch/row126-john-potter-posted-detail.png"
+    },
+    {
+      "source_row": 126,
+      "date": "2026-04-17",
+      "amount": "590.00",
+      "contact": "Anthony Dengate",
+      "bank_description": "Fast Transfer From Anthony Dengate Mandarin Lessons Anthony Dengate",
+      "transaction_type": "Receive Money",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "posting_attribution": "prior_interrupted_run",
+      "verification": "Pre-write evidence shows the isolated exact source row and completed Receive Money form. The prior transcript then records the completion click, followed by a no-result source search and exact control movement from 55/$24,057.57 to 54/$24,647.57. This source-specific subtraction proves one $590 posting and prevents reposting; a fresh detail screenshot remains desirable but is not needed to infer another write.",
+      "evidence": "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-prewrite.png",
+      "postwrite_evidence": "workpapers/evidence/2026-09-08-direct-tuition-batch/anthony-postwrite.png"
+    }
+  ],
+  "duplicate_controls": {
+    "Aidan Lam": "INV-0085 belongs to the later verified 9 August 2026 $588 receipt and was not reused.",
+    "Bianca Wong": "INV-0084 belongs to the later verified 16 August 2026 $588 receipt and was not reused.",
+    "John L Potter": "No same-payer invoice exists in the preserved invoice export; prior live Find & Match amount search returned no result.",
+    "Anthony Dengate": "No same-payer invoice exists in the preserved invoice export; prior live Find & Match amount search returned no result. The $590 INV-0055 belongs to Nyoka Axton and was already paid."
+  },
+  "held_or_pending": {
+    "row_163_courtney_mcmillan_680": "Held. Three same-value candidates INV-0039 Yohans, INV-0071 Jack Anderson and INV-0092 Sean provide no Courtney identity; do not post or match.",
+    "row_183_maria_john_345": "Pending bounded live duplicate verification/posting. Recovery capture shows the 16 June and separate 5 August $345 bank lines; the create form was not complete and no write occurred in this recovery checkpoint.",
+    "row_198_jenny_bisset_618": "Pending bounded live duplicate verification/posting; no write occurred in this recovery checkpoint."
+  },
+  "remaining_missing_facts": {
+    "credits": [
+      "Row 156 Hero Li $1,300: confirm whether Hero Li paid XO Maintenance Pty Ltd INV-0070.",
+      "Row 164 Jessica Chen $177: identify what the payment was for.",
+      "Row 178 Jutamas Suetrong $1,280: identify what the payment was for.",
+      "Row 192 Wai K Chan $558: confirm whether Nitchakan is billed contact for Dorafa and the receipt settled INV-0076.",
+      "Row 193 Alexander O'Neill $558: identify what the payment was for.",
+      "Row 196 Jen Rollins $618: identify what the payment was for."
+    ],
+    "debits": [
+      "Rows 24, 168, 172 and 174 Taobao: identify items or supply order details/receipts.",
+      "Row 133 Kogan Mobile $200: identify handset/device, service or prepaid credit and supply receipt/order detail.",
+      "Row 142 M Li printer $80: confirm purchase versus reimbursement and supply receipt/model record.",
+      "Row 160 Mark Zheng client gift card $300: identify client/business occasion and supply receipt.",
+      "Row 171 Order Lemon $14.44: identify product/service and supply receipt."
+    ]
+  },
+  "guardrails": [
+    "No previously posted row was reposted.",
+    "No Courtney treatment was created.",
+    "No unknown receipt or debit was classified.",
+    "No new invoice, account, bank rule, transfer, credential, permission or outbound monetary commitment was created."
+  ]
+}
