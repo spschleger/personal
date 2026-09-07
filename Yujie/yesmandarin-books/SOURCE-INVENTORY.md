@@ -4,7 +4,7 @@
 
 ## Current conclusion
 
-Xero reconstruction is in progress. The full supplied account `1913` statement range is imported and 114 of 253 lines are reconciled, leaving 139. Completed lines include 51 source-supported invoice-related receipts, two direct tuition-sales receipts, one $76.80 Amazon business-supplies expense, nine Digital Pacific expenses, all 27 Microsoft-related lines, all nine Xero subscription debits, all 13 office-rent debits, one owner-drawings transfer and the isolated separate-account Stripe payout. The opening balance and linked Stripe clearing chain are posted. Other expenses, transfers and ambiguous receipts remain unresolved. The latest full balance checkpoint showed statement balance $31,016.85 and book balance $22,663.14 after the Benjamin-Rashid Klaim direct sale; later completed lines are verified by queue movement.
+Xero reconstruction is in progress. The full supplied account `1913` statement range is imported and 185 of 253 lines are reconciled, leaving 68. The recovered 17-line FY2025–26 merchant batch is exactly read back in Xero and totals $428.25 across Amazon, Kmart, Dollar Avenue, JB Hi-Fi, Google Workspace and Transport for NSW. The latest full checkpoint is statement balance $31,016.85 and book balance $21,807.50. The complete FY2025–26 Transport population is now 52 audit-backed rows totalling $862.85; 13 post-30 June 2026 Transport rows remain outside that completion claim. Other expenses, transfers and ambiguous receipts remain unresolved. Audit: `workpapers/2026-09-08-xero-merchant-expense-batch-3-recovery.json`.
 
 Use Xero as a historical invoice source during reconstruction. Treat complete bank statements as the cash source of truth. Xero will become the canonical books only after the source-backed reconstruction is verified.
 
@@ -78,7 +78,7 @@ Canonical source exports and controls are under `sources/bank/`:
 
 These postings do not enter the decided opening-capital balance or resolve the remaining transaction classifications.
 
-On 3 September 2026 Shane confirmed that the four opening Amazon debits totalling $309.55 were YesMandarin business supplies, not owner drawings. The first $76.80 debit was reconciled to `453 - Office Expenses`, `BAS Excluded`, after which Xero showed 139 lines remaining. The other three debits totalling $232.75 remain unreconciled. Shane's matching $309.55 deposit is to be treated separately as `881 - Owner A Funds Introduced`, not revenue.
+On 3 September 2026 Shane confirmed that the four opening Amazon debits totalling $309.55 were YesMandarin business supplies, not owner drawings. All four were subsequently reconciled to `453 - Office Expenses`, `BAS Excluded`. A further nine FY2025–26 Amazon rows totalling $208.83 were posted and exactly verified on 8 September 2026 to the same account and tax treatment. Shane's matching $309.55 deposit is to be treated separately as `881 - Owner A Funds Introduced`, not revenue.
 
 Shane also confirmed on 3 September 2026 that all external merchant expenditure from business account `1913` is YesMandarin business-purpose expenditure. Merchant lines no longer require separate personal-versus-business confirmation. They still require the correct expense or asset classification; transfers and clearing movements remain balance-sheet transactions rather than merchant expenses. Control: `workpapers/2026-09-03-business-account-use-confirmation.json`.
 

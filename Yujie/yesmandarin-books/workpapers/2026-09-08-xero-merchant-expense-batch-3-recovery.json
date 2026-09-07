@@ -1,0 +1,449 @@
+{
+  "as_of": "2026-09-08",
+  "status": "completed_and_exactly_verified",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Recovery audit for the 17 FY2025-26 merchant expense statement lines posted during the interrupted 7-8 September visible-Chrome run.",
+  "basis": {
+    "business_purpose": "Shane's 3 September 2026 confirmation that external merchant expenditure from account 1913 is YesMandarin business-purpose expenditure.",
+    "equipment_scope": "Shane's 7 September 2026 clarification that there are no material business assets; these purchases are incidental supplies or consumables.",
+    "gst_status": "Entity recorded as not registered for GST.",
+    "tax_rate_used": "BAS Excluded"
+  },
+  "recovery_provenance": {
+    "candidate_workpaper": "workpapers/2026-09-07-xero-merchant-expense-batch-3-blocked.json",
+    "action_transcript": "/Users/sps/.hermes/cache/delegation/live/deleg_2d8f1c38/task-0.log",
+    "note": "The candidate workpaper said not posted before the later run. The later transcript records each exact source filter, prepared treatment and reconcile action. This recovery audit does not infer completion from that transcript alone: all 17 resulting records were freshly read back in Xero Review reconciled."
+  },
+  "pre_write_control_reconstructed": {
+    "queue_before": 85,
+    "book_balance_before": "22235.75",
+    "statement_balance": "31016.85",
+    "source_row_overlap_with_prior_posting_audits": 0,
+    "first_amazon_find_and_match_result_count": 0,
+    "qualification": "The interrupted run checked Find & Match for the first Amazon source row and found no match. The blocked workpaper had already excluded every selected source row from prior posting audits. No source row was reposted during recovery verification."
+  },
+  "queue_and_balance_control": {
+    "queue_before": 85,
+    "queue_after": 68,
+    "new_lines_reconciled": 17,
+    "total_lines_reconciled_to_date": 185,
+    "source_statement_lines": 253,
+    "book_balance_before": "22235.75",
+    "book_balance_after": "21807.50",
+    "book_balance_movement": "-428.25",
+    "statement_balance": "31016.85",
+    "evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/queue-68-balance-checkpoint.png"
+  },
+  "batch_control": {
+    "transaction_count": 17,
+    "spent_total": "428.25",
+    "categories": {
+      "Amazon business supplies": {
+        "count": 9,
+        "spend_total": "208.83",
+        "account": "453 - Office Expenses",
+        "tax_rate": "BAS Excluded"
+      },
+      "Other routine business supplies": {
+        "count": 3,
+        "spend_total": "63.00",
+        "account": "453 - Office Expenses",
+        "tax_rate": "BAS Excluded"
+      },
+      "Google Workspace subscriptions": {
+        "count": 3,
+        "spend_total": "36.42",
+        "account": "485 - Subscriptions",
+        "tax_rate": "BAS Excluded"
+      },
+      "Transport for NSW": {
+        "count": 2,
+        "spend_total": "120.00",
+        "account": "493 - Travel - National",
+        "tax_rate": "BAS Excluded"
+      }
+    }
+  },
+  "transactions": [
+    {
+      "source_row": 25,
+      "statement_date": "2025-09-02",
+      "amount": "-9.99",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "AMZNPRIMEAU MEMBERSHIP SYDNEY SOUTH AU Card xx7902 Value Date: 29/08/2025",
+      "contact": "Amazon Prime",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/amazon-9.99-seven.png"
+    },
+    {
+      "source_row": 34,
+      "statement_date": "2025-10-01",
+      "amount": "-9.99",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "AMZNPRIMEAU MEMBERSHIP SYDNEY SOUTH AU Card xx7902 Value Date: 29/09/2025",
+      "contact": "Amazon Prime",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/amazon-9.99-seven.png"
+    },
+    {
+      "source_row": 43,
+      "statement_date": "2025-10-31",
+      "amount": "-9.99",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "AMZNPRIMEAU MEMBERSHIP SYDNEY SOUTH AU Card xx7902 Value Date: 29/10/2025",
+      "contact": "Amazon Prime",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/amazon-9.99-seven.png"
+    },
+    {
+      "source_row": 53,
+      "statement_date": "2025-12-02",
+      "amount": "-9.99",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "AMZNPRIMEAU MEMBERSHIP SYDNEY SOUTH AU Card xx7902 Value Date: 29/11/2025",
+      "contact": "Amazon Prime",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/amazon-9.99-seven.png"
+    },
+    {
+      "source_row": 61,
+      "statement_date": "2025-12-31",
+      "amount": "-9.99",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "AMZNPRIMEA* AMZNPRIMEA SYDNEY SOUTH AU Card xx7902 Value Date: 29/12/2025",
+      "contact": "Amazon Prime",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/amazon-9.99-seven.png"
+    },
+    {
+      "source_row": 62,
+      "statement_date": "2025-12-31",
+      "amount": "-69.00",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "AMAZON MARKETPLACE AU SYDNEY AU Card xx7902 Value Date: 24/12/2025",
+      "contact": "Amazon",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/amazon-69-and-69.90.png"
+    },
+    {
+      "source_row": 63,
+      "statement_date": "2026-01-07",
+      "amount": "-69.90",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "AMAZON MARKETPLACE AU SYDNEY AU Card xx7902 Value Date: 03/01/2026",
+      "contact": "Amazon",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/amazon-69-and-69.90.png"
+    },
+    {
+      "source_row": 68,
+      "statement_date": "2026-01-21",
+      "amount": "-8.00",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Kmart",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "KMART 1160 BURWOOD AU Card xx7902 Value Date: 19/01/2026",
+      "contact": "Kmart",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/kmart-8.png"
+    },
+    {
+      "source_row": 72,
+      "statement_date": "2026-01-31",
+      "amount": "-9.99",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "AMZNPRIMEA* AMZNPRIMEA SYDNEY SOUTH AU Card xx7902 Value Date: 29/01/2026",
+      "contact": "Amazon Prime",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/amazon-9.99-seven.png"
+    },
+    {
+      "source_row": 93,
+      "statement_date": "2026-03-03",
+      "amount": "-9.99",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Amazon",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "AMZNPRIMEA* AMZNPRIMEA SYDNEY SOUTH AU Card xx7902 Value Date: 01/03/2026",
+      "contact": "Amazon Prime",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/amazon-9.99-seven.png"
+    },
+    {
+      "source_row": 118,
+      "statement_date": "2026-04-03",
+      "amount": "-10.46",
+      "account": "485 - Subscriptions",
+      "description": "Google Workspace subscription",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "GOOGLE*WORKSPACE YESMA CC GOOGLE.COM AU Card xx7902 Value Date: 01/04/2026",
+      "contact": "Google Workspace",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/google-10.46.png"
+    },
+    {
+      "source_row": 139,
+      "statement_date": "2026-05-02",
+      "amount": "-6.00",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - Dollar Avenue",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "ZLR*Dollar Avenue Castlecrag AU",
+      "contact": "Dollar Avenue",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/dollar-avenue-6.png"
+    },
+    {
+      "source_row": 140,
+      "statement_date": "2026-05-05",
+      "amount": "-49.00",
+      "account": "453 - Office Expenses",
+      "description": "Business supplies - JB Hi-Fi",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "JB HI FI BROADWAY BROADWAY AU Card xx7902 Value Date: 01/05/2026",
+      "contact": "JB Hi-Fi",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/jb-hi-fi-49.png"
+    },
+    {
+      "source_row": 141,
+      "statement_date": "2026-05-05",
+      "amount": "-12.98",
+      "account": "485 - Subscriptions",
+      "description": "Google Workspace subscription",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "Google Workspace_yesmanda Sydney AU Card xx7902 Value Date: 01/05/2026",
+      "contact": "Google Workspace",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/google-12.98-two.png"
+    },
+    {
+      "source_row": 146,
+      "statement_date": "2026-05-08",
+      "amount": "-60.00",
+      "account": "493 - Travel - National",
+      "description": "Business travel - Transport NSW",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "TFNSW OPAL MACHINE SYDNEY AU Card xx7902 Value Date: 05/05/2026",
+      "contact": "Transport for NSW",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/transport-60-five-including-recovered-two.png"
+    },
+    {
+      "source_row": 154,
+      "statement_date": "2026-05-19",
+      "amount": "-60.00",
+      "account": "493 - Travel - National",
+      "description": "Business travel - Transport NSW",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "TFNSW OPAL MACHINE SYDNEY AU Card xx7902 Value Date: 15/05/2026",
+      "contact": "Transport for NSW",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/transport-60-five-including-recovered-two.png"
+    },
+    {
+      "source_row": 162,
+      "statement_date": "2026-06-04",
+      "amount": "-12.98",
+      "account": "485 - Subscriptions",
+      "description": "Google Workspace subscription",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "bank_description": "Google Workspace_yesmanda Sydney AU Card xx7902 Value Date: 01/06/2026",
+      "contact": "Google Workspace",
+      "document_type": "Spend money",
+      "method": "Manual",
+      "live_readback_evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/google-12.98-two.png"
+    }
+  ],
+  "post_write_exact_record_verification": {
+    "location": "Xero Review reconciled",
+    "verified_fields": [
+      "date",
+      "payment contact",
+      "document type",
+      "account code",
+      "spent",
+      "method"
+    ],
+    "queries": [
+      {
+        "search": "9.99",
+        "result_count": 7,
+        "dates": [
+          "2026-03-03",
+          "2026-01-31",
+          "2025-12-31",
+          "2025-12-02",
+          "2025-10-31",
+          "2025-10-01",
+          "2025-09-02"
+        ],
+        "contact": "Amazon",
+        "account": "453 - Office Expenses",
+        "evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/amazon-9.99-seven.png"
+      },
+      {
+        "search": "69.",
+        "result_count": 2,
+        "rows": [
+          {
+            "date": "2026-01-07",
+            "spent": "69.90"
+          },
+          {
+            "date": "2025-12-31",
+            "spent": "69.00"
+          }
+        ],
+        "contact": "Amazon",
+        "account": "453 - Office Expenses",
+        "evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/amazon-69-and-69.90.png"
+      },
+      {
+        "search": "Kmart",
+        "result_count": 1,
+        "date": "2026-01-21",
+        "spent": "8.00",
+        "contact": "Kmart",
+        "account": "453 - Office Expenses",
+        "evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/kmart-8.png"
+      },
+      {
+        "search": "Dollar Avenue",
+        "result_count": 1,
+        "date": "2026-05-02",
+        "spent": "6.00",
+        "contact": "Dollar Avenue",
+        "account": "453 - Office Expenses",
+        "evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/dollar-avenue-6.png"
+      },
+      {
+        "search": "49.00",
+        "result_count": 1,
+        "date": "2026-05-05",
+        "spent": "49.00",
+        "contact": "JB Hi-Fi",
+        "account": "453 - Office Expenses",
+        "evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/jb-hi-fi-49.png"
+      },
+      {
+        "search": "12.98",
+        "result_count": 2,
+        "dates": [
+          "2026-06-04",
+          "2026-05-05"
+        ],
+        "contact": "Google Workspace",
+        "account": "485 - Subscriptions",
+        "evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/google-12.98-two.png"
+      },
+      {
+        "search": "10.46",
+        "result_count": 1,
+        "date": "2026-04-03",
+        "spent": "10.46",
+        "contact": "Google Workspace",
+        "account": "485 - Subscriptions",
+        "evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/google-10.46.png"
+      },
+      {
+        "search": "60.00",
+        "result_count": 5,
+        "dates": [
+          "2026-05-19",
+          "2026-05-16",
+          "2026-05-08",
+          "2026-04-18",
+          "2026-04-03"
+        ],
+        "new_batch_dates": [
+          "2026-05-19",
+          "2026-05-08"
+        ],
+        "contact": "Transport for NSW",
+        "account": "493 - Travel - National",
+        "evidence": "workpapers/evidence/2026-09-08-merchant-batch-recovery/transport-60-five-including-recovered-two.png"
+      }
+    ],
+    "verified_new_record_count": 17,
+    "duplicate_result": "Each batch source row has exactly one live record. Searches returned exactly the expected batch population; the 60.00 search also returned the three previously audited Transport rows, for five distinct dates total. No duplicate batch posting was found.",
+    "treatment_field_evidence": "The visible-Chrome transcript records contact, account and description entry for each merchant group before reconcile. BAS Excluded was the established and reported tax rate for every row. Fresh Review reconciled read-back independently proves date, contact, Spend money type, account and amount for every one of the 17 records."
+  },
+  "transport_completion_control": {
+    "source_definition": "Rows dated through 30 June 2026 whose proposed account is Travel or whose bank description identifies Transport for NSW.",
+    "source_row_count": 52,
+    "source_spend_total": "862.85",
+    "prior_audited_count": 50,
+    "prior_audited_spend_total": "742.85",
+    "recovered_source_rows": [
+      146,
+      154
+    ],
+    "recovered_count": 2,
+    "recovered_spend_total": "120.00",
+    "audited_union_count": 52,
+    "audited_union_spend_total": "862.85",
+    "source_minus_audited_rows": [],
+    "conclusion": "All 52 FY2025-26 Transport source rows are now audit-backed and live verified. This conclusion does not cover the 13 post-30 June 2026 Transport rows."
+  },
+  "remaining_control": {
+    "all_unreconciled_statement_lines": 68,
+    "fy2025_26_unreconciled_lines": 31,
+    "post_2026_06_30_unreconciled_lines": 37
+  },
+  "guardrails": [
+    "No transaction was reposted during recovery verification.",
+    "No credential, permission prompt, purchase, outbound communication, transfer, income item or Stripe item was actioned.",
+    "No new account, bank rule or tax conclusion was created.",
+    "No post-30 June 2026 statement line was included."
+  ]
+}
