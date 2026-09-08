@@ -1,0 +1,208 @@
+{
+  "as_of": "2026-09-08",
+  "status": "readonly_evidence_judgement_complete_provisional_tax_pack_incomplete",
+  "scope": "Read-only evidence judgement for the exact 14 unreconciled post-30-June source rows remaining after the supported later-period batch. No Xero transaction, match, reconciliation, account, contact, invoice, tax treatment or other accounting record was created or changed.",
+  "controls": {
+    "exact_source_rows": [204, 212, 217, 226, 229, 232, 235, 237, 238, 242, 247, 248, 250, 251],
+    "row_count": 14,
+    "all_rows_post_30_june_2026": true,
+    "xero_book_balance_at_14_row_checkpoint": "29731.99",
+    "source_statement_balance_through_17_august_2026": "31016.85",
+    "unreconciled_count_at_checkpoint": 14,
+    "fy2025_26_bank_control": {
+      "status": "complete",
+      "as_at": "2026-06-30",
+      "xero_balance": "25086.17",
+      "calculated_statement_balance": "25086.17",
+      "bank_statement_ending_balance": "25086.17",
+      "outstanding_payments": "0.00",
+      "outstanding_receipts": "0.00",
+      "unreconciled_statement_lines": "0.00",
+      "basis": "Actual Xero Bank Reconciliation PDF exported and inspected. This proves the bank control only; it does not prove tax close."
+    },
+    "tax_close": {
+      "status": "not_complete",
+      "reason": "Stripe opening-balance, gross-receipt and fee controls remain outside this bank-only judgement."
+    }
+  },
+  "evidence_review": {
+    "bank_source": "sources/bank/2025-07-01-to-2026-08-17-xero-bank-import.csv",
+    "invoice_export": "sources/xero/2026-08-24-sales-invoices.csv",
+    "owner_purchase_clarifications": "workpapers/2026-09-08-owner-purchase-clarifications.md",
+    "owner_receipt_clarifications": "workpapers/2026-09-08-owner-receipt-clarifications.md",
+    "prior_invoice_audit": "workpapers/2026-08-26-unresolved-invoice-analysis.json",
+    "find_match_result": "Live Xero Find & Match returned no result for Suguru, Nitchakan, Matthew Harvey and Ruthy in this bounded run. Earlier captures in the same authenticated read-only review likewise showed no result for Priscilla and Maria John. No candidate was selected.",
+    "local_supplier_invoice_search": "No Lifang Wang or haobai zhang supplier invoice or receipt was found under /Users/sps/personal/Yujie or in the repository's Xero source exports.",
+    "big_w_receipt_search": "No local BIG W receipt was found under /Users/sps/personal/Yujie; only the bank narration and prior workpaper references were found."
+  },
+  "rows": [
+    {
+      "source_row": 204,
+      "date": "2026-07-02",
+      "amount": "558.00",
+      "direction": "credit",
+      "bank_description": "Fast Transfer From CHEUK-WAH PRISCILLA H CREDIT TO ACCOUNT Priscilla Li",
+      "evidence_judgement": "The bank identifies the payer but not the purpose. No same-payer invoice or live Find & Match candidate was found.",
+      "proposed_treatment": "Hold unreconciled. Parent needs the tuition/purpose evidence or the exact invoice/agreement identity; do not infer Sales from the amount alone.",
+      "missing_fact": "Purpose and receivable identity."
+    },
+    {
+      "source_row": 212,
+      "date": "2026-07-07",
+      "amount": "-36.28",
+      "direction": "debit",
+      "bank_description": "ALP*Taobao Shanghai CN Card xx7902 CNY 169.50 Value Date: 02/07/2026",
+      "evidence_judgement": "The owner has said Taobao purchases are textbooks, but the repository's durable clarification enumerates four different FY2025-26 transactions and does not expressly list this post-year-end order.",
+      "proposed_treatment": "Candidate for the same existing textbook/office-expense treatment only if the broad owner statement is accepted as standing scope. Otherwise obtain one combined scope-extension confirmation for all four post-June Taobao rows; do not ask four item-nature questions.",
+      "missing_fact": "Only the scope question of whether the existing Taobao-textbooks clarification extends to post-June orders."
+    },
+    {
+      "source_row": 217,
+      "date": "2026-07-08",
+      "amount": "300.00",
+      "direction": "credit",
+      "bank_description": "Fast Transfer From NITCHAKAN TANAPASEE Frenchfly",
+      "evidence_judgement": "The bank identifies payer and reference, but no exact receivable was found. INV-0076 belongs to the separate Wai K Chan $558 receipt and is already paid; it must not be reused. Live Find & Match returned no Nitchakan result.",
+      "proposed_treatment": "Hold unreconciled until Frenchfly's service/purpose or exact receivable is identified. Do not reuse INV-0076 or post direct Sales solely from payer/amount.",
+      "missing_fact": "What Frenchfly payment represents and whether an unrecorded receivable/agreement exists."
+    },
+    {
+      "source_row": 226,
+      "date": "2026-07-23",
+      "amount": "-11.24",
+      "direction": "debit",
+      "bank_description": "ALP*Taobao Shanghai CN Card xx7902 CNY 53.00 Value Date: 20/07/2026",
+      "evidence_judgement": "Same scope issue as source row 212.",
+      "proposed_treatment": "Candidate for the existing textbook/office-expense treatment if the standing Taobao clarification covers post-June orders; otherwise include in one combined scope confirmation.",
+      "missing_fact": "Only scope extension of the existing clarification."
+    },
+    {
+      "source_row": 229,
+      "date": "2026-07-28",
+      "amount": "-59.42",
+      "direction": "debit",
+      "bank_description": "Alipay*Taobao Shanghai CN Card xx7902 CNY 280.98 Value Date: 23/07/2026",
+      "evidence_judgement": "Same scope issue as source row 212.",
+      "proposed_treatment": "Candidate for the existing textbook/office-expense treatment if the standing Taobao clarification covers post-June orders; otherwise include in one combined scope confirmation.",
+      "missing_fact": "Only scope extension of the existing clarification."
+    },
+    {
+      "source_row": 232,
+      "date": "2026-08-04",
+      "amount": "-7.00",
+      "direction": "debit",
+      "bank_description": "Alipay*Taobao Shanghai CN Card xx7902 CNY 32.79 Value Date: 30/07/2026",
+      "evidence_judgement": "Same scope issue as source row 212.",
+      "proposed_treatment": "Candidate for the existing textbook/office-expense treatment if the standing Taobao clarification covers post-June orders; otherwise include in one combined scope confirmation.",
+      "missing_fact": "Only scope extension of the existing clarification."
+    },
+    {
+      "source_row": 235,
+      "date": "2026-08-05",
+      "amount": "345.00",
+      "direction": "credit",
+      "bank_description": "Fast Transfer From MARIA JOHN From Maria John (Suguru)",
+      "evidence_judgement": "The user supplied that this later 5 August payment is for lessons. It is a distinct receipt from Maria John's 16 June $345 for five lessons. INV-0078 is a zero-dollar invoice and cannot absorb either $345 receipt; the June receipt has already been separately posted and must not be duplicated.",
+      "proposed_treatment": "Parent may approve a separate direct tuition receipt treatment using the existing Sales account, without fabricating or reusing an invoice. No posting or tax treatment is made here.",
+      "missing_fact": null
+    },
+    {
+      "source_row": 237,
+      "date": "2026-08-05",
+      "amount": "-928.00",
+      "direction": "debit",
+      "bank_description": "Transfer To Lifang Wang PayID Phone from CommBank App Teaching service payment 2weeks",
+      "evidence_judgement": "The bank narration directly supports a teaching-service payment and identifies the payee. No local supplier invoice, receipt, contractor identity control or verified existing Xero contractor-cost account mapping was found.",
+      "proposed_treatment": "Parent may approve a contractor/teaching-service expense classification using an existing suitable account after confirming the evidence standard; do not create a new account or infer payroll/tax treatment.",
+      "missing_fact": "Supplier invoice or equivalent service/payment support, plus approved existing account mapping."
+    },
+    {
+      "source_row": 238,
+      "date": "2026-08-06",
+      "amount": "-168.00",
+      "direction": "debit",
+      "bank_description": "Transfer To haobai zhang CommBank App Teaching service payment...",
+      "evidence_judgement": "The bank narration directly supports a teaching-service payment and identifies the payee. No local supplier invoice, receipt, contractor identity control or verified existing Xero contractor-cost account mapping was found.",
+      "proposed_treatment": "Parent may approve a contractor/teaching-service expense classification using an existing suitable account after confirming the evidence standard; do not create a new account or infer payroll/tax treatment.",
+      "missing_fact": "Supplier invoice or equivalent service/payment support, plus approved existing account mapping."
+    },
+    {
+      "source_row": 242,
+      "date": "2026-08-10",
+      "amount": "50.00",
+      "direction": "credit",
+      "bank_description": "Fast Transfer From DR MATTHEW HARVEY Deposit Matt Harvey",
+      "evidence_judgement": "The bank identifies payer and says deposit. The three Matthew receipts total $745.80, but no Matthew invoice or live Find & Match result was found and aggregation does not prove purpose.",
+      "proposed_treatment": "Hold with rows 247 and 251 as one evidence question: identify what the deposit and follow-on payments purchased and any invoice/agreement. Do not infer direct Sales from the combined amount.",
+      "missing_fact": "Purpose and receivable/agreement identity for the Matthew payment stream."
+    },
+    {
+      "source_row": 247,
+      "date": "2026-08-11",
+      "amount": "508.00",
+      "direction": "credit",
+      "bank_description": "Fast Transfer From DR MATTHEW HARVEY CREDIT TO ACCOUNT Matt Harvey",
+      "evidence_judgement": "Same Matthew payment stream as source row 242; no invoice or live Find & Match result was found.",
+      "proposed_treatment": "Hold and resolve with rows 242 and 251 as one payment-stream question.",
+      "missing_fact": "Purpose and receivable/agreement identity for the Matthew payment stream."
+    },
+    {
+      "source_row": 248,
+      "date": "2026-08-12",
+      "amount": "558.00",
+      "direction": "credit",
+      "bank_description": "Fast Transfer From MS RUTHY NICOLE MCIVE CREDIT TO ACCOUNT ruthy mciver",
+      "evidence_judgement": "The bank identifies the payer but not the purpose. No same-payer invoice or live Find & Match result was found.",
+      "proposed_treatment": "Hold unreconciled until purpose or exact receivable/agreement identity is supplied; do not infer Sales from the familiar amount.",
+      "missing_fact": "Purpose and receivable identity."
+    },
+    {
+      "source_row": 250,
+      "date": "2026-08-13",
+      "amount": "-12.00",
+      "direction": "debit",
+      "bank_description": "BIG W/CRN OF GEORGE & PAR SYDNEY AU Card xx7902 Value Date: 11/08/2026",
+      "evidence_judgement": "Merchant, date and amount are supported, but no local receipt or item detail was found. Existing owner clarification supports routine low-value purchases as consumables rather than material assets, but merchant identity alone does not identify the item or category.",
+      "proposed_treatment": "Parent may treat it as a routine consumable only after identifying the item/category from a receipt or owner record; use an existing suitable expense account and do not infer a tax conclusion from low value alone.",
+      "missing_fact": "Item purchased or receipt/category evidence."
+    },
+    {
+      "source_row": 251,
+      "date": "2026-08-15",
+      "amount": "187.80",
+      "direction": "credit",
+      "bank_description": "Fast Transfer From DR MATTHEW HARVEY CREDIT TO ACCOUNT Matt Harvey",
+      "evidence_judgement": "Same Matthew payment stream as source row 242; no invoice or live Find & Match result was found.",
+      "proposed_treatment": "Hold and resolve with rows 242 and 247 as one payment-stream question.",
+      "missing_fact": "Purpose and receivable/agreement identity for the Matthew payment stream."
+    }
+  ],
+  "report_artifacts": {
+    "profit_and_loss_pdf": {
+      "path": "workpapers/evidence/2026-09-08-readonly-next-14-and-draft-tax-pack/actual-xero-profit-and-loss-fy2025-26.pdf",
+      "status": "actual_xero_export_verified",
+      "period": "Year ended 30 June 2026",
+      "sales": "45835.00",
+      "total_operating_expenses": "11798.20",
+      "net_profit": "34036.80"
+    },
+    "bank_reconciliation_pdf": {
+      "path": "workpapers/evidence/2026-09-08-readonly-next-14-and-draft-tax-pack/actual-xero-bank-reconciliation-30-june-2026.pdf",
+      "status": "actual_xero_export_verified",
+      "as_at": "2026-06-30"
+    },
+    "balance_sheet": {
+      "pdf_status": "not_exported",
+      "visible_report_evidence": "workpapers/evidence/2026-09-08-readonly-next-14-and-draft-tax-pack/balance-sheet-fy2025-26-visible-ax.json",
+      "period": "30 June 2026",
+      "reason": "The actual Balance Sheet was visibly opened for 30 June 2026, but Chrome requested a multiple-download permission when PDF export was attempted. No permission was granted or changed, so no Balance Sheet PDF is claimed."
+    },
+    "provisional_label": "Draft tax-pack source evidence only. Not a completed tax pack and not a tax-close conclusion; Stripe controls remain pending."
+  },
+  "actions_taken": {
+    "xero_writes": 0,
+    "matches_selected": 0,
+    "permissions_changed": 0,
+    "outbound_actions": 0
+  }
+}

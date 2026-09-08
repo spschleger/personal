@@ -1,0 +1,6667 @@
+{
+ "app": "",
+ "window_title": "Xero | Bank Reconciliation | YesMandarin - High memory usage - 1.2 GB - Google Chrome – Max",
+ "total_elements": 555,
+ "elements": [
+  {
+   "index": 0,
+   "role": "AXWindow",
+   "label": "Xero | Bank Reconciliation | YesMandarin - High memory usage - 1.2 GB - Google Chrome – Max",
+   "bounds": [
+    0,
+    30,
+    2560,
+    1320
+   ],
+   "app": ""
+  },
+  {
+   "index": 1,
+   "role": "AXButton",
+   "label": "Back",
+   "bounds": [
+    0,
+    76,
+    40,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 2,
+   "role": "AXButton",
+   "label": "Reload",
+   "bounds": [
+    78,
+    76,
+    34,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 3,
+   "role": "AXPopUpButton",
+   "label": "View site information",
+   "bounds": [
+    126,
+    81,
+    24,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 4,
+   "role": "AXTextField",
+   "label": "Address and search bar",
+   "bounds": [
+    158,
+    81,
+    2147,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 5,
+   "role": "AXButton",
+   "label": "Bookmark this tab",
+   "bounds": [
+    2313,
+    81,
+    24,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 6,
+   "role": "AXPopUpButton",
+   "label": "1Password\nHas access to this site",
+   "bounds": [
+    2358,
+    76,
+    34,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 7,
+   "role": "AXPopUpButton",
+   "label": "Extensions",
+   "bounds": [
+    2394,
+    76,
+    34,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 8,
+   "role": "AXCheckBox",
+   "label": "Downloads",
+   "bounds": [
+    2448,
+    76,
+    34,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 9,
+   "role": "AXButton",
+   "label": "Max",
+   "bounds": [
+    2484,
+    76,
+    34,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 10,
+   "role": "AXPopUpButton",
+   "label": "Chrome",
+   "bounds": [
+    2520,
+    76,
+    40,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 11,
+   "role": "AXWebArea",
+   "label": "Xero | Bank Reconciliation | YesMandarin",
+   "bounds": [
+    0,
+    173,
+    2560,
+    1177
+   ],
+   "app": ""
+  },
+  {
+   "index": 12,
+   "role": "AXLink",
+   "label": "Xero",
+   "bounds": [
+    16,
+    185,
+    56,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 13,
+   "role": "AXImage",
+   "label": "Xero",
+   "bounds": [
+    16,
+    196,
+    56,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 14,
+   "role": "AXButton",
+   "label": "Toggle Organisation menu YesMandarin",
+   "bounds": [
+    84,
+    184,
+    142,
+    42
+   ],
+   "app": ""
+  },
+  {
+   "index": 15,
+   "role": "AXList",
+   "label": "Primary navigation items",
+   "bounds": [
+    226,
+    173,
+    689,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 16,
+   "role": "AXLink",
+   "label": "Home",
+   "bounds": [
+    234,
+    173,
+    65,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 17,
+   "role": "AXStaticText",
+   "label": "Home",
+   "bounds": [
+    246,
+    196,
+    41,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 18,
+   "role": "AXButton",
+   "label": "Sales",
+   "bounds": [
+    307,
+    173,
+    62,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 19,
+   "role": "AXButton",
+   "label": "Purchases",
+   "bounds": [
+    377,
+    173,
+    97,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 20,
+   "role": "AXButton",
+   "label": "Reporting",
+   "bounds": [
+    482,
+    173,
+    92,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 21,
+   "role": "AXButton",
+   "label": "Payroll",
+   "bounds": [
+    582,
+    173,
+    72,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 22,
+   "role": "AXButton",
+   "label": "Accounting",
+   "bounds": [
+    661,
+    173,
+    104,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 23,
+   "role": "AXButton",
+   "label": "Tax",
+   "bounds": [
+    772,
+    173,
+    48,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 24,
+   "role": "AXButton",
+   "label": "Contacts",
+   "bounds": [
+    828,
+    173,
+    87,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 25,
+   "role": "AXButton",
+   "label": "Create new",
+   "bounds": [
+    2212,
+    185,
+    40,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 26,
+   "role": "AXList",
+   "label": "Add-ons",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 27,
+   "role": "AXList",
+   "label": "Tools",
+   "bounds": [
+    2252,
+    173,
+    240,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 28,
+   "role": "AXButton",
+   "label": "Search",
+   "bounds": [
+    2260,
+    185,
+    40,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 29,
+   "role": "AXButton",
+   "label": "Just Ask Xero",
+   "bounds": [
+    2308,
+    185,
+    40,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 30,
+   "role": "AXButton",
+   "label": "Help",
+   "bounds": [
+    2356,
+    185,
+    40,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 31,
+   "role": "AXButton",
+   "label": "Notifications",
+   "bounds": [
+    2404,
+    185,
+    40,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 32,
+   "role": "AXStaticText",
+   "label": "6",
+   "bounds": [
+    2438,
+    183,
+    6,
+    11
+   ],
+   "app": ""
+  },
+  {
+   "index": 33,
+   "role": "AXButton",
+   "label": "Apps",
+   "bounds": [
+    2452,
+    185,
+    40,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 34,
+   "role": "AXButton",
+   "label": "User menu (Felicity Cao)",
+   "bounds": [
+    2504,
+    185,
+    40,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 35,
+   "role": "AXHeading",
+   "label": "Bank Accounts ›  Business Account067-873- 1654 1913",
+   "bounds": [
+    795,
+    248,
+    970,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 36,
+   "role": "AXLink",
+   "label": "Bank Accounts",
+   "bounds": [
+    795,
+    249,
+    89,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 37,
+   "role": "AXStaticText",
+   "label": "Bank Accounts",
+   "bounds": [
+    795,
+    249,
+    89,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 38,
+   "role": "AXStaticText",
+   "label": "›",
+   "bounds": [
+    883,
+    251,
+    10,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 39,
+   "role": "AXList",
+   "label": "",
+   "bounds": [
+    795,
+    265,
+    970,
+    23
+   ],
+   "app": ""
+  },
+  {
+   "index": 40,
+   "role": "AXStaticText",
+   "label": "Business Account",
+   "bounds": [
+    795,
+    267,
+    147,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 41,
+   "role": "AXStaticText",
+   "label": "067-873- 1654 1913",
+   "bounds": [
+    948,
+    267,
+    156,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 42,
+   "role": "AXStaticText",
+   "label": "Match transactions from your bank with your books in Xero",
+   "bounds": [
+    1080,
+    327,
+    450,
+    53
+   ],
+   "app": ""
+  },
+  {
+   "index": 43,
+   "role": "AXStaticText",
+   "label": ".",
+   "bounds": [
+    1218,
+    355,
+    6,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 44,
+   "role": "AXLink",
+   "label": "Watch",
+   "bounds": [
+    1080,
+    397,
+    49,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 45,
+   "role": "AXStaticText",
+   "label": "Watch",
+   "bounds": [
+    1080,
+    397,
+    49,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 46,
+   "role": "AXStaticText",
+   "label": "how bank reconciliation works in Xero",
+   "bounds": [
+    1128,
+    397,
+    293,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 47,
+   "role": "AXStaticText",
+   "label": ".",
+   "bounds": [
+    1420,
+    397,
+    6,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 48,
+   "role": "AXStaticText",
+   "label": "See our step-by-step guide to",
+   "bounds": [
+    1080,
+    434,
+    234,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 49,
+   "role": "AXLink",
+   "label": "bank reconciliation",
+   "bounds": [
+    1313,
+    434,
+    143,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 50,
+   "role": "AXStaticText",
+   "label": "bank reconciliation",
+   "bounds": [
+    1313,
+    434,
+    143,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 51,
+   "role": "AXStaticText",
+   "label": ".",
+   "bounds": [
+    1456,
+    434,
+    5,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 52,
+   "role": "AXLink",
+   "label": "Hide Help",
+   "bounds": [
+    1808,
+    321,
+    32,
+    33
+   ],
+   "app": ""
+  },
+  {
+   "index": 53,
+   "role": "AXStaticText",
+   "label": "Hide Help",
+   "bounds": [
+    1808,
+    327,
+    25,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 54,
+   "role": "AXLink",
+   "label": "",
+   "bounds": [
+    850,
+    330,
+    190,
+    121
+   ],
+   "app": ""
+  },
+  {
+   "index": 55,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    850,
+    341,
+    4,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 56,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    757,
+    487,
+    3,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 57,
+   "role": "AXStaticText",
+   "label": "31,016.85",
+   "bounds": [
+    770,
+    480,
+    94,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 58,
+   "role": "AXStaticText",
+   "label": "Statement Balance",
+   "bounds": [
+    770,
+    508,
+    111,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 59,
+   "role": "AXStaticText",
+   "label": "29,731.99",
+   "bounds": [
+    911,
+    480,
+    93,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 60,
+   "role": "AXStaticText",
+   "label": "Balance in Xero",
+   "bounds": [
+    911,
+    508,
+    91,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 61,
+   "role": "AXStaticText",
+   "label": "–",
+   "bounds": [
+    1009,
+    507,
+    9,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 62,
+   "role": "AXLink",
+   "label": "Different balances?",
+   "bounds": [
+    1018,
+    506,
+    95,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 63,
+   "role": "AXStaticText",
+   "label": "Different balances?",
+   "bounds": [
+    1018,
+    507,
+    95,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 64,
+   "role": "AXList",
+   "label": "",
+   "bounds": [
+    1733,
+    483,
+    147,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 65,
+   "role": "AXStaticText",
+   "label": "Manage Account",
+   "bounds": [
+    1746,
+    492,
+    105,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 66,
+   "role": "AXLink",
+   "label": "Reconciliation Report",
+   "bounds": [
+    1593,
+    491,
+    125,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 67,
+   "role": "AXStaticText",
+   "label": "Reconciliation Report",
+   "bounds": [
+    1593,
+    492,
+    125,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 68,
+   "role": "AXLink",
+   "label": "What's this?",
+   "bounds": [
+    680,
+    520,
+    97,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 69,
+   "role": "AXStaticText",
+   "label": "What's this?",
+   "bounds": [
+    690,
+    530,
+    77,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 70,
+   "role": "AXStaticText",
+   "label": "13",
+   "bounds": [
+    696,
+    586,
+    17,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 71,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    713,
+    586,
+    4,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 72,
+   "role": "AXStaticText",
+   "label": "statement lines imported in the",
+   "bounds": [
+    717,
+    586,
+    212,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 73,
+   "role": "AXStaticText",
+   "label": "last 30 days",
+   "bounds": [
+    928,
+    586,
+    81,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 74,
+   "role": "AXLink",
+   "label": "Review reconciled",
+   "bounds": [
+    1724,
+    579,
+    140,
+    32
+   ],
+   "app": ""
+  },
+  {
+   "index": 75,
+   "role": "AXStaticText",
+   "label": "Review reconciled",
+   "bounds": [
+    1737,
+    587,
+    114,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 76,
+   "role": "AXList",
+   "label": "",
+   "bounds": [
+    680,
+    639,
+    1200,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 77,
+   "role": "AXLink",
+   "label": "Reconcile (14)",
+   "bounds": [
+    681,
+    640,
+    135,
+    56
+   ],
+   "app": ""
+  },
+  {
+   "index": 78,
+   "role": "AXStaticText",
+   "label": "Reconcile (",
+   "bounds": [
+    701,
+    659,
+    75,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 79,
+   "role": "AXStaticText",
+   "label": "14",
+   "bounds": [
+    775,
+    659,
+    17,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 80,
+   "role": "AXStaticText",
+   "label": ")",
+   "bounds": [
+    792,
+    659,
+    4,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 81,
+   "role": "AXLink",
+   "label": "Bank statements",
+   "bounds": [
+    818,
+    640,
+    153,
+    56
+   ],
+   "app": ""
+  },
+  {
+   "index": 82,
+   "role": "AXStaticText",
+   "label": "Bank statements",
+   "bounds": [
+    838,
+    659,
+    113,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 83,
+   "role": "AXLink",
+   "label": "Account transactions",
+   "bounds": [
+    973,
+    640,
+    183,
+    56
+   ],
+   "app": ""
+  },
+  {
+   "index": 84,
+   "role": "AXStaticText",
+   "label": "Account transactions",
+   "bounds": [
+    993,
+    659,
+    143,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 85,
+   "role": "AXCheckBox",
+   "label": "Compact view",
+   "bounds": [
+    1850,
+    657,
+    13,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 86,
+   "role": "AXStaticText",
+   "label": "Compact view",
+   "bounds": [
+    1709,
+    660,
+    102,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 87,
+   "role": "AXTextField",
+   "label": "Search for Payee, Amount, Reference, Description, Cheque No., or Analysis Code",
+   "bounds": [
+    744,
+    718,
+    965,
+    33
+   ],
+   "app": ""
+  },
+  {
+   "index": 88,
+   "role": "AXButton",
+   "label": "Clear search text input",
+   "bounds": [
+    1720,
+    718,
+    33,
+    33
+   ],
+   "app": ""
+  },
+  {
+   "index": 89,
+   "role": "AXPopUpButton",
+   "label": "Filter",
+   "bounds": [
+    1771,
+    714,
+    92,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 90,
+   "role": "AXLink",
+   "label": "What's this?",
+   "bounds": [
+    705,
+    777,
+    97,
+    37
+   ],
+   "app": ""
+  },
+  {
+   "index": 91,
+   "role": "AXStaticText",
+   "label": "What's this?",
+   "bounds": [
+    715,
+    787,
+    77,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 92,
+   "role": "AXStaticText",
+   "label": "Review your bank statement lines...",
+   "bounds": [
+    705,
+    809,
+    207,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 93,
+   "role": "AXStaticText",
+   "label": "Received",
+   "bounds": [
+    1175,
+    845,
+    46,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 94,
+   "role": "AXStaticText",
+   "label": "Spent",
+   "bounds": [
+    1087,
+    845,
+    29,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 95,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    1237,
+    809,
+    4,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 96,
+   "role": "AXStaticText",
+   "label": "...then match with your transactions in Xero",
+   "bounds": [
+    1319,
+    809,
+    252,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 97,
+   "role": "AXStaticText",
+   "label": "Received",
+   "bounds": [
+    1789,
+    845,
+    46,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 98,
+   "role": "AXStaticText",
+   "label": "Spent",
+   "bounds": [
+    1690,
+    845,
+    29,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 99,
+   "role": "AXPopUpButton",
+   "label": "Options",
+   "bounds": [
+    1162,
+    902,
+    75,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 100,
+   "role": "AXStaticText",
+   "label": "Options",
+   "bounds": [
+    1170,
+    908,
+    41,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 101,
+   "role": "AXStaticText",
+   "label": "10 Aug 2026",
+   "bounds": [
+    731,
+    934,
+    63,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 102,
+   "role": "AXStaticText",
+   "label": "Fast Transfer From DR MATTHE...",
+   "bounds": [
+    731,
+    950,
+    196,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 103,
+   "role": "AXPopUpButton",
+   "label": "More information",
+   "bounds": [
+    731,
+    966,
+    72,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 104,
+   "role": "AXStaticText",
+   "label": "50.00",
+   "bounds": [
+    1187,
+    950,
+    33,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 105,
+   "role": "AXLink",
+   "label": "Match",
+   "bounds": [
+    1319,
+    900,
+    63,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 106,
+   "role": "AXStaticText",
+   "label": "Match",
+   "bounds": [
+    1335,
+    906,
+    31,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 107,
+   "role": "AXLink",
+   "label": "Discuss",
+   "bounds": [
+    1382,
+    900,
+    71,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 108,
+   "role": "AXStaticText",
+   "label": "Discuss",
+   "bounds": [
+    1398,
+    906,
+    39,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 109,
+   "role": "AXStaticText",
+   "label": "Find & select matching transactions below",
+   "bounds": [
+    1457,
+    952,
+    247,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 110,
+   "role": "AXStaticText",
+   "label": "1. Find & select matching transactions",
+   "bounds": [
+    714,
+    1026,
+    274,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 111,
+   "role": "AXLink",
+   "label": "",
+   "bounds": [
+    993,
+    1028,
+    19,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 112,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    993,
+    1028,
+    4,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 113,
+   "role": "AXCheckBox",
+   "label": "Show Spent Items",
+   "bounds": [
+    1238,
+    1026,
+    17,
+    17
+   ],
+   "app": ""
+  },
+  {
+   "index": 114,
+   "role": "AXStaticText",
+   "label": "Show Spent Items",
+   "bounds": [
+    1258,
+    1028,
+    91,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 115,
+   "role": "AXStaticText",
+   "label": "Search by name or reference",
+   "bounds": [
+    1385,
+    1026,
+    151,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 116,
+   "role": "AXTextField",
+   "label": "Matthew Harvey",
+   "bounds": [
+    1385,
+    1045,
+    153,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 117,
+   "role": "AXStaticText",
+   "label": "Search by amount",
+   "bounds": [
+    1554,
+    1026,
+    95,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 118,
+   "role": "AXTextField",
+   "label": "",
+   "bounds": [
+    1554,
+    1045,
+    153,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 119,
+   "role": "AXLink",
+   "label": "Go",
+   "bounds": [
+    1720,
+    1045,
+    31,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 120,
+   "role": "AXStaticText",
+   "label": "Go",
+   "bounds": [
+    1728,
+    1050,
+    15,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 121,
+   "role": "AXLink",
+   "label": "Clear search",
+   "bounds": [
+    1764,
+    1045,
+    82,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 122,
+   "role": "AXStaticText",
+   "label": "Clear search",
+   "bounds": [
+    1772,
+    1050,
+    66,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 123,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    720,
+    1093,
+    4,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 124,
+   "role": "AXLink",
+   "label": "Date",
+   "bounds": [
+    763,
+    1093,
+    120,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 125,
+   "role": "AXStaticText",
+   "label": "Date",
+   "bounds": [
+    768,
+    1093,
+    25,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 126,
+   "role": "AXLink",
+   "label": "Name",
+   "bounds": [
+    888,
+    1093,
+    276,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 127,
+   "role": "AXStaticText",
+   "label": "Name",
+   "bounds": [
+    893,
+    1093,
+    31,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 128,
+   "role": "AXLink",
+   "label": "Reference",
+   "bounds": [
+    1174,
+    1093,
+    314,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 129,
+   "role": "AXStaticText",
+   "label": "Reference",
+   "bounds": [
+    1179,
+    1093,
+    54,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 130,
+   "role": "AXLink",
+   "label": "Spent",
+   "bounds": [
+    1498,
+    1093,
+    152,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 131,
+   "role": "AXStaticText",
+   "label": "Spent",
+   "bounds": [
+    1614,
+    1093,
+    31,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 132,
+   "role": "AXLink",
+   "label": "Received",
+   "bounds": [
+    1660,
+    1093,
+    152,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 133,
+   "role": "AXStaticText",
+   "label": "Received",
+   "bounds": [
+    1758,
+    1093,
+    49,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 134,
+   "role": "AXStaticText",
+   "label": "Your search returned no results.",
+   "bounds": [
+    1147,
+    1163,
+    174,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 135,
+   "role": "AXLink",
+   "label": "Clear your search.",
+   "bounds": [
+    1321,
+    1163,
+    98,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 136,
+   "role": "AXStaticText",
+   "label": "Clear your search.",
+   "bounds": [
+    1321,
+    1163,
+    98,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 137,
+   "role": "AXCheckBox",
+   "label": "Select all on this page",
+   "bounds": [
+    729,
+    1280,
+    16,
+    17
+   ],
+   "app": ""
+  },
+  {
+   "index": 138,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    1822,
+    1282,
+    3,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 139,
+   "role": "AXStaticText",
+   "label": "2. View your selected transactions. Add new transactions, as needed.",
+   "bounds": [
+    714,
+    1340,
+    496,
+    10
+   ],
+   "app": ""
+  },
+  {
+   "index": 140,
+   "role": "AXList",
+   "label": "",
+   "bounds": [
+    1724,
+    1335,
+    122,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 141,
+   "role": "AXStaticText",
+   "label": "New Transaction",
+   "bounds": [
+    1733,
+    1340,
+    88,
+    10
+   ],
+   "app": ""
+  },
+  {
+   "index": 142,
+   "role": "AXStaticText",
+   "label": "No transactions have been selected",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 143,
+   "role": "AXStaticText",
+   "label": "3. The sum of your selected transactions must match the money",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 144,
+   "role": "AXStaticText",
+   "label": "received",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 145,
+   "role": "AXStaticText",
+   "label": ". Make adjustments, as needed.",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 146,
+   "role": "AXStaticText",
+   "label": "Must match money received",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 147,
+   "role": "AXStaticText",
+   "label": ":",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 148,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 149,
+   "role": "AXStaticText",
+   "label": "AUD 50.00",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 150,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 151,
+   "role": "AXStaticText",
+   "label": "AUD 0.00",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 152,
+   "role": "AXStaticText",
+   "label": "Total is out by:",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 153,
+   "role": "AXStaticText",
+   "label": "50.00",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 154,
+   "role": "AXPopUpButton",
+   "label": "Adjustments",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 155,
+   "role": "AXStaticText",
+   "label": "Adjustments",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 156,
+   "role": "AXLink",
+   "label": "Reconcile",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 157,
+   "role": "AXStaticText",
+   "label": "Reconcile",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 158,
+   "role": "AXButton",
+   "label": "Cancel",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 159,
+   "role": "AXPopUpButton",
+   "label": "Options",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 160,
+   "role": "AXStaticText",
+   "label": "Options",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 161,
+   "role": "AXStaticText",
+   "label": "11 Aug 2026",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 162,
+   "role": "AXStaticText",
+   "label": "Fast Transfer From DR MATTHE...",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 163,
+   "role": "AXPopUpButton",
+   "label": "More information",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 164,
+   "role": "AXStaticText",
+   "label": "508.00",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 165,
+   "role": "AXLink",
+   "label": "Match",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 166,
+   "role": "AXStaticText",
+   "label": "Match",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 167,
+   "role": "AXLink",
+   "label": "Create",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 168,
+   "role": "AXStaticText",
+   "label": "Create",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 169,
+   "role": "AXLink",
+   "label": "Transfer",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 170,
+   "role": "AXStaticText",
+   "label": "Transfer",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 171,
+   "role": "AXLink",
+   "label": "Discuss",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 172,
+   "role": "AXStaticText",
+   "label": "Discuss",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 173,
+   "role": "AXLink",
+   "label": "Find & Match",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 174,
+   "role": "AXStaticText",
+   "label": "Find & Match",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 175,
+   "role": "AXStaticText",
+   "label": "Who",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 176,
+   "role": "AXTextField",
+   "label": "Name of the contact...",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 177,
+   "role": "AXStaticText",
+   "label": "What",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 178,
+   "role": "AXTextField",
+   "label": "Choose the account...",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 179,
+   "role": "AXLink",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 180,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 181,
+   "role": "AXStaticText",
+   "label": "Why",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 182,
+   "role": "AXTextField",
+   "label": "Enter a description...",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 183,
+   "role": "AXLink",
+   "label": "Add details",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 184,
+   "role": "AXStaticText",
+   "label": "Add details",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 185,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 186,
+   "role": "AXTextField",
+   "label": "Tax Rate",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 187,
+   "role": "AXPopUpButton",
+   "label": "Options",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 188,
+   "role": "AXStaticText",
+   "label": "Options",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 189,
+   "role": "AXStaticText",
+   "label": "15 Aug 2026",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 190,
+   "role": "AXStaticText",
+   "label": "Fast Transfer From DR MATTHE...",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 191,
+   "role": "AXPopUpButton",
+   "label": "More information",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 192,
+   "role": "AXStaticText",
+   "label": "187.80",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 193,
+   "role": "AXLink",
+   "label": "Match",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 194,
+   "role": "AXStaticText",
+   "label": "Match",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 195,
+   "role": "AXLink",
+   "label": "Create",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 196,
+   "role": "AXStaticText",
+   "label": "Create",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 197,
+   "role": "AXLink",
+   "label": "Transfer",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 198,
+   "role": "AXStaticText",
+   "label": "Transfer",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 199,
+   "role": "AXLink",
+   "label": "Discuss",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 200,
+   "role": "AXStaticText",
+   "label": "Discuss",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 201,
+   "role": "AXLink",
+   "label": "Find & Match",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 202,
+   "role": "AXStaticText",
+   "label": "Find & Match",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 203,
+   "role": "AXStaticText",
+   "label": "Who",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 204,
+   "role": "AXTextField",
+   "label": "Name of the contact...",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 205,
+   "role": "AXStaticText",
+   "label": "What",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 206,
+   "role": "AXTextField",
+   "label": "Choose the account...",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 207,
+   "role": "AXLink",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 208,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 209,
+   "role": "AXStaticText",
+   "label": "Why",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 210,
+   "role": "AXTextField",
+   "label": "Enter a description...",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 211,
+   "role": "AXLink",
+   "label": "Add details",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 212,
+   "role": "AXStaticText",
+   "label": "Add details",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 213,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 214,
+   "role": "AXTextField",
+   "label": "Tax Rate",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 215,
+   "role": "AXStaticText",
+   "label": "Showing items 1–3 of 3 items",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 216,
+   "role": "AXCheckBox",
+   "label": "Suggest previous entries",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 217,
+   "role": "AXStaticText",
+   "label": "Suggest previous entries",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 218,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 219,
+   "role": "AXStaticText",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 220,
+   "role": "AXStaticText",
+   "label": "Continue where you left off: Chrome can restore your tabs every time you restart. To turn this on, go to",
+   "bounds": [
+    955,
+    135,
+    627,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 221,
+   "role": "AXLink",
+   "label": "Settings, opens in new tab.",
+   "bounds": [
+    1586,
+    135,
+    55,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 222,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    2516,
+    131,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 223,
+   "role": "AXPopUpButton",
+   "label": "Tab search",
+   "bounds": [
+    92,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 224,
+   "role": "AXRadioButton",
+   "label": "Xero | Bank Reconciliation | YesMandarin - High memory usage - 1.2 GB",
+   "bounds": [
+    114,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 225,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    214,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 226,
+   "role": "AXRadioButton",
+   "label": "Xero | Balance Sheet | YesMandarin - Memory usage - 229 MB",
+   "bounds": [
+    238,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 227,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    338,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 228,
+   "role": "AXRadioButton",
+   "label": "Xero | Chart of accounts | YesMandarin - Memory usage - 188 MB",
+   "bounds": [
+    362,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 229,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    462,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 230,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 150 MB",
+   "bounds": [
+    486,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 231,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    586,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 232,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 140 MB",
+   "bounds": [
+    610,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 233,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    710,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 234,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 195 MB",
+   "bounds": [
+    734,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 235,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    834,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 236,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 142 MB",
+   "bounds": [
+    858,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 237,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    958,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 238,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 201 MB",
+   "bounds": [
+    982,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 239,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    1082,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 240,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 152 MB",
+   "bounds": [
+    1106,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 241,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    1206,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 242,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 149 MB",
+   "bounds": [
+    1230,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 243,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    1330,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 244,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 142 MB",
+   "bounds": [
+    1354,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 245,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    1454,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 246,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 205 MB",
+   "bounds": [
+    1478,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 247,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    1578,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 248,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 202 MB",
+   "bounds": [
+    1602,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 249,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    1702,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 250,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 201 MB",
+   "bounds": [
+    1726,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 251,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    1826,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 252,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 193 MB",
+   "bounds": [
+    1850,
+    30,
+    142,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 253,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    1950,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 254,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Memory usage - 212 MB",
+   "bounds": [
+    1974,
+    30,
+    141,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 255,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    2073,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 256,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Inactive tab - 127 MB freed up",
+   "bounds": [
+    2097,
+    30,
+    141,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 257,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    2196,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 258,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Inactive tab - 135 MB freed up",
+   "bounds": [
+    2220,
+    30,
+    141,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 259,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    2319,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 260,
+   "role": "AXRadioButton",
+   "label": "Xero | View Transaction | YesMandarin - Inactive tab - 127 MB freed up",
+   "bounds": [
+    2343,
+    30,
+    141,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 261,
+   "role": "AXButton",
+   "label": "Close",
+   "bounds": [
+    2442,
+    36,
+    28,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 262,
+   "role": "AXButton",
+   "label": "New tab",
+   "bounds": [
+    2478,
+    30,
+    28,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 263,
+   "role": "AXStaticText",
+   "label": "Inactive tabs get a new look",
+   "bounds": [
+    2062,
+    93,
+    241,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 264,
+   "role": "AXButton",
+   "label": "Close help bubble",
+   "bounds": [
+    2348,
+    93,
+    24,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 265,
+   "role": "AXStaticText",
+   "label": "See when tabs are inactive at a glance. You can turn off this new look in settings at any time.",
+   "bounds": [
+    2062,
+    125,
+    310,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 266,
+   "role": "AXButton",
+   "label": "Settings",
+   "bounds": [
+    2212,
+    201,
+    85,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 267,
+   "role": "AXButton",
+   "label": "Got it",
+   "bounds": [
+    2305,
+    201,
+    67,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 268,
+   "role": "AXButton",
+   "label": "",
+   "bounds": [
+    12,
+    42,
+    16,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 269,
+   "role": "AXButton",
+   "label": "",
+   "bounds": [
+    58,
+    42,
+    16,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 270,
+   "role": "AXButton",
+   "label": "",
+   "bounds": [
+    35,
+    42,
+    16,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 271,
+   "role": "AXMenuBar",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    2560,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 272,
+   "role": "AXMenuBarItem",
+   "label": "Apple",
+   "bounds": [
+    10,
+    0,
+    34,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 273,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 274,
+   "role": "AXMenuItem",
+   "label": "About This Mac",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 275,
+   "role": "AXMenuItem",
+   "label": "System Information",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 276,
+   "role": "AXMenuItem",
+   "label": "System Settings…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 277,
+   "role": "AXMenuItem",
+   "label": "App Store",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 278,
+   "role": "AXMenuItem",
+   "label": "Recent Items",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 279,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 280,
+   "role": "AXMenuItem",
+   "label": "1Password",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 281,
+   "role": "AXMenuItem",
+   "label": "Show “1Password” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 282,
+   "role": "AXMenuItem",
+   "label": "Calendar",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 283,
+   "role": "AXMenuItem",
+   "label": "Show “Calendar” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 284,
+   "role": "AXMenuItem",
+   "label": "Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 285,
+   "role": "AXMenuItem",
+   "label": "Show “Finder” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 286,
+   "role": "AXMenuItem",
+   "label": "Google Chrome",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 287,
+   "role": "AXMenuItem",
+   "label": "Show “Google Chrome” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 288,
+   "role": "AXMenuItem",
+   "label": "Messages",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 289,
+   "role": "AXMenuItem",
+   "label": "Show “Messages” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 290,
+   "role": "AXMenuItem",
+   "label": "Reminders",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 291,
+   "role": "AXMenuItem",
+   "label": "Show “Reminders” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 292,
+   "role": "AXMenuItem",
+   "label": "System Settings",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 293,
+   "role": "AXMenuItem",
+   "label": "Show “System Settings” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 294,
+   "role": "AXMenuItem",
+   "label": "Telegram",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 295,
+   "role": "AXMenuItem",
+   "label": "Show “Telegram” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 296,
+   "role": "AXMenuItem",
+   "label": "Terminal",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 297,
+   "role": "AXMenuItem",
+   "label": "Show “Terminal” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 298,
+   "role": "AXMenuItem",
+   "label": "TextEdit",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 299,
+   "role": "AXMenuItem",
+   "label": "Show “TextEdit” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 300,
+   "role": "AXMenuItem",
+   "label": "2025-10-08-urodynamics-report-sydney-urodynamic-centres.pdf",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 301,
+   "role": "AXMenuItem",
+   "label": "Show “2025-10-08-urodynamics-report-sydney-urodynamic-centres.pdf” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 302,
+   "role": "AXMenuItem",
+   "label": "2026-08-18-mri-lumbosacral-report-imed-zh-CN.md",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 303,
+   "role": "AXMenuItem",
+   "label": "Show “2026-08-18-mri-lumbosacral-report-imed-zh-CN.md” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 304,
+   "role": "AXMenuItem",
+   "label": "2026-08-18-mri-lumbosacral-report-imed.pdf",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 305,
+   "role": "AXMenuItem",
+   "label": "Show “2026-08-18-mri-lumbosacral-report-imed.pdf” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 306,
+   "role": "AXMenuItem",
+   "label": "2026-08-18-radiographer-note.pdf",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 307,
+   "role": "AXMenuItem",
+   "label": "Show “2026-08-18-radiographer-note.pdf” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 308,
+   "role": "AXMenuItem",
+   "label": "2026-08-19-referral-neurosurgeon-brennan.pdf",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 309,
+   "role": "AXMenuItem",
+   "label": "Show “2026-08-19-referral-neurosurgeon-brennan.pdf” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 310,
+   "role": "AXMenuItem",
+   "label": "MICKO-doctor-diligence-v1.md",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 311,
+   "role": "AXMenuItem",
+   "label": "Show “MICKO-doctor-diligence-v1.md” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 312,
+   "role": "AXMenuItem",
+   "label": "MICKO-pharmacy-diligence-v1.md",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 313,
+   "role": "AXMenuItem",
+   "label": "Show “MICKO-pharmacy-diligence-v1.md” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 314,
+   "role": "AXMenuItem",
+   "label": "micko-wordmark.svg",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 315,
+   "role": "AXMenuItem",
+   "label": "Show “micko-wordmark.svg” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 316,
+   "role": "AXMenuItem",
+   "label": "RESEARCH-BRIEF.md",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 317,
+   "role": "AXMenuItem",
+   "label": "Show “RESEARCH-BRIEF.md” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 318,
+   "role": "AXMenuItem",
+   "label": "Screenshot 2026-04-01 at 1.02.47 pm",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 319,
+   "role": "AXMenuItem",
+   "label": "Show “Screenshot 2026-04-01 at 1.02.47 pm” in Finder",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 320,
+   "role": "AXMenuItem",
+   "label": "Macintosh HD",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 321,
+   "role": "AXMenuItem",
+   "label": "Clear Menu",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 322,
+   "role": "AXMenuItem",
+   "label": "Force Quit…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 323,
+   "role": "AXMenuItem",
+   "label": "Force Quit Chrome",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 324,
+   "role": "AXMenuItem",
+   "label": "Sleep",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 325,
+   "role": "AXMenuItem",
+   "label": "Restart…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 326,
+   "role": "AXMenuItem",
+   "label": "Restart",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 327,
+   "role": "AXMenuItem",
+   "label": "Shut Down…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 328,
+   "role": "AXMenuItem",
+   "label": "Shut Down",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 329,
+   "role": "AXMenuItem",
+   "label": "Lock Screen",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 330,
+   "role": "AXMenuItem",
+   "label": "Log Out Shane…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 331,
+   "role": "AXMenuItem",
+   "label": "Log Out Shane",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 332,
+   "role": "AXMenuBarItem",
+   "label": "Chrome",
+   "bounds": [
+    44,
+    0,
+    71,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 333,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 334,
+   "role": "AXMenuItem",
+   "label": "About Google Chrome",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 335,
+   "role": "AXMenuItem",
+   "label": "Settings…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 336,
+   "role": "AXMenuItem",
+   "label": "Delete Browsing Data…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 337,
+   "role": "AXMenuItem",
+   "label": "Import Bookmarks and Settings…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 338,
+   "role": "AXMenuItem",
+   "label": "Services",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 339,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 340,
+   "role": "AXMenuItem",
+   "label": "Services Settings…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 341,
+   "role": "AXMenuItem",
+   "label": "Hide Google Chrome",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 342,
+   "role": "AXMenuItem",
+   "label": "Hide Others",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 343,
+   "role": "AXMenuItem",
+   "label": "Warn Before Quitting (⌘Q)",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 344,
+   "role": "AXMenuItem",
+   "label": "Quit Google Chrome",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 345,
+   "role": "AXMenuBarItem",
+   "label": "File",
+   "bounds": [
+    115,
+    0,
+    42,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 346,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 347,
+   "role": "AXMenuItem",
+   "label": "New tab",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 348,
+   "role": "AXMenuItem",
+   "label": "New window",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 349,
+   "role": "AXMenuItem",
+   "label": "New Incognito window",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 350,
+   "role": "AXMenuItem",
+   "label": "Re-open Closed Tab",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 351,
+   "role": "AXMenuItem",
+   "label": "Open File…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 352,
+   "role": "AXMenuItem",
+   "label": "Open Location…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 353,
+   "role": "AXMenuItem",
+   "label": "Close Window",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 354,
+   "role": "AXMenuItem",
+   "label": "Close All",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 355,
+   "role": "AXMenuItem",
+   "label": "Close Tab",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 356,
+   "role": "AXMenuItem",
+   "label": "Save Page As…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 357,
+   "role": "AXMenuItem",
+   "label": "Share",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 358,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 359,
+   "role": "AXMenuItem",
+   "label": "Email Link",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 360,
+   "role": "AXMenuItem",
+   "label": "AirDrop",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 361,
+   "role": "AXMenuItem",
+   "label": "Messages",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 362,
+   "role": "AXMenuItem",
+   "label": "Notes",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 363,
+   "role": "AXMenuItem",
+   "label": "Open in News",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 364,
+   "role": "AXMenuItem",
+   "label": "Freeform",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 365,
+   "role": "AXMenuItem",
+   "label": "Journal",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 366,
+   "role": "AXMenuItem",
+   "label": "Reminders",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 367,
+   "role": "AXMenuItem",
+   "label": "More…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 368,
+   "role": "AXMenuItem",
+   "label": "Print…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 369,
+   "role": "AXMenuItem",
+   "label": "Print Using System Dialogue…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 370,
+   "role": "AXMenuBarItem",
+   "label": "Edit",
+   "bounds": [
+    157,
+    0,
+    44,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 371,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 372,
+   "role": "AXMenuItem",
+   "label": "Undo",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 373,
+   "role": "AXMenuItem",
+   "label": "Redo",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 374,
+   "role": "AXMenuItem",
+   "label": "Cut",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 375,
+   "role": "AXMenuItem",
+   "label": "Copy",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 376,
+   "role": "AXMenuItem",
+   "label": "Paste",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 377,
+   "role": "AXMenuItem",
+   "label": "Paste and Match Style",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 378,
+   "role": "AXMenuItem",
+   "label": "Paste and Match Style",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 379,
+   "role": "AXMenuItem",
+   "label": "Delete",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 380,
+   "role": "AXMenuItem",
+   "label": "Select All",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 381,
+   "role": "AXMenuItem",
+   "label": "Find",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 382,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 383,
+   "role": "AXMenuItem",
+   "label": "Search the web…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 384,
+   "role": "AXMenuItem",
+   "label": "Find…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 385,
+   "role": "AXMenuItem",
+   "label": "Find Next",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 386,
+   "role": "AXMenuItem",
+   "label": "Find Previous",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 387,
+   "role": "AXMenuItem",
+   "label": "Use Selection for Find",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 388,
+   "role": "AXMenuItem",
+   "label": "Jump to Selection",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 389,
+   "role": "AXMenuItem",
+   "label": "Writing Tools",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 390,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 391,
+   "role": "AXMenuItem",
+   "label": "Spelling and Grammar",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 392,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 393,
+   "role": "AXMenuItem",
+   "label": "Show Spelling and Grammar",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 394,
+   "role": "AXMenuItem",
+   "label": "Check Document Now",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 395,
+   "role": "AXMenuItem",
+   "label": "Check Spelling While Typing",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 396,
+   "role": "AXMenuItem",
+   "label": "Substitutions",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 397,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 398,
+   "role": "AXMenuItem",
+   "label": "Show Substitutions",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 399,
+   "role": "AXMenuItem",
+   "label": "Transformations",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 400,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 401,
+   "role": "AXMenuItem",
+   "label": "Speech",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 402,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 403,
+   "role": "AXMenuItem",
+   "label": "Start Speaking",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 404,
+   "role": "AXMenuItem",
+   "label": "AutoFill",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 405,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 406,
+   "role": "AXMenuItem",
+   "label": "Start Dictation…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 407,
+   "role": "AXMenuItem",
+   "label": "Emoji & Symbols",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 408,
+   "role": "AXMenuBarItem",
+   "label": "View",
+   "bounds": [
+    201,
+    0,
+    50,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 409,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 410,
+   "role": "AXMenuItem",
+   "label": "Always Show Bookmarks Bar",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 411,
+   "role": "AXMenuItem",
+   "label": "Always Show Toolbar in Full Screen",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 412,
+   "role": "AXMenuItem",
+   "label": "Always Show Full URLs",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 413,
+   "role": "AXMenuItem",
+   "label": "Always show AI Mode",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 414,
+   "role": "AXMenuItem",
+   "label": "Show tabs vertically",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 415,
+   "role": "AXMenuItem",
+   "label": "Reload This Page",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 416,
+   "role": "AXMenuItem",
+   "label": "Force Reload This Page",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 417,
+   "role": "AXMenuItem",
+   "label": "Enter Full Screen",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 418,
+   "role": "AXMenuItem",
+   "label": "Enter Full Screen",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 419,
+   "role": "AXMenuItem",
+   "label": "Zoom In",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 420,
+   "role": "AXMenuItem",
+   "label": "Zoom Out",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 421,
+   "role": "AXMenuItem",
+   "label": "Cast…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 422,
+   "role": "AXMenuItem",
+   "label": "Developer",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 423,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 424,
+   "role": "AXMenuItem",
+   "label": "View Source",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 425,
+   "role": "AXMenuItem",
+   "label": "Developer Tools",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 426,
+   "role": "AXMenuItem",
+   "label": "Inspect elements",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 427,
+   "role": "AXMenuItem",
+   "label": "JavaScript Console",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 428,
+   "role": "AXMenuItem",
+   "label": "Allow JavaScript from Apple Events",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 429,
+   "role": "AXMenuBarItem",
+   "label": "History",
+   "bounds": [
+    251,
+    0,
+    64,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 430,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 431,
+   "role": "AXMenuItem",
+   "label": "Home",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 432,
+   "role": "AXMenuItem",
+   "label": "Back",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 433,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 434,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 435,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 436,
+   "role": "AXMenuItem",
+   "label": "Invoice INV-0039 – YesMandarin – Xero",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 437,
+   "role": "AXMenuItem",
+   "label": "Invoice INV-0071 – YesMandarin – Xero",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 438,
+   "role": "AXMenuItem",
+   "label": "Invoice INV-0092 – YesMandarin – Xero",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 439,
+   "role": "AXMenuItem",
+   "label": "1 Tab",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 440,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 441,
+   "role": "AXMenuItem",
+   "label": "Restore window",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 442,
+   "role": "AXMenuItem",
+   "label": "Login | Xero Accounting Software",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 443,
+   "role": "AXMenuItem",
+   "label": "1 Tab",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 444,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 445,
+   "role": "AXMenuItem",
+   "label": "Restore window",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 446,
+   "role": "AXMenuItem",
+   "label": "Login | Xero Accounting Software",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 447,
+   "role": "AXMenuItem",
+   "label": "3 Tabs",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 448,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 449,
+   "role": "AXMenuItem",
+   "label": "Restore window",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 450,
+   "role": "AXMenuItem",
+   "label": "Xero | Bank Reconciliation | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 451,
+   "role": "AXMenuItem",
+   "label": "Inbox (8) - spsholdco@gmail.com - Gmail",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 452,
+   "role": "AXMenuItem",
+   "label": "Audience – Google Auth Platfor…ail Ops – Google Cloud console",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 453,
+   "role": "AXMenuItem",
+   "label": "CD - Account Manager",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 454,
+   "role": "AXMenuItem",
+   "label": "Xero | Bank Reconciliation | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 455,
+   "role": "AXMenuItem",
+   "label": "Xero | Bank Reconciliation | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 456,
+   "role": "AXMenuItem",
+   "label": "Xero | Balance Sheet | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 457,
+   "role": "AXMenuItem",
+   "label": "Xero | Profit and Loss | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 458,
+   "role": "AXMenuItem",
+   "label": "Xero | Bank Reconciliation | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 459,
+   "role": "AXMenuItem",
+   "label": "Xero | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 460,
+   "role": "AXMenuItem",
+   "label": "Xero | Transactions for Business Account | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 461,
+   "role": "AXMenuItem",
+   "label": "Xero | Bank Reconciliation | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 462,
+   "role": "AXMenuItem",
+   "label": "Xero | Bank Reconciliation | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 463,
+   "role": "AXMenuItem",
+   "label": "https://login.xero.com/identity…D_NET451&x-client-ver=1.3.16.0",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 464,
+   "role": "AXMenuItem",
+   "label": "Xero | Transactions for Business Account | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 465,
+   "role": "AXMenuItem",
+   "label": "Xero | Reconciled Transaction Details | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 466,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 467,
+   "role": "AXMenuItem",
+   "label": "Bank reconciliation – YesMandarin – Xero",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 468,
+   "role": "AXMenuItem",
+   "label": "Xero | Transactions for Business Account | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 469,
+   "role": "AXMenuItem",
+   "label": "Show full history",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 470,
+   "role": "AXMenuBarItem",
+   "label": "Bookmarks",
+   "bounds": [
+    315,
+    0,
+    88,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 471,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 472,
+   "role": "AXMenuItem",
+   "label": "Open bookmark manager",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 473,
+   "role": "AXMenuItem",
+   "label": "Bookmark This Tab…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 474,
+   "role": "AXMenuItem",
+   "label": "Bookmark all tabs…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 475,
+   "role": "AXMenuBarItem",
+   "label": "Profiles",
+   "bounds": [
+    403,
+    0,
+    66,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 476,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 477,
+   "role": "AXMenuItem",
+   "label": "Max",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 478,
+   "role": "AXMenuItem",
+   "label": "Shane",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 479,
+   "role": "AXMenuItem",
+   "label": "Edit…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 480,
+   "role": "AXMenuItem",
+   "label": "Add Profile…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 481,
+   "role": "AXMenuBarItem",
+   "label": "Tab",
+   "bounds": [
+    469,
+    0,
+    42,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 482,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 483,
+   "role": "AXMenuItem",
+   "label": "New Tab to the Right",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 484,
+   "role": "AXMenuItem",
+   "label": "Select Next Tab",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 485,
+   "role": "AXMenuItem",
+   "label": "Select Previous Tab",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 486,
+   "role": "AXMenuItem",
+   "label": "Duplicate Tab",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 487,
+   "role": "AXMenuItem",
+   "label": "Mute Site",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 488,
+   "role": "AXMenuItem",
+   "label": "Pin Tab",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 489,
+   "role": "AXMenuItem",
+   "label": "Group Tab",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 490,
+   "role": "AXMenuItem",
+   "label": "Close Other Tabs",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 491,
+   "role": "AXMenuItem",
+   "label": "Close Tabs to the Right",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 492,
+   "role": "AXMenuItem",
+   "label": "Move Tab to New Window",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 493,
+   "role": "AXMenuItem",
+   "label": "Search Tabs…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 494,
+   "role": "AXMenuItem",
+   "label": "Xero | Bank Reconciliation | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 495,
+   "role": "AXMenuItem",
+   "label": "Xero | Balance Sheet | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 496,
+   "role": "AXMenuItem",
+   "label": "Xero | Chart of accounts | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 497,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 498,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 499,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 500,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 501,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 502,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 503,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 504,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 505,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 506,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 507,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 508,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 509,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 510,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 511,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 512,
+   "role": "AXMenuItem",
+   "label": "Xero | View Transaction | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 513,
+   "role": "AXMenuBarItem",
+   "label": "Window",
+   "bounds": [
+    511,
+    0,
+    69,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 514,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 515,
+   "role": "AXMenuItem",
+   "label": "Minimise",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 516,
+   "role": "AXMenuItem",
+   "label": "Minimise All",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 517,
+   "role": "AXMenuItem",
+   "label": "Zoom",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 518,
+   "role": "AXMenuItem",
+   "label": "Zoom All",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 519,
+   "role": "AXMenuItem",
+   "label": "Fill",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 520,
+   "role": "AXMenuItem",
+   "label": "Centre",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 521,
+   "role": "AXMenuItem",
+   "label": "Move & Resize",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 522,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 523,
+   "role": "AXMenuItem",
+   "label": "Left",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 524,
+   "role": "AXMenuItem",
+   "label": "Right",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 525,
+   "role": "AXMenuItem",
+   "label": "Top",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 526,
+   "role": "AXMenuItem",
+   "label": "Bottom",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 527,
+   "role": "AXMenuItem",
+   "label": "Top Left",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 528,
+   "role": "AXMenuItem",
+   "label": "Top Right",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 529,
+   "role": "AXMenuItem",
+   "label": "Bottom Left",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 530,
+   "role": "AXMenuItem",
+   "label": "Bottom Right",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 531,
+   "role": "AXMenuItem",
+   "label": "Left & Right",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 532,
+   "role": "AXMenuItem",
+   "label": "Left & Quarters",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 533,
+   "role": "AXMenuItem",
+   "label": "Right & Left",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 534,
+   "role": "AXMenuItem",
+   "label": "Right & Quarters",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 535,
+   "role": "AXMenuItem",
+   "label": "Top & Bottom",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 536,
+   "role": "AXMenuItem",
+   "label": "Top & Quarters",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 537,
+   "role": "AXMenuItem",
+   "label": "Bottom & Top",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 538,
+   "role": "AXMenuItem",
+   "label": "Bottom & Quarters",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 539,
+   "role": "AXMenuItem",
+   "label": "Quarters",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 540,
+   "role": "AXMenuItem",
+   "label": "Full-Screen Tile",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 541,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 542,
+   "role": "AXMenuItem",
+   "label": "Left of Screen",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 543,
+   "role": "AXMenuItem",
+   "label": "Right of Screen",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 544,
+   "role": "AXMenuItem",
+   "label": "Name Window…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 545,
+   "role": "AXMenuItem",
+   "label": "Downloads",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 546,
+   "role": "AXMenuItem",
+   "label": "Extensions",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 547,
+   "role": "AXMenuItem",
+   "label": "Task manager",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 548,
+   "role": "AXMenuItem",
+   "label": "Bring All to Front",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 549,
+   "role": "AXMenuItem",
+   "label": "Arrange in Front",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 550,
+   "role": "AXMenuItem",
+   "label": "Xero | Bank Reconciliation | YesMandarin",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 551,
+   "role": "AXMenuBarItem",
+   "label": "Help",
+   "bounds": [
+    580,
+    0,
+    48,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 552,
+   "role": "AXMenu",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 553,
+   "role": "AXMenuItem",
+   "label": "Report an Issue…",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 554,
+   "role": "AXMenuItem",
+   "label": "Google Chrome Help",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  }
+ ]
+}
