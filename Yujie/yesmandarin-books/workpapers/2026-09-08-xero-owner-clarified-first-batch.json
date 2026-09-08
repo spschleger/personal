@@ -1,0 +1,187 @@
+{
+  "as_of": "2026-09-08",
+  "status": "completed_and_live_verified_eight_lines",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Bounded first batch after the owner's 8 September clarifications: two existing-invoice matches, four Taobao textbook debits, Kogan business mobile credit and the incidental printer payment.",
+  "authorisation": {
+    "receipts": "Hero Li was confirmed as payment of XO Maintenance Pty Ltd INV-0070. Shane's latest clarification confirms Wai K Chan is Nitchakan and approved matching the exact $558 receipt to existing INV-0076 subject to live unpaid-balance and duplicate checks.",
+    "purchases": "The owner confirmed the four Taobao purchases were textbooks, Kogan was business mobile credit, and the $80 printer was ordinary incidental office equipment.",
+    "evidence": [
+      "workpapers/2026-09-08-owner-receipt-clarifications.md",
+      "workpapers/2026-09-08-owner-purchase-clarifications.md",
+      "workpapers/2026-09-08-fy2025-26-remaining-15-close-preparation.json"
+    ]
+  },
+  "controls": {
+    "source_statement_lines": 253,
+    "statement_balance": "31016.85",
+    "before": {
+      "unreconciled_statement_lines": 52,
+      "fy2025_26_unreconciled_lines": 15,
+      "post_2026_06_30_unreconciled_lines": 37,
+      "book_balance": "25610.57"
+    },
+    "after": {
+      "unreconciled_statement_lines": 44,
+      "fy2025_26_unreconciled_lines": 7,
+      "post_2026_06_30_unreconciled_lines": 37,
+      "book_balance": "27106.75"
+    },
+    "queue_movement": -8,
+    "book_balance_movement": "1496.18",
+    "movement_explanation": "The two receipts add $1,858.00 and the six debits subtract $361.82, for a net $1,496.18. This agrees exactly with the visible book-balance movement.",
+    "evidence": "workpapers/evidence/2026-09-08-owner-clarified-first-batch/queue-44-balance-27106.75.png"
+  },
+  "transactions": [
+    {
+      "source_row": 156,
+      "date": "2026-05-20",
+      "amount": "1300.00",
+      "bank_payee": "Hero Li",
+      "matched_contact": "XO Maintenance Pty Ltd",
+      "transaction_type": "Payment",
+      "existing_invoice": "INV-0070",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "duplicate_control": "Live reconciliation resolved the exact bank line to one existing $1,300 payment for XO Maintenance; the invoice-payment detail visibly identifies INV-0070 and shows no remaining balance or second allocation.",
+      "posting_status": "matched_and_live_verified",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/hero-review.png",
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/hero-reconciled-detail.png",
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/hero-payment-inv0070.png"
+      ]
+    },
+    {
+      "source_row": 192,
+      "date": "2026-06-23",
+      "amount": "558.00",
+      "bank_payee": "Wai K Chan",
+      "matched_contact": "Nitchakan",
+      "transaction_type": "Payment",
+      "existing_invoice": "INV-0076",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "duplicate_control": "Live reconciliation resolved the exact bank line to one existing $558 Nitchakan payment; payment detail visibly identifies INV-0076, invoice date 26 June 2026, and no second allocation was created.",
+      "posting_status": "matched_and_live_verified",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/wai-review.png",
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/wai-reconciled-detail.png",
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/wai-payment-inv0076.png"
+      ]
+    },
+    {
+      "source_row": 24,
+      "date": "2025-08-29",
+      "amount": "-17.47",
+      "contact": "Taobao",
+      "description": "Textbooks - Taobao",
+      "transaction_type": "Spend money",
+      "account": "453 - Office Expenses",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "evidence": "workpapers/evidence/2026-09-08-owner-clarified-first-batch/taobao-four-review.png"
+    },
+    {
+      "source_row": 168,
+      "date": "2026-06-10",
+      "amount": "-31.93",
+      "contact": "Taobao",
+      "description": "Textbooks - Taobao",
+      "transaction_type": "Spend money",
+      "account": "453 - Office Expenses",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "evidence": "workpapers/evidence/2026-09-08-owner-clarified-first-batch/taobao-four-review.png"
+    },
+    {
+      "source_row": 172,
+      "date": "2026-06-11",
+      "amount": "-6.88",
+      "contact": "Taobao",
+      "description": "Textbooks - Taobao",
+      "transaction_type": "Spend money",
+      "account": "453 - Office Expenses",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/taobao-four-review.png",
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/taobao-6.88-detail.png"
+      ]
+    },
+    {
+      "source_row": 174,
+      "date": "2026-06-11",
+      "amount": "-25.54",
+      "contact": "Taobao",
+      "description": "Textbooks - Taobao",
+      "transaction_type": "Spend money",
+      "account": "453 - Office Expenses",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "evidence": "workpapers/evidence/2026-09-08-owner-clarified-first-batch/taobao-four-review.png"
+    },
+    {
+      "source_row": 133,
+      "date": "2026-04-28",
+      "amount": "-200.00",
+      "contact": "Kogan Mobile",
+      "description": "Business mobile credit",
+      "transaction_type": "Spend money",
+      "account": "489 - Telephone & Internet",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/kogan-review.png",
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/kogan-reconciled-detail.png",
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/kogan-detail.png"
+      ]
+    },
+    {
+      "source_row": 142,
+      "date": "2026-05-05",
+      "amount": "-80.00",
+      "contact": "M Li",
+      "description": "Printer - incidental office equipment",
+      "transaction_type": "Spend money",
+      "account": "453 - Office Expenses",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_and_live_verified",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/printer-review.png",
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/printer-reconciled-detail.png",
+        "workpapers/evidence/2026-09-08-owner-clarified-first-batch/printer-detail.png"
+      ]
+    }
+  ],
+  "batch_totals": {
+    "line_count": 8,
+    "receipt_count": 2,
+    "receipt_total": "1858.00",
+    "debit_count": 6,
+    "debit_total": "361.82",
+    "taobao_count": 4,
+    "taobao_total": "81.82",
+    "net_movement": "1496.18"
+  },
+  "remaining_fy2025_26": {
+    "line_count": 7,
+    "credits": [
+      "Courtney McMillan $680 — preserve direct-tuition proposal; do not match the three conflicting invoices for Yohans, Jack Anderson and Sean.",
+      "Jessica Chen $177 — owner-confirmed tuition; search existing invoices before any direct 200 - Sales treatment.",
+      "Jutamas Suetrong $1,280 — owner-confirmed tuition; search existing invoices before any direct 200 - Sales treatment.",
+      "Alexander O'Neill $558 — owner-confirmed tuition; search existing invoices before any direct 200 - Sales treatment.",
+      "Jen Rollins $618 — owner-confirmed tuition; search existing invoices before any direct 200 - Sales treatment."
+    ],
+    "debits": [
+      "Mark Zheng $300 client gift card — use only an evidenced existing account; no account chosen in this batch.",
+      "Order Lemon $14.44 client lunch — tax deductibility remains a separate judgement; no classification made in this batch."
+    ]
+  },
+  "guardrails": [
+    "No new invoice or account was created.",
+    "No receipt was duplicated as direct income after matching an existing invoice.",
+    "All non-GST treatments use BAS Excluded.",
+    "Courtney, the client gift card and Order Lemon were not posted.",
+    "No post-30 June 2026 line, credential, permission, bank rule, outbound payment, communication or monetary commitment was actioned."
+  ]
+}
