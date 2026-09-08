@@ -1,0 +1,128 @@
+{
+  "as_of": "2026-09-08",
+  "status": "read_only_proposal_and_local_evidence_review",
+  "xero_writes": 0,
+  "contractor_teaching_service_review": {
+    "source_rows": [
+      {
+        "logical_source_row": 237,
+        "csv_line_including_header": 238,
+        "date": "2026-08-05",
+        "amount": "-928.00",
+        "payee": "Lifang Wang",
+        "bank_description": "Transfer To Lifang Wang PayID Phone from CommBank App Teaching service payment 2weeks"
+      },
+      {
+        "logical_source_row": 238,
+        "csv_line_including_header": 239,
+        "date": "2026-08-06",
+        "amount": "-168.00",
+        "payee": "haobai zhang",
+        "bank_description": "Transfer To haobai zhang CommBank App Teaching service payment..."
+      }
+    ],
+    "evidence_judgement": "The bank-owned narrations directly identify both payees and explicitly describe teaching-service payments. Absence of a local supplier invoice is not, by itself, a blocker to recording the bank expenses. It remains a separate substantiation and contractor-compliance issue.",
+    "verified_existing_account": {
+      "code": "412",
+      "name": "Consulting & Accounting",
+      "type": "Expense",
+      "default_tax_rate": "BAS Excluded",
+      "xero_description": "Expenses related to paying consultants",
+      "live_search_result_count": 1,
+      "evidence": [
+        "workpapers/evidence/2026-09-08-maria-john-august-direct-receipt/consulting-account-search-ax.json",
+        "workpapers/evidence/2026-09-08-maria-john-august-direct-receipt/consulting-account-search.png"
+      ]
+    },
+    "account_proposal": "Use the existing 412 - Consulting & Accounting account for both teaching-service bank expenses, BAS Excluded, subject to parent approval. Do not use 477 - Wages and Salaries or infer employee/payroll treatment from the bank narration alone; do not create a new account.",
+    "separate_follow_up_questions": [
+      "Obtain the contractor identity/service records and any invoice, receipt, timesheet, agreement or equivalent support for Lifang Wang and haobai zhang.",
+      "Confirm the contractors' ABNs or any applicable statement-by-supplier records.",
+      "Have Felicity or a registered adviser check any withholding, superannuation or other contractor obligations on the actual facts. No conclusion is made here."
+    ]
+  },
+  "separate_stripe_local_review": {
+    "scope": "Non-Xero-linked Stripe account only; no Stripe or Xero posting was made.",
+    "later_chain": {
+      "charge_id": "ch_3SFQqHH67fTKgSyw0m1ejUqi",
+      "stripe_invoice_id": "in_1SFQjoH67fTKgSywLq7ROsai",
+      "stripe_customer_id": "cus_PfQh0EvlEeXnLI",
+      "customer_email": "ann_panek@yahoo.co.uk",
+      "created_utc": "2025-10-12 08:54:52",
+      "gross": "687.50",
+      "status": "Paid",
+      "captured": true,
+      "description": "Payment for Invoice",
+      "statement_descriptor": "YESMANDARIN",
+      "processing_fee_ex_gst": "22.15",
+      "gst_on_processing_fee": "2.22",
+      "processing_fee_including_gst": "24.37",
+      "balance_transaction_id": "txn_3SFQqHH67fTKgSyw0YpssbBT",
+      "charge_net": "663.13",
+      "invoicing_fee_balance_transaction_id": "txn_1SHQmCH67fTKgSyw5Eiw8oyw",
+      "invoicing_fee_including_gst": "3.03",
+      "payout_id": "po_1T6MN2H67fTKgSywfxjbX2za",
+      "payout_balance_transaction_id": "txn_1T6MN3H67fTKgSywXop6B2wQ",
+      "payout_created_utc": "2026-03-02 02:38",
+      "payout_arrival_date": "2026-03-03",
+      "payout_destination_last4": "1913",
+      "payout_amount": "660.10",
+      "bank_narration": "Direct Credit 158824 YESMANDARIN YESMANDARIN-4XGSPM",
+      "control": "687.50 - 24.37 - 3.03 = 660.10",
+      "xero_state": "Only the source-matched 660.10 payout is already posted to 092 - Stripe Clearing - Separate, leaving a 660.10 credit balance. The gross charge and both fees remain unposted."
+    },
+    "opening_boundary_chain": {
+      "payout_id": "po_1Rg24cH67fTKgSywsy2Qwmlf",
+      "payout_amount": "1197.73",
+      "payout_created_utc": "2025-07-01 11:10",
+      "arrival_date": "2025-07-02",
+      "destination_last4": "9316",
+      "composition_proved_by_full_balance_ledger": [
+        {
+          "source": "py_3QLxgLH67fTKgSyw1Ul10qKz / in_1QLxWQH67fTKgSywrnSDbZz2",
+          "date": "2024-11-17",
+          "customer_email": "Jackiehzhu@gmail.com",
+          "gross": "570.00",
+          "processing_fee_including_gst": "20.25",
+          "invoicing_fee_including_gst": "2.51",
+          "net_contribution": "547.24"
+        },
+        {
+          "source": "ch_3R8DGnH67fTKgSyw16PibkvB / in_1R8DCzH67fTKgSywglb24rgM",
+          "date": "2025-03-30",
+          "customer_email": "ann_panek@yahoo.co.uk",
+          "statement_descriptor": "FELICITYCHINESESCHOOL",
+          "gross": "675.00",
+          "processing_fee_including_gst": "23.93",
+          "invoicing_fee_including_gst": "2.97",
+          "net_contribution": "648.10"
+        },
+        {
+          "source": "txn_1QGCmSH67fTKgSywW8IAme2c and txn_1QGCitH67fTKgSywiiGz5xbq",
+          "date": "2024-11-01",
+          "net_fee_adjustment_credits": "2.39"
+        }
+      ],
+      "control": "547.24 + 648.10 + 2.39 = 1197.73",
+      "conclusion_limit": "This proves the Stripe ledger composition and that the payout distributed a pre-1-July-2025 balance. It does not by itself prove the prior-period sales' YesMandarin business ownership or the correct opening equity/asset treatment. It is not current-period income."
+    },
+    "exact_retrievable_evidence_next": [
+      "Retrieve the Stripe invoice PDF or invoice detail/line items for in_1SFQjoH67fTKgSywLq7ROsai and the linked customer record cus_PfQh0EvlEeXnLI. The local export already supplies the exact IDs, paid status, date, amount and email needed for a targeted retrieval.",
+      "Retrieve the pre-period Stripe invoice details for in_1QLxWQH67fTKgSywrnSDbZz2 and in_1R8DCzH67fTKgSywglb24rgM to establish what generated the 1197.73 opening balance; the full ledger already proves the numeric bridge."
+    ],
+    "minimal_remaining_questions_after_retrieval": [
+      "For the 687.50 charge: what customer/service and service period do the Stripe invoice line items identify, and does that evidence correspond to an existing Xero receivable or an unrecorded direct sale?",
+      "For the 1197.73 opening balance: were the two pre-period invoice receipts YesMandarin business receipts owned by Felicity at 30 June 2025? If source documents do not settle this, obtain one owner confirmation."
+    ],
+    "do_not_do": [
+      "Do not post the 687.50 gross receipt or 27.40 of fees yet.",
+      "Do not force Stripe Clearing - Separate to zero.",
+      "Do not recognise the 1197.73 boundary payout as current-period income.",
+      "Do not merge the separate Stripe account with the Xero-linked Stripe clearing history."
+    ]
+  },
+  "reports": {
+    "status": "provisional",
+    "tax_close": "not complete"
+  }
+}

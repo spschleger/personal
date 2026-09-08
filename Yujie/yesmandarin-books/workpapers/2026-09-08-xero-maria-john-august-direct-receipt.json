@@ -1,0 +1,79 @@
+{
+  "as_of": "2026-09-08",
+  "organisation": "YesMandarin",
+  "scope": "Single parent-approved Xero posting for source row 235 only. All other unreconciled rows remained read-only.",
+  "source": {
+    "logical_source_row": 235,
+    "csv_line_including_header": 236,
+    "file": "sources/bank/2025-07-01-to-2026-08-17-xero-bank-import.csv",
+    "date": "2026-08-05",
+    "amount": "345.00",
+    "direction": "credit",
+    "bank_description": "Fast Transfer From MARIA JOHN From Maria John (Suguru)"
+  },
+  "pre_write_controls": {
+    "owner_purpose_evidence": "The user explicitly supplied that the 5 August payment was for lessons.",
+    "distinct_prior_receipt": {
+      "date": "2026-06-16",
+      "amount": "345.00",
+      "contact": "Maria John",
+      "result": "A live Business Account search for Maria John and exact amount 345 returned exactly the already-posted 16 June receipt before this write. The 5 August bank row is a distinct later receipt and was still unreconciled."
+    },
+    "live_find_and_match": "The 5 August bank row's live Find & Match panel returned no matching transaction; no candidate was selected.",
+    "invoice_control": {
+      "invoice": "INV-0078",
+      "contact": "Suguru",
+      "date": "2026-07-08",
+      "total": "0.00",
+      "source": "sources/xero/2026-08-24-sales-invoices.csv line 12",
+      "conclusion": "The zero-dollar invoice cannot absorb either 345 receipt and was not reused or altered."
+    }
+  },
+  "xero_posting": {
+    "bank_transaction_id": "7933cc9e-0cab-400e-aa5e-8434e20e2c76",
+    "transaction_type": "Receive Money",
+    "reconciliation_state": "Reconciled",
+    "contact": "Maria John",
+    "date": "2026-08-05",
+    "reference": "",
+    "description": "Fast Transfer From MARIA JOHN From Maria John (Suguru)",
+    "quantity": "1.00",
+    "unit_price": "345.00",
+    "total": "345.00",
+    "account_code": "200",
+    "account_name": "Sales",
+    "tax_rate": "BAS Excluded",
+    "amounts_include_tax": false,
+    "history": {
+      "reconciled_by": "Felicity Cao",
+      "reconciled_at_visible": "8 Sep 2026 16:12PM",
+      "credit_payment_date": "2026-08-05",
+      "credit_payment_amount": "345.00"
+    }
+  },
+  "checkpoint": {
+    "before": {
+      "unreconciled_count": 14,
+      "book_balance": "29731.99",
+      "statement_balance": "31016.85"
+    },
+    "after": {
+      "unreconciled_count": 13,
+      "book_balance": "30076.99",
+      "statement_balance": "31016.85",
+      "remaining_difference": "939.86"
+    },
+    "control": "The queue fell by exactly one and the book balance increased by exactly 345.00; the statement balance remained unchanged."
+  },
+  "evidence": [
+    "workpapers/evidence/2026-09-08-maria-john-august-direct-receipt/posted-transaction-details-ax.json",
+    "workpapers/evidence/2026-09-08-maria-john-august-direct-receipt/posted-transaction-details.png"
+  ],
+  "scope_controls": {
+    "xero_writes": 1,
+    "other_xero_writes": 0,
+    "permissions_changed": 0,
+    "outbound_actions": 0,
+    "reports_remain_provisional": true
+  }
+}
