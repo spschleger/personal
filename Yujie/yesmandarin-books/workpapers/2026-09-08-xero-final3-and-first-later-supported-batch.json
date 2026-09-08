@@ -1,0 +1,195 @@
+{
+  "as_of": "2026-09-08",
+  "status": "completed_and_live_verified_bounded_eight_lines",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Parent-approved Courtney and Order Lemon FY2025-26 lines plus the first six chronological source-supported post-30-June debits. Mark Zheng remained held. No account, invoice, bank connection, credential, permission, outbound payment, communication or commitment was created.",
+  "authorisation_and_sources": {
+    "parent_direction": "Courtney direct Receive Money to 200 Sales, BAS Excluded; Order Lemon client lunch to 420 Entertainment, BAS Excluded, with separate year-end deductibility review and no automatic tax claim; hold Mark Zheng pending an appropriate existing-account decision; then post no more than six supported later-period debits.",
+    "source_workpapers": [
+      "workpapers/2026-09-08-final3-close-readiness-and-current-source-gap.json",
+      "workpapers/2026-09-08-owner-purchase-clarifications.md",
+      "workpapers/2026-09-08-owner-receipt-clarifications.md"
+    ]
+  },
+  "controls": {
+    "source_statement_lines": 253,
+    "statement_balance": "31016.85",
+    "before": {
+      "unreconciled_statement_lines": 40,
+      "fy2025_26_unreconciled_lines": 3,
+      "post_2026_06_30_unreconciled_lines": 37,
+      "book_balance": "29739.75"
+    },
+    "after": {
+      "unreconciled_statement_lines": 32,
+      "fy2025_26_unreconciled_lines": 1,
+      "post_2026_06_30_unreconciled_lines": 31,
+      "statement_balance": "31016.85",
+      "book_balance": "30121.69"
+    },
+    "queue_movement": -8,
+    "book_balance_movement": "381.94",
+    "movement_explanation": "Courtney adds 680.00; Order Lemon and the six later debits subtract 298.06, producing net 381.94. 29739.75 + 381.94 = 30121.69, exactly agreeing to Xero.",
+    "remaining_supported_later_batch": {
+      "line_count": 17,
+      "debit_total": "89.70",
+      "derivation": "The approved proposal was 23 lines / 373.32. This run posted six / 283.62, leaving 17 / 89.70."
+    },
+    "evidence": [
+      "workpapers/evidence/2026-09-08-final3-and-later-batch/account-transactions-final-six.png",
+      "workpapers/evidence/2026-09-08-final3-and-later-batch/account-transactions-full-ax.json"
+    ]
+  },
+  "transactions": [
+    {
+      "source_row": 163,
+      "date": "2026-06-05",
+      "amount": "680.00",
+      "bank_description": "Fast Transfer From COURTNEY MCMILLAN Courtney McMillan student Courtney",
+      "contact": "Courtney Mc Millan",
+      "transaction_type": "Receive Money",
+      "description": "Fast Transfer From COURTNEY MCMILLAN Courtney McMillan student Courtney",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "invoice_created": false,
+      "duplicate_control": "Before posting, exact name/reference and exact-amount searches did not establish an existing Courtney transaction. Preserved source review proved all three 680.00 invoice candidates were different identities, so none was matched and no invoice was fabricated.",
+      "posting_status": "posted_reconciled_and_detail_read_back",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-final3-and-later-batch/courtney-detail.png",
+        "workpapers/evidence/2026-09-08-final3-and-later-batch/courtney-detail-ax.json"
+      ]
+    },
+    {
+      "source_row": 171,
+      "date": "2026-06-11",
+      "amount": "-14.44",
+      "bank_description": "ORDER LEMON HAYMARKET Sydney AU Card xx7902 Value Date: 09/06/2026",
+      "contact": "Order Lemon",
+      "transaction_type": "Spend Money",
+      "description": "Client lunch — separate year-end deductibility review; no automatic tax claim",
+      "account": "420 - Entertainment",
+      "tax_rate": "BAS Excluded",
+      "tax_boundary": "The posting records the approved bookkeeping classification only. It does not make an automatic income-tax deduction claim; deductibility remains a separate year-end review.",
+      "posting_status": "posted_reconciled_and_detail_read_back",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-final3-and-later-batch/order-lemon-detail.png",
+        "workpapers/evidence/2026-09-08-final3-and-later-batch/order-lemon-detail-ax.json"
+      ]
+    },
+    {
+      "source_row": 203,
+      "date": "2026-07-01",
+      "amount": "-7.52",
+      "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 28/06/2026",
+      "contact": "Transport for NSW",
+      "description": "Business travel - Transport NSW",
+      "transaction_type": "Spend Money",
+      "account": "493 - Travel - National",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_account_transactions_read_back"
+    },
+    {
+      "source_row": 205,
+      "date": "2026-07-02",
+      "amount": "-239.67",
+      "bank_description": "Direct Debit 466119 COVAU PTY LTD 1434251 INV 256245",
+      "contact": "Covau Energy",
+      "description": "Covau energy utility",
+      "transaction_type": "Spend Money",
+      "account": "445 - Light, Power, Heating",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_account_transactions_read_back"
+    },
+    {
+      "source_row": 206,
+      "date": "2026-07-03",
+      "amount": "-12.17",
+      "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 30/06/2026",
+      "contact": "Transport for NSW",
+      "description": "Business travel - Transport NSW",
+      "transaction_type": "Spend Money",
+      "account": "493 - Travel - National",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_account_transactions_read_back"
+    },
+    {
+      "source_row": 207,
+      "date": "2026-07-04",
+      "amount": "-3.76",
+      "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 01/07/2026",
+      "contact": "Transport for NSW",
+      "description": "Business travel - Transport NSW",
+      "transaction_type": "Spend Money",
+      "account": "493 - Travel - National",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_live_verified",
+      "evidence": "workpapers/evidence/2026-09-08-final3-and-later-batch/rows-207-208-prepost-ax.json"
+    },
+    {
+      "source_row": 208,
+      "date": "2026-07-04",
+      "amount": "-12.98",
+      "bank_description": "Google Workspace_yesmanda Sydney AU Card xx7902 Value Date: 01/07/2026",
+      "contact": "Google Workspace",
+      "description": "Google Workspace subscription",
+      "transaction_type": "Spend Money",
+      "account": "485 - Subscriptions",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_live_verified",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-final3-and-later-batch/rows-207-208-prepost-ax.json",
+        "workpapers/evidence/2026-09-08-final3-and-later-batch/row-208-post-remaining-ax.json"
+      ]
+    },
+    {
+      "source_row": 209,
+      "date": "2026-07-07",
+      "amount": "-7.52",
+      "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 04/07/2026",
+      "contact": "Transport for NSW",
+      "description": "Business travel - Transport NSW",
+      "transaction_type": "Spend Money",
+      "account": "493 - Travel - National",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_live_verified",
+      "evidence": "workpapers/evidence/2026-09-08-final3-and-later-batch/row-209-prepost-ax.json"
+    }
+  ],
+  "batch_totals": {
+    "line_count": 8,
+    "receipt_count": 1,
+    "receipt_total": "680.00",
+    "debit_count": 7,
+    "debit_total": "298.06",
+    "later_period_debit_count": 6,
+    "later_period_debit_total": "283.62",
+    "net_movement": "381.94"
+  },
+  "held_fy2025_26": {
+    "source_row": 160,
+    "date": "2026-06-03",
+    "amount": "-300.00",
+    "party": "Mark Zheng",
+    "bank_description": "Transfer To Mark Zheng PayID Phone from CommBank App Client gift card",
+    "status": "held_not_posted",
+    "existing_account_proposal": {
+      "account": "429 - General Expenses",
+      "default_tax": "BAS Excluded",
+      "actual_xero_description": "General expenses related to the running of the business.",
+      "proposed_transaction_description": "Client gift card - Mark Zheng; year-end deductibility review pending",
+      "reason": "The evidence says client gift card, not entertainment or advertising. The broad existing General Expenses description can preserve the business expense without asserting a false entertainment nature or creating a new account. Parent approval is still required before posting."
+    },
+    "chart_evidence": [
+      "workpapers/evidence/2026-09-08-final3-and-later-batch/chart-general-expenses.png",
+      "workpapers/evidence/2026-09-08-final3-and-later-batch/chart-accounts-ax.json"
+    ]
+  },
+  "boundaries_and_remaining_work": {
+    "fy2025_26_not_closed": "FY2025-26 is not closed: Mark Zheng remains unreconciled. The dated 30 June report, separate Stripe controls and other close steps remain outstanding.",
+    "year_end_bank_target": "25086.17",
+    "target_boundary": "This target is the 30 June 2026 dated-report control and is not the current all-period book balance.",
+    "source_coverage_end": "2026-08-17",
+    "present_day_constraint": "The remaining 31 later-period imported lines cover only through 17 August 2026. No bank-feed/import source exists here for 18 August through 8 September, so this run does not claim present-day completeness.",
+    "stripe_controls": "Separate Stripe attribution, fee and opening-boundary controls remain open and unchanged."
+  }
+}
