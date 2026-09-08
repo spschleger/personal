@@ -1,8 +1,8 @@
 {
   "as_of": "2026-09-08",
-  "status": "first_three_posted_and_exactly_live_verified_jen_pending",
+  "status": "all_four_posted_and_exactly_live_verified",
   "account": "CBA Business Account ending 1913",
-  "scope": "Bounded four-receipt owner-confirmed tuition batch: Jessica Chen, Jutamas Suetrong, Alexander O'Neill and Jen Rollins. This durable checkpoint records the first three posted receipts before any decision on Jen.",
+  "scope": "Completed bounded four-receipt owner-confirmed tuition batch: Jessica Chen, Jutamas Suetrong, Alexander O'Neill and Jen Rollins. No other statement line was posted in this run.",
   "authorisation": {
     "treatment": "Owner confirmed all four receipts are tuition in workpapers/2026-09-08-owner-receipt-clarifications.md.",
     "posting_rule": "After live name/reference and amount searches found no valid matching unpaid invoice or existing direct transaction, post direct Receive Money to 200 - Sales, BAS Excluded. Do not create speculative invoices."
@@ -32,6 +32,16 @@
       "movement_from_before": "2015.00",
       "evidence": "workpapers/evidence/2026-09-08-owner-tuition-receipts/alexander-postwrite-control.png",
       "live_readback": "A fresh Xero bank-reconciliation capture showed Reconcile (41), statement balance 31,016.85 and Balance in Xero 29,121.75."
+    },
+    "after_all_four": {
+      "unreconciled_statement_lines": 40,
+      "fy2025_26_unreconciled_lines": 3,
+      "post_2026_06_30_unreconciled_lines": 37,
+      "book_balance": "29739.75",
+      "statement_balance": "31016.85",
+      "movement_from_before": "2633.00",
+      "evidence": "workpapers/evidence/2026-09-08-owner-tuition-receipts/jen-postwrite-control.png",
+      "live_readback": "The post-write Xero bank-reconciliation capture showed Reconcile (40), statement balance 31,016.85 and Balance in Xero 29,739.75."
     }
   },
   "transactions": [
@@ -95,11 +105,31 @@
         "workpapers/evidence/2026-09-08-owner-tuition-receipts/alexander-reconciled-detail.png",
         "workpapers/evidence/2026-09-08-owner-tuition-receipts/alexander-posted-detail.png"
       ]
+    },
+    {
+      "source_row": 196,
+      "date": "2026-06-26",
+      "amount": "618.00",
+      "contact": "Jen Rollins",
+      "bank_description": "Fast Transfer From Rollins J E Jen Rollins",
+      "transaction_type": "Receive Money",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "amounts_tax_basis": "Tax Exclusive",
+      "duplicate_and_invoice_control": "Before posting, live Find & Match searches by Jen Rollins and by exact amount 618.00 returned no results; no same-payer invoice exists in the preserved invoice export.",
+      "posting_status": "posted_and_exactly_live_verified",
+      "verification": "Fresh Xero readback showed the 26 Jun 2026 reconciled row as Jen Rollins, Receive money, 200 - Sales, received 618.00, Manual. Opening its exact payment showed contact Jen Rollins, date 26 Jun 2026, description Fast Transfer From Rollins J E Jen Rollins, quantity 1.00, unit price and total 618.00, account Sales, BAS Excluded, Amounts are Tax Exclusive, and history Reconciled by Felicity Cao on 8 Sep 2026 at 13:17PM / Credit payment on 26 June 2026 for 618.00.",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jen-name-no-results.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jen-amount-no-results.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jen-prewrite.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jen-postwrite-control.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jen-reconciled-detail.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jen-posted-detail.png"
+      ]
     }
   ],
-  "pending_in_this_batch": [
-    "Jen Rollins $618 on 2026-06-26"
-  ],
+  "pending_in_this_batch": [],
   "held": [
     "Courtney McMillan $680 remains held in this run; the three same-value invoices belong to Yohans, Jack Anderson and Sean and must not be used.",
     "Mark Zheng $300 client gift and Order Lemon $14.44 client lunch remain unposted."
