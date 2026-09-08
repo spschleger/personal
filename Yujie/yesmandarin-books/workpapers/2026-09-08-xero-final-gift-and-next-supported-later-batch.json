@@ -1,0 +1,207 @@
+{
+  "as_of": "2026-09-08",
+  "status": "completed_and_live_verified_bounded_eight_lines",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Parent-approved final FY2025-26 client gift and up to seven chronological source-supported later-period debits. No new chart account, invoice, bank connection, credential, permission, outbound payment, communication or commitment was created.",
+  "controls": {
+    "before": {
+      "unreconciled_statement_lines": 32,
+      "fy2025_26_unreconciled_source_rows": 1,
+      "post_2026_06_30_unreconciled_lines": 31,
+      "book_balance": "30121.69",
+      "statement_balance": "31016.85"
+    },
+    "after_gift": {
+      "unreconciled_statement_lines": 31,
+      "fy2025_26_unreconciled_source_rows": 0,
+      "post_2026_06_30_unreconciled_lines": 31,
+      "book_balance": "29821.69",
+      "statement_balance": "31016.85"
+    },
+    "duplicate_check": "Before posting, a fresh account-transactions search for Mark Zheng returned no rows. The source row itself remained the first unreconciled statement line.",
+    "chart_readback": {
+      "account": "429 - General Expenses",
+      "actual_xero_description": "General expenses related to the running of the business.",
+      "default_tax": "BAS Excluded"
+    }
+  },
+  "transactions": [
+    {
+      "source_row": 160,
+      "date": "2026-06-03",
+      "amount": "-300.00",
+      "bank_description": "Transfer To Mark Zheng PayID Phone from CommBank App Client gift card",
+      "contact": "Mark Zheng",
+      "transaction_type": "Spend Money",
+      "description": "Client gift card - Mark Zheng; year-end deductibility review pending",
+      "account": "429 - General Expenses",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_detail_read_back",
+      "tax_boundary": "Owner expressly included the client gift. The transaction is not classified as entertainment and this bookkeeping entry makes no tax-deductibility claim; year-end review remains pending.",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-final-gift-and-next-later/mark-review-reconciled.png",
+        "workpapers/evidence/2026-09-08-final-gift-and-next-later/mark-detail.png",
+        "workpapers/evidence/2026-09-08-final-gift-and-next-later/mark-reconciled-detail-ax.json"
+      ]
+    },
+    {
+      "source_row": 210,
+      "date": "2026-07-07",
+      "amount": "-7.52",
+      "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 03/07/2026",
+      "contact": "Transport for NSW",
+      "transaction_type": "Spend Money",
+      "description": "Business travel - Transport NSW",
+      "account": "493 - Travel - National",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_live_control_verified"
+    },
+    {
+      "source_row": 211,
+      "date": "2026-07-07",
+      "amount": "-6.07",
+      "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 02/07/2026",
+      "contact": "Transport for NSW",
+      "transaction_type": "Spend Money",
+      "description": "Business travel - Transport NSW",
+      "account": "493 - Travel - National",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_live_control_verified"
+    },
+    {
+      "source_row": 213,
+      "date": "2026-07-07",
+      "amount": "-1.27",
+      "bank_description": "International Transaction Fee Value Date: 02/07/2026",
+      "contact": "Commonwealth Bank",
+      "transaction_type": "Spend Money",
+      "description": "International transaction fee",
+      "account": "404 - Bank Fees",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_live_control_verified"
+    },
+    {
+      "source_row": 214,
+      "date": "2026-07-08",
+      "amount": "-7.52",
+      "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 05/07/2026",
+      "contact": "Transport for NSW",
+      "transaction_type": "Spend Money",
+      "description": "Business travel - Transport NSW",
+      "account": "493 - Travel - National",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_live_control_verified"
+    },
+    {
+      "source_row": 218,
+      "date": "2026-07-09",
+      "amount": "-5.44",
+      "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 06/07/2026",
+      "contact": "Transport for NSW",
+      "transaction_type": "Spend Money",
+      "description": "Business travel - Transport NSW",
+      "account": "493 - Travel - National",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_account_transactions_read_back"
+    },
+    {
+      "source_row": 219,
+      "date": "2026-07-10",
+      "amount": "-9.14",
+      "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 07/07/2026",
+      "contact": "Transport for NSW",
+      "transaction_type": "Spend Money",
+      "description": "Business travel - Transport NSW",
+      "account": "493 - Travel - National",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_account_transactions_read_back"
+    },
+    {
+      "source_row": 220,
+      "date": "2026-07-11",
+      "amount": "-7.52",
+      "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 08/07/2026",
+      "contact": "Transport for NSW",
+      "transaction_type": "Spend Money",
+      "description": "Business travel - Transport NSW",
+      "account": "493 - Travel - National",
+      "tax_rate": "BAS Excluded",
+      "posting_status": "posted_reconciled_and_account_transactions_read_back"
+    }
+  ],
+  "later_batch": {
+    "status": "completed_and_live_verified_seven_of_seven",
+    "source_rows": [210, 211, 213, 214, 218, 219, 220],
+    "count": 7,
+    "debit_total": "44.48",
+    "posted_count": 7,
+    "posted_debit_total": "44.48",
+    "checkpoint": {
+      "unreconciled_statement_lines": 24,
+      "fy2025_26_unreconciled_source_rows": 0,
+      "post_2026_06_30_unreconciled_lines": 24,
+      "book_balance": "29777.21",
+      "statement_balance": "31016.85"
+    },
+    "remaining_supported_later_inventory": {
+      "source_rows": [222, 223, 224, 227, 230, 233, 234, 243, 244, 245],
+      "count": 10,
+      "debit_total": "45.22",
+      "transactions": [
+        {"source_row": 222, "date": "14/07/2026", "amount": "-7.52", "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 11/07/2026", "account": "493 - Travel - National", "tax_rate": "BAS Excluded"},
+        {"source_row": 223, "date": "14/07/2026", "amount": "-3.76", "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 10/07/2026", "account": "493 - Travel - National", "tax_rate": "BAS Excluded"},
+        {"source_row": 224, "date": "14/07/2026", "amount": "-2.31", "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 09/07/2026", "account": "493 - Travel - National", "tax_rate": "BAS Excluded"},
+        {"source_row": 227, "date": "23/07/2026", "amount": "-0.39", "bank_description": "International Transaction Fee Value Date: 20/07/2026", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded"},
+        {"source_row": 230, "date": "28/07/2026", "amount": "-2.08", "bank_description": "International Transaction Fee Value Date: 22/07/2026", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded"},
+        {"source_row": 233, "date": "04/08/2026", "amount": "-0.25", "bank_description": "International Transaction Fee Value Date: 30/07/2026", "account": "404 - Bank Fees", "tax_rate": "BAS Excluded"},
+        {"source_row": 234, "date": "04/08/2026", "amount": "-12.98", "bank_description": "Google Workspace_yesmanda Sydney AU Card xx7902 Value Date: 01/08/2026", "account": "485 - Subscriptions", "tax_rate": "BAS Excluded"},
+        {"source_row": 243, "date": "11/08/2026", "amount": "-3.03", "bank_description": "TFNSW OPAL FARE SYDNEY AU Card xx7902 Value Date: 06/08/2026", "account": "493 - Travel - National", "tax_rate": "BAS Excluded"},
+        {"source_row": 244, "date": "11/08/2026", "amount": "-9.14", "bank_description": "TFNSW OPAL FARE SYDNEY AU Card xx7902 Value Date: 07/08/2026", "account": "493 - Travel - National", "tax_rate": "BAS Excluded"},
+        {"source_row": 245, "date": "11/08/2026", "amount": "-3.76", "bank_description": "TFNSW OPAL FARE SYDNEY AU Card xx7902 Value Date: 08/08/2026", "account": "493 - Travel - National", "tax_rate": "BAS Excluded"}
+      ],
+      "groups": {
+        "493 - Travel - National": [222, 223, 224, 243, 244, 245],
+        "485 - Subscriptions": [234],
+        "404 - Bank Fees": [227, 230, 233]
+      }
+    },
+    "source_backposting_subtraction": {
+      "starting_supported_rows": 17,
+      "starting_supported_debit_total": "89.70",
+      "posted_rows": 7,
+      "posted_debit_total": "44.48",
+      "remaining_rows": 10,
+      "remaining_debit_total": "45.22",
+      "equations": ["17 - 7 = 10", "89.70 - 44.48 = 45.22"]
+    },
+    "remaining_unsupported_later_inventory": {
+      "source_rows": [204, 212, 217, 226, 229, 232, 235, 237, 238, 242, 247, 248, 250, 251],
+      "count": 14,
+      "debit_total": "1221.94",
+      "credit_total": "2506.80",
+      "status": "held_for_existing_source_and_identity_controls; no speculative income, merchant or account posting"
+    }
+  },
+  "boundaries": {
+    "gift_completion_meaning": "All source-backed FY2025-26 imported statement rows are now reconciled. This does not prove the year-end bank balance, close the tax year or resolve separate Stripe controls.",
+    "source_coverage_end": "2026-08-17",
+    "present_day_complete": false,
+    "year_end_bank_target": "25086.17",
+    "separate_stripe_controls": "Unchanged: gross attribution 687.50; fees 27.40; opening boundary 1197.73.",
+    "dated_30_june_reconciliation_report": {
+      "status": "not_captured",
+      "attempt": "The visible Xero Account transactions Reconciliation Report link was opened, but the reporting redirect stalled on a blank login.xero.com authorisation page. No credentials or permissions were entered and the report was not treated as proved.",
+      "navigation_next_step": "From Business Account > Account transactions, open Reconciliation Report again after the reporting session loads, set the report date to 30 June 2026, and verify the bank control against 25086.17. Do not infer this dated balance from the current all-period balance."
+    },
+    "evidence": [
+      "workpapers/evidence/2026-09-08-final-gift-and-next-later/pre-gift-control-and-entry.png",
+      "workpapers/evidence/2026-09-08-final-gift-and-next-later/mark-review-reconciled.png",
+      "workpapers/evidence/2026-09-08-final-gift-and-next-later/mark-detail.png",
+      "workpapers/evidence/2026-09-08-final-gift-and-next-later/mark-reconciled-detail-ax.json",
+      "workpapers/evidence/2026-09-08-final-gift-and-next-later/later-seven-account-transactions.png",
+      "workpapers/evidence/2026-09-08-final-gift-and-next-later/later-seven-account-transactions-ax.json",
+      "workpapers/evidence/2026-09-08-final-gift-and-next-later/final-control-24-29777.21.png",
+      "workpapers/evidence/2026-09-08-final-gift-and-next-later/final-control-ax.json"
+    ]
+  }
+}
