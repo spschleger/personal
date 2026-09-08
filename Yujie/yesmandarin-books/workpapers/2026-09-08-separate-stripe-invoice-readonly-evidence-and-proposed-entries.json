@@ -1,0 +1,147 @@
+{
+  "as_of": "2026-09-08",
+  "status": "read_only_local_evidence_complete_invoice_line_items_access_blocked_reports_provisional",
+  "scope": "Three separate-Stripe invoice relationships identified in preserved local sources. No Stripe or Xero write, login, connection approval, permission change, credential use or outbound money action occurred.",
+  "identifier_handling": {
+    "durable_rule": "Raw Stripe charge, payout, customer, invoice, payment, balance-transaction, connected-account and connection identifiers are not persisted in this audit.",
+    "identifier_values": "[REDACTED]",
+    "predecessor_exposure": "The immediately preceding committed change newly propagated raw Stripe identifiers into one audit workpaper. The working-tree version has been redacted without deleting original source exports or rewriting git history. No identifier is repeated here.",
+    "new_audit_scan_result": "No raw Stripe identifier pattern remains in the newly changed audit, test or documentation files."
+  },
+  "sources_read": [
+    "sources/stripe/2026-08-25-separate-account-unified-payments.csv",
+    "sources/stripe/2026-08-25-separate-account-balance-transactions-full-history.csv",
+    "sources/stripe/2026-08-25-separate-account-payouts-full-history.csv",
+    "sources/xero/2026-08-24-sales-invoices.csv",
+    "workpapers/2026-09-02-separate-stripe-treatment-gates.json",
+    "workpapers/2026-09-08-contractor-account-and-separate-stripe-review.json",
+    "workpapers/evidence/2026-09-08-final3-and-later-batch/chart-accounts-ax.json"
+  ],
+  "three_invoice_relationships": [
+    {
+      "relationship": "later reconstruction-period invoice payment",
+      "customer": "Ann Panek",
+      "customer_email": "ann_panek@yahoo.co.uk",
+      "charge_created_utc": "2025-10-12 08:54:52",
+      "gross": "687.50",
+      "status": "Paid and captured",
+      "locally_preserved_description": "Payment for Invoice",
+      "processing_fee_including_gst": "24.37",
+      "invoicing_fee_including_gst": "3.03",
+      "net_payout": "660.10",
+      "payout_created_utc": "2026-03-02 02:38",
+      "payout_arrival_date": "2026-03-03",
+      "payout_destination_last4": "1913",
+      "bridge": "687.50 - 24.37 - 3.03 = 660.10",
+      "business_purpose": "Not proved by local line-item evidence. The separate Stripe account context, customer identity and payment-for-invoice description support a YesMandarin relationship, and later Xero invoices show Ann Panek as a private-Mandarin customer, but that does not establish this invoice's actual line items.",
+      "service_period": "Not available in preserved local sources.",
+      "receipt_ownership": "Probable YesMandarin business receipt but not yet proved to posting standard because the Stripe invoice detail and line items were not retrievable in this run.",
+      "xero_duplicate_income_risk": {
+        "exact_match_in_invoice_export": false,
+        "customer_records_found": [
+          "26 April 2026 invoice for 855.00, private Mandarin classes, marked paid",
+          "14 August 2026 invoice for 870.00, private Mandarin classes, awaiting payment"
+        ],
+        "judgement": "Neither Xero invoice matches the October 2025 date or 687.50 amount. The existing 660.10 bank payout is posted only to 092 - Stripe Clearing - Separate and has no revenue effect. Do not allocate this receipt to either later Xero invoice merely because the customer matches."
+      }
+    },
+    {
+      "relationship": "first pre-period receipt contributing to opening Stripe balance",
+      "customer": "Not available in preserved local fields",
+      "customer_email": "Jackiehzhu@gmail.com",
+      "charge_created_utc": "2024-11-17 16:34:48",
+      "gross": "570.00",
+      "status": "Paid and captured",
+      "locally_preserved_description": "Payment for Invoice",
+      "processing_fee_including_gst": "20.25",
+      "invoicing_fee_including_gst": "2.51",
+      "net_contribution": "547.24",
+      "business_purpose": "Not established beyond an invoice payment in the separate Stripe account.",
+      "service_period": "Not available in preserved local sources.",
+      "receipt_ownership": "Unresolved. The account context supports a possible Felicity teaching-business receipt, but local evidence does not prove the service or YesMandarin ownership.",
+      "xero_duplicate_income_risk": "No matching customer, email, date or 570.00 invoice appears in the supplied Xero sales-invoice export, whose earliest invoice is July 2025. This supports no current-Xero duplicate but does not prove ownership."
+    },
+    {
+      "relationship": "second pre-period receipt contributing to opening Stripe balance",
+      "customer": "Ann Panek",
+      "customer_email": "ann_panek@yahoo.co.uk",
+      "charge_created_utc": "2025-03-30 09:49:58",
+      "gross": "675.00",
+      "status": "Paid and captured",
+      "locally_preserved_description": "Payment for Invoice",
+      "statement_descriptor": "FELICITYCHINESESCHOOL",
+      "processing_fee_including_gst": "23.93",
+      "invoicing_fee_including_gst": "2.97",
+      "net_contribution": "648.10",
+      "business_purpose": "The descriptor and customer relationship support Felicity's language-teaching business, but the actual service and invoice line items were not preserved locally.",
+      "service_period": "Not available in preserved local sources.",
+      "receipt_ownership": "Strongly indicated as Felicity's teaching-business receipt but not proved as YesMandarin opening property without invoice line items or owner confirmation.",
+      "xero_duplicate_income_risk": "The supplied Xero export starts in July 2025 and contains no Ann Panek invoice for 675.00. Its sole 675.00 invoice belongs to another customer in March 2026 and is not an identity match."
+    }
+  ],
+  "opening_balance_control": {
+    "first_pre_period_net": "547.24",
+    "second_pre_period_net": "648.10",
+    "fee_adjustment_credits": "2.39",
+    "opening_boundary_payout": "1197.73",
+    "bridge": "547.24 + 648.10 + 2.39 = 1197.73",
+    "payout_created_utc": "2025-07-01 11:10",
+    "payout_arrival_date": "2025-07-02",
+    "payout_destination_last4": "9316",
+    "conclusion": "The full Stripe balance ledger proves composition and a payout of pre-1-July-2025 value to Felicity's personal account. It is not 2025-26 income."
+  },
+  "proposed_entries_no_posting": {
+    "later_charge_conditional": {
+      "gate": "Only after invoice detail proves a YesMandarin sale and confirms it does not settle an already-recorded receivable.",
+      "entries": [
+        "Debit 092 - Stripe Clearing - Separate 687.50; credit 200 - Sales 687.50.",
+        "Debit 404 - Bank Fees 24.37; credit 092 - Stripe Clearing - Separate 24.37.",
+        "Debit 404 - Bank Fees 3.03; credit 092 - Stripe Clearing - Separate 3.03. Preserve the separate invoicing-fee description even if the existing broad fee account is used.",
+        "The resulting 660.10 net debit to clearing offsets the already-posted 660.10 payout credit, leaving zero for this chain."
+      ],
+      "alternative_if_existing_receivable": "Debit 092 - Stripe Clearing - Separate and credit Accounts Receivable against the proved matching invoice instead of crediting Sales again; post the two fees separately."
+    },
+    "opening_boundary_conditional": {
+      "gate": "Only after the invoice details or owner confirmation establish that both pre-period receipts were Felicity's YesMandarin business property at 30 June 2025.",
+      "entries": [
+        "At the 1 July 2025 opening boundary: debit 092 - Stripe Clearing - Separate 1197.73; credit an opening owner's-capital or historical-adjustment equity account 1197.73. Do not credit current-period Sales.",
+        "On the personal-account payout: debit 880 - Owner A Drawings 1197.73; credit 092 - Stripe Clearing - Separate 1197.73."
+      ],
+      "classification_note": "881 - Owner A Funds Introduced is less faithful than an opening-capital or historical-adjustment equity account because the value arose from pre-period receipts rather than a new current-period cash contribution. Final Xero account choice requires founder or adviser approval."
+    }
+  },
+  "invoice_detail_retrieval": {
+    "requested_items": 3,
+    "retrieved_line_item_details": 0,
+    "local_result": "No Stripe invoice PDF, line-item export or cached browser evidence for the three relationships was found in the project, Downloads or Hermes computer-use cache.",
+    "visible_browser_result": "Existing Chrome Max processes and the prior authenticated Xero window were discoverable, but computer-use returned a 0x0 capture with no accessibility elements for exact old and newly opened visible Chrome windows. Background input was refused as off-Space or accessibility-unresolved; the prescribed foreground escalation opened a visible Chrome window but captures remained 0x0 and exact-window focus delivery then failed.",
+    "access_boundary": "No browser restart, headless/browser execution, credential entry, login, connection approval, permission change or Stripe/Xero write was attempted. This is a genuine UI-access blocker, not evidence that the invoices lack line items."
+  },
+  "teaching_service_classification": {
+    "source_payments": [
+      {
+        "date": "2026-08-05",
+        "payee": "Lifang Wang",
+        "amount": "928.00",
+        "purpose": "Teaching service payment 2 weeks"
+      },
+      {
+        "date": "2026-08-06",
+        "payee": "haobai zhang",
+        "amount": "168.00",
+        "purpose": "Teaching service payment"
+      }
+    ],
+    "chart_evidence": [
+      "310 - Cost of Goods Sold; type Direct Costs; description Cost of goods sold by the business; BAS Excluded.",
+      "412 - Consulting & Accounting; type Expense; description Expenses related to paying consultants; BAS Excluded.",
+      "429 - General Expenses; type Expense; description General expenses related to the running of the business; BAS Excluded."
+    ],
+    "proposal": "Do not use 412 merely because the payees may be contractors: teaching is not consulting or accounting. A dedicated Contractor teaching costs account with Direct Costs type is the most faithful presentation, but creating or renaming an account requires founder approval. If no chart change is approved, use 429 as the least false broad existing fallback with exact teaching-service descriptions and year-end presentation review. Do not use 310 unless the founder explicitly approves broadening or renaming its goods-only semantics. Do not use Wages and Salaries without employment/payroll facts.",
+    "xero_writes": 0
+  },
+  "reports": {
+    "status": "provisional",
+    "tax_close": "not complete"
+  }
+}

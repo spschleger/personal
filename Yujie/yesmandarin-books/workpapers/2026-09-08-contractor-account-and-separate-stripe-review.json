@@ -34,7 +34,7 @@
         "workpapers/evidence/2026-09-08-maria-john-august-direct-receipt/consulting-account-search.png"
       ]
     },
-    "account_proposal": "Use the existing 412 - Consulting & Accounting account for both teaching-service bank expenses, BAS Excluded, subject to parent approval. Do not use 477 - Wages and Salaries or infer employee/payroll treatment from the bank narration alone; do not create a new account.",
+    "account_proposal": "Do not use 412 - Consulting & Accounting merely because the payees may be contractors: the verified description says consultants, while the source says teaching services. The most faithful classification is a dedicated Direct Costs account such as Contractor teaching costs, BAS Excluded, but creating or renaming an account requires founder approval. If the founder requires an existing account without chart changes, 429 - General Expenses is the least false broad fallback because its verified description covers running the business; preserve each payee and teaching-service narration and flag the presentation for year-end review. Existing 310 - Cost of Goods Sold has Direct Costs type but a goods-only name and description, so do not use it without an explicit decision to broaden or rename it. Do not use 477 - Wages and Salaries or infer employee/payroll treatment from bank narration alone.",
     "separate_follow_up_questions": [
       "Obtain the contractor identity/service records and any invoice, receipt, timesheet, agreement or equivalent support for Lifang Wang and haobai zhang.",
       "Confirm the contractors' ABNs or any applicable statement-by-supplier records.",
@@ -44,9 +44,9 @@
   "separate_stripe_local_review": {
     "scope": "Non-Xero-linked Stripe account only; no Stripe or Xero posting was made.",
     "later_chain": {
-      "charge_id": "ch_3SFQqHH67fTKgSyw0m1ejUqi",
-      "stripe_invoice_id": "in_1SFQjoH67fTKgSywLq7ROsai",
-      "stripe_customer_id": "cus_PfQh0EvlEeXnLI",
+      "charge_id": "[REDACTED]",
+      "stripe_invoice_id": "[REDACTED]",
+      "stripe_customer_id": "[REDACTED]",
       "customer_email": "ann_panek@yahoo.co.uk",
       "created_utc": "2025-10-12 08:54:52",
       "gross": "687.50",
@@ -57,12 +57,12 @@
       "processing_fee_ex_gst": "22.15",
       "gst_on_processing_fee": "2.22",
       "processing_fee_including_gst": "24.37",
-      "balance_transaction_id": "txn_3SFQqHH67fTKgSyw0YpssbBT",
+      "balance_transaction_id": "[REDACTED]",
       "charge_net": "663.13",
-      "invoicing_fee_balance_transaction_id": "txn_1SHQmCH67fTKgSyw5Eiw8oyw",
+      "invoicing_fee_balance_transaction_id": "[REDACTED]",
       "invoicing_fee_including_gst": "3.03",
-      "payout_id": "po_1T6MN2H67fTKgSywfxjbX2za",
-      "payout_balance_transaction_id": "txn_1T6MN3H67fTKgSywXop6B2wQ",
+      "payout_id": "[REDACTED]",
+      "payout_balance_transaction_id": "[REDACTED]",
       "payout_created_utc": "2026-03-02 02:38",
       "payout_arrival_date": "2026-03-03",
       "payout_destination_last4": "1913",
@@ -72,14 +72,14 @@
       "xero_state": "Only the source-matched 660.10 payout is already posted to 092 - Stripe Clearing - Separate, leaving a 660.10 credit balance. The gross charge and both fees remain unposted."
     },
     "opening_boundary_chain": {
-      "payout_id": "po_1Rg24cH67fTKgSywsy2Qwmlf",
+      "payout_id": "[REDACTED]",
       "payout_amount": "1197.73",
       "payout_created_utc": "2025-07-01 11:10",
       "arrival_date": "2025-07-02",
       "destination_last4": "9316",
       "composition_proved_by_full_balance_ledger": [
         {
-          "source": "py_3QLxgLH67fTKgSyw1Ul10qKz / in_1QLxWQH67fTKgSywrnSDbZz2",
+          "source": "[REDACTED]",
           "date": "2024-11-17",
           "customer_email": "Jackiehzhu@gmail.com",
           "gross": "570.00",
@@ -88,7 +88,7 @@
           "net_contribution": "547.24"
         },
         {
-          "source": "ch_3R8DGnH67fTKgSyw16PibkvB / in_1R8DCzH67fTKgSywglb24rgM",
+          "source": "[REDACTED]",
           "date": "2025-03-30",
           "customer_email": "ann_panek@yahoo.co.uk",
           "statement_descriptor": "FELICITYCHINESESCHOOL",
@@ -98,7 +98,7 @@
           "net_contribution": "648.10"
         },
         {
-          "source": "txn_1QGCmSH67fTKgSywW8IAme2c and txn_1QGCitH67fTKgSywiiGz5xbq",
+          "source": "[REDACTED]",
           "date": "2024-11-01",
           "net_fee_adjustment_credits": "2.39"
         }
@@ -107,8 +107,8 @@
       "conclusion_limit": "This proves the Stripe ledger composition and that the payout distributed a pre-1-July-2025 balance. It does not by itself prove the prior-period sales' YesMandarin business ownership or the correct opening equity/asset treatment. It is not current-period income."
     },
     "exact_retrievable_evidence_next": [
-      "Retrieve the Stripe invoice PDF or invoice detail/line items for in_1SFQjoH67fTKgSywLq7ROsai and the linked customer record cus_PfQh0EvlEeXnLI. The local export already supplies the exact IDs, paid status, date, amount and email needed for a targeted retrieval.",
-      "Retrieve the pre-period Stripe invoice details for in_1QLxWQH67fTKgSywrnSDbZz2 and in_1R8DCzH67fTKgSywglb24rgM to establish what generated the 1197.73 opening balance; the full ledger already proves the numeric bridge."
+      "Retrieve the later-period Stripe invoice PDF or invoice detail/line items and linked customer record by following the local source relationship without propagating raw identifiers. The local source supplies the exact relationship, paid status, date, amount and email needed for a targeted retrieval.",
+      "Retrieve the two pre-period Stripe invoice details by following the local source relationships without propagating raw identifiers, to establish what generated the 1197.73 opening balance; the full ledger already proves the numeric bridge."
     ],
     "minimal_remaining_questions_after_retrieval": [
       "For the 687.50 charge: what customer/service and service period do the Stripe invoice line items identify, and does that evidence correspond to an existing Xero receivable or an unrecorded direct sale?",
