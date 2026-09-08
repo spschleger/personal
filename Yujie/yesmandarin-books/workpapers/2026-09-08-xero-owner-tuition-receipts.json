@@ -1,0 +1,113 @@
+{
+  "as_of": "2026-09-08",
+  "status": "first_three_posted_and_exactly_live_verified_jen_pending",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Bounded four-receipt owner-confirmed tuition batch: Jessica Chen, Jutamas Suetrong, Alexander O'Neill and Jen Rollins. This durable checkpoint records the first three posted receipts before any decision on Jen.",
+  "authorisation": {
+    "treatment": "Owner confirmed all four receipts are tuition in workpapers/2026-09-08-owner-receipt-clarifications.md.",
+    "posting_rule": "After live name/reference and amount searches found no valid matching unpaid invoice or existing direct transaction, post direct Receive Money to 200 - Sales, BAS Excluded. Do not create speculative invoices."
+  },
+  "controls": {
+    "before": {
+      "unreconciled_statement_lines": 44,
+      "fy2025_26_unreconciled_lines": 7,
+      "post_2026_06_30_unreconciled_lines": 37,
+      "book_balance": "27106.75",
+      "statement_balance": "31016.85"
+    },
+    "after_first_pair": {
+      "unreconciled_statement_lines": 42,
+      "fy2025_26_unreconciled_lines": 5,
+      "post_2026_06_30_unreconciled_lines": 37,
+      "book_balance": "28563.75",
+      "movement": "1457.00",
+      "evidence": "workpapers/evidence/2026-09-08-owner-tuition-receipts/queue-42-balance-28563.75.png"
+    },
+    "after_first_three": {
+      "unreconciled_statement_lines": 41,
+      "fy2025_26_unreconciled_lines": 4,
+      "post_2026_06_30_unreconciled_lines": 37,
+      "book_balance": "29121.75",
+      "statement_balance": "31016.85",
+      "movement_from_before": "2015.00",
+      "evidence": "workpapers/evidence/2026-09-08-owner-tuition-receipts/alexander-postwrite-control.png",
+      "live_readback": "A fresh Xero bank-reconciliation capture showed Reconcile (41), statement balance 31,016.85 and Balance in Xero 29,121.75."
+    }
+  },
+  "transactions": [
+    {
+      "source_row": 164,
+      "date": "2026-06-06",
+      "amount": "177.00",
+      "contact": "Jessica Chen",
+      "bank_description": "Fast Transfer From MISS JESSICA SUE CHEN CREDIT TO ACCOUNT Jessica Chen",
+      "transaction_type": "Receive Money",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "amounts_tax_basis": "Tax Exclusive",
+      "duplicate_and_invoice_control": "Live Find & Match searches by Jessica Chen plus exact amount and by exact amount alone returned no valid match. The preserved invoice export's only Jessica invoice is later INV-0079 dated 7 August 2026 for $195, so it was not used.",
+      "posting_status": "posted_and_live_verified",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jessica-postwrite-control.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jessica-review-search.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jessica-reconciled-detail.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jessica-posted-detail.png"
+      ]
+    },
+    {
+      "source_row": 178,
+      "date": "2026-06-15",
+      "amount": "1280.00",
+      "contact": "Jutamas Suetrong",
+      "bank_description": "Fast Transfer From JUTAMAS SUETRONG Jutamas Jutamas",
+      "transaction_type": "Receive Money",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "amounts_tax_basis": "Tax Exclusive",
+      "duplicate_and_invoice_control": "Live Find & Match searches by exact amount and by Jutamas Suetrong returned no results; no same-payer invoice exists in the preserved invoice export.",
+      "posting_status": "posted_and_live_verified",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jutamas-amount-no-results.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jutamas-name-no-results.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jutamas-prewrite.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jutamas-reconciled-detail.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/jutamas-posted-detail.png"
+      ]
+    },
+    {
+      "source_row": 193,
+      "date": "2026-06-23",
+      "amount": "558.00",
+      "contact": "Alexander O'Neill",
+      "bank_description": "Fast Transfer From O'Neill A F ALEXANDER O'NEILL",
+      "transaction_type": "Receive Money",
+      "account": "200 - Sales",
+      "tax_rate": "BAS Excluded",
+      "amounts_tax_basis": "Tax Exclusive",
+      "duplicate_and_invoice_control": "Before posting, live Find & Match searches by Alexander O'Neill and by exact amount 558.00 returned no valid matching transaction; the unrelated same-value invoice was not used.",
+      "posting_status": "posted_and_exactly_live_verified",
+      "verification": "Fresh Xero readback showed the 23 Jun 2026 reconciled row as Alexander O'Neill, Receive money, 200 - Sales, received 558.00, Manual. Opening its exact payment showed contact Alexander O'Neill, date 23 Jun 2026, description Fast Transfer From O'Neill A F ALEXANDER O'NEILL, quantity 1.00, unit price and total 558.00, account Sales, BAS Excluded, Amounts are Tax Exclusive, and history Reconciled by Felicity Cao on 8 Sep 2026 at 12:59PM / Credit payment on 23 June 2026 for 558.00.",
+      "evidence": [
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/alexander-name-no-results.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/alexander-amount-no-results.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/alexander-prewrite.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/alexander-postwrite-control.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/alexander-reconciled-detail.png",
+        "workpapers/evidence/2026-09-08-owner-tuition-receipts/alexander-posted-detail.png"
+      ]
+    }
+  ],
+  "pending_in_this_batch": [
+    "Jen Rollins $618 on 2026-06-26"
+  ],
+  "held": [
+    "Courtney McMillan $680 remains held in this run; the three same-value invoices belong to Yohans, Jack Anderson and Sean and must not be used.",
+    "Mark Zheng $300 client gift and Order Lemon $14.44 client lunch remain unposted."
+  ],
+  "guardrails": [
+    "No new invoice was created.",
+    "No receipt was matched by amount alone.",
+    "No post-30 June 2026 statement line was actioned.",
+    "No credential, permission, outbound payment, communication or monetary commitment was actioned."
+  ]
+}
