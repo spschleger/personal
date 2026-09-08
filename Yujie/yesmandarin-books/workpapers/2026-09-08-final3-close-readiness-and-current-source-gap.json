@@ -1,0 +1,723 @@
+{
+  "as_of": "2026-09-08T13:29:00+10:00",
+  "status": "read_only_final3_and_current_source_readiness_complete_no_xero_writes",
+  "account": "CBA Business Account ending 1913",
+  "scope": "Parent-review proposal for the last three FY2025-26 statement lines, year-end proof steps, and the exact 37 imported post-30-June rows. No Xero transaction, chart account, bank connection, permission or other external state was created or changed.",
+  "fresh_live_verification": {
+    "jen_rollins_618": {
+      "result": "Fresh 8 September 2026 visible-Xero readback reconfirmed the posted transaction: Jen Rollins; 26 Jun 2026; description Fast Transfer From Rollins J E Jen Rollins; quantity 1.00; unit price and total 618.00; account Sales; BAS Excluded; Amounts are Tax Exclusive; history Reconciled by Felicity Cao on 8 Sep 2026 at 13:17PM / Credit payment on 26 June 2026 for 618.00.",
+      "evidence": "workpapers/evidence/2026-09-08-final3-close-readiness/jen-618-fresh-detail.png"
+    },
+    "checkpoint": {
+      "unreconciled_statement_lines": 40,
+      "fy2025_26_unreconciled_lines": 3,
+      "post_2026_06_30_unreconciled_lines": 37,
+      "statement_balance": "31016.85",
+      "book_balance": "29739.75",
+      "boundary": "These are all-period balances through the latest imported statement line, not the 30 June 2026 balance.",
+      "evidence": "workpapers/evidence/2026-09-08-final3-close-readiness/live-queue-40-balances.png"
+    }
+  },
+  "live_chart_evidence": {
+    "gift_search": "Searching the active chart for gift returned no account row. There is no evidenced active gift-named account to select, and no new account is proposed.",
+    "gift_search_evidence": "workpapers/evidence/2026-09-08-final3-close-readiness/chart-gift-search-no-results.png",
+    "existing_accounts": [
+      {
+        "code": "400",
+        "name": "Advertising",
+        "type": "Expense",
+        "default_tax": "BAS Excluded",
+        "description": "Expenses incurred for advertising while trying to increase sales",
+        "constraint": "Current client-gift evidence does not establish public promotion or advertising, so this account is not source-supported for Mark Zheng on present facts."
+      },
+      {
+        "code": "420",
+        "name": "Entertainment",
+        "type": "Expense",
+        "default_tax": "BAS Excluded",
+        "description": "Expenses paid by company for the business but are not deductable for income tax purposes.",
+        "constraint": "This is the existing closest account for client hospitality/entertainment; the chart label is bookkeeping evidence, not an independent tax ruling."
+      }
+    ],
+    "accounts_evidence": "workpapers/evidence/2026-09-08-final3-close-readiness/chart-all-advertising-entertainment.png"
+  },
+  "final_three_parent_proposals": [
+    {
+      "source_row": 163,
+      "date": "2026-06-05",
+      "amount": "680.00",
+      "party": "Courtney McMillan",
+      "bank_description": "Fast Transfer From COURTNEY MCMILLAN Courtney McMillan student Courtney",
+      "proposal": {
+        "transaction_type": "Receive Money",
+        "account": "200 - Sales",
+        "tax_rate": "BAS Excluded",
+        "invoice_created": false
+      },
+      "basis": "The bank narration directly identifies Courtney as a student. The preserved invoice export has no Courtney contact. The three same-value invoices INV-0039 Yohans, INV-0071 Jack Anderson and INV-0092 Sean identify different people and must not be used. This supports direct student-fee/tuition recognition without fabricating an invoice.",
+      "source_constraint": "No source ties Courtney to an existing invoice. The proposed direct sale is based on the student narration and absence of an identity match, not on amount alone.",
+      "decision_status": "ready_for_parent_approval_no_xero_write"
+    },
+    {
+      "source_row": 160,
+      "date": "2026-06-03",
+      "amount": "-300.00",
+      "party": "Mark Zheng",
+      "bank_description": "Transfer To Mark Zheng PayID Phone from CommBank App Client gift card",
+      "proposal": {
+        "transaction_type": "Spend Money",
+        "account": "420 - Entertainment",
+        "tax_rate": "BAS Excluded",
+        "description": "Client gift card - Mark Zheng"
+      },
+      "basis": "The bank description and owner clarification establish a business client gift. No active gift-named chart account exists. Account 400 Advertising requires advertising/sales-promotion evidence that is absent. Account 420 is the existing closest conservative client-hospitality account and explicitly preserves a non-deductible presentation pending tax review.",
+      "tax_boundary": "Book the business nature separately from deductibility. Do not infer deductibility from the words client gift. If a registered tax agent later establishes a non-entertainment promotional treatment, reclassification can be considered; do not create a new account now.",
+      "evidence_constraint": "No receipt is preserved. Client, retailer and occasion are unspecified, but the owner explicitly directed include it as a client gift; do not ask those questions again.",
+      "decision_status": "ready_for_parent_approval_with_tax_agent_flag_no_xero_write"
+    },
+    {
+      "source_row": 171,
+      "date": "2026-06-11",
+      "amount": "-14.44",
+      "party": "Order Lemon",
+      "bank_description": "ORDER LEMON HAYMARKET Sydney AU Card xx7902 Value Date: 09/06/2026",
+      "proposal": {
+        "transaction_type": "Spend Money",
+        "account": "420 - Entertainment",
+        "tax_rate": "BAS Excluded",
+        "description": "Client lunch - Order Lemon"
+      },
+      "basis": "The owner confirmed client lunch and business purpose. Existing account 420 is the direct chart match for business entertainment and defaults to BAS Excluded.",
+      "tax_boundary": "Flag for year-end entertainment tax adjustment/review. ITAA 1997 sections 32-5 and 32-10 generally deny deductions for entertainment by food or drink even when business discussions occur, but Subdivision 32-B contains exceptions. This workpaper does not decide whether an exception applies.",
+      "evidence_constraint": "No receipt is preserved. Business purpose and purchased service are known; do not repeat those questions.",
+      "decision_status": "ready_for_parent_approval_with_tax_agent_flag_no_xero_write"
+    }
+  ],
+  "projected_control_if_parent_later_posts_final_three": {
+    "net_movement": "365.56",
+    "all_period_book_balance": "30105.31",
+    "statement_balance": "31016.85",
+    "remaining_all_period_gap": "911.54",
+    "explanation": "The 911.54 gap equals the exact net movement of the 37 imported post-30-June rows. This projection is not a write and is not the 30 June close proof."
+  },
+  "year_end_2026_control": {
+    "source_rows_through_2026_06_30": 202,
+    "source_bank_movement": "21823.34",
+    "source_opening_balance": "3262.83",
+    "target_2026_06_30_bank_balance": "25086.17",
+    "calculation": "3262.83 + 21823.34 = 25086.17",
+    "last_source_line": {
+      "date": "30/06/2026",
+      "amount": "-16.00",
+      "description": "Microsoft*Microsoft 365 P msbill.info AU Card xx7902 Value Date: 25/06/2026"
+    },
+    "required_reporting_steps": [
+      "After parent-approved posting, run the Business Account bank reconciliation report with report date exactly 30 June 2026; do not use the current all-period balances as the year-end balance.",
+      "Prove the report statement balance and Balance in Xero both equal 25086.17 and the reconciliation difference is zero; retain the report and investigate every outstanding item at the cutoff.",
+      "Review all open invoices at 30 June against the reconciled bank receipts; do not rely on stale invoice payment status.",
+      "Export FY2025-26 Profit & Loss and Balance Sheet and preserve the sales/turnover control, expense schedule, asset schedule and unresolved-evidence list.",
+      "Complete the separate Stripe controls and personal-paid expense review before describing FY2025-26 as closed.",
+      "Test rolling GST turnover and hand the source-linked working pack to Felicity or a registered tax agent; this workpaper does not make tax declarations."
+    ],
+    "not_close_ready_because": [
+      "The final three FY bank lines are only proposed, not posted.",
+      "The separate Stripe account 687.50 gross charge remains unattributed and its 24.37 processing fee and 3.03 invoicing fee remain unposted.",
+      "The 1197.73 separate-Stripe opening-boundary payout remains isolated pending source support.",
+      "Personal-paid business expenses and confirmation of all other business channels remain to be completed.",
+      "The dated 30 June bank reconciliation report and tax working pack have not yet been produced."
+    ]
+  },
+  "current_source_coverage": {
+    "actual_current_date": "2026-09-08",
+    "local_bank_source_end": "2026-08-17",
+    "xero_latest_imported_statement_date": "2026-08-17",
+    "missing_statement_range": {
+      "from": "2026-08-18",
+      "through": "2026-09-08",
+      "calendar_days_inclusive": 22
+    },
+    "live_result": "The authenticated Xero Imported Bank Statements page shows latest date 17 Aug 2026 and visible rows have Source Imported; no newer bank-feed/imported source line is evidenced.",
+    "evidence": "workpapers/evidence/2026-09-08-final3-close-readiness/imported-statements-latest-17-aug.png",
+    "constraint": "The existing 37 unreconciled post-June rows cover only 1 July through 17 August 2026. They do not bring the books to 8 September 2026. Obtain/import complete account 1913 statement evidence for 18 August through 8 September before claiming present-day completeness; no connection or credential action was attempted."
+  },
+  "post_2026_06_30_imported_remaining_inventory": {
+    "basis": "Exact subtraction of 14 already reconciled later-period source rows from the 51 source rows dated 1 July-17 August 2026.",
+    "already_reconciled_source_rows": [
+      215,
+      216,
+      221,
+      225,
+      228,
+      231,
+      236,
+      239,
+      240,
+      241,
+      246,
+      249,
+      252,
+      253
+    ],
+    "controls": {
+      "remaining_count": 37,
+      "credit_count": 7,
+      "credit_total": "2506.80",
+      "debit_count": 30,
+      "debit_total": "1595.26",
+      "net_movement": "911.54"
+    },
+    "transactions": [
+      {
+        "source_row": 203,
+        "date": "01/07/2026",
+        "amount": "-7.52",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 28/06/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 204,
+        "date": "02/07/2026",
+        "amount": "+558.00",
+        "bank_description": "Fast Transfer From CHEUK-WAH PRISCILLA H CREDIT TO ACCOUNT Priscilla Li",
+        "source_kind": "unresolved_credit",
+        "source_proposed_account": "",
+        "source_status": "unresolved",
+        "source_evidence": "none",
+        "candidate_invoice_numbers": null,
+        "source_note": "Do not treat amount alone as transaction identity."
+      },
+      {
+        "source_row": 205,
+        "date": "02/07/2026",
+        "amount": "-239.67",
+        "bank_description": "Direct Debit 466119 COVAU PTY LTD 1434251 INV 256245",
+        "source_kind": "expense",
+        "source_proposed_account": "Utilities",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 206,
+        "date": "03/07/2026",
+        "amount": "-12.17",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 30/06/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 207,
+        "date": "04/07/2026",
+        "amount": "-3.76",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 01/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 208,
+        "date": "04/07/2026",
+        "amount": "-12.98",
+        "bank_description": "Google Workspace_yesmanda Sydney AU Card xx7902 Value Date: 01/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Software subscriptions",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 209,
+        "date": "07/07/2026",
+        "amount": "-7.52",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 04/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 210,
+        "date": "07/07/2026",
+        "amount": "-7.52",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 03/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 211,
+        "date": "07/07/2026",
+        "amount": "-6.07",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 02/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 212,
+        "date": "07/07/2026",
+        "amount": "-36.28",
+        "bank_description": "ALP*Taobao Shanghai CN Card xx7902 CNY 169.50 Value Date: 02/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Teaching materials or supplies",
+        "source_status": "review",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 213,
+        "date": "07/07/2026",
+        "amount": "-1.27",
+        "bank_description": "International Transaction Fee Value Date: 02/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Teaching materials or supplies",
+        "source_status": "review",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 214,
+        "date": "08/07/2026",
+        "amount": "-7.52",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 05/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 217,
+        "date": "08/07/2026",
+        "amount": "+300.00",
+        "bank_description": "Fast Transfer From NITCHAKAN TANAPASEE Frenchfly",
+        "source_kind": "unresolved_credit",
+        "source_proposed_account": "",
+        "source_status": "unresolved",
+        "source_evidence": "none",
+        "candidate_invoice_numbers": null,
+        "source_note": "Do not treat amount alone as transaction identity."
+      },
+      {
+        "source_row": 218,
+        "date": "09/07/2026",
+        "amount": "-5.44",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 06/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 219,
+        "date": "10/07/2026",
+        "amount": "-9.14",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 07/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 220,
+        "date": "11/07/2026",
+        "amount": "-7.52",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 08/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 222,
+        "date": "14/07/2026",
+        "amount": "-7.52",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 11/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 223,
+        "date": "14/07/2026",
+        "amount": "-3.76",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 10/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 224,
+        "date": "14/07/2026",
+        "amount": "-2.31",
+        "bank_description": "TRANSPORTFORNSW TAP SYDNEY AU Card xx7902 Value Date: 09/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 226,
+        "date": "23/07/2026",
+        "amount": "-11.24",
+        "bank_description": "ALP*Taobao Shanghai CN Card xx7902 CNY 53.00 Value Date: 20/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Teaching materials or supplies",
+        "source_status": "review",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 227,
+        "date": "23/07/2026",
+        "amount": "-0.39",
+        "bank_description": "International Transaction Fee Value Date: 20/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Teaching materials or supplies",
+        "source_status": "review",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 229,
+        "date": "28/07/2026",
+        "amount": "-59.42",
+        "bank_description": "Alipay*Taobao Shanghai CN Card xx7902 CNY 280.98 Value Date: 23/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Teaching materials or supplies",
+        "source_status": "review",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 230,
+        "date": "28/07/2026",
+        "amount": "-2.08",
+        "bank_description": "International Transaction Fee Value Date: 22/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Teaching materials or supplies",
+        "source_status": "review",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 232,
+        "date": "04/08/2026",
+        "amount": "-7.00",
+        "bank_description": "Alipay*Taobao Shanghai CN Card xx7902 CNY 32.79 Value Date: 30/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Teaching materials or supplies",
+        "source_status": "review",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 233,
+        "date": "04/08/2026",
+        "amount": "-0.25",
+        "bank_description": "International Transaction Fee Value Date: 30/07/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Teaching materials or supplies",
+        "source_status": "review",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 234,
+        "date": "04/08/2026",
+        "amount": "-12.98",
+        "bank_description": "Google Workspace_yesmanda Sydney AU Card xx7902 Value Date: 01/08/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Software subscriptions",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 235,
+        "date": "05/08/2026",
+        "amount": "+345.00",
+        "bank_description": "Fast Transfer From MARIA JOHN From Maria John (Suguru)",
+        "source_kind": "unresolved_credit",
+        "source_proposed_account": "",
+        "source_status": "unresolved",
+        "source_evidence": "none",
+        "candidate_invoice_numbers": null,
+        "source_note": "Do not treat amount alone as transaction identity."
+      },
+      {
+        "source_row": 237,
+        "date": "05/08/2026",
+        "amount": "-928.00",
+        "bank_description": "Transfer To Lifang Wang PayID Phone from CommBank App Teaching service payment 2weeks",
+        "source_kind": "contractor_payment",
+        "source_proposed_account": "Contractor costs",
+        "source_status": "review",
+        "source_evidence": "bank_description",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 238,
+        "date": "06/08/2026",
+        "amount": "-168.00",
+        "bank_description": "Transfer To haobai zhang CommBank App Teaching service payment...",
+        "source_kind": "contractor_payment",
+        "source_proposed_account": "Contractor costs",
+        "source_status": "review",
+        "source_evidence": "bank_description",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 242,
+        "date": "10/08/2026",
+        "amount": "+50.00",
+        "bank_description": "Fast Transfer From DR MATTHEW HARVEY Deposit Matt Harvey",
+        "source_kind": "unresolved_credit",
+        "source_proposed_account": "",
+        "source_status": "unresolved",
+        "source_evidence": "none",
+        "candidate_invoice_numbers": null,
+        "source_note": "Do not treat amount alone as transaction identity."
+      },
+      {
+        "source_row": 243,
+        "date": "11/08/2026",
+        "amount": "-3.03",
+        "bank_description": "TFNSW OPAL FARE SYDNEY AU Card xx7902 Value Date: 06/08/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 244,
+        "date": "11/08/2026",
+        "amount": "-9.14",
+        "bank_description": "TFNSW OPAL FARE SYDNEY AU Card xx7902 Value Date: 07/08/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 245,
+        "date": "11/08/2026",
+        "amount": "-3.76",
+        "bank_description": "TFNSW OPAL FARE SYDNEY AU Card xx7902 Value Date: 08/08/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Travel",
+        "source_status": "candidate",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 247,
+        "date": "11/08/2026",
+        "amount": "+508.00",
+        "bank_description": "Fast Transfer From DR MATTHEW HARVEY CREDIT TO ACCOUNT Matt Harvey",
+        "source_kind": "unresolved_credit",
+        "source_proposed_account": "",
+        "source_status": "unresolved",
+        "source_evidence": "none",
+        "candidate_invoice_numbers": null,
+        "source_note": "Do not treat amount alone as transaction identity."
+      },
+      {
+        "source_row": 248,
+        "date": "12/08/2026",
+        "amount": "+558.00",
+        "bank_description": "Fast Transfer From MS RUTHY NICOLE MCIVE CREDIT TO ACCOUNT ruthy mciver",
+        "source_kind": "unresolved_credit",
+        "source_proposed_account": "",
+        "source_status": "unresolved",
+        "source_evidence": "none",
+        "candidate_invoice_numbers": null,
+        "source_note": "Do not treat amount alone as transaction identity."
+      },
+      {
+        "source_row": 250,
+        "date": "13/08/2026",
+        "amount": "-12.00",
+        "bank_description": "BIG W/CRN OF GEORGE & PAR SYDNEY AU Card xx7902 Value Date: 11/08/2026",
+        "source_kind": "expense",
+        "source_proposed_account": "Equipment or supplies",
+        "source_status": "review",
+        "source_evidence": "merchant_identity",
+        "candidate_invoice_numbers": null,
+        "source_note": null
+      },
+      {
+        "source_row": 251,
+        "date": "15/08/2026",
+        "amount": "+187.80",
+        "bank_description": "Fast Transfer From DR MATTHEW HARVEY CREDIT TO ACCOUNT Matt Harvey",
+        "source_kind": "unresolved_credit",
+        "source_proposed_account": "",
+        "source_status": "unresolved",
+        "source_evidence": "none",
+        "candidate_invoice_numbers": null,
+        "source_note": "Do not treat amount alone as transaction identity."
+      }
+    ]
+  },
+  "next_supported_later_period_batch": {
+    "status": "proposal_only_parent_approval_required",
+    "count": 23,
+    "debit_total": "373.32",
+    "tax_rate": "BAS Excluded",
+    "groups": [
+      {
+        "source_rows": [
+          203,
+          206,
+          207,
+          209,
+          210,
+          211,
+          214,
+          218,
+          219,
+          220,
+          222,
+          223,
+          224,
+          243,
+          244,
+          245
+        ],
+        "count": 16,
+        "total": "103.70",
+        "account": "493 - Travel - National",
+        "basis": "Exact Transport for NSW/TFNSW narrations plus owner-confirmed business travel and the already-audited existing account mapping."
+      },
+      {
+        "source_rows": [
+          208,
+          234
+        ],
+        "count": 2,
+        "total": "25.96",
+        "account": "485 - Subscriptions",
+        "basis": "Exact Google Workspace narrations and the already-audited existing subscriptions mapping."
+      },
+      {
+        "source_rows": [
+          205
+        ],
+        "count": 1,
+        "total": "239.67",
+        "account": "445 - Light, Power, Heating",
+        "basis": "Exact COVAU invoice narration and the already-live-verified existing utilities mapping."
+      },
+      {
+        "source_rows": [
+          213,
+          227,
+          230,
+          233
+        ],
+        "count": 4,
+        "total": "3.99",
+        "account": "404 - Bank Fees",
+        "basis": "Each bank narration explicitly says International Transaction Fee; existing Bank Fees mapping is already audited."
+      }
+    ],
+    "held_after_supported_batch": {
+      "count": 14,
+      "debit_total": "1221.94",
+      "credit_total": "2506.80",
+      "net_movement": "1284.86",
+      "source_rows": [
+        204,
+        212,
+        217,
+        226,
+        229,
+        232,
+        235,
+        237,
+        238,
+        242,
+        247,
+        248,
+        250,
+        251
+      ],
+      "reasons": "Seven receipts need invoice/purpose control; four later Taobao purchases lack item-level textbook confirmation; two teaching-service contractor payments need contractor/source-document review; Big W has merchant-only evidence."
+    }
+  },
+  "tax_sources": [
+    {
+      "title": "Income Tax Assessment Act 1997, sections 32-5, 32-10 and Subdivision 32-B",
+      "url": "https://www.legislation.gov.au/C2004A05138/2026-01-22/2026-01-22/text/original/epub/OEBPS/document_1/document_1.html",
+      "use": "Section 32-5 denies entertainment deductions subject to exceptions; 32-10 includes food/drink and says business discussions do not change entertainment character; 32-45 contains limited promotion/advertising exceptions."
+    },
+    {
+      "title": "ATO — Entertainment and functions",
+      "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/meals-entertainment-and-functions/entertainment-and-functions",
+      "retrieved": "2026-09-08",
+      "use": "ATO example states lunches with potential clients remain non-deductible entertainment despite business discussions; professional review is still required for the entity facts and statutory exceptions."
+    }
+  ],
+  "guardrails": [
+    "No Xero write was made.",
+    "No chart account was created.",
+    "No tax deductibility conclusion was invented for the client gift.",
+    "No credential, permission, bank connection, outbound payment, communication or commitment was actioned.",
+    "FY2025-26 is not described as closed.",
+    "The imported 37-line later period is not described as present-day complete."
+  ]
+}
