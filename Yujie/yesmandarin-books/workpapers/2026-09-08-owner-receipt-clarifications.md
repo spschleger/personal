@@ -6,6 +6,8 @@ Shane confirms the business commencement date is 1 July 2025. He considers funds
 
 This clarifies the owner's intended opening-capital treatment; it is not evidence that any opening entry has been posted. Confirm which balances were actually introduced into or retained by the business at commencement before recording opening assets and corresponding capital. Invoice date alone does not settle treatment of an unpaid opening receivable, customer advance, or post-start settlement; flag an actual such item separately if encountered, without assuming one exists.
 
+Shane further directs that the identified pre-1 July 2025 invoices/receipts and related payouts from the separate Stripe account are excluded from this reconstruction: they did not enter the business bank account. Do not create a separate-Stripe opening asset/capital entry or reconstruct those historical invoices on the current evidence. Preserve existing source records; exclusion is not deletion. This direction concerns the identified pre-start items, not all activity in that Stripe account.
+
 The October 2025 $687.50 Stripe receipt and its fees producing the verified $660.10 business-bank deposit remain in scope. The $1,197.73 pre-start receipt-derived balance is not current-year sales; any opening asset/capital or subsequent owner movement must remain distinct from revenue.
 
 Source: Shane's direct Telegram response to the remaining receipt questions.
