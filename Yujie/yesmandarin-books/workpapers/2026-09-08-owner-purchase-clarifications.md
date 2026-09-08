@@ -8,4 +8,4 @@ Source: Shane's direct Telegram clarification in Max Workroom. Applies to pendin
 
 These are owner-provided purpose facts, not evidence that Xero has been updated. No Xero writes made in this clarification turn.
 
-Gift card question: source bank export records 03/06/2026, -$300.00, `Transfer To Mark Zheng PayID Phone from CommBank App Client gift card`. Payee identified as Mark Zheng; recipient client, retailer and occasion are not established by that reference. Shane asked what the reference says; no additional gift-card facts confirmed yet.
+Gift card question: source bank export records 03/06/2026, -$300.00, `Transfer To Mark Zheng PayID Phone from CommBank App Client gift card`. Payee identified as Mark Zheng; recipient client, retailer and occasion are not established by that reference. Shane subsequently directed: “Ok just include it as a client gift.” Client-gift bookkeeping classification is owner-confirmed. Recipient, retailer and occasion remain unspecified; do not infer tax deductibility from this confirmation. Not yet posted to Xero.
