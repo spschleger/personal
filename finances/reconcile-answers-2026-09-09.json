@@ -2,5 +2,10 @@
   "2026-09-09|-3799|POS 09/09 CHEMISTWAREHOUSE ONLINE Preston#0": {
     "categoryId": 16,
     "payee": "Chemist Warehouse — TRT syringes"
+  },
+  "2026-09-09|-4339|POS 09/09 PAYPAL *PADDLE.NET 35314369001#0": {
+    "categoryId": 15,
+    "payee": "Astrill VPN",
+    "note": "VPN for China trip next week for Yujie's surgery; category inferred as Subscriptions and AI."
   }
 }
