@@ -19,5 +19,9 @@
   "2026-09-09|-1850|POS 09/09 M4 WEST PTY LTD EASTERN CREE#0": {
     "categoryId": 22,
     "payee": "M4 West Pty Ltd"
+  },
+  "2026-09-09|-14999|POS 09/09 PNG PTY LTD PROSPECT#0": {
+    "categoryId": 18,
+    "payee": "PNG Pty Ltd (Prospect)"
   }
 }
