@@ -32,5 +32,10 @@
   "2026-09-08|-9996|POS 08/09 YAPPARI STEAK - REGENT +611****4548#0": {
     "categoryId": 22,
     "payee": "Yappari Steak (Regent Place)"
+  },
+  "2026-09-08|-41196|POS 07/09 WEBJET MELBOURNE#0": {
+    "categoryId": 18,
+    "payee": "Webjet",
+    "note": "China flight"
   }
 }
