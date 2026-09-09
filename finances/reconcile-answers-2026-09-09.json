@@ -7,5 +7,9 @@
     "categoryId": 15,
     "payee": "Astrill VPN",
     "note": "VPN for China trip next week for Yujie's surgery; category inferred as Subscriptions and AI."
+  },
+  "2026-09-09|-100|POS 09/09 PAYPAL *PADDLE.NET 35314369001#0": {
+    "categoryId": 18,
+    "payee": "Paddle.net"
   }
 }
