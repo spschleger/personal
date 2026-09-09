@@ -37,5 +37,9 @@
     "categoryId": 18,
     "payee": "Webjet",
     "note": "China flight"
+  },
+  "2026-09-08|-862|V2942 07/09 KPAY*SOTEA BURWOOD N 74229856250#0": {
+    "categoryId": 22,
+    "payee": "Sotea Burwood"
   }
 }
