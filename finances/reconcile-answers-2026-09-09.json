@@ -11,5 +11,9 @@
   "2026-09-09|-100|POS 09/09 PAYPAL *PADDLE.NET 35314369001#0": {
     "categoryId": 18,
     "payee": "Paddle.net"
+  },
+  "2026-09-09|-2718|POS 09/09 BUNNINGS MUDGEE 7091 MUDGEE#0": {
+    "categoryId": 18,
+    "payee": "Bunnings (Mudgee)"
   }
 }
