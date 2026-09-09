@@ -29,7 +29,7 @@
     "payee": "Speedway Haberfield",
     "note": "Red Bull"
   },
-  "2026-09-08|-9996|POS 08/09 YAPPARI STEAK - REGENT +611****4548#0": {
+  "2026-09-08|-9996|POS 08/09 YAPPARI STEAK - REGENT +61130044548#0": {
     "categoryId": 22,
     "payee": "Yappari Steak (Regent Place)"
   },
@@ -41,5 +41,10 @@
   "2026-09-08|-862|V2942 07/09 KPAY*SOTEA BURWOOD N 74229856250#0": {
     "categoryId": 22,
     "payee": "Sotea Burwood"
+  },
+  "2026-09-07|-3911|V2942 06/09 AMAZON MARKETPLACE AU SYDNEY 74201336249#0": {
+    "categoryId": 18,
+    "payee": "Amazon",
+    "note": "Supplement for Yujie"
   }
 }
