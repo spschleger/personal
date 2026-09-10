@@ -1,0 +1,15 @@
+{
+  "2026-09-09|-14499|PL LOAN REPAYMENT TO A/C 311639012 SCHLEGER SHANE#0": {
+    "categoryId": 20,
+    "payee": "NAB Personal Loan"
+  },
+  "2026-09-10|-710|POS 10/09 CWH MUDGEE MUDGEE#0": {
+    "categoryId": 16,
+    "payee": "Chemist Warehouse (Mudgee)",
+    "note": "Medication \u2014 candasartin (as reported)"
+  },
+  "2026-09-10|5000|ONLINE C3415211566 Linked Acc Trns SCHLEGER JA#0": {
+    "categoryId": null,
+    "payee": "Cash deposit (self)"
+  }
+}

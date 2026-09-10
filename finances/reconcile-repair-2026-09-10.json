@@ -1,0 +1,5 @@
+{
+ "version": 1,
+ "reason": "September 9 loan debit first appears in September 10 export after previous completed-through watermark; verified absent from loan ledger.",
+ "fingerprints": ["2026-09-09|-14499|PL LOAN REPAYMENT TO A/C 311639012 SCHLEGER SHANE#0"]
+}
