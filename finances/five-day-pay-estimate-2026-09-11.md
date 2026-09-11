@@ -20,6 +20,10 @@ Read-only live ledger shows $2,573.44 regular deposits and $3,159.76 deposit dat
 - Monday full overtime, Thursday ordinary weekday: 104.5 base-equivalent hours after applying 43.5 actual-hour threshold in Sunday–Saturday week; estimated net $3,565.51.
 - All three weekdays ordinary scheduling: 96.5 base-equivalent hours; estimated net $3,407.91.
 
+## Owner clarification
+
+Shane confirmed on 2026-09-11 that Thursday would also be a full overtime shift. Use the both-extra-shifts-overtime scenario as the working estimate: approximately $3,713 net per full five-shift pay week. This is owner-confirmed roster treatment, not payslip verification; other model assumptions remain unchanged.
+
 ## Conclusion
 
 Working estimate about $3,710/week if both extra shifts receive full overtime, versus about $3,560 if Thursday is ordinary and Monday remains overtime. No unconditional payroll guarantee. The higher observed bank deposit supports but does not prove full overtime Monday treatment. Confirm additional Thursday's roster/pay treatment and allowance eligibility with a payslip/payroll before budgeting the higher number. Five 12-hour shifts = 60 working hours plus commuting, subject to fatigue management and approval. Net deposits are not final annual after-tax income and do not account for extra work expenses.
