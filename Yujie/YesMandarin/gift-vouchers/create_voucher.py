@@ -37,7 +37,7 @@ c.setStrokeColor(accent)
 c.line(W/2-23, 209, W/2+23, 209)
 centre('5 private Mandarin lessons', 174, 'Helvetica-Bold', 20)
 centre('60 minutes each  |  In person  |  One-to-one', 150, 'Helvetica', 11)
-centre('To book your lessons, contact Yujie', 93, 'Helvetica', 10)
+centre('To book your lessons, contact Felicity', 93, 'Helvetica', 10)
 centre('0414 163 003', 72, 'Helvetica-Bold', 14)
 centre('yesmandarin.com.au', 41, 'Helvetica', 9)
 c.linkURL('tel:+61414163003', (235, 68, 360, 88), relative=0)
@@ -47,7 +47,7 @@ c.save()
 doc = fitz.open(pdf)
 assert len(doc) == 1
 text = doc[0].get_text()
-for expected in ['Readon', 'Jordan', '5 private Mandarin lessons', '60 minutes each', 'In person', 'Yujie', '0414 163 003']:
+for expected in ['Readon', 'Jordan', '5 private Mandarin lessons', '60 minutes each', 'In person', 'Felicity', '0414 163 003']:
     assert expected in text, expected
 out = ROOT / 'YesMandarin-Gift-Voucher-Readon.png'
 doc[0].get_pixmap(matrix=fitz.Matrix(3,3), alpha=False).save(out)
