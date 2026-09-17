@@ -14,6 +14,8 @@ pixels = []
 for r,g,b,a in logo.getdata():
     if r > 210 and g > 200 and b > 175:
         pixels.append((255,255,255,0))
+    elif r > 150 and r > g * 1.25 and g > b * 1.15:
+        pixels.append((255,107,61,255))
     else:
         pixels.append((r,g,b,255))
 logo.putdata(pixels)
@@ -24,7 +26,7 @@ c=canvas.Canvas(str(pdf),pagesize=(W,H))
 c.setTitle('A special gift for Readon | YesMandarin')
 c.setAuthor('YesMandarin')
 ink=HexColor('#202B2C')
-orange=HexColor('#E34D31')
+orange=HexColor('#FF6B3D')
 muted=HexColor('#637172')
 c.setFillColor(white); c.rect(0,0,W,H,fill=1,stroke=0)
 # Full-height colour panel with concentric arcs and a playful gift motif.
