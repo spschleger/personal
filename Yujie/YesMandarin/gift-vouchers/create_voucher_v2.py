@@ -67,8 +67,14 @@ text('To book, contact Felicity',35,64,10,colour=muted)
 text('0414 163 003',35,44,15,'Helvetica-Bold')
 text('yesmandarin.com.au',35,24,8,colour=muted)
 # The lesson count is the graphic centrepiece, with small sparkle details.
-star(431,297,15); star(553,139,12)
-c.setFillColor(white); c.setFont('Helvetica-Bold',158); c.drawCentredString(490,179,'5')
+star(423,322,13); star(553,139,12)
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+# Embed a real CJK font so the character travels with the PDF.
+cjk = pymupdf.Font('china-s')
+from io import BytesIO
+pdfmetrics.registerFont(TTFont('VoucherCJK', BytesIO(cjk.buffer)))
+c.setFillColor(white); c.setFont('VoucherCJK',142); c.drawCentredString(490,188,'五')
 c.setFont('Helvetica-Bold',11); c.drawCentredString(490,151,'PRIVATE LESSONS')
 c.setStrokeColor(white); c.setLineWidth(1); c.line(469,124,511,124)
 c.setFont('Helvetica',10); c.drawCentredString(490,102,'A little gift.')
