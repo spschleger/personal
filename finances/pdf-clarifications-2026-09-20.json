@@ -12,6 +12,15 @@
   ],
   "clarifications": [
     {
+      "purchaseDate": "2026-09-14",
+      "debitCents": 12000,
+      "payee": "Hairmop Pty Ltd",
+      "ownerAnswer": "Its hezlth and other nedical",
+      "classification": "Health and other medical",
+      "note": "Owner-selected envelope; resolve exact category ID from ledger. Match bank source before ingestion.",
+      "evidence": "/Users/sps/.hermes/cache/images/img_2450ae2592b8.jpg"
+    },
+    {
       "date": "2026-09-15",
       "debitCents": 799,
       "classification": "Subscriptions and AI",
