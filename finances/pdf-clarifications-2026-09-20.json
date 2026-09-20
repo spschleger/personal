@@ -12,6 +12,22 @@
   ],
   "clarifications": [
     {
+      "date": "2026-09-15",
+      "debitCents": 799,
+      "classification": "Subscriptions and AI",
+      "categoryId": 15,
+      "note": "PayPal screenshot confirms separate Apple Services payment, not bundled into September 11 $23.99 debit.",
+      "evidence": "/Users/sps/.hermes/cache/images/img_2450ae2592b8.jpg"
+    },
+    {
+      "date": "2026-09-17",
+      "debitCents": 1499,
+      "classification": "Subscriptions and AI",
+      "categoryId": 15,
+      "note": "PayPal screenshot identifies Apple Services. Match to bank source before ingestion; screenshot is classification evidence, not a new ledger insertion instruction.",
+      "evidence": "/Users/sps/.hermes/cache/images/img_2450ae2592b8.jpg"
+    },
+    {
       "date": "2026-09-11",
       "debitCents": 2399,
       "description": "1052983651253 PAYPAL AUSTRALIA SHANE SCHLEGER",
