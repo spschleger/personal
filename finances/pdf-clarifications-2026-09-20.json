@@ -3,6 +3,16 @@
   "status": "owner clarification only; not an apply manifest",
   "clarifications": [
     {
+      "purchaseDate": "2026-09-13",
+      "postingDate": "2026-09-15",
+      "debitCents": 17515,
+      "description": "V2942 13/09 NINGANA MOTEL MUDGEE 03160726746",
+      "ownerAnswer": "Yes — accommodation under Misc expenses",
+      "categoryId": 18,
+      "classification": "Misc expenses",
+      "note": "Accommodation at Ningana Motel, Mudgee."
+    },
+    {
       "purchaseDate": "2026-09-12",
       "postingDate": "2026-09-14",
       "debitCents": 8820,
