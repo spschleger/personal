@@ -12,6 +12,15 @@
   ],
   "clarifications": [
     {
+      "date": "2026-09-11",
+      "debitCents": 2399,
+      "description": "1052983651253 PAYPAL AUSTRALIA SHANE SCHLEGER",
+      "ownerAnswer": "Apple. Thats subscriptions",
+      "categoryId": 15,
+      "classification": "Subscriptions and AI",
+      "note": "Apple subscription via PayPal."
+    },
+    {
       "purchaseDate": "2026-09-13",
       "postingDate": "2026-09-15",
       "debitCents": 17515,
