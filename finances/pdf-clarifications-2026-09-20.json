@@ -1,0 +1,14 @@
+{
+  "sourcePdf": "/Users/sps/.hermes/cache/documents/doc_5eb1c994051f_interim_statement_20-Sep-2026 17_44_51.pdf",
+  "status": "owner clarification only; not an apply manifest",
+  "clarifications": [
+    {
+      "date": "2026-09-18",
+      "creditCents": 10000,
+      "description": "FOR FELICITY JA SCHLEGER SHANE",
+      "ownerAnswer": "A gift from my mother",
+      "classification": "gift income",
+      "note": "Gift from mother; not employment income."
+    }
+  ]
+}
