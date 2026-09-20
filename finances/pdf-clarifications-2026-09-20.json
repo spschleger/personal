@@ -13,6 +13,22 @@
   "clarifications": [
     {
       "purchaseDate": "2026-09-14",
+      "debitCents": 1129,
+      "payee": "Midwest Regional Pty Ltd, Mudgee",
+      "classification": "Eating out",
+      "categoryId": 22,
+      "ownerAnswer": "Eating out i guess"
+    },
+    {
+      "purchaseDate": "2026-09-15",
+      "debitCents": 1316,
+      "payee": "WHSmith, Sydney Airport",
+      "classification": "Eating out",
+      "categoryId": 22,
+      "ownerAnswer": "Eating out i guess"
+    },
+    {
+      "purchaseDate": "2026-09-14",
       "debitCents": 12000,
       "payee": "Hairmop Pty Ltd",
       "ownerAnswer": "Its hezlth and other nedical",
