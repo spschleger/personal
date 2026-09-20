@@ -1,6 +1,15 @@
 {
   "sourcePdf": "/Users/sps/.hermes/cache/documents/doc_5eb1c994051f_interim_statement_20-Sep-2026 17_44_51.pdf",
   "status": "owner clarification only; not an apply manifest",
+  "batchRules": [
+    {
+      "scope": "Weixin and Alipay payments in this China-trip PDF, including ALP-prefixed Alipay entries; not a permanent global rule",
+      "ownerAnswer": "Im in china- any of these weixan and slipay payments are misc basically",
+      "categoryId": 18,
+      "classification": "Misc expenses",
+      "note": "China trip spending. Includes WEIXIN*SEVENTH MEDICAL $16.63. Preserve pending status where stated."
+    }
+  ],
   "clarifications": [
     {
       "purchaseDate": "2026-09-13",
