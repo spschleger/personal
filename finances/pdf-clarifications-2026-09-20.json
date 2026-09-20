@@ -3,6 +3,16 @@
   "status": "owner clarification only; not an apply manifest",
   "clarifications": [
     {
+      "purchaseDate": "2026-09-12",
+      "postingDate": "2026-09-14",
+      "debitCents": 8820,
+      "description": "V2942 12/09 HOTEL AT BOOKING.COM SYDNEY 74071916255",
+      "ownerAnswer": "A fatigue night in Mudgee at a hotel. Misc spending",
+      "categoryId": 18,
+      "classification": "Misc expenses",
+      "note": "Hotel in Mudgee for fatigue management."
+    },
+    {
       "date": "2026-09-18",
       "creditCents": 10000,
       "description": "FOR FELICITY JA SCHLEGER SHANE",
