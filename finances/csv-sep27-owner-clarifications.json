@@ -1,0 +1,19 @@
+{
+  "sourceCsv": "/Users/sps/.hermes/cache/documents/doc_bed108481594_Transactions (3).csv",
+  "status": "Owner clarification only; not an apply manifest",
+  "clarifications": [
+    {
+      "purchaseDate": "2026-09-25",
+      "debitCents": 127520,
+      "payee": "Webjet",
+      "purpose": "Return to China to assist Yujie and her mother in hospital",
+      "categoryStatus": "awaiting confirmation",
+      "ownerAnswer": "back to china. yujie needs me there to assist her and her mother in hospital. I should be here a week so ill likely miss two more work weeks"
+    }
+  ],
+  "planningContext": {
+    "expectedStay": "About one week, owner estimate",
+    "expectedMissedWork": "Likely two additional work weeks; pay/leave treatment unknown",
+    "constraint": "Do not assume normal wages or earlier overtime sprint for cash planning. No automatic target or allocation changes authorised."
+  }
+}
