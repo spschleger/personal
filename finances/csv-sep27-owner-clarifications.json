@@ -11,13 +11,14 @@
       "classification": "Misc expenses",
       "categoryId": 18,
       "categoryAnswer": "its misc spending i guess",
-      "fundingStatus": "No explicit approval of a separate Savings transfer; classification only", 
+      "fundingStatus": "Owner authorises Savings to cover overages during these no-income weeks, including this Misc expense; calculate exact amounts from reconciled ledger before applying",
       "ownerAnswer": "back to china. yujie needs me there to assist her and her mother in hospital. I should be here a week so ill likely miss two more work weeks"
     }
   ],
   "planningContext": {
     "expectedStay": "About one week, owner estimate",
     "expectedMissedWork": "Likely two additional work weeks; pay/leave treatment unknown",
-    "constraint": "Do not assume normal wages or earlier overtime sprint for cash planning. No automatic target or allocation changes authorised."
+    "constraint": "Do not assume normal wages or earlier overtime sprint for cash planning. Owner authorises Savings to cover all overages during these no-income weeks; no target changes authorised.",
+    "fundingInstruction": "yeah all overages on these no income weeks need to come from savings"
   }
 }
