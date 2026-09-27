@@ -2,6 +2,8 @@
   "sourceCsv": "/Users/sps/.hermes/cache/documents/doc_bed108481594_Transactions (3).csv",
   "status": "Owner clarification only; not an apply manifest",
   "clarifications": [
+    {"purchaseDate": "2026-09-22", "debitCents": 2000, "description": "SHANE PHONSE SCHLEG L2101899895 FUNDING", "categoryId": 18, "classification": "Misc expenses", "ownerAnswer": "not sure - just put as misc"},
+    {"purchaseDate": "2026-09-22", "debitCents": 2000, "description": "SHANE PHONSE SCHLEG K4970378907 FUNDING", "categoryId": 18, "classification": "Misc expenses", "ownerAnswer": "not sure - just put as misc"},
     {
       "purchaseDate": "2026-09-26",
       "debitCents": 5000,
