@@ -1,0 +1,368 @@
+{
+  "generatedAt": "2026-09-27T10:33:01.175Z",
+  "week": "2026-09-24",
+  "assignments": [
+    {
+      "id": 379,
+      "categoryId": 1,
+      "weekStart": "2026-09-17",
+      "assignedCents": 70000
+    },
+    {
+      "id": 380,
+      "categoryId": 3,
+      "weekStart": "2026-09-17",
+      "assignedCents": 3100
+    },
+    {
+      "id": 381,
+      "categoryId": 4,
+      "weekStart": "2026-09-17",
+      "assignedCents": 1109
+    },
+    {
+      "id": 378,
+      "categoryId": 5,
+      "weekStart": "2026-09-17",
+      "assignedCents": 23000
+    },
+    {
+      "id": 368,
+      "categoryId": 6,
+      "weekStart": "2026-09-17",
+      "assignedCents": 4250
+    },
+    {
+      "id": 365,
+      "categoryId": 8,
+      "weekStart": "2026-09-17",
+      "assignedCents": 20000
+    },
+    {
+      "id": 369,
+      "categoryId": 9,
+      "weekStart": "2026-09-17",
+      "assignedCents": 14444
+    },
+    {
+      "id": 366,
+      "categoryId": 10,
+      "weekStart": "2026-09-17",
+      "assignedCents": 5000
+    },
+    {
+      "id": 367,
+      "categoryId": 11,
+      "weekStart": "2026-09-17",
+      "assignedCents": 5500
+    },
+    {
+      "id": 370,
+      "categoryId": 12,
+      "weekStart": "2026-09-17",
+      "assignedCents": 765
+    },
+    {
+      "id": 375,
+      "categoryId": 15,
+      "weekStart": "2026-09-17",
+      "assignedCents": 800
+    },
+    {
+      "id": 371,
+      "categoryId": 16,
+      "weekStart": "2026-09-17",
+      "assignedCents": 6500
+    },
+    {
+      "id": 372,
+      "categoryId": 17,
+      "weekStart": "2026-09-17",
+      "assignedCents": 3000
+    },
+    {
+      "id": 373,
+      "categoryId": 18,
+      "weekStart": "2026-09-17",
+      "assignedCents": 34675
+    },
+    {
+      "id": 382,
+      "categoryId": 19,
+      "weekStart": "2026-09-17",
+      "assignedCents": 33826
+    },
+    {
+      "id": 377,
+      "categoryId": 20,
+      "weekStart": "2026-09-17",
+      "assignedCents": 14499
+    },
+    {
+      "id": 374,
+      "categoryId": 21,
+      "weekStart": "2026-09-17",
+      "assignedCents": 4000
+    },
+    {
+      "id": 376,
+      "categoryId": 22,
+      "weekStart": "2026-09-17",
+      "assignedCents": 15205
+    },
+    {
+      "id": 397,
+      "categoryId": 1,
+      "weekStart": "2026-09-24",
+      "assignedCents": 70000
+    },
+    {
+      "id": 398,
+      "categoryId": 3,
+      "weekStart": "2026-09-24",
+      "assignedCents": 13700
+    },
+    {
+      "id": 399,
+      "categoryId": 4,
+      "weekStart": "2026-09-24",
+      "assignedCents": 1387
+    },
+    {
+      "id": 396,
+      "categoryId": 5,
+      "weekStart": "2026-09-24",
+      "assignedCents": 23000
+    },
+    {
+      "id": 386,
+      "categoryId": 6,
+      "weekStart": "2026-09-24",
+      "assignedCents": 4250
+    },
+    {
+      "id": 383,
+      "categoryId": 8,
+      "weekStart": "2026-09-24",
+      "assignedCents": 20000
+    },
+    {
+      "id": 387,
+      "categoryId": 9,
+      "weekStart": "2026-09-24",
+      "assignedCents": 14444
+    },
+    {
+      "id": 384,
+      "categoryId": 10,
+      "weekStart": "2026-09-24",
+      "assignedCents": 5000
+    },
+    {
+      "id": 385,
+      "categoryId": 11,
+      "weekStart": "2026-09-24",
+      "assignedCents": 5500
+    },
+    {
+      "id": 388,
+      "categoryId": 12,
+      "weekStart": "2026-09-24",
+      "assignedCents": 764
+    },
+    {
+      "id": 393,
+      "categoryId": 15,
+      "weekStart": "2026-09-24",
+      "assignedCents": 6252
+    },
+    {
+      "id": 389,
+      "categoryId": 16,
+      "weekStart": "2026-09-24",
+      "assignedCents": 6500
+    },
+    {
+      "id": 390,
+      "categoryId": 17,
+      "weekStart": "2026-09-24",
+      "assignedCents": 3000
+    },
+    {
+      "id": 391,
+      "categoryId": 18,
+      "weekStart": "2026-09-24",
+      "assignedCents": 43664
+    },
+    {
+      "id": 400,
+      "categoryId": 19,
+      "weekStart": "2026-09-24",
+      "assignedCents": -132999
+    },
+    {
+      "id": 395,
+      "categoryId": 20,
+      "weekStart": "2026-09-24",
+      "assignedCents": 14499
+    },
+    {
+      "id": 392,
+      "categoryId": 21,
+      "weekStart": "2026-09-24",
+      "assignedCents": 2000
+    },
+    {
+      "id": 394,
+      "categoryId": 22,
+      "weekStart": "2026-09-24",
+      "assignedCents": 10000
+    }
+  ],
+  "transactionCount": 550,
+  "lastExportAt": "2026-09-25",
+  "lastBudgetCycleCompletedWeek": "2026-09-24",
+  "readyToAssignCents": 0,
+  "balances": [
+    {
+      "categoryId": 8,
+      "category": "Fuel",
+      "availableCents": 30762,
+      "postedAvailableCents": 30762
+    },
+    {
+      "categoryId": 10,
+      "category": "Services/Maintenance",
+      "availableCents": 61048,
+      "postedAvailableCents": 61048
+    },
+    {
+      "categoryId": 11,
+      "category": "Tolls/Parking",
+      "availableCents": 13893,
+      "postedAvailableCents": 13893
+    },
+    {
+      "categoryId": 6,
+      "category": "Car Rego",
+      "availableCents": 55250,
+      "postedAvailableCents": 55250
+    },
+    {
+      "categoryId": 9,
+      "category": "Car Insurance",
+      "availableCents": 185556,
+      "postedAvailableCents": 185556
+    },
+    {
+      "categoryId": 12,
+      "category": "RACQ",
+      "availableCents": 9944,
+      "postedAvailableCents": 9944
+    },
+    {
+      "categoryId": 16,
+      "category": "TRT and Medications",
+      "availableCents": 39491,
+      "postedAvailableCents": 39491
+    },
+    {
+      "categoryId": 17,
+      "category": "Personal Care - Haircuts/Clothes etc.",
+      "availableCents": 32000,
+      "postedAvailableCents": 32000
+    },
+    {
+      "categoryId": 18,
+      "category": "Misc expenses",
+      "availableCents": 0,
+      "postedAvailableCents": 0
+    },
+    {
+      "categoryId": 19,
+      "category": "Savings",
+      "availableCents": 496074,
+      "postedAvailableCents": 510443
+    },
+    {
+      "categoryId": 21,
+      "category": "Other Medical",
+      "availableCents": 4000,
+      "postedAvailableCents": 4000
+    },
+    {
+      "categoryId": 15,
+      "category": "Subscriptions and AI",
+      "availableCents": 3334,
+      "postedAvailableCents": 3334
+    },
+    {
+      "categoryId": 22,
+      "category": "Eating out...",
+      "availableCents": 20000,
+      "postedAvailableCents": 20000
+    },
+    {
+      "categoryId": 24,
+      "category": "Business funding — Micko",
+      "availableCents": 0,
+      "postedAvailableCents": 0
+    },
+    {
+      "categoryId": 20,
+      "category": "NAB Loan",
+      "availableCents": 14499,
+      "postedAvailableCents": 14499
+    },
+    {
+      "categoryId": 5,
+      "category": "Orthodontics and Surgery",
+      "availableCents": 336500,
+      "postedAvailableCents": 336500
+    },
+    {
+      "categoryId": 1,
+      "category": "Rent, Food, Gym, Bills, Savings.",
+      "availableCents": 0,
+      "postedAvailableCents": 0
+    },
+    {
+      "categoryId": 2,
+      "category": "PHI - Medibank",
+      "availableCents": 0,
+      "postedAvailableCents": 0
+    },
+    {
+      "categoryId": 3,
+      "category": "Phone",
+      "availableCents": 2800,
+      "postedAvailableCents": 2800
+    },
+    {
+      "categoryId": 4,
+      "category": "Sperm storage",
+      "availableCents": 1840,
+      "postedAvailableCents": 1840
+    }
+  ],
+  "allEnvelopeBalancesNonnegative": true,
+  "allPostedEnvelopeBalancesNonnegative": true,
+  "savings": {
+    "beforeCents": 595247,
+    "afterCents": 496074,
+    "changeCents": -99173
+  },
+  "preservedPaddleTransaction": {
+    "id": 427,
+    "date": "2026-09-09",
+    "payee": "Paddle.net",
+    "amountCents": 100,
+    "categoryId": 18,
+    "note": "ingest 2026-09-09",
+    "bankRef": "2026-09-09|-100|POS 09/09 PAYPAL *PADDLE.NET 35314369001#0",
+    "reconciliationScope": "bank",
+    "tags": null
+  },
+  "pendingReserveReportingOnlyCents": 163285,
+  "goalSnapshotSha256": "b824d060ec915d98c8ad4b43f269cbba3b411a0392690c986530ff07caaae53f"
+}

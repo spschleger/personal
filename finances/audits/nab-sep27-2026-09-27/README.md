@@ -17,14 +17,15 @@
 
 The 24 pending rows were excluded from the posted ledger and total **$1,632.85**. Posted-derived bank cash is $13,070.91; reserving pending spending gives displayed/useful cash of **$11,438.06**. This is cash reporting only, not provisional ledger state.
 
-## Funding dry run
+## Funding applied
 
-No funding was applied. The ordinary current-week CLI dry run is in `fund-week-current-dry.txt`; because the 2026-09-17 boundary was missed, the sequential assessment in `funding-sequential-catchup-dry.json` is the correct review plan:
+The reviewed sequential plan was applied through the deterministic CLI using explicit Thursday weeks:
 
-- 2026-09-17: actual income/RTA $2,596.73; assignments $2,596.73; Savings receives $338.26.
-- 2026-09-24: actual income/RTA $1,109.61; assignments $1,109.61; Savings contributes $1,294.99 as the balancing assignment.
-- Then move $35.00 from Savings to Misc to cover the remaining posted Jetstar overage.
-- Net Savings draw after that adjustment: **$991.73**; RTA $0; posted deficits $0.
-- Targets are unchanged and no future pay is assumed.
+- 2026-09-17: actual income/RTA $2,596.73; assignments $2,596.73; Savings received $338.26.
+- 2026-09-24: actual income/RTA $1,109.61; assignments $1,109.61; Savings contributed $1,294.99 as the balancing assignment.
+- Then $35.00 moved from Savings to Misc to cover the remaining posted Jetstar overage.
+- Savings available moved from $5,952.47 to $4,960.74: net draw **$991.73**.
+- Final readback: RTA $0; budget marker `2026-09-24`; transaction count unchanged at 550; all posted and actual envelope balances nonnegative; goals hash unchanged.
+- The $1 Paddle.net row `db#427` remains preserved. The $1,632.85 pending reserve remains cash reporting only and is not assigned in the ledger.
 
-Exact rows, IDs, aliases, classifications, category balances, and plans are in the JSON receipts in this directory.
+Dry runs, apply output, move receipt, and exact final readback are in this directory (`fund-week-sep17-*`, `fund-week-sep24-*`, `savings-to-misc-sep24-move.json`, and `funding-final-readback.json`).
