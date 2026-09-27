@@ -7,7 +7,11 @@
       "debitCents": 127520,
       "payee": "Webjet",
       "purpose": "Return to China to assist Yujie and her mother in hospital",
-      "categoryStatus": "awaiting confirmation",
+      "categoryStatus": "owner confirmed",
+      "classification": "Misc expenses",
+      "categoryId": 18,
+      "categoryAnswer": "its misc spending i guess",
+      "fundingStatus": "No explicit approval of a separate Savings transfer; classification only", 
       "ownerAnswer": "back to china. yujie needs me there to assist her and her mother in hospital. I should be here a week so ill likely miss two more work weeks"
     }
   ],
