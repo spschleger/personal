@@ -1,0 +1,61 @@
+{
+  "source": {
+    "sha256": "7297f4f3778cb3ee07a0a305f46f6f3d342075abc19be0781a309a1bddf251cc",
+    "rows": 213,
+    "posted": 189,
+    "pending": 24,
+    "pendingNetCents": -163285,
+    "balanceChainErrors": 0,
+    "sourceFingerprintUnique": true,
+    "pendingFingerprintUnique": true,
+    "postedPendingDisjoint": true
+  },
+  "review": {
+    "digest": "0f75cc0183f4d0a57f0485e14aa34fd7e9d6774cc29ad404a8724de04c476adb",
+    "accountRef": "946410617",
+    "watermark": "2026-09-10",
+    "exportMaximum": "2026-09-25",
+    "decisionCount": 29,
+    "answerFingerprintsAllInSource": true,
+    "ownerChecks": {
+      "funding_L": true,
+      "funding_K": true,
+      "jetstar": true,
+      "webjet_pending": true,
+      "webjet_savings_note_fixed": true
+    }
+  },
+  "plan": {
+    "counts": {
+      "posted": 189,
+      "already": 35,
+      "settles": 9,
+      "claims": 4,
+      "inserts": 120,
+      "historical_overlap": 21
+    },
+    "partitionTotal": 189,
+    "zeroDecision": true,
+    "actionRowsDistinctlyConsumableByPostedDateAmount": true,
+    "excessActionKeys": {},
+    "settleIds": [
+      451,
+      452,
+      455,
+      426,
+      424,
+      429,
+      433,
+      425,
+      428
+    ],
+    "claimIds": [
+      458,
+      460,
+      459,
+      457
+    ]
+  },
+  "verified": true,
+  "knownException": "Existing db#427 $1 Paddle historical source gap is intentionally preserved; it is not represented or plugged by this source audit."
+}

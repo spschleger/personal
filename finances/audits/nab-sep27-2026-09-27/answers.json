@@ -1,0 +1,118 @@
+{
+  "2026-09-22|-2000|SHANE PHONSE SCHLEG L2101899895 FUNDING#0": {"categoryId": 18, "note": "Owner-confirmed Misc; purpose unknown."},
+  "2026-09-22|-2000|SHANE PHONSE SCHLEG K4970378907 FUNDING#0": {"categoryId": 18, "note": "Owner-confirmed Misc; purpose unknown."},
+  "2026-09-15|-17515|V2942 13/09 NINGANA MOTEL MUDGEE 03160726746#0": {
+    "categoryId": 18,
+    "payee": "Ningana Motel",
+    "note": "Accommodation at Ningana Motel, Mudgee; owner-confirmed Misc expenses."
+  },
+  "2026-09-17|-12000|V2942 14/09 PAYPAL *GETMOSH 4029357733 74245376258#0": {
+    "categoryId": 21,
+    "payee": "Hairmop Pty Ltd",
+    "note": "Owner-confirmed Other Medical; PayPal screenshot identifies Hairmop Pty Ltd $120 purchase 2026-09-14."
+  },
+  "2026-09-17|-1316|V2942 15/09 WHSMITH SYDT1 PIER B MASCOT 74229856259#0": {
+    "categoryId": 22,
+    "payee": "WHSmith Sydney Airport",
+    "note": "Owner-confirmed Eating out."
+  },
+  "2026-09-18|-501|V2942 17/09 WEIXIN*Guanghe Chuanna Beijing 74938086261#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-18|-512|V2942 16/09 WEIXIN*Chongqing Yiday Shenzhen 74629216261#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-18|-586|V2942 17/09 WEIXIN*7-11(SEB) Beijing 74938086261#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-18|10000|for Felicity JA SCHLEGER SHANE#0": {
+    "categoryId": null,
+    "payee": "Gift from mother",
+    "note": "Gift from mother; not employment income."
+  },
+  "2026-09-21|-1663|V2942 18/09 WEIXIN*Seventh Medical Shenzhen 74629216263#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-21|-231|V2942 19/09 WEIXIN*7-11(SEB) Shenzhen 74629216264#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-21|-316|V2942 18/09 WEIXIN*7-11(SEB) Shenzhen 74629216263#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-21|-449|V2942 18/09 WEIXIN*7-11(SEB) Shenzhen 74629216263#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-22|-238|V2942 20/09 WEIXIN*7-11(SEB) Shenzhen 74629216265#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-22|-250|V2942 20/09 WEIXIN*7-11(SEB) Shenzhen 74629216265#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-22|-267|V2942 21/09 WEIXIN*7-11(SEB) ShenZhen 74059766265#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-22|-511|V2942 21/09 WEIXIN*7-11(SEB) ShenZhen 74059766265#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-23|-25124|V2942 21/09 WEIXIN*Qinglan Buildin Shenzhen 74629216266#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-23|-535|V2942 22/09 WEIXIN*7-11(SEB) Beijing 74938086266#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-23|-798|V2942 22/09 WEIXIN*7-11(SEB) Beijing 74938086266#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-24|-535|V2942 23/09 WEIXIN*7-11(SEB) ShenZhen 74059766267#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-25|-127520|POS 25/09 WEBJET MARKETING PTY L Melbourne#0": {
+    "categoryId": 18,
+    "payee": "Webjet",
+    "note": "Return to China to assist Yujie and her mother in hospital; owner-confirmed Misc expenses. Owner authorises Savings to cover overages during no-income weeks."
+  },
+  "2026-09-25|-3500|V2942 24/09 Jetstar Airways Barangaroo 24109336267#0": {
+    "categoryId": 18,
+    "payee": "Jetstar",
+    "note": "Owner-confirmed Misc expenses."
+  },
+  "2026-09-25|-272|V2942 23/09 WEIXIN*Capital Airport Shenzhen 74629216268#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-27|-243|POS 27/09 WEIXIN*Rosen (Beijing) 95017#0": {
+    "categoryId": 18,
+    "note": "China trip Weixin spending; owner-confirmed Misc expenses."
+  },
+  "2026-09-18|-335|V2942 17/09 WEIXIN*ruixing coffee Beijing 74938086261#0": {
+    "categoryId": 18,
+    "note": "exact prior PDF row/date/amount/details plus current owner China-trip ruling"
+  },
+  "2026-09-17|-207|V2942 16/09 WEIXIN*ruixing coffee Beijing 74938086260#0": {
+    "categoryId": 18,
+    "note": "exact prior PDF row/date/amount/details plus current owner China-trip ruling"
+  },
+  "2026-09-14|-8820|V2942 12/09 Hotel at Booking.com Sydney 74071916255#0": {
+    "categoryId": 18,
+    "note": "exact prior owner hotel answer"
+  },
+  "2026-09-26|-5000|NPP-NATAAU33XXXN20260926MB7868871986000#0": {
+    "categoryId": 18,
+    "note": "Owner-confirmed Misc expenses; preserve pending status."
+  }
+}

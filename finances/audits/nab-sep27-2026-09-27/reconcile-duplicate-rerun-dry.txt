@@ -1,0 +1,34 @@
+CSV source rows: 213  |  posted: 189  |  pending excluded: 24 ($-1632.85)
+Balance chain: 0 errors  |  opening before oldest: $13053.80  |  source net: $-1615.74  |  displayed balance: $11438.06  |  derived posted balance: $13070.91
+CSV posted rows: 189  |  already ingested: 168  |  settled (pending refs to update): 0  |  claims (hand-entered rows to confirm): 0
+new inserts ready: 0  |  need a decision: 0  |  pre-epoch skipped: 0  |  answer-skipped: 0 (incl. 21 remembered)
+
+watermark: completed through 2026-09-25; export maximum: 2026-09-25  |  historical overlap ignored: 21
+selected account: csv:946410617  |  review digest: 9dd54b61fc416ff6f5333b4aa6440838491ca587b434b35627650ea4a55da3e7
+PENDING EXCLUDED 2026-09-27 Telstra $-10.00  [2026-09-27|-1000|POS 27/09 Telstra Services Melbourne#0]
+PENDING EXCLUDED 2026-09-27 Alipay $-0.64  [2026-09-27|-64|POS 27/09 ALP*Beijing Metro Beijing#0]
+PENDING EXCLUDED 2026-09-27 Alipay $-5.32  [2026-09-27|-532|POS 27/09 ALP*Beijing Metro Beijing#0]
+PENDING EXCLUDED 2026-09-27 Wexin $-2.43  [2026-09-27|-243|POS 27/09 WEIXIN*Rosen (Beijing) 95017#0]
+PENDING EXCLUDED 2026-09-26 NPP-NATAAU33XXXN20260926MB7868871986000 $-50.00  [2026-09-26|-5000|NPP-NATAAU33XXXN20260926MB7868871986000#0]
+PENDING EXCLUDED 2026-09-26 KFC (Sydney International Airport) $-14.45  [2026-09-26|-1445|POS 26/09 KFC Sydney T1 Airside Sydney T1 Ai#0]
+PENDING EXCLUDED 2026-09-26 Transport NSW (Contactless) $-1.00  [2026-09-26|-100|POS 26/09 TfNSW Opal Fare SYDNEY#0]
+PENDING EXCLUDED 2026-09-26 Coles (Westfield Burwood) $-45.20  [2026-09-26|-4520|POS 26/09 COLES 0861 BURWOOD#0]
+PENDING EXCLUDED 2026-09-26 Telstra Prepaid $-15.00  [2026-09-26|-1500|POS 26/09 Telstra Prepaid Melbourne#0]
+PENDING EXCLUDED 2026-09-26 Hero Sushi (Burwood) $-12.12  [2026-09-26|-1212|POS 26/09 SMP*Hero Sushi Burwood Burwood#0]
+PENDING EXCLUDED 2026-09-26 Coles (Westfield Burwood) $-5.60  [2026-09-26|-560|POS 26/09 COLES 0861 BURWOOD#0]
+PENDING EXCLUDED 2026-09-25 BP (Capertee) $-24.79  [2026-09-25|-2479|POS 25/09 BP CAPERTEE 9854 CAPERTEE#0]
+PENDING EXCLUDED 2026-09-25 BP (Mudgee) $-9.10  [2026-09-25|-910|POS 25/09 BP MUDGEE 2022 MUDGEE#0]
+PENDING EXCLUDED 2026-09-25 Ampol Foodary (Mudgee) $-8.59  [2026-09-25|-859|POS 25/09 AMPOL MUDGEE 22267F MUDGEE#0]
+PENDING EXCLUDED 2026-09-25 Ampol Foodary (Mudgee) $-29.40  [2026-09-25|-2940|POS 25/09 AMPOL MUDGEE 22267F MUDGEE#0]
+PENDING EXCLUDED 2026-09-25 Dan Murphy's (Burwood) $-33.47  [2026-09-25|-3347|POS 25/09 DAN MURPHY'S/302 PARRAMAT BURWOOD#0]
+PENDING EXCLUDED 2026-09-25 Linkt $-20.07  [2026-09-25|-2007|POS 25/09 Linkt Brisbane#0]
+PENDING EXCLUDED 2026-09-25 POS 25/09 OPORTO ASHFIELD CROYDON $-18.50  [2026-09-25|-1850|POS 25/09 OPORTO ASHFIELD CROYDON#0]
+PENDING EXCLUDED 2026-09-25 Webjet $-1275.20  [2026-09-25|-127520|POS 25/09 WEBJET MARKETING PTY L Melbourne#0]
+PENDING EXCLUDED 2026-09-24 Transport NSW (Contactless) $-1.00  [2026-09-24|-100|V2942 24/09 TfNSW Opal Fare SYDNEY#0]
+PENDING EXCLUDED 2026-09-24 WH Smith Australia (Sydney T1) $-9.12  [2026-09-24|-912|V2942 24/09 WHSMITH SYDT1 ARRIVAL2 MASCOT#0]
+PENDING EXCLUDED 2026-09-24 McDonald's (Mudgee) $-14.45  [2026-09-24|-1445|V2942 24/09 MCDONALDS MUDGEE MUDGEE#0]
+PENDING EXCLUDED 2026-09-24 Hungry Jacks (Lithgow) $-17.40  [2026-09-24|-1740|V2942 24/09 HJs Lithgow Lithgow#0]
+PENDING EXCLUDED 2026-09-23 Telstra $-10.00  [2026-09-23|-1000|V2942 23/09 Telstra Services Melbourne#0]
+Review artifact written to /Users/sps/personal/finances/audits/nab-sep27-2026-09-27/review-duplicate-rerun.json
+
+Dry run — nothing written. Re-run with --apply.

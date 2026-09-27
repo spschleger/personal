@@ -1,0 +1,20 @@
+{
+  "sourceRows": 189,
+  "counts": {
+    "already": 35,
+    "settle": 9,
+    "claim": 4,
+    "insert": 120,
+    "historical-overlap": 21
+  },
+  "allExpectedRowsAccountedFor": true,
+  "sourceFingerprintsUnique": true,
+  "transactionIdsUnique": true,
+  "duplicateTransactionIds": [],
+  "aliasRows": 168,
+  "aliasRefsUnique": true,
+  "watermark": {
+    "last_export_at": "2026-09-25",
+    "last_budget_cycle_completed_week": "2026-09-10"
+  }
+}
