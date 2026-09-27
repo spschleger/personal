@@ -3,6 +3,15 @@
   "status": "Owner clarification only; not an apply manifest",
   "clarifications": [
     {
+      "purchaseDate": "2026-09-26",
+      "debitCents": 5000,
+      "description": "NPP-NATAAU33XXXN20260926MB7868871986000",
+      "classification": "Misc expenses",
+      "categoryId": 18,
+      "ownerAnswer": "just put it in misc",
+      "note": "Category confirmed; purpose not specified. Preserve source pending status."
+    },
+    {
       "purchaseDate": "2026-09-25",
       "debitCents": 127520,
       "payee": "Webjet",
