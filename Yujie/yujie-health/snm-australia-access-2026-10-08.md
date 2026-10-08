@@ -8,6 +8,18 @@ SNM is an established specialist treatment in Australia, not an unavailable over
 
 A 2025 Westmead conference abstract reports 74 patients assessed from 2016–2024 across public and private hospitals, of whom 54 received full implantation after successful trials. Sixteen had a predisposing neurological or spinal condition. This demonstrates local experience, not a prediction for tethered-cord patients or confirmation of current intake.[2]
 
+## Funding clarification: procedure-specific evidence
+
+This supersedes any inference that a local public urology referral automatically gives access to a funded SNM implant. Public SNM funding exists, but access is limited and hospital-specific. An Australian neurogenic-bladder study explicitly states: "there are few public hospitals where SNM is publicly funded."[12]
+
+A 2025 South-West Sydney faecal-incontinence cohort (2013–2023) explicitly reports the tertiary referral hospital funding SNM for uninsured patients. This is direct evidence of actual hospital-funded SNM, not merely an MBS listing. It does not establish current allocation or coverage for Yujie's neurological retention/constipation presentation.[13]
+
+Westmead's public/private study remains evidence of public-hospital procedural experience, not a current zero-gap funding policy or proof that all hospital cases were public patients.[2] Concord's official colorectal research page lists SNM for faecal incontinence; this is stronger evidence of institutional involvement than generic urology, but not confirmation of a funded bladder-SNM programme.[15]
+
+Liverpool's official urology staff page lists Dr Eddy Wong's SNM expertise for complex voiding dysfunction, public appointments at Liverpool/Campbelltown, and referrals from across NSW. This is a further specialist lead, not proof that his public hospitals currently fund SNM for this patient.[14]
+
+Revised practical recommendation: establish a **currently funded public SNM programme for neurogenic non-obstructive retention**, including device budget and out-of-area acceptance, before committing to a generic clinic queue. Do not route solely by postcode. General public-patient fee rules remain applicable once accepted into a funded public treatment episode.[3] No source located establishing a blanket NSW SNM entitlement, current Concord/Westmead device allocation, or guaranteed public funding for this individual. No hospitals contacted.
+
 ## Funding
 
 For Medicare-eligible patients, accepted public-patient surgery in a public hospital is free. This is public hospital funding, not a guarantee that an entire private implant episode is bulk billed. Hospital acceptance, indication, device funding and waiting time must be confirmed.[3]
@@ -59,3 +71,7 @@ Burwood is within Sydney Local Health District.[10] This makes Concord public Ur
 [9] https://www.nslhd.health.nsw.gov.au/Services/Pages/Urology-Clinics-RNS.aspx
 [10] https://slhd.health.nsw.gov.au/organisation
 [11] https://www.slhd.nsw.gov.au/Concord/Urology/services.html
+[12] https://pmc.ncbi.nlm.nih.gov/articles/PMC12321483
+[13] https://pmc.ncbi.nlm.nih.gov/articles/PMC11965221
+[14] https://www.swslhd.health.nsw.gov.au/gastroliver/LivrplUroServ_MedStaff.html
+[15] https://slhd.health.nsw.gov.au/concord-hospital-research/colorectal-surgery
