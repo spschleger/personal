@@ -26,6 +26,20 @@ Ask the proposed public service: Can she receive assessment, the trial, permanen
 
 Unresolved: Medicare entitlement not checked in this task; individual clinical eligibility; named public-service acceptance; current national implant count; Australian package price or zero-gap private provider. No external contact made.
 
+## Public-system entry: verified contacts, 2026-10-08
+
+Recommended first enquiry: Westmead Hospital **public Urology**, **02 8890 6409**, Monday–Friday 8am–4:30pm. NSW Health confirms a referral is required; the directory does not publish a urology-specific submission channel or SNM catchment criteria.[8] Its documented public SNM experience makes it a defensible target.[2] Do not substitute Westmead Private or a private consulting appointment for confirmed public intake.
+
+The GP should first confirm with that service which functional/neuro-urology clinic takes postoperative tethered-cord referrals for SNM assessment, whether it accepts her residential postcode, the exact referral channel and required addressee. Current waiting time and public device funding remain unverified. No contact has been made.
+
+Referral purpose: ongoing neurogenic bladder and bowel dysfunction after tethered-cord surgery in China; request public functional/neuro-urology assessment, ongoing bladder/upper-tract safety and catheter management, and suitability/timing for an SNM trial with colorectal input. GP to confirm current clinical status, catheter dependence and urgency; do not describe implantation as predetermined.
+
+Attach operative and discharge reports with English translations, pre/postoperative imaging reports and DICOM access, October 2025 urodynamics, treatment history including prior conservative measures, current medication and catheter plan, recent urine/renal results if available, symptom diary, Medicare details, Australian address/contact and return date if still overseas. Do not delay referral for every missing test; send available evidence and supplement.
+
+Alternative local public entry: **Royal North Shore Urology Clinics**, **02 9463 1400**, **NSLHD-AccReferrals@health.nsw.gov.au**. Official clinic page directs GP referrals through **HealthLink** and lists video urodynamics and bladder-function services.[9] This verifies assessment access, not an RNSH SNM implant programme. Choose according to residential catchment and receiving-service advice, not a generic assumption that any Sydney hospital accepts every postcode.
+
+After submission, request confirmation of receipt, acceptance/triage, missing information and next appointment. Specialist evaluation precedes the SNM trial and any permanent implant decision. Starting the public assessment now does not require immediate implantation.
+
 ## Sources
 
 [1] https://www.continence.org.au/news/what-is-sacral-nerve-stimulation — What is Sacral Nerve Stimulation (SNS)? - Continence Health Australia
@@ -35,3 +49,5 @@ Unresolved: Medicare entitlement not checked in this task; individual clinical e
 [5] https://www9.health.gov.au/mbs/fullDisplay.cfm?type=item&q=36666&qt=item — Item 36666 | Medicare Benefits Schedule
 [6] https://www9.health.gov.au/mbs/fullDisplay.cfm?type=item&q=32213&qt=item — Item 32213 | Medicare Benefits Schedule
 [7] https://bladderclinic.com.au/procedures/bladder/sacral-neuromodulation — Sacral Neuromodulation | Melbourne Bladder Clinic
+[8] https://www.nsw.gov.au/departments-and-agencies/wslhd/hospitals-and-facilities/westmead-services
+[9] https://www.nslhd.health.nsw.gov.au/Services/Pages/Urology-Clinics-RNS.aspx
