@@ -40,6 +40,12 @@ Alternative local public entry: **Royal North Shore Urology Clinics**, **02 9463
 
 After submission, request confirmation of receipt, acceptance/triage, missing information and next appointment. Specialist evaluation precedes the SNM trial and any permanent implant decision. Starting the public assessment now does not require immediate implantation.
 
+## Residential and Medicare update
+
+Shane confirms Australian postcode **2134** and **active Medicare**. She is currently in China for several more weeks depending on recovery; return date unconfirmed. User-reported, not independently verified.
+
+Burwood is within Sydney Local Health District.[10] This makes Concord public Urology a sensible local intake enquiry, not proof of automatic acceptance or that Concord performs SNM. Official contacts: **02 9767 6410**, fax **02 9767 6751**, **SLHD-ConcordClinics4West@health.nsw.gov.au**; new referrals are triaged by clinical urgency.[11] Before GP submission, confirm whether Concord accepts this adult postoperative neurogenic-bladder/SNM referral while she is overseas and can provide the public SNM pathway. If not, ask for the designated tertiary service and submit directly there rather than waiting through an unnecessary general clinic. Westmead remains the verified public-SNM-experience option; out-of-area acceptance is unconfirmed.
+
 ## Sources
 
 [1] https://www.continence.org.au/news/what-is-sacral-nerve-stimulation — What is Sacral Nerve Stimulation (SNS)? - Continence Health Australia
@@ -51,3 +57,5 @@ After submission, request confirmation of receipt, acceptance/triage, missing in
 [7] https://bladderclinic.com.au/procedures/bladder/sacral-neuromodulation — Sacral Neuromodulation | Melbourne Bladder Clinic
 [8] https://www.nsw.gov.au/departments-and-agencies/wslhd/hospitals-and-facilities/westmead-services
 [9] https://www.nslhd.health.nsw.gov.au/Services/Pages/Urology-Clinics-RNS.aspx
+[10] https://slhd.health.nsw.gov.au/organisation
+[11] https://www.slhd.nsw.gov.au/Concord/Urology/services.html
