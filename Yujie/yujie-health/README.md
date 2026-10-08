@@ -23,6 +23,8 @@ Private research project for partner (28F, Sydney). Working through chronic cons
 
 ## Files
 
+- `snm-australia-access-2026-10-08.md` — Australian SNM experience, public/private funding distinction, urinary MBS 12-month conservative-treatment criterion, and unresolved individual eligibility.
+
 - `clinical-picture.md` — Everything known about her presentation, history, and treatment so far
 - `working-hypothesis.md` — Unifying clinical framework + differential diagnosis
 - `workup.md` — Diagnostic ladder, tests needed, Sydney specialist pathways
