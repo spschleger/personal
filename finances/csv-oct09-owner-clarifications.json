@@ -1,0 +1,15 @@
+{
+  "sourceCsv": "/Users/sps/.hermes/cache/documents/doc_6a7105271bd3_Transactions (4).csv",
+  "status": "Owner clarification only; not an apply manifest",
+  "clarifications": [
+    {
+      "date": "2026-09-30",
+      "debitCents": 75800,
+      "payee": "Trip.com",
+      "purpose": "Return flight from China",
+      "classification": "Misc expenses",
+      "categoryId": 18,
+      "ownerAnswer": "Yeah return flight, and it should be misc expenses as well I guess"
+    }
+  ]
+}
