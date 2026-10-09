@@ -2,9 +2,51 @@
   "sourceCsv": "/Users/sps/.hermes/cache/documents/doc_6a7105271bd3_Transactions (4).csv",
   "status": "Owner clarification only; not an apply manifest",
   "clarifications": [
-    {"purchaseDate": "2026-09-26", "postingDate": "2026-09-28", "debitCents": 2598, "bankReference": "1053309704153", "payee": "Apple Services", "categoryId": 15, "classification": "Subscriptions and AI", "evidence": "/Users/sps/.hermes/cache/images/img_e68bd209a1f7.jpg"},
-    {"purchaseDate": "2026-09-26", "postingDate": "2026-09-28", "debitCents": 799, "bankReference": "1053322816520", "payee": "Apple Services", "categoryId": 15, "classification": "Subscriptions and AI", "evidence": "/Users/sps/.hermes/cache/images/img_e68bd209a1f7.jpg"},
-    {"purchaseDate": "2026-10-03", "postingDate": "2026-10-05", "debitCents": 1999, "bankReference": "1053478947740", "payee": "Apple Services", "categoryId": 15, "classification": "Subscriptions and AI", "evidence": "/Users/sps/.hermes/cache/images/img_e68bd209a1f7.jpg"},
+    {
+      "fingerprint": "2026-09-28|-5000|SHANE PHONSE SCHLEG E3470388310 FUNDING#0",
+      "postingDate": "2026-09-28",
+      "debitCents": 5000,
+      "description": "SHANE PHONSE SCHLEG E3470388310 FUNDING",
+      "categoryId": 18,
+      "classification": "Misc expenses",
+      "ownerAnswer": "confirmed"
+    },
+    {
+      "fingerprint": "2026-09-28|-2598|1053309704153 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+      "bankDate": "2026-09-28",
+      "merchantDate": "2026-09-26",
+      "debitCents": 2598,
+      "bankReference": "1053309704153",
+      "payee": "Apple Services",
+      "categoryId": 15,
+      "classification": "Subscriptions and AI",
+      "evidence": "/Users/sps/.hermes/cache/images/img_e68bd209a1f7.jpg",
+      "dateAuthority": "Merchant screenshot confirms merchant date only; preserve bank date."
+    },
+    {
+      "fingerprint": "2026-09-28|-799|1053322816520 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+      "bankDate": "2026-09-28",
+      "merchantDate": "2026-09-26",
+      "debitCents": 799,
+      "bankReference": "1053322816520",
+      "payee": "Apple Services",
+      "categoryId": 15,
+      "classification": "Subscriptions and AI",
+      "evidence": "/Users/sps/.hermes/cache/images/img_e68bd209a1f7.jpg",
+      "dateAuthority": "Merchant screenshot confirms merchant date only; preserve bank date."
+    },
+    {
+      "fingerprint": "2026-10-05|-1999|1053478947740 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+      "bankDate": "2026-10-05",
+      "merchantDate": "2026-10-03",
+      "debitCents": 1999,
+      "bankReference": "1053478947740",
+      "payee": "Apple Services",
+      "categoryId": 15,
+      "classification": "Subscriptions and AI",
+      "evidence": "/Users/sps/.hermes/cache/images/img_e68bd209a1f7.jpg",
+      "dateAuthority": "Merchant screenshot confirms merchant date only; preserve bank date."
+    },
     {
       "fingerprint": "2026-09-30|-75800|EFTPOS 30/09 04:43Trip.com\\Trip.com\\SA0124354648WG4#0",
       "date": "2026-09-30",

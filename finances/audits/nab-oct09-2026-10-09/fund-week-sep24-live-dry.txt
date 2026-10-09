@@ -1,0 +1,9 @@
+
+> weekly-budget@0.1.0 fund-week
+> tsx scripts/fund-week.mts --week 2026-09-24
+
+Funding week 2026-09-24 (dry run)
+  Misc expenses                            $   401.64  (cover carried deficit, was $436.64)
+  Savings                                  $ -1294.99  (balance to zero RTA, was $-1329.99)
+Total newly assigned: $0.00  |  RTA before: $0.00  |  RTA after: $0.00
+Dry run — nothing written. Re-run with --apply.

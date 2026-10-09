@@ -1,0 +1,27 @@
+┌─────────┬────┬─────────────────────────────────────────┬─────────────────┐
+│ (index) │ id │ name                                    │ available_cents │
+├─────────┼────┼─────────────────────────────────────────┼─────────────────┤
+│ 0       │ 1  │ 'Rent, Food, Gym, Bills, Savings.'      │ 0               │
+│ 1       │ 2  │ 'PHI - Medibank'                        │ 6307            │
+│ 2       │ 3  │ 'Phone'                                 │ 200             │
+│ 3       │ 4  │ 'Sperm storage'                         │ 3227            │
+│ 4       │ 5  │ 'Orthodontics and Surgery'              │ 359500          │
+│ 5       │ 6  │ 'Car Rego'                              │ 59500           │
+│ 6       │ 7  │ 'Car Insurance'                         │ 0               │
+│ 7       │ 8  │ 'Fuel'                                  │ 33566           │
+│ 8       │ 9  │ 'Car Insurance'                         │ 200000          │
+│ 9       │ 10 │ 'Services/Maintenance'                  │ 66048           │
+│ 10      │ 11 │ 'Tolls/Parking'                         │ 905             │
+│ 11      │ 12 │ 'RACQ'                                  │ 10708           │
+│ 12      │ 13 │ 'Boat Rego'                             │ 0               │
+│ 13      │ 14 │ 'Trailer Rego'                          │ 0               │
+│ 14      │ 15 │ 'Subscriptions and AI'                  │ -1254           │
+│ 15      │ 16 │ 'TRT and Medications'                   │ 45991           │
+│ 16      │ 17 │ 'Personal Care - Haircuts/Clothes etc.' │ 35000           │
+│ 17      │ 18 │ 'Misc expenses'                         │ -18066          │
+│ 18      │ 19 │ 'Savings'                               │ 223172          │
+│ 19      │ 20 │ 'NAB Loan'                              │ 0               │
+│ 20      │ 21 │ 'Other Medical'                         │ 6000            │
+│ 21      │ 22 │ 'Eating out...'                         │ -15680          │
+│ 22      │ 24 │ 'Business funding — Micko'              │ 0               │
+└─────────┴────┴─────────────────────────────────────────┴─────────────────┘

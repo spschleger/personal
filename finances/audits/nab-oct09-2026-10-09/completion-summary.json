@@ -1,0 +1,60 @@
+{
+  "status": "reconciliation applied; historical funding repaired through 2026-10-01; 2026-10-08 funding stopped before negative Savings",
+  "reconciliation": {
+    "accountRef": "946410617",
+    "reviewedDigest": "282d8fc56761c92de2fbbc7aa09cd09128aed58f1bca1f2ff9a547cd9e062763",
+    "sourceSha256": "6d92f412112fd6479132b1bad8f24eb6774752d7321680df2f0178ada3f2a9dc",
+    "sourceRows": 254,
+    "postedRows": 245,
+    "pendingRowsExcluded": 9,
+    "pendingReserveCents": 107578,
+    "balanceChainErrors": 0,
+    "insertedCount": 97,
+    "insertedIdFirst": 581,
+    "insertedIdLast": 677,
+    "insertedAliasCount": 97,
+    "finalTransactionCount": 647,
+    "lastExportAt": "2026-10-08",
+    "duplicateDryRunNewCount": 0,
+    "archivePath": "/Users/sps/personal/finances/raw/nab-2026-10-08.csv",
+    "archiveSha256": "6d92f412112fd6479132b1bad8f24eb6774752d7321680df2f0178ada3f2a9dc"
+  },
+  "reviewCorrections": {
+    "weixinCoffeeTransactionId": 630,
+    "weixinCoffeeCategoryId": 18,
+    "alipayRefundTransactionId": 585,
+    "alipayRefundAmountCents": -644,
+    "alipayRefundCategoryId": 18,
+    "paddleTransaction427Preserved": true,
+    "knownLedgerBankGapCents": 100,
+    "sourceBankEqualityClaimed": false
+  },
+  "funding": {
+    "appliedWeeks": ["2026-09-24", "2026-10-01"],
+    "manualSavingsToMiscCoverReappliedCents": 3500,
+    "lastBudgetCycleCompletedWeek": "2026-10-01",
+    "oct01ActualIncomeCents": 149880,
+    "oct08IncomeCents": 0,
+    "oct08PlanSavingsAssignmentCents": -225406,
+    "savingsBeforeOct08PlanCents": 223172,
+    "oct08SavingsShortfallCents": 2234,
+    "oct08Applied": false,
+    "readyToAssignCents": 0,
+    "postedDeficitsCents": {
+      "Subscriptions and AI": 1254,
+      "Misc expenses": 18066,
+      "Eating out...": 15680,
+      "total": 35000
+    }
+  },
+  "cashBridge": {
+    "priorDisplayedBalanceCents": 1143806,
+    "postedIncomeCents": 149880,
+    "postedRefundsCents": 644,
+    "postedExpensesCents": 442391,
+    "pendingReserveReleaseCents": 55707,
+    "currentDisplayedAvailableCents": 907646,
+    "derivedPostedOnlyBalanceCents": 1015224,
+    "currentPendingReserveCents": 107578
+  }
+}

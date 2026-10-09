@@ -1,0 +1,10 @@
+
+> weekly-budget@0.1.0 fund-week
+> tsx scripts/fund-week.mts --week 2026-09-24 --apply
+
+Funding week 2026-09-24
+  Misc expenses                            $   401.76  (cover carried deficit, was $436.64)
+  Phone                                    $   147.00  (monthly, was $137.00)
+  Savings                                  $ -1305.11  (balance to zero RTA, was $-1329.99)
+Total newly assigned: $0.00  |  RTA before: $0.00  |  RTA after: $0.00
+Applied. Budget cycle 2026-09-24 marked complete.

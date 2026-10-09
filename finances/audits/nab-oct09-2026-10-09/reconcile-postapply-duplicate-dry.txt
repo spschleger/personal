@@ -1,0 +1,23 @@
+
+> weekly-budget@0.1.0 reconcile
+> tsx scripts/reconcile.ts --csv /Users/sps/personal/finances/raw/nab-2026-10-08.csv --csv-account 946410617 --review-out /Users/sps/personal/finances/audits/nab-oct09-2026-10-09/review-postapply-duplicate-check.json
+
+CSV source rows: 254  |  posted: 245  |  pending excluded: 9 ($-1075.78)
+Balance chain: 0 errors  |  opening before oldest: $12433.38  |  source net: $-3356.92  |  displayed balance: $9076.46  |  derived posted balance: $10152.24
+CSV posted rows: 245  |  already ingested: 232  |  settled (pending refs to update): 0  |  claims (hand-entered rows to confirm): 0
+new inserts ready: 0  |  need a decision: 0  |  pre-epoch skipped: 0  |  answer-skipped: 0 (incl. 21 remembered)
+
+watermark: completed through 2026-10-08; export maximum: 2026-10-08  |  historical overlap ignored: 13
+selected account: csv:946410617  |  review digest: bf2974d2b5abf811e0113219bad88b538ca97860ae732036823007bb78c3e43a
+PENDING EXCLUDED 2026-10-09 KFC (Mudgee) $-14.95  [2026-10-09|-1495|POS 09/10 BROADVIEW AUST PTY LTD MUDGEE#0]
+PENDING EXCLUDED 2026-10-09 ONLINE R7010332006 $-700.00  [2026-10-09|-70000|ONLINE R7010332006#0]
+PENDING EXCLUDED 2026-10-08 POS 08/10 PNG PROSPECT PROSPECT $-142.50  [2026-10-08|-14250|POS 08/10 PNG PROSPECT PROSPECT#0]
+PENDING EXCLUDED 2026-10-08 Medibank $-126.13  [2026-10-08|-12613|POS 08/10 MEDIBANK PHI DEBIT MELBOURNE#0]
+PENDING EXCLUDED 2026-10-08 Ampol Foodary (Mudgee) $-5.00  [2026-10-08|-500|POS 08/10 AMPOL MUDGEE 22267F MUDGEE#0]
+PENDING EXCLUDED 2026-10-08 Coles (Mudgee) $-54.85  [2026-10-08|-5485|POS 08/10 COLES 5753 MUDGEE#0]
+PENDING EXCLUDED 2026-10-08 McDonald's (Blaxland) $-12.00  [2026-10-08|-1200|POS 08/10 MCDONALDS BLAXLAND BLAXLAND#0]
+PENDING EXCLUDED 2026-10-08 7-Eleven (Parramatta Rd, Burwood) $-12.40  [2026-10-08|-1240|POS 08/10 7 ELEVEN 2201 BURWOOD#0]
+PENDING EXCLUDED 2026-10-07 McDonald's $-7.95  [2026-10-07|-795|V2942 07/10 MCDONALDS CROYDON CROYDON#0]
+Review artifact written to /Users/sps/personal/finances/audits/nab-oct09-2026-10-09/review-postapply-duplicate-check.json
+
+Dry run — nothing written. Re-run with --apply.

@@ -1,0 +1,232 @@
+
+> weekly-budget@0.1.0 reconcile
+> tsx scripts/reconcile.ts --csv /Users/sps/.hermes/cache/documents/doc_6a7105271bd3_Transactions (4).csv --csv-account 946410617 --review-out /Users/sps/personal/finances/audits/nab-oct09-2026-10-09/review-pre-clarification.json
+
+CSV source rows: 254  |  posted: 245  |  pending excluded: 9 ($-1075.78)
+Balance chain: 0 errors  |  opening before oldest: $12433.38  |  source net: $-3356.92  |  displayed balance: $9076.46  |  derived posted balance: $10152.24
+CSV posted rows: 245  |  already ingested: 135  |  settled (pending refs to update): 0  |  claims (hand-entered rows to confirm): 0
+new inserts ready: 79  |  need a decision: 18  |  pre-epoch skipped: 0  |  answer-skipped: 0 (incl. 21 remembered)
+
+watermark: completed through 2026-09-25; export maximum: 2026-10-08  |  historical overlap ignored: 13
+selected account: csv:946410617  |  review digest: 19e521bc0e27908aed742bad153aaa49c334b4b77d1974e721f01b9804c16157
+PENDING EXCLUDED 2026-10-09 KFC (Mudgee) $-14.95  [2026-10-09|-1495|POS 09/10 BROADVIEW AUST PTY LTD MUDGEE#0]
+PENDING EXCLUDED 2026-10-09 ONLINE R7010332006 $-700.00  [2026-10-09|-70000|ONLINE R7010332006#0]
+PENDING EXCLUDED 2026-10-08 POS 08/10 PNG PROSPECT PROSPECT $-142.50  [2026-10-08|-14250|POS 08/10 PNG PROSPECT PROSPECT#0]
+PENDING EXCLUDED 2026-10-08 Medibank $-126.13  [2026-10-08|-12613|POS 08/10 MEDIBANK PHI DEBIT MELBOURNE#0]
+PENDING EXCLUDED 2026-10-08 Ampol Foodary (Mudgee) $-5.00  [2026-10-08|-500|POS 08/10 AMPOL MUDGEE 22267F MUDGEE#0]
+PENDING EXCLUDED 2026-10-08 Coles (Mudgee) $-54.85  [2026-10-08|-5485|POS 08/10 COLES 5753 MUDGEE#0]
+PENDING EXCLUDED 2026-10-08 McDonald's (Blaxland) $-12.00  [2026-10-08|-1200|POS 08/10 MCDONALDS BLAXLAND BLAXLAND#0]
+PENDING EXCLUDED 2026-10-08 7-Eleven (Parramatta Rd, Burwood) $-12.40  [2026-10-08|-1240|POS 08/10 7 ELEVEN 2201 BURWOOD#0]
+PENDING EXCLUDED 2026-10-07 McDonald's $-7.95  [2026-10-07|-795|V2942 07/10 MCDONALDS CROYDON CROYDON#0]
+INSERT 2026-10-07 Shell Reddy Express (Five Dock) $171.96 -> cat 8 [fuel-fill]
+INSERT 2026-10-07 Coles (Westfield Burwood) $5.70 -> cat 22 [grocery]
+INSERT 2026-10-04 Alipay (refund) $-6.44 -> cat 18 [alipay]
+INSERT 2026-10-07 NAB Personal Loan $144.99 -> cat 20 [loan-repayment]
+INSERT 2026-10-06 OPORTO ASHFIELD CROYDON $18.50 -> cat 22 [fast-food]
+INSERT 2026-10-06 Coles (Westfield Burwood) $21.90 -> cat 22 [grocery]
+INSERT 2026-10-06 BWS (Concord Drive) $33.50 -> cat 18 [alcohol]
+INSERT 2026-10-05 Intl txn fee $0.38 -> cat 18 [fee]
+INSERT 2026-10-05 VERCEL MKT NEON VERCEL.COM $10.85 -> cat 15 [subscription]
+INSERT 2026-10-05 El Jannah (Burwood) $21.79 -> cat 22 [fast-food]
+INSERT 2026-10-05 Coles (Westfield Burwood) $8.60 -> cat 22 [grocery]
+INSERT 2026-10-05 Coles (Westfield Burwood) $5.60 -> cat 22 [grocery]
+INSERT 2026-10-05 BWS (Strathfield Plaza) $36.00 -> cat 18 [alcohol]
+INSERT 2026-10-03 7-Eleven (Parramatta Rd, Burwood) $12.40 -> cat 22 [servo]
+INSERT 2026-10-03 Intl txn fee $0.37 -> cat 18 [fee]
+INSERT 2026-10-03 Intl txn fee $0.09 -> cat 18 [fee]
+INSERT 2026-10-02 Intl txn fee $0.47 -> cat 18 [fee]
+INSERT 2026-10-02 Intl txn fee $0.20 -> cat 18 [fee]
+INSERT 2026-10-04 Liquorland (Burwood) $27.00 -> cat 18 [alcohol]
+INSERT 2026-10-04 Coles (Westfield Burwood) $32.30 -> cat 22 [grocery]
+INSERT 2026-10-04 Coles (Westfield Burwood) $5.60 -> cat 22 [grocery]
+INSERT 2026-10-03 Liquorland (Burwood) $27.00 -> cat 18 [alcohol]
+INSERT 2026-10-03 Coles (Westfield Burwood) $16.25 -> cat 22 [grocery]
+INSERT 2026-10-03 Alipay $2.59 -> cat 18 [alipay]
+INSERT 2026-10-03 Alipay $10.48 -> cat 18 [alipay]
+INSERT 2026-10-02 Telstra $10.00 -> cat 3 [phone]
+INSERT 2026-10-02 SUBWAY NAIA T1 PASAY $13.39 -> cat 22 [fast-food]
+INSERT 2026-10-01 Telstra $10.00 -> cat 3 [phone]
+INSERT 2026-10-01 Telstra $10.00 -> cat 3 [phone]
+INSERT 2026-10-01 Telstra $10.00 -> cat 3 [phone]
+INSERT 2026-10-01 Intl txn fee $1.11 -> cat 18 [fee]
+INSERT 2026-10-01 Intl txn fee $0.75 -> cat 18 [fee]
+INSERT 2026-10-01 Intl txn fee $0.43 -> cat 18 [fee]
+INSERT 2026-10-05 PayPal $19.99 -> cat 15 [subscription]
+INSERT 2026-09-30 Telstra $10.00 -> cat 3 [phone]
+INSERT 2026-09-30 Intl txn fee $0.13 -> cat 18 [fee]
+INSERT 2026-09-30 Intl txn fee $0.06 -> cat 18 [fee]
+INSERT 2026-10-01 ANTHROPIC ANTHROPIC. $31.70 -> cat 15 [subscription]
+INSERT 2026-10-02 Joint Account $700.00 -> cat 1 [joint-transfer]
+INSERT 2026-09-30 Wexin $3.64 -> cat 22 [fast-food]
+INSERT 2026-09-29 Telstra $10.00 -> cat 3 [phone]
+INSERT 2026-09-29 Telstra $10.00 -> cat 3 [phone]
+INSERT 2026-09-29 Intl txn fee $2.31 -> cat 18 [fee]
+INSERT 2026-09-29 Intl txn fee $0.10 -> cat 18 [fee]
+INSERT 2026-09-28 Intl txn fee $0.09 -> cat 18 [fee]
+INSERT 2026-10-01 Wilsons $1498.80 -> cat income [income]
+INSERT 2026-09-30 NAB Personal Loan $144.99 -> cat 20 [loan-repayment]
+INSERT 2026-09-29 OPENAI* CHATGPT CREDIT OPENAI.COM $66.00 -> cat 15 [subscription]
+INSERT 2026-09-28 Telstra $10.00 -> cat 3 [phone]
+INSERT 2026-09-28 Intl txn fee $0.11 -> cat 18 [fee]
+INSERT 2026-09-27 Intl txn fee $0.09 -> cat 18 [fee]
+INSERT 2026-09-28 Alipay $3.19 -> cat 18 [alipay]
+INSERT 2026-09-27 Transport NSW (Contactless) $22.37 -> cat 11 [transport]
+INSERT 2026-09-27 Telstra $10.00 -> cat 3 [phone]
+INSERT 2026-09-27 Intl txn fee $0.19 -> cat 18 [fee]
+INSERT 2026-09-27 Intl txn fee $0.02 -> cat 18 [fee]
+INSERT 2026-09-25 BP (Capertee) $24.79 -> cat 22 [servo]
+INSERT 2026-09-25 BP (Mudgee) $9.10 -> cat 22 [servo]
+INSERT 2026-09-27 Alipay $5.32 -> cat 18 [alipay]
+INSERT 2026-09-27 Alipay $0.64 -> cat 18 [alipay]
+INSERT 2026-09-26 Telstra $15.00 -> cat 3 [phone]
+INSERT 2026-09-26 Hero Sushi (Burwood) $12.12 -> cat 22 [fast-food]
+INSERT 2026-09-26 KFC (Sydney International Airport) $14.45 -> cat 22 [fast-food]
+INSERT 2026-09-26 Coles (Westfield Burwood) $45.20 -> cat 22 [grocery]
+INSERT 2026-09-26 Coles (Westfield Burwood) $5.60 -> cat 22 [grocery]
+INSERT 2026-09-25 Transport NSW (Contactless) $23.99 -> cat 11 [transport]
+INSERT 2026-09-25 OPORTO ASHFIELD CROYDON $18.50 -> cat 22 [fast-food]
+INSERT 2026-09-25 Linkt $20.07 -> cat 11 [transport]
+INSERT 2026-09-25 Dan Murphy's (Burwood) $33.47 -> cat 18 [alcohol]
+INSERT 2026-09-25 Ampol Foodary (Mudgee) $29.40 -> cat 22 [servo]
+INSERT 2026-09-25 Ampol Foodary (Mudgee) $8.59 -> cat 22 [servo]
+INSERT 2026-09-24 McDonald's (Mudgee) $14.45 -> cat 22 [fast-food]
+INSERT 2026-09-24 Hungry Jacks (Lithgow) $17.40 -> cat 22 [fast-food]
+INSERT 2026-09-23 Telstra $10.00 -> cat 3 [phone]
+INSERT 2026-09-23 Intl txn fee $0.10 -> cat 18 [fee]
+INSERT 2026-09-23 Intl txn fee $0.02 -> cat 18 [fee]
+INSERT 2026-09-27 Apple (App Store) $4.49 -> cat 15 [subscription]
+INSERT 2026-09-28 PayPal $7.99 -> cat 15 [subscription]
+INSERT 2026-09-28 PayPal $25.98 -> cat 15 [subscription]
+
+=== NEEDS DECISION (pass back via --answers) ===
+[
+  {
+    "fingerprint": "2026-10-08|-425|V2942 07/10 SQ *LUNEBURGER BURWOOD Burwood 74064146280#0",
+    "date": "2026-10-07",
+    "amount": "$4.25",
+    "payee": "Luneburger (Westfield Burwood)",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-10-08|-2500|V2942 07/10 A&E LEGACY HOLDINGS P Glebe 74249236280#0",
+    "date": "2026-10-07",
+    "amount": "$25.00",
+    "payee": "A&E Legacy Holdings Pty Ltd",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-10-06|-11845|V2942 03/10 TAXIPAY AUSTRALIA MASCOT 74564506278#0",
+    "date": "2026-10-03",
+    "amount": "$118.45",
+    "payee": "TaxiPay Australia",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-10-06|-2780|V2942 03/10 SALSAS FRESH MEX BURWOOD 03797010375#0",
+    "date": "2026-10-03",
+    "amount": "$27.80",
+    "payee": "Salsas (Burwood)",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-10-05|-2400|V2942 04/10 SQ *MISTER GEE North Stra 74064146277#0",
+    "date": "2026-10-04",
+    "amount": "$24.00",
+    "payee": "Square",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-10-05|-850|V2942 04/10 SQ *LUNEBURGER BURWOOD Burwood 74064146277#0",
+    "date": "2026-10-04",
+    "amount": "$8.50",
+    "payee": "Luneburger (Westfield Burwood)",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-10-05|-1298|V2942 03/10 WHSMITH SYDT1 ARRIVAL2 MASCOT 74229856277#0",
+    "date": "2026-10-03",
+    "amount": "$12.98",
+    "payee": "WH Smith Australia (Sydney T1)",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-10-05|-562|V2942 02/10 SHOU DU JI CHANG CAN YIN BEIJ 74938086276#0",
+    "date": "2026-10-02",
+    "amount": "$5.62",
+    "payee": "SHOU DU JI CHANG CAN YIN BEIJ",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-10-02|-2150|V2942 01/10 WEIXIN*Scan QR code fo Beijing 74938086275#0",
+    "date": "2026-10-01",
+    "amount": "$21.50",
+    "payee": "Wexin",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-10-02|-1225|V2942 01/10 WEIXIN*Dongfang Gong C Beijing 74938086275#0",
+    "date": "2026-10-01",
+    "amount": "$12.25",
+    "payee": "Wexin",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-10-01|-171|V2942 30/09 WEIXIN*7-11(SEB) Beijing 74938086274#0",
+    "date": "2026-09-30",
+    "amount": "$1.71",
+    "payee": "Wexin",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-09-30|-272|V2942 29/09 WEIXIN*7-11(SEB) Beijing 74938086273#0",
+    "date": "2026-09-29",
+    "amount": "$2.72",
+    "payee": "Wexin",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-09-30|-253|V2942 28/09 WEIXIN*7-11(SEB) Shenzhen 74629216273#0",
+    "date": "2026-09-28",
+    "amount": "$2.53",
+    "payee": "Wexin",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-09-30|-75800|EFTPOS 30/09 04:43Trip.com\\Trip.com\\SA0124354648WG4#0",
+    "date": "2026-09-30",
+    "amount": "$758.00",
+    "payee": "Trip.com",
+    "reason": "large debit $758.00"
+  },
+  {
+    "fingerprint": "2026-09-29|-243|V2942 27/09 WEIXIN*Rosen (Beijing) Shenzhen 74629216272#0",
+    "date": "2026-09-27",
+    "amount": "$2.43",
+    "payee": "Wexin",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-09-28|-5000|SHANE PHONSE SCHLEG E3470388310 FUNDING#0",
+    "date": "2026-09-28",
+    "amount": "$50.00",
+    "payee": "SHANE PHONSE SCHLEG E3470388310 FUNDING",
+    "reason": "no rule for merchant"
+  },
+  {
+    "fingerprint": "2026-09-28|-127520|V2942 25/09 WEBJET MARKETING PTY L MELBOURNE 74229856268#0",
+    "date": "2026-09-25",
+    "amount": "$1275.20",
+    "payee": "Webjet",
+    "reason": "large debit $1275.20"
+  },
+  {
+    "fingerprint": "2026-09-28|-912|V2942 24/09 WHSMITH SYDT1 ARRIVAL2 MASCOT 74229856268#0",
+    "date": "2026-09-24",
+    "amount": "$9.12",
+    "payee": "WH Smith Australia (Sydney T1)",
+    "reason": "no rule for merchant"
+  }
+]
+Review artifact written to /Users/sps/personal/finances/audits/nab-oct09-2026-10-09/review-pre-clarification.json
+
+Dry run — nothing written. Re-run with --apply.

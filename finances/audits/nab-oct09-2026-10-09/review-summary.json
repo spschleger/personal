@@ -1,0 +1,93 @@
+{
+  "status": "dry review only; no database, reconciliation, or funding writes performed",
+  "source": {
+    "path": "/Users/sps/.hermes/cache/documents/doc_6a7105271bd3_Transactions (4).csv",
+    "sha256": "6d92f412112fd6479132b1bad8f24eb6774752d7321680df2f0178ada3f2a9dc",
+    "accountRef": "946410617",
+    "rowCount": 254,
+    "postedRowCount": 245,
+    "pendingRowCount": 9,
+    "balanceChainErrors": 0,
+    "openingBeforeOldestRowCents": 1243338,
+    "sourceNetCents": -335692,
+    "closingDisplayedBalanceCents": 907646,
+    "derivedPostedBalanceCents": 1015224,
+    "pendingNetCents": -107578,
+    "exportMaximumPostedDate": "2026-10-08"
+  },
+  "liveLedgerBeforeApply": {
+    "transactionCount": 550,
+    "lastExportAt": "2026-09-25",
+    "lastBudgetCycleCompletedWeek": "2026-09-24",
+    "savingsAvailableCents": 496074,
+    "paddleTransaction427Preserved": true
+  },
+  "cashBridgeFromSep27Displayed": {
+    "priorDisplayedBalanceCents": 1143806,
+    "currentDisplayedBalanceCents": 907646,
+    "displayedChangeCents": -236160,
+    "postedIncomeCents": 149880,
+    "postedRefundsCents": 644,
+    "postedExpensesCents": 442391,
+    "postedNetChangeCents": -291867,
+    "priorPendingNetCents": -163285,
+    "currentPendingNetCents": -107578,
+    "pendingReserveChangeCents": 55707,
+    "bridgeVerified": true
+  },
+  "reconciliationProjection": {
+    "alreadyIngested": 135,
+    "settles": 0,
+    "claims": 0,
+    "projectedNewTransactions": 97,
+    "projectedTransactionCount": 647,
+    "rememberedSkips": 21,
+    "historicalOverlapIgnored": 13,
+    "postedDuplicateIdentityBaseGroups": 11,
+    "postedDuplicateOccurrences": 24,
+    "postedDuplicateExtraOccurrences": 13,
+    "pendingDuplicateIdentityBaseGroups": 0,
+    "allOccurrencesPreservedByOrdinalFingerprint": true,
+    "partialReviewDigest": "63b8722a96276548f1e191ae782fdd3e610550a1cfea6527370f55fc028a016b",
+    "engineDecisionRowsRemainingAfterPartialAnswers": 1
+  },
+  "ownerConfirmed": [
+    {
+      "fingerprint": "2026-09-30|-75800|EFTPOS 30/09 04:43Trip.com\\Trip.com\\SA0124354648WG4#0",
+      "purpose": "Return flight from China",
+      "categoryId": 18
+    }
+  ],
+  "questionsRemaining": [
+    {
+      "priority": 1,
+      "fingerprint": "2026-09-28|-2598|1053309704153 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+      "amountCents": 2598,
+      "question": "What was this PayPal charge, and which category should it use?"
+    },
+    {
+      "priority": 2,
+      "fingerprint": "2026-09-28|-799|1053322816520 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+      "amountCents": 799,
+      "question": "What was this PayPal charge, and which category should it use?"
+    },
+    {
+      "priority": 3,
+      "fingerprint": "2026-10-05|-1999|1053478947740 PAYPAL AUSTRALIA SHANE SCHLEGER#0",
+      "amountCents": 1999,
+      "question": "What was this PayPal charge, and which category should it use?"
+    },
+    {
+      "priority": 4,
+      "fingerprint": "2026-09-28|-5000|SHANE PHONSE SCHLEG E3470388310 FUNDING#0",
+      "amountCents": 5000,
+      "question": "Was this the same kind of Misc funding spend as the prior owner-confirmed funding transfers, or something else?"
+    }
+  ],
+  "funding": {
+    "sep24LiveDryRerunCompleted": true,
+    "sep24ReadyToAssignBeforeCents": 0,
+    "sep24ReadyToAssignAfterCents": 0,
+    "sequentialProjectedOct1AndOct8NotRun": "Exact sequential plans require the unresolved categories to be settled and the projected transactions to exist in the ledger."
+  }
+}
