@@ -1,0 +1,45 @@
+{
+  "2026-10-14|-10154|V2942 13/10 AMAZON MARKETPLACE AU SYDNEY 74201336286#0": {
+    "categoryId": 18,
+    "payee": "Amazon",
+    "note": "Owner directed whole order to Misc; mixed items including supplements."
+  },
+  "2026-10-09|-14250|V2942 08/10 PNG PROSPECT PROSPECT 01591847265#0": {
+    "categoryId": 18,
+    "payee": "PNG Prospect"
+  },
+  "2026-10-12|-1999|1053640960979 PAYPAL AUSTRALIA SHANE SCHLEGER#0": {
+    "categoryId": 15,
+    "payee": "PayPal"
+  },
+  "2026-10-12|-2399|1053672293823 PAYPAL AUSTRALIA SHANE SCHLEGER#0": {
+    "categoryId": 15,
+    "payee": "PayPal"
+  },
+  "2026-10-12|-4898|V2942 11/10 ALLAN BLACKBURN INVESTMENKATOOMBA 74466026284#0": {
+    "categoryId": 18,
+    "payee": "Katoomba Family Hotel Bottlemart",
+    "tags": ["alcohol"]
+  },
+  "2026-10-14|-1290|V2942 12/10 Yatai Express Burwood 74249236285#0": {
+    "categoryId": 22,
+    "payee": "Yatai Express"
+  },
+  "2026-10-14|-12990|V2942 12/10 SUNCORP INSURANCE BRISBANE C 10139002487#0": {
+    "categoryId": 9,
+    "payee": "Suncorp Insurance"
+  },
+  "2026-10-14|-1349|V2942 13/10 OTR KINGSFORD KINGSFORD 74229856286#0": {
+    "categoryId": 22,
+    "payee": "OTR (Kingsford)",
+    "tags": ["servo"]
+  },
+  "2026-10-14|-2095|V2942 13/10 A&E LEGACY HOLDINGS P Glebe 74249236286#0": {
+    "categoryId": 22,
+    "payee": "A&E Legacy Holdings Pty Ltd"
+  },
+  "2026-10-14|-2915|V2942 12/10 KMART 1160 BURWOOD 74363966285#0": {
+    "categoryId": 18,
+    "payee": "Kmart (Westfield Burwood)"
+  }
+}
