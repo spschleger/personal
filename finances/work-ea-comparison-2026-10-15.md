@@ -117,7 +117,7 @@ These are not ATO withholding-table calculations, do not include HELP, salary sa
 - First payroll period/date used for the $38.66 rate (the text points to 18 October 2026).
 - Full $500 bonus achievement.
 - Home district, work district, company-vehicle status and exact travel legs.
-- Approved accommodation excluding meals for the $100/day cl. 27.3 allowance.
+- Owner clarification (2026-10-15): Shane confirms he qualifies for meals on every shift at his current workplace. Thus the roster models' meal eligibility assumption is owner-confirmed for that site, not merely hypothetical. He also believes commencement is the week starting 18 October; payroll commencement remains not independently payslip-verified. Recheck eligibility if the work location changes.
 - Whether Thursday and Monday remain additional shifts over the assigned regular roster under cl. 7.3.
 - Any aggregate-rate arrangement under cl. 9.7–9.9.
 
