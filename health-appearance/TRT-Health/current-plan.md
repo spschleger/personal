@@ -1,6 +1,19 @@
 # Current Plan & Decision Log
 
-**Updated:** 2026-09-02
+**Updated:** 2026-10-22
+
+## Current report — 22 October 2026 (supersedes September start plans)
+
+- Intended training/nutrition start: Monday 26 October. Not yet started.
+- Estimated weight 85–87 kg, unmeasured. Shane suspects less lean mass and more fat after no recent training; body composition unverified. Fresh baseline still needed.
+- Back feels good; gym memberships active.
+- Preferred rotation: chest/triceps → back/biceps → legs/shoulders → rest, repeat. Re-entry volume and final programme still being reviewed.
+- CPAP not currently used; replacement mask still needed. Intends to restart Monday. This is an intention, not established treatment adherence.
+- Intends to keep testosterone at 0.09 ml/day and continue candesartan 8 mg.
+- Wants to start reta and restart hCG. Neither restart confirmed; hCG purpose, dose and timing not yet clarified. These are user intentions, not medical clearance or a validated prescription. September's no-hCG assumption no longer reflects his intended plan.
+- Updated BP and bloodwork not supplied. Recommendation during review: clinician review and updated FBC/haematocrit, renal function/electrolytes and outstanding iron studies; avoid introducing hCG and reta simultaneously, particularly with untreated OSA. Medication decisions remain separate from beginning conservative training/nutrition.
+
+---
 **Companion files:** `bloods-summary.md`, `bloods-tracker.csv`, `semen-analysis-tracker.csv`, `bp-log.csv`, `../recomp-protocol-2026.md`, `../sleep-apnea-treatment.md`
 
 > **⏸ RECOMP POSTPONED (2026-06-23)** — on hold while BP is controlled (candesartan + tadalafil) and CPAP is established, following the posterior-epistaxis pattern + uncontrolled BP (clinical detail in `../sleep-apnea-treatment.md`). **On hold:** test bump, reta start, the whole 16-wk block. **Test stays at 0.09.** hCG was already post-recomp → further deferred. Resume only from a stable baseline: BP controlled, CPAP bedded in, bleeding resolved, fit-for-work cleared. The decision logic below stands for *when* it resumes — it's paused, not changed.
