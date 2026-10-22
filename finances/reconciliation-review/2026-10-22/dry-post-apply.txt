@@ -1,0 +1,25 @@
+
+> weekly-budget@0.1.0 reconcile
+> tsx scripts/reconcile.ts --csv /Users/sps/personal/finances/raw/nab-2026-10-21.csv --csv-account 946410617 --review-out /Users/sps/personal/finances/reconciliation-review/2026-10-22/review-post-apply.json
+
+CSV source rows: 252  |  posted: 241  |  pending excluded: 11 ($2037.68)
+Balance chain: 0 errors  |  opening before oldest: $13527.31  |  source net: $-4749.45  |  displayed balance: $8777.86  |  derived posted balance: $6740.18
+CSV posted rows: 241  |  already ingested: 241  |  settled (pending refs to update): 0  |  claims (hand-entered rows to confirm): 0
+new inserts ready: 0  |  need a decision: 0  |  pre-epoch skipped: 0  |  answer-skipped: 0 (incl. 21 remembered)
+
+watermark: completed through 2026-10-21; export maximum: 2026-10-21  |  historical overlap ignored: 0
+selected account: csv:946410617  |  review digest: bc6508dfd201250d3ac8a94a7b60419e1ede4bb0926f3fea3ed94ee1c02b4bf8
+PENDING EXCLUDED 2026-10-22 BP (Capertee) $-9.00  [2026-10-22|-900|POS 22/10 BP CAPERTEE 9854 CAPERTEE#0]
+PENDING EXCLUDED 2026-10-22 Hungry Jacks (Lithgow) $-17.50  [2026-10-22|-1750|POS 22/10 HJs Lithgow Lithgow#0]
+PENDING EXCLUDED 2026-10-22 06799 Shane Schleger MASTERMYNE GROUP $2561.85  [2026-10-22|256185|06799 Shane Schleger MASTERMYNE GROUP#0]
+PENDING EXCLUDED 2026-10-22 POS 22/10 PNG PROSPECT PROSPECT $-142.50  [2026-10-22|-14250|POS 22/10 PNG PROSPECT PROSPECT#0]
+PENDING EXCLUDED 2026-10-22 Taxi1 $-62.06  [2026-10-22|-6206|POS 22/10 TAXI1 PTY LTD BOTANY#0]
+PENDING EXCLUDED 2026-10-22 Mezze Za Za Brisbane Airport $-26.00  [2026-10-22|-2600|POS 22/10 ZLR*BDMEZZE Brisbane Air#0]
+PENDING EXCLUDED 2026-10-22 Medibank $-126.13  [2026-10-22|-12613|POS 22/10 MEDIBANK PHI DEBIT MELBOURNE#0]
+PENDING EXCLUDED 2026-10-22 IGA (Hibiscus) $-10.19  [2026-10-22|-1019|POS 22/10 S-RINA PTY LTD BUCASIA#0]
+PENDING EXCLUDED 2026-10-21 Zambrero (Mackay Northern Beaches) $-24.20  [2026-10-21|-2420|POS 21/10 ZAM NORTHERN BEACHES PTY RURAL VIEW#0]
+PENDING EXCLUDED 2026-10-20 Blacks Beach Tavern $-37.98  [2026-10-20|-3798|V2942 20/10 BBT HOTELS PTY LTD MACKAY#0]
+PENDING EXCLUDED 2026-10-20 Amazon $-68.61  [2026-10-20|-6861|V2942 20/10 AMAZON MARKETPLACE AU +618662161072#0]
+Review artifact written to /Users/sps/personal/finances/reconciliation-review/2026-10-22/review-post-apply.json
+
+Dry run — nothing written. Re-run with --apply.

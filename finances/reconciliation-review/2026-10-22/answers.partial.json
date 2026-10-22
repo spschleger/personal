@@ -1,0 +1,86 @@
+{
+  "2026-10-21|-849|V2942 19/10 RELAY MASCOT 24324406292#0": {
+    "categoryId": 22,
+    "payee": "Relay Mascot",
+    "note": "Owner confirmed food/drink; Eating out. Apple PayPal charges separately confirmed as subscriptions."
+  },
+  "2026-10-19|-1598|1053798990155 PAYPAL AUSTRALIA SHANE SCHLEGER#0": {
+    "categoryId": 15,
+    "payee": "Apple via PayPal",
+    "note": "Owner confirmed Apple for this exact PayPal debit."
+  },
+  "2026-10-19|-1499|1053808777157 PAYPAL AUSTRALIA SHANE SCHLEGER#0": {
+    "categoryId": 15,
+    "payee": "Apple via PayPal",
+    "note": "Owner confirmed Apple for this exact PayPal debit."
+  },
+  "2026-10-20|-3798|V2942 20/10 BBT HOTELS PTY LTD MACKAY#0": {
+    "categoryId": 18,
+    "payee": "Blacks Beach Tavern",
+    "note": "Owner confirmed alcohol; Misc under existing alcohol classification."
+  },
+  "2026-10-20|-6861|V2942 20/10 AMAZON MARKETPLACE AU +618662161072#0": {
+    "categoryId": 18,
+    "payee": "Amazon",
+    "note": "Owner confirmed supplements for Yujie; categorise this exact purchase as Misc."
+  },
+  "2026-10-19|-10000|SHANE SCHLEGER D8219369348#0": {
+    "categoryId": 1,
+    "payee": "Joint Account",
+    "note": "Owner confirmed this exact $100 transfer was an extra contribution to the joint account; no weekly target change."
+  },
+  "2026-10-19|-5000|SHANE SCHLEGER G8645652616 Rent and Bills#0": {
+    "categoryId": 1,
+    "payee": "Joint Account",
+    "note": "Owner confirmed this exact $50 transfer was an extra contribution to the joint account."
+  },
+  "2026-10-19|-28100|V2942 17/10 VIRGIN AU 7952128171769WWW.VIRGIN 74316016290#0": {
+    "categoryId": 18,
+    "payee": "Virgin Australia",
+    "note": "Owner confirmed this exact $281 flight was personal travel and should be Misc."
+  },
+  "2026-10-20|-2050|V2942 19/10 SAHARA BY THE PARK - INSTBURWOOD 74076436292#0": {
+    "categoryId": 22,
+    "payee": "Sahara By The Park",
+    "note": "Exact merchant history: transaction 141 was Eating out."
+  },
+  "2026-10-21|-89729|EFTPOS 21/10 16:06WEBJET MARKETING PTY#0": {
+    "categoryId": 18,
+    "payee": "Webjet",
+    "note": "Owner confirmed this exact $897.29 flight was personal travel and should be Misc."
+  },
+
+  "2026-10-21|-2420|POS 21/10 ZAM NORTHERN BEACHES PTY RURAL VIEW#0": {
+    "categoryId": 22,
+    "payee": "Zambrero (Mackay Northern Beaches)"
+  },
+  "2026-10-22|-1019|POS 22/10 S-RINA PTY LTD BUCASIA#0": {
+    "categoryId": 22,
+    "payee": "IGA (Hibiscus)"
+  },
+  "2026-10-22|-12613|POS 22/10 MEDIBANK PHI DEBIT MELBOURNE#0": {
+    "categoryId": 2,
+    "payee": "Medibank"
+  },
+  "2026-10-22|-14250|POS 22/10 PNG PROSPECT PROSPECT#0": {
+    "categoryId": 18,
+    "payee": "PNG Prospect"
+  },
+  "2026-10-22|-1750|POS 22/10 HJs Lithgow Lithgow#0": {
+    "categoryId": 22,
+    "payee": "Hungry Jacks (Lithgow)"
+  },
+  "2026-10-22|-2600|POS 22/10 ZLR*BDMEZZE Brisbane Air#0": {
+    "categoryId": 22,
+    "payee": "Mezze Za Za Brisbane Airport"
+  },
+  "2026-10-22|-6206|POS 22/10 TAXI1 PTY LTD BOTANY#0": {
+    "categoryId": 11,
+    "payee": "Taxi1"
+  },
+  "2026-10-22|-900|POS 22/10 BP CAPERTEE 9854 CAPERTEE#0": {
+    "categoryId": 22,
+    "payee": "BP (Capertee)",
+    "note": "Established small-servo purchase rule: under $30 is Eating out, not Fuel."
+  }
+}

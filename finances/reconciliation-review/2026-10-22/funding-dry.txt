@@ -1,0 +1,24 @@
+
+> weekly-budget@0.1.0 fund-week
+> tsx scripts/fund-week.mts --week 2026-10-22
+
+Funding week 2026-10-22 (dry run)
+  Fuel                                     $   216.43  (weekly_savings)
+  Services/Maintenance                     $    50.00  (weekly_savings)
+  Tolls/Parking                            $    55.00  (weekly_savings)
+  Car Rego                                 $    15.02  (by_date)
+  Car Insurance                            $    32.48  (monthly)
+  TRT and Medications                      $    65.00  (weekly_savings)
+  Personal Care - Haircuts/Clothes etc.    $    30.00  (weekly_savings)
+  Misc expenses                            $  1275.07  (cover carried deficit)
+  Other Medical                            $    20.00  (weekly_savings)
+  Subscriptions and AI                     $    30.97  (monthly)
+  Eating out...                            $   277.41  (weekly_savings)
+  NAB Loan                                 $   144.99  (weekly_savings)
+  Orthodontics and Surgery                 $   230.00  (weekly_savings)
+  Rent, Food, Gym, Bills, Savings.         $   850.00  (weekly_savings)
+  PHI - Medibank                           $    63.06  (fortnightly)
+  Phone                                    $    21.00  (monthly)
+  Savings                                  $  -814.58  (balance to zero RTA)
+Total newly assigned: $2561.85  |  RTA before: $2561.85  |  RTA after: $0.00
+Dry run — nothing written. Re-run with --apply.
