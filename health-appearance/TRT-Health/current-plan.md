@@ -4,7 +4,7 @@
 
 ## Current report — 22 October 2026 (supersedes September start plans)
 
-- Intended training/nutrition start: Monday 26 October. Not yet started.
+- Intended training/nutrition start: Monday 26 October. Not yet started. Monday morning baseline: fasted weight, tape measurements and before photos. Shane's execution focus: hit 160 g protein daily and keep calories controlled while training and his intended reta regimen ramp up; no aggressive initial deficit. No new calorie target agreed.
 - Estimated weight 85–87 kg, unmeasured. Shane suspects less lean mass and more fat after no recent training; body composition unverified. Fresh baseline still needed.
 - Back feels good; gym memberships active.
 - Preferred rotation: chest/triceps → back/biceps → legs/shoulders → rest, repeat. Re-entry volume and final programme still being reviewed.
