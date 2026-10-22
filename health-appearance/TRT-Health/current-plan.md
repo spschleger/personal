@@ -10,7 +10,8 @@
 - Preferred rotation: chest/triceps → back/biceps → legs/shoulders → rest, repeat. Re-entry volume and final programme still being reviewed.
 - CPAP not currently used; replacement mask still needed. Intends to restart Monday. This is an intention, not established treatment adherence.
 - Intends to keep testosterone at 0.09 ml/day and continue candesartan 8 mg.
-- Wants to start reta and restart hCG. Neither restart confirmed; hCG purpose, dose and timing not yet clarified. These are user intentions, not medical clearance or a validated prescription. September's no-hCG assumption no longer reflects his intended plan.
+- Reta: Shane explicitly intends to start Monday 26 October using UGL supply, without a prescriber. Start not yet confirmed; this records his decision, not validated product quality or a medical prescription.
+- hCG: wants to restart 100 IU/day for testicular size. Considering continuous use until trying for children in 2027, then potentially increasing hCG and adding FSH. This is his tentative fertility strategy, not an established fertility-restoration protocol; restart date not confirmed. Testicular size does not establish sperm production. September's no-hCG assumption no longer reflects his intended plan.
 - Updated BP and bloodwork not supplied. Recommendation during review: clinician review and updated FBC/haematocrit, renal function/electrolytes and outstanding iron studies; avoid introducing hCG and reta simultaneously, particularly with untreated OSA. Medication decisions remain separate from beginning conservative training/nutrition.
 
 ---
